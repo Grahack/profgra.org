@@ -2,7 +2,8 @@
 
 Community plugins
 
-* Homepage (pour prendre la place de l’utilisateur qui arrive sur mon site)
+* Homepage (pour prendre la place de l’utilisateur qui arrive sur mon site) avec la page
+  `index.md` ouverte en mode « Vue ».
 
 Configuration
 
