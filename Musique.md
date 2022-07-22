@@ -1,2 +1,0 @@
-[[Basse]]
-[[Rythme]]

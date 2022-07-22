@@ -1,26 +1,28 @@
-[[Lycee]]
+# Lycée
 * [Lycée Carcouët](http://carcouet.paysdelaloire.e-lyco.fr)
 
-[[Maths]]
-- [[STS SIO]]
+# Maths
+* [[STS SIO]]
+* [DMEPC](https://www.reseau-canope.fr/notice/des-maths-ensemble-et-pour-chacun-2nde.html)
 
-[[Informatique]]
-
+# Informatique
 * [[Activités rapides]]
-- [[1NSI]]
-- [[TNSI]]
-- [[Python]]
-- [[Culture informatique]]
+* [[1NSI]]
+* [[TNSI]]
+* [[Annales NSI]]
+* [[Python]]
+* [[Shell]]
+* [[Culture informatique]]
 
-[[Musique]]
+# Musique
 * [[Guitare]]
 * [[Basse]]
-* [[Trompette]]
 * [[Batterie]]
+* [[Trompette]]
+* [[Clavier]]
 * [[Rythme]]
-* 
+* [[Standards]]
 
-Misc
-
+# Misc
 * [[TEST]]
 * [[Obsidian]]

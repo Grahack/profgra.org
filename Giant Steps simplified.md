@@ -1,3 +1,5 @@
+#standard
+
 # Giant Steps simplified
 
 ```

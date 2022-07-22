@@ -1,5 +1,7 @@
+Mon [workflow](Obsidian_workflow).
+
 # Questions
-- comment gérer des marque-page ?
+- Comment gérer des marque-page ?
 - Frontmatter?
 - Pas de widgets sur Android?
 
@@ -9,6 +11,7 @@
     - [YAFPA pip](https://pypi.org/project/yafpa/)
     - [YAFPA GH](https://github.com/Mara-Li/yet-another-free-publish-alternative)
 * [Obsidian GH publisher](https://github.com/ObsidianPublisher/obsidian-github-publisher)
+
 # Améliorations
 ## mediadb
 Query les chansons pas les albums

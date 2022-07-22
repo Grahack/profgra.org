@@ -1,11 +1,17 @@
 #draft
 
-Community plugins
+# Workflow Obsidian
 
-* Homepage (pour prendre la place de l’utilisateur qui arrive sur mon site) avec la page
+## Install
+
+### Community plugins
+
+* Homepage (pour prendre la place de l’utilisateur
+  qui arrive sur mon site) avec la page
   `index.md` ouverte en mode « Vue ».
+* Customizable sidebar (pour la simplifier)
 
-Configuration
+### Configuration
 
 * Editor
   * Strict line breaks ON (original MD)
@@ -20,7 +26,10 @@ Configuration
   * Templates in tpl
   * Word count OFF
 
-Reste
+## Sync
+Dépôts git (termux, github, ordi perso)
+
+## Reste
 
 * frontmatter
 
