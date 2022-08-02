@@ -1,4 +1,4 @@
-#draft
+#-draft
 
 # Workflow Obsidian
 
@@ -10,27 +10,35 @@
   qui arrive sur mon site) avec la page
   `index.md` ouverte en mode « Vue ».
 * Customizable sidebar (pour la simplifier)
+* [[Obsidian LaTeX demo]]
 
 ### Configuration
 
-* Editor
-  * Strict line breaks ON (original MD)
-  * Line wrap OFF (maîtrise des retours à la ligne)
-  * Use tabs OFF
-* Files & links
-  * Auto update internal links ON
-* Core plugins
-  * Daily notes OFF
-  * File recovery OFF
-  * Starred OFF
-  * Templates in tpl
-  * Word count OFF
+- Editor
+  - Defaults to src
+  - Strict line breaks ON (original MD)
+  - Line wrap OFF (maîtrise des retours à la ligne)
+  - Use tabs OFF
+- Files & links
+  - Auto update internal links ON
+- Core plugins
+  - Daily notes OFF
+  - File recovery OFF
+  - Starred OFF
+  - Templates in tpl
+  - Word count OFF
+- File explorer with recent on top
+    - easier to follow up
+    - review from ancient files
 
 ## Sync
 Dépôts git (termux, github, ordi perso)
 
-## Reste
+## Tags
 
-* frontmatter
+Les statuts commencent par tirets.
+- #-draft 
+- #-todo
 
-Idée plugin: marque à la colonne 80
+Les autres tags sont des sujets.
+Utilisation massive des sous-tags.

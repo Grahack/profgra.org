@@ -1,6 +1,6 @@
-#NSI #activite #python
+#classe/NSI #peda/activite #info/lang/python
 
-# Activité rapide
+# Listes de nombres
 1. Nombres consécutifs
     1. Écrire une instruction ou une suite d’instructions
        qui affiche les nombres entiers de 1 à 20, chacun
@@ -21,15 +21,26 @@ for i in range(20):
     print(i+1)
 for i in range(1, 21):
     print(i)
+
 x = []
 for i in range(20):
     x.append(i+1)
 n  # est l’expression demandée
+
 # mieux:
 range(1, 21)  # en fait un itérateur
 [i for i in range(1, 21)]  # vraie liste
 
 for i in range(21):
-    if i % 2:  # ajouter ==0 pour les pairs
+    if i % 2:  # ajouter not ou ==0 pour les pairs
         print(i)
+
+for i in range(1, 11):
+    print(i*2)  # ajouter +1 pour les impairs
+
+range(0, 21, 2)
+range(1, 20, 2)
+[x for x in range(1, 21) if x%2==0]
+[2*x for x in range(1, 11)]  # ajouter +1...
+
 ```

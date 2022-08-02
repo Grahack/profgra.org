@@ -1,4 +1,4 @@
-#NSI #actrapide #POO
+#classe/NSI #peda/actrapide #info/POO
 
 Un fou a inventé la structure de données
 `Xile`.

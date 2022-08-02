@@ -1,4 +1,4 @@
-#NSI 
+#classe/NSI #info/archi
 
 Non, il a affirmé qu'aucun homme n'en était
 capable. Il parlait en toute franchise. Selon lui,

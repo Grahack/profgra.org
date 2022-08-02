@@ -1,12 +1,22 @@
-```query
-tag:-todo
+#musique/basse
+
+# Titre y
+Code
+
+```
+Bla
 ```
 
+Code Python
 
-```tab
-Verse
-G         Am             G/B     G %
-Blackbird singing in the dead of night
+```python
+print("hello " + input())
+```
+
+Liste pages avec tag:
+
+```query
+tag:-todo
 ```
 
 
@@ -27,3 +37,6 @@ efe edB | d2d def | gfe edB |1 dBA ABd :|2 dBA AFD |]
 Salut $\emptyset$, c'est super.
 $$A=\emptyset$$
 Vraiment.
+
+[[Test#Titre y]]
+

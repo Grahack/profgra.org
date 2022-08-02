@@ -1,4 +1,4 @@
-#NSI #actrapide #POO #python 
+#classe/NSI #peda/actrapide #info/POO #info/lang/python 
 
 Sur Mars, on calcule la puissance fiscale
 des véhicules avec le produit $n×mˆ2$, où:

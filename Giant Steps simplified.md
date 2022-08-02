@@ -1,4 +1,4 @@
-#standard
+#musique/standard
 
 # Giant Steps simplified
 

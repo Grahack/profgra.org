@@ -1,4 +1,4 @@
-#NSI #activite #conversions
+#classe/NSI #peda/activite #conversions
 
 1. On a 6 conversions possibles entre décimal,
   binaire et hexadécimal, classez-les de la plus

@@ -1,4 +1,12 @@
-# Travail du rythme
+# Rythme
+
+## Notation GRA
+
+Graphique pour un Rythme Annoté
+
+Graphical Rhythm Annotation
+
+## Avec le métronome
 ![[Metronome pas fort]]
 ![[Metronome sur 2 et 4]]
 ![[Metronome avant apres]]
