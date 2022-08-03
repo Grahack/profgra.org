@@ -16,9 +16,9 @@ apt update
 apt upgrade
 # use the new conf file for openssl and bash
 
-apt install vim
-cp bepo.vim ~
-vim ~/.vimrc
+apt install vim git python
+cp dotfiles/* .
+mkdir .vim-tmp
 ```
 
 # Github
@@ -36,8 +36,6 @@ eval "$(ssh-agent -s)"
 ssh -T git@github.com  # OK
 
 # ?? ssh-keyscan -t rsa github.com >> ~/.ssh/known_hosts
-
-apt install git
 
 git clone git@github.com:Grahack/ProfGra.git .
 # ? git clone ssh://username@domain.example/P.git .

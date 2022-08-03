@@ -9,15 +9,23 @@
 - [[Défis maths]]
 
 ## Informatique
+### Lycée
 - [[Activités rapides]]
 - [[Défis NSI]]
 - [[1NSI]] - [[TNSI]] - [[Annales NSI]]
 - [[Algorithmique]] 
+- [[microBit]]
+- [[Culture informatique]]
+
+### Langages
 - [[HTML]] - [[CSS]] - [[JS]]
 - [[Python]] -  [[Shell]] - [[MicroAlg]]
-- [[Culture informatique]]
 - [[Tcl]] - [[Haskell]] - [[Lisp]] - [[PicoLisp]]
 - [[Clojure et ClojureScript]]
+
+### Outils
+- [[vim]] - [[git]] - [[Termux]]
+- [[Idle]] - [[PythonTutor]]
 
 # Musique
 - [[Guitare]] - [[Basse]] - [[Batterie]] -
@@ -31,7 +39,7 @@
 
 # Outils
 - [[Obsidian]] - [[Anki]]
-- Wikipedia osm opendata musicbr
+- Wikipedia OpenStreetMap opendata.fr musicbrainz
 
 ## Divers
 - [[Recensions]]

@@ -35,7 +35,8 @@ CSS de l'app basée sur [ce gist](https://gist.github.com/liamcain/1fd5f9b2e55b7
 - position dans le fichier ligne/colonne
 - marque à la colonne 80
 - [[Notation GRA]]
-- query une seule chanson dans musicbrains
+- query une seule chanson dans musicbrainz
+- embed Python files
 
 ### Template
 ```
