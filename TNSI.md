@@ -24,7 +24,9 @@ Vous avez des forces et des faiblesses, travaillez vos faiblesses!
   et un bouton OK qui déclenche un affichage dans la page ou une
   pop-up, par exemple le texte entré dans le champ mais en majuscules),
   puis coder ce formulaire et éventuellement le mettre en ligne.
-1. Pour les littéraires: lire par exemple L’éthique des hackers.
+1. Pour les littéraires: lire par exemple L’éthique des hackers,
+  ou tout autre livre au magazine que vous trouverez intéressant
+  pour l'informatique .
 
 ## Progression
 

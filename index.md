@@ -9,7 +9,7 @@
 - [[Défis maths]]
 
 ## Informatique
-### Lycée
+### SNT - NSI
 - [[Activités rapides]]
 - [[Défis NSI]]
 - [[1NSI]] - [[TNSI]] - [[Annales NSI]]
@@ -23,25 +23,23 @@
 - [[Tcl]] - [[Haskell]] - [[Lisp]] - [[PicoLisp]]
 - [[Clojure et ClojureScript]]
 
-### Outils
+### Outils informatiques
 - [[vim]] - [[git]] - [[Termux]]
 - [[Idle]] - [[PythonTutor]]
 
 # Musique
 - [[Guitare]] - [[Basse]] - [[Batterie]] -
   [[Trompette]] - [[Clavier]]
-- [[Progression]]
-- [[Rythme]]
-
-# Autres
-- [[Standards]]
+- [[Progression]] - [[Rythme]] - [[Standards]]
 - [[Meshuggah]] - [[Pattashuggah]]
+- [[Les Carreleurs Américains]]
 
 # Outils
 - [[Obsidian]] - [[Anki]]
-- Wikipedia OpenStreetMap opendata.fr musicbrainz
+- [[Wikipedia]] - [[OpenStreetMap]] - [[MusicBrainz]] -
+  [[opendata.fr]]
 
-## Divers
+# Divers
 - [[Recensions]]
 - [[Anecdotes fondatrices]]
 - [[Jonglerie]]

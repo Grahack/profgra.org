@@ -40,3 +40,4 @@ Indices:
 
 1. Ce que l’on peut imaginer savoir sur les processus:
   date d’arrivée, durée d’exécution estimée, …
+  (SRT, SJF)
