@@ -190,3 +190,68 @@ Néanmoins la vie se vit au présent!
 
 Mouliner utile est un bonheur avec du bon grain,
 avoir 4 ou 5 projets de front est un plaisir.
+Sinon c’est «l’anorexie (moi: bof) ou la malnutrition
+intellectuelle». Mais attentions aux pervers narcissiques,
+particulièrement dangereux.
+
+##### Une mémoire capricieuse mais fabuleuse (p80)
+Peuvent se rappeler de détails insignifiants (en arbo auto),
+mais pas les informations importantes et ennuyeuses.
+Le cerveau se bloque si quelque chose de précis est
+demandé, surtout sur la pression.
+
+Apprendre et retenir, c’est le cœur qui décide (contenu
+et enseignant). Les surefficients doivent se faire leurs
+propres moyens mnémotechniques et faire autre chose
+en même temps (TV, tchat, écouter de la musique, galipettes).
+
+Pour retrouver l’information, souvent le doute gâche la
+première idée.
+
+##### Le sommeil des surefficients mentaux
+
+Les nuits sont agitées car «la TV reste allumée. Les siestes
+«hypnotiques» (?) peuvent bien réparer en journée.
+
+##### Manque de sérotonine (p85)
+Pistes pour apports:
+
+- protéïnes (baisse de sérotonine implique addiction au sucre)
+- sport
+- projets
+- relaxation (yoga, méditation…)
+
+Évocation de griffonia et de l’homéopathie, mais surtout de la
+nécessité d’un avis médical car ça peut être génétique.
+
+#### Différentes formes de SM
+
+##### PESM (p88)
+Avec 7 catégories.
+
+##### Asperger (p90)
+Avec caractéristiques typiques et une tentative d’adaptation épuisante.
+
+#### Faut-il passer des tests de QI (p97)
+
+Critique sévère des tests. Classer, c’est très CG. Le CD refuse de
+classer et d’étiqueter. 
+
+## Partie II
+
+### Chapitre 1 Le vide identitaire (p105)
+
+Comment se faire une idée de qui on est si l’entourage
+n’y comprend rien? L’imagerie des SM dans l’IR et l’UV
+ne peut pas être comprise par les autres.
+
+L’histoire de l’égo décrite p107 est un peu paradoxale.
+
+#### L’estime de soi
+
+Si elle est bonne, on se lance dans des projets et on a
+une bonne défense contre les blessures d’amour propre.
+Sinon c’est un cercle vicieux.
+
+Sources d’estime de soi: la reconnaissance (par les parents
+puis par les amis) et les réussites.
