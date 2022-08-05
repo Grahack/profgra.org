@@ -34,3 +34,4 @@ Vous avez des forces et des faiblesses, travaillez vos faiblesses!
 
 1. Fonctions
 1. Encodage
+1. [[Ordonnancement]]
