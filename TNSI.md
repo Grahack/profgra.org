@@ -18,7 +18,7 @@ Vous avez des forces et des faiblesses, travaillez vos faiblesses!
   hexadécimale) et complément à 2.
 1. Python, Python et encore Python!
     1. En PJ il y a un jeu que vous pouvez essayer, et aussi améliorer.
-    2. La liste des 10 petits problème de l’année passée est toujours
+    1. La liste des 10 petits problème de l’année passée est toujours
       d’actualité.
 1. HTML-CSS-JS: inventer un petit formulaire simple (juste un champ
   et un bouton OK qui déclenche un affichage dans la page ou une
