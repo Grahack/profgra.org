@@ -6,6 +6,32 @@ Graphique pour un Rythme Annoté
 
 Graphical Rhythm Annotation
 
+## Notation ASCII
+
+- les parenthèses groupent, avec répétition si suivies de `×?` où `?`
+  est le nombre de répétitions;
+- `+` permet de séparer les mesures;
+- un chiffre indique combien de coups à jouer pendant une pulsation,
+  sauf si `?:` est indiqué en début de ligne;
+- `2:` en début de ligne indique que deux caractères sont utilisés pour
+  une pulsation. Cela permet de démarrer un groupe sur une
+  demi-pulsation (ex: `2:1133` est équivalent à `26`). Idem avec `4:`.
+
+```
+(2224)×3 + 2223
+(2444)×3 + 2443
+(2244)×3 + 2243
+(2223)×2 + (23)×4
+(24)×3 + 23
+2:(11111113)×2 + (1113)×2 + (13)×4
+(224)×2 + 223
+4422 4423
+```
+
+## Figures rythmiques
+
+[[Quintolets]]
+
 ## Avec le métronome
 ![[Metronome pas fort]]
 ![[Metronome sur 2 et 4]]
