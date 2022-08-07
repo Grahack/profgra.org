@@ -257,4 +257,61 @@ une bonne défense contre les blessures d’amour propre.
 Sinon c’est un cercle vicieux.
 
 Sources d’estime de soi: la reconnaissance (par les parents
-puis par les amis) et les réussites.
+puis par les amis) et les réussites. Mais les SM sont toujours
+«trop» quelque chose et n’obtiennent donc pas de reconnaissance.
+Comme notre société est davantage attentive aux ratages
+qu’au reste et que le SM est perfectionniste, il ne valide
+jamais de réussite.
+
+### La peur du rejet (p111)
+
+L’être humain est un animal social, s’ajuste pour ne pas être
+rejeté mais pas les SM qui ne comprennent pas. Ils ont peur
+du rejet et de l’abandon, ses partenaires peuvent avoir
+un pouvoir exorbitant.
+
+### Stratégies d’adaptation (p112)
+
+Cf Tony Atwood:
+
+- Autodévalorisation et déprime (intériorisation des moqueries
+  dans l’espoir de les conjurer, et retrait social)
+- Échappées dans le rêve (ou refuge dans un centre d’intérêt
+  exclusif (lecture, ciné, Internet pour évasion) mais risque d’addiction)
+- Arrogance («je suis bidon ou j’ai le melon» (cf Christophe André)
+  jusqu’à l’arrogance et la provocation, mais l’imposture a un prix
+- Imitation (en société, mais aussi imitateur de personnages pour
+  amuser les autres)
+
+### Le faux self (p119)
+
+Identité: se sentir unique mais aussi intégré au groupe. Pour les SM,
+impossible d’être soi et accepté. Si les sensations, émotions et
+sentiments sont bien expliqués, le «faux self» n’est qu’une fine
+couche de politesses, bonnes manières, réserve, respect et
+bienveillance. Sinon le faux self asphyxie la vraie personnalité.
+
+#### Le salon d’accueil VIP (p122)
+
+typo: gène -> gêne
+
+Image du salon VIP organisé par le faux self vs le vrai moi
+baillonné au fond du tunnel. C’est le premier qui reçoit les
+encouragements, l’admiration et l’amour. Le vrai moi est
+encore davantage isolé.
+
+#### Syndrôme du maillot de bain (p123)
+
+Anecdote pour expliquer l’absence chronique de refus.
+Antichambre du burn out.
+
+#### Du syndrôme du maillot de bain au syndrôme de Stockholm
+
+C’est le but du livre: retrouver son vrai moi et apprendre à refuser
+(«Euh, ça ne m’arrange pas!»).
+
+Seul l’enfant a besoin d’un amour inconditionnel, l’adulte peut s’en passer:
+pas besoin de plaire à tout le monde. Il faut juste combler son vide
+identitaire
+
+## Chap 2 L’idéalisme (p129)
