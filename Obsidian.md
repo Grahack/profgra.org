@@ -1,6 +1,6 @@
 # Obsidian
 
-Mon [workflow](Obsidian_workflow).
+Mon [workflow](Obsidian%20workflow.md).
 
 [[Obsidian resources]]
 
