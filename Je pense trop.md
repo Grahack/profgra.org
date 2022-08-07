@@ -2,6 +2,9 @@
 
 Christel Petitcollin
 
+```toc
+```
+
 ## Mon avis
 
 - Peu de monde coche aucune case.
@@ -16,7 +19,7 @@ Christel Petitcollin
 * p12: termes, Jeanne Siaux Facchin:."zèbre"
 * p15: diagonal sans e
 
-# Partie 1
+## Partie 1
 
 ### Chap 1 Des capteurs hypersensibles
 
@@ -135,9 +138,9 @@ Les codes en vigueur en Occident conviennent aux personnes dont le CG
 domine. Des conseils sont donnés pour développer CG et CD, mais aussi
 pour apprendre à s’accepter.
 
-### Surefficience mentale (p65)
+#### Surefficience mentale (p65)
 
-#### Une pensée en arborescence
+##### Une pensée en arborescence
 
 Exemple de l’exposé sur la Renaissance en Italie, où chaque idée en fait
 jaillir 10, et récursivement. C’est créatif mais aussi handicapant.
@@ -151,14 +154,14 @@ des solutions, se faisant naturellement et parfois inconsciemment,
 sans savoir forcément expliquer pourquoi c’est la solution.
 Raisonnement moins scolaire au sens occidental.
 
-#### Le besoin de complexité (p68)
+##### Le besoin de complexité (p68)
 
 La pensée fonctionne en mode automatique,
 elle se perd (rêveur, distrait, désorganisé),
 mais on peut atteindre une sorte d’orgasme mental
 si les données sont nombreuses et le problème ardu.
 
-#### Inconvénients de la pensée en arborescence (p70)
+##### Inconvénients de la pensée en arborescence (p70)
 
 Au gré des branches de l’arbre, l’humeur change,
 il faut donc savoir observer sa pensée pour mieux la contrôler.
@@ -169,7 +172,7 @@ intense que la réalité. Le plaisir s’use avant d’avoir été pris.
 
 Parler seul permet de structurer le flot des idées.
 
-#### Des doutes et des questions à foison (p73)
+##### Des doutes et des questions à foison (p73)
 
 Le besoin de réassurance est infini, les objections sont pertinentes
 (anecdote Martini!!!).
@@ -179,7 +182,7 @@ prudence, maturité), mais attention au monde mouvant.
 
 Voir *Psy de poche* pour les questions vie/mort/souffrance.
 
-#### Un va-et-vient constant entre passé, présent et futur (p75)
+##### Un va-et-vient constant entre passé, présent et futur (p75)
 
 Le temps est une des dimensions de l’arborescence,
 ainsi que les effets collatéraux.
@@ -237,9 +240,9 @@ Avec caractéristiques typiques et une tentative d’adaptation épuisante.
 Critique sévère des tests. Classer, c’est très CG. Le CD refuse de
 classer et d’étiqueter. 
 
-## Partie II
+# Partie 2
 
-### Chapitre 1 Le vide identitaire (p105)
+## Chap 1 Le vide identitaire (p105)
 
 Comment se faire une idée de qui on est si l’entourage
 n’y comprend rien? L’imagerie des SM dans l’IR et l’UV
@@ -247,7 +250,7 @@ ne peut pas être comprise par les autres.
 
 L’histoire de l’égo décrite p107 est un peu paradoxale.
 
-#### L’estime de soi
+### L’estime de soi
 
 Si elle est bonne, on se lance dans des projets et on a
 une bonne défense contre les blessures d’amour propre.
