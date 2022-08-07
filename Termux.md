@@ -2,7 +2,10 @@
 
 # Purpose
 
-I mainly use Termux on Android to be able to sync my [[Obsidian]] git repository.
+I mainly use Termux on Android for:
+
+- easier [[Backups]],
+- sync of my [[Obsidian]] git repository.
 
 # Basic install
 
