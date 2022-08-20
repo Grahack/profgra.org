@@ -45,6 +45,7 @@ Graphical Rhythm Annotation
 ![[Metronome avant apres]]
 ![[Metronome mes de silence]]
 ![[Metronome sur subdivisions]]
+![[Metronome qui ralentit]]
 # Phrases diverses
 
 ```music-abc
