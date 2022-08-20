@@ -10,6 +10,8 @@
 - [[Elements of style]]
 - [[L'éthique des hackers]]
 - [[Des maths ensemble et pour chacun]]
+- [[Freinet]]
+- les Servigne
 - [[Dans la forêt ]]
 - [[Les robots]]
 - [[Aucun souvenir assez solide ]]
