@@ -1,10 +1,13 @@
 # Backups
 
+Dicos claviers?
+
 ## Export
 
 - Orgzly
 - Anki
 - Chordbot
+- Shazam
 
 ## Copy
 
