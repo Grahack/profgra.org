@@ -1,3 +1,3 @@
-#musique/metronome 
+#musique/metronome
 
 Metronome sur subdivisions.
