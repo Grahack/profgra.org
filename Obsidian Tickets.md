@@ -1,6 +1,7 @@
 #obsidian
 
 # Obsidian Tickets
+
 ## Core
 - Listes ordonnées devraient être de la forme 1. 1.
   et accepter cette écriture.
@@ -16,5 +17,6 @@
 - "share" not working
 
 ## mediadb
+
 Query les chansons pas les albums
 [GH prj](https://github.com/mProjectsCode/obsidian-media-db-plugin)
