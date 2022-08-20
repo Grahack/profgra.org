@@ -10,6 +10,8 @@ Charger le fichier et l'exécuter.
 
 ![[py/allumettes.py]]
 
+Les plus rapides peuvent commencer à lire et commenter le code.
+
 ## Améliorer
 
 Lister les améliorations possibles.
