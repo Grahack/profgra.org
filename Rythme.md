@@ -66,7 +66,27 @@ L:1/8
 ```music-abc
 X:2
 T:Lumen binaire (Danilo Perez)
-M:6/8
+M:2/4
 L:1/16
 |: G2G2 zG3 :|
+```
+
+```music-abc
+X:3
+T:Rock in jazz trick
+M:12/8
+L:1/8
+|: zG2 C2G zC2 G2C :|
+|: zGG C2G GC2 GGC :|
+|: zG2 C2G GC2 G2C | zGG C2G zC2 GGC :|
+
+
+```
+
+```music-abc
+X:4
+T:Jazz in rock trick
+M:4/4
+L:1/8
+|: GG z2 G2 GG z2 G2 GG z2 G2  :|
 ```
