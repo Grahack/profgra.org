@@ -1,4 +1,4 @@
-#musique 
+#musique
 
 # Progression
 
@@ -191,6 +191,8 @@ Il y en a quatre, dont :
 * IV vers I
 * IV V I
 * I VIm IV V, I VIm IIm V
+
+Rythme harmonique
 
 #### Harmonisation de la gamme mineure harmonique à 3 sons
 
