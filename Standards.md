@@ -1,4 +1,5 @@
 # Standards
+
 ```query
-tag:#standard
+tag:#musique/standard
 ```
