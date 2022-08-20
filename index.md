@@ -1,4 +1,9 @@
+# ProfGra
+
+Bienvenue dans cette base de connaissances publique.
+
 # Lycée
+
 - [Lycée Carcouët](http://carcouet.paysdelaloire.e-lyco.fr) -
 [Page Wikipedia](http://fr.wikipedia.org/)
 
@@ -13,8 +18,8 @@
 - [[Activités rapides]]
 - [[Défis NSI]]
 - [[1NSI]] - [[TNSI]] - [[Annales NSI]]
-- [[Algorithmique]] 
-- [[microBit]]
+- [[Algorithmique]]
+- [[Machine de Turing]] - [[OrdiPapier]] - [[microBit]]
 - [[Culture informatique]]
 
 ### Langages
@@ -30,9 +35,11 @@
 # Musique
 - [[Guitare]] - [[Basse]] - [[Batterie]] -
   [[Trompette]] - [[Clavier]]
-- [[Progression]] - [[Rythme]] - [[Standards]]
+- [[Kapzik]] - [[Progression]] - [[Rythme]] - [[Standards]]
 - [[Meshuggah]] - [[Pattashuggah]]
-- [[Les Carreleurs Américains]]
+- [[Défi quasi exhaustif et démagogique ]]
+- [[Guitare solo]] - [[Destruction]] - [[Les Carreleurs Américains]]
+- [[My EPM]]
 
 # Outils
 - [[Obsidian]] - [[Anki]]
@@ -44,4 +51,5 @@
 - [[Anecdotes fondatrices]]
 - [[Jonglerie]]
 - [[Jeu de go]] - [[Jeux]]
+- [[Recettes]]
 - [[TEST]]
