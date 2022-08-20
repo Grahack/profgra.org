@@ -32,7 +32,9 @@ CSS de l'app basée sur [ce gist](https://gist.github.com/liamcain/1fd5f9b2e55b7
 
 ### Idées plugin
 
-- position dans le fichier ligne/colonne
+- position dans le fichier ligne/colonne,
+  existe mais ne fonctionne pas
+- delete line
 - marque à la colonne 80
 - [[Notation GRA]]
 - query une seule chanson dans musicbrainz
