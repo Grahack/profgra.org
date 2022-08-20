@@ -12,6 +12,7 @@ Dicos claviers?
 ## Copy
 
 - the exported files above
+- dotfiles
 - DCIM/Camera
 - Sounds
 - Pictures
