@@ -1,3 +1,3 @@
-#metronome 
+#musique/metronome 
 
 Metronome le moins fort possible.
