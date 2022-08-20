@@ -12,9 +12,9 @@ Graphical Rhythm Annotation
 
 ## Notation ASCII
 
-- les parenthèses groupent, avec répétition si suivies de `×?` où `?`
-  est le nombre de répétitions;
-- `+` permet de séparer les mesures;
+- les parenthèses groupent, avec répétition si suivies ou
+  précédées de `×?` où `?` est le nombre de répétitions;
+- ` ` ou `+` permettent de séparer les mesures;
 - un chiffre indique combien de coups à jouer pendant une pulsation,
   sauf si `?:` est indiqué en début de ligne;
 - `2:` en début de ligne indique que deux caractères sont utilisés pour
