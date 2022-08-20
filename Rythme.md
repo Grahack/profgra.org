@@ -30,6 +30,9 @@ Graphical Rhythm Annotation
 2:(11111113)×2 + (1113)×2 + (13)×4
 (224)×2 + 223
 4422 4423
+3334
+3333 3334
+2×(2333)
 ```
 
 ## Figures rythmiques
