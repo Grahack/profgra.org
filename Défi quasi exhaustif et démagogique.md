@@ -5,3 +5,1887 @@
 [Page FB](http://)
 
 Originellement appelé "le défi du lac du Salagou".
+
+## Principe
+
+bla
+
+## Liste
+
+- inconnu
+  - Tuer l'un des Siens
+- inconnu
+  - Voisin sur la lune
+- 4 non Blondes
+  - What's going on
+- À cause des garçons
+  - A cause des garçons
+- A Perfect Circle
+- A-HA
+  - Take on me
+- ABBA
+  - Gimme
+- AC-DC
+  - Highway to Hell
+- Ace of Base
+  - All that she wants
+- Adele
+- Aerosmith
+- Agnès Obel
+- Al Corley
+  - Square Rooms
+- Alain Barrière
+  - Elle était si jolie
+- Alain Bashung
+  - Vertige de l'amour
+- Alain Chamfort
+  - Manureva
+- Alain Leprest
+  - Peut-être
+  - Tout ce qui est dégueulasse porte un joli nom
+- Alain Souchon
+  - Passer amour machine
+  - 10 ans
+- Alain Schneider
+  - Mes p'tits légumes
+- Alan Parson's project
+  - Eye in The sky
+- Alan Stivell
+  - Brian Boru
+- Alanis Morissette
+- Alannah Myles
+  - Black Velvet
+- Aldebert
+  - Pour louper l'école
+- Alex Beaupain
+- Alice Cooper
+  - Poison
+- Alice in Chains
+- Alicia Keys
+  - New York
+- Alizée
+  - Lolita
+- All Saints
+- Alliance Ethnik
+  - Respect
+- Amel Bent
+  - Ma Philosophie
+- Alphaville
+  - Forever young
+- Amy Winehouse
+  - No no no
+- Anais
+  - Mon cœur mon amour
+- Anastacia
+  - I'm outta love
+- Ani Difranco
+- Anis
+- Anne Sylvestre
+  - Dans la vie en vrai
+- Annie Cordy
+  - Chaud
+- Antoine
+  - Les élucubrations
+- Arcade Fire
+  - No cars go
+- Aretha Franklin
+  - Think
+- Ariana Grande
+- Arno
+  - Dans les yeux de ma mère
+- Arnold Turboust & Zabou
+  - Adélaïde
+- Arrested Development
+  - Everyday People
+- Art Mengo
+  - Je l'ai adorée
+- Art of Noise
+  - Moment in love
+- Arthur H
+  - L'amoureux
+- Arthur Simms
+  - It's only mystery
+- Assassin
+- Assia
+  - Elle est à toi
+- At The Drive In
+  - One armed scissors
+- Au p'tit bonheur
+  - J'veux du soleil
+- AudioSlave
+- Autour de Lucie
+  - Personne n'est comme toi
+- Avril Lavigne
+  - Sk8er Boi
+- Axel Bauer
+  - Cargo de Nuit
+- Axelle Red
+  - Parce que c'est toi
+- B-52's
+  - Love Shack
+- Backstreet Boys
+  - We've got it goin'on
+- Bad Brains
+- Bad Religion
+- Barbara
+  - l'aigle noir (mai)
+- Barry Manilow
+  - Could it be magic
+- Barry White
+  - Let the music play
+- Baster
+  - Pêcheur
+- BB King
+- Beastie Boys
+  - Party
+- Beck
+  - Loser
+- Bee Gees
+  - Staying Alive
+  - Night Fever
+  - How deep is your love
+- Ben E. King
+  - Stand by me
+- Ben Harper
+  - With my own two hands
+- Ben l'Oncle Soul
+  - Soulman
+- Ben Mazué
+  - Quand je marche
+- Bénabar
+  - Le dîner
+  - Le vélo
+  - Pas du tout
+- Benjamin Biolay
+  - Quinze août
+- Benny B
+  - Mais vous êtes fou
+- Benny Benassi
+  - Satisfaction
+- Bernard Lavilliers
+  - Idées Noires
+- Bernard Lubat
+- Bernard Minet
+  - Bioman
+- Bérurier Noir
+- Bette Midler
+- Beverley Knight
+- Beverly Craven
+  - Promise me
+- Beyonce
+  - Crazy in Love
+- Bezu
+  - Ali Baba
+  - A la queue leu leu
+- Bibi
+  - Tout doucement
+- Big Soul
+  - Le brio
+- Bill Baxter
+  - Embrasse moi idiot
+- Bill Deraime
+  - Babylon tu déconnes
+- Bill Medley
+  - Time of my life
+- Bill Withers
+  - Just the two of us
+- Billy Idol
+  - Flesh for fantasy
+- Billy Joel
+  - Just The Way you Are
+- Billy Ocean
+  - When the Going Gets Tough, the Tough Get Going
+- Billy Paul
+  - Your song
+- Billy Ray Cyrus
+  - Achy breaky heart
+- Billy Ze Kick et les Gamins en Folie
+  - Mangez moi
+- Birdy
+- Björk
+  - Anchor Song
+- Black Eyed Peas
+  - Shut up
+- Black M
+  - Sur ma route
+- Black Sabbath
+  - War pigs
+- Black
+  - Wonderful World
+- Blankass
+- Blink 182
+- Block Party
+- Blondie
+  - Call Me
+- Blondie
+  - Heart of Glass = reprise
+- Blues Trottoir
+  - Un soir de pluie
+- Blur
+  - Girls & Boys
+  - Song 2
+- Bob and Earl
+  - Harlem shuffle
+- Bob Dylan
+  - Blowing in the wind
+- Bob Marley
+- Bob Seeger
+  - Against the wind
+- Bobby Hebb
+  - Sunny
+- Bobby Lapointe
+  - Ta Katie t’a quitté
+- Bobby Mac Ferrin
+  - Don't worry be happy
+- Body Count
+  - Born Dead
+  - Evil Dick
+- Boney M
+  - Daddy Cool
+- Bonnie Tyler
+  - Total Eclipse of The Heart
+- Booba
+- Boris
+  - Soirée Disco
+- Boris Vian
+  - le Déserteur
+- Boston
+  - More than a feeling
+- Boule Noire
+  - Aimer d'amour
+- Boulevard des airs
+  - Bruxelles
+- Bourvil
+  - C'était bien
+- Boy George
+- Boys to Men
+- Boyzone
+- Brandy & Monica
+  - The Boy is Mine
+- Brian Adams
+  - Everything I Do
+- Brian Eno
+- Brian Ferry
+  - Slave to love
+- Brigitte Bardot
+  - La madrague
+- Britney Spears
+  - Toxic
+- Bronski Beat
+  - Smalltown boy
+- Brotherhood of man
+  - Save kisses for me
+- Bruce Springsteen
+  - Born in The USA
+- Buddy Guy
+  - On the road
+- Busta Rhymes
+  - Woo Hah
+- C Jérome
+  - Et tu danses avec lui
+- Cake
+  - The Distance
+- Cali
+  - C'est quand le bonheur
+- Calogero
+  - Face à la mer
+- Cameo
+- Camelia Jordana
+- Camille
+  - Paris
+- Cannibal Corpse
+- Capital cities
+  - Safe and sound
+- Captain Beefheart and His Magic Band
+- Captain Sensible
+  - Wot!
+- Carapicho
+  - Bate forte tambor
+- Carl Carlton
+  - She is a bad mama jama
+- Carlos Santana
+  - Black Magic Woman
+- Caroline Loeb
+  - C'est la ouate
+- Carlos
+  - Je préfère manger à la cantine
+- Carmel
+  - Sally
+- Carole Laure
+- Carte de Séjour
+  - Zoubida .  Barbès
+- Castelhemis
+  - Coco
+- Cat Stevens
+  - Wild World
+- Catherine Lara
+  - Rockeuse de diamants
+- Cece  Peniston
+  - Finally
+- Céline Dion
+  - Pour que tu m'aimes encore
+  - S'il suffisait d'aimer
+- Cerrone
+- Cesaria Evora
+- Chagrin d'Amour
+  - Chacun fait ce qu'il lui plaît
+- Charles Aznavour
+  - La Bohème
+- Charles Bradley
+- Charles Trenet
+  - La mer
+  - Jolie môme
+- Charlie Winston
+  - Like a hobo
+- Charlots
+  - Histoire Merveilleuse
+- Cheap Trick
+- Cheb Mami
+- Cher
+  - Strong Enough
+- Cheryl Lynn
+  - Got to be real
+- Chicago
+  - If You Leave Me Now
+- Chico Buarque
+  - Essa moça ta differente
+- Chimène Badi
+- Chris de Burgh
+  - High on emotions
+- Chris Isaak
+  - Blue Hotel
+- Chris Rea
+  - The road to hell
+- Christina Aguilera
+  - Genie In The Bottle
+- Christophe
+  - Les mots bleus
+- Christophe Mahé
+  - Il est où le bonheur
+- Christopher Cross
+  - Ride like The Wind
+- Chuck Berry
+  - C'est la vie
+- Cindy Sander
+  - Papillon de lumière
+- Claude Barzotti
+- Claude François
+  - Alex
+- Claude Nougaro
+  - Il faut tourner la page
+- Coal Chamber
+- Cock Robin
+  - When your heart is weak
+  - Remember the promise you made
+- Cœur de pirate
+- ColdPlay
+  - Speed of Sound
+- Companie Créole
+- Cookie Dingler
+  - Femme Libérée
+- Corbier
+  - Sans ma barbe
+- Corynne Charby
+  - Pile ou face
+- Corneil
+  - Parce qu'on vient de loin
+- Counting Crows
+  - Mr. Jones
+- Courtney Love
+- Craig David
+- Crash Test Dummies
+  - MMMMM
+- Cream
+- Creedence Clearwater Revival
+  - Proud Mary
+- Crowded house
+  - Don't dream it's over
+- Crusaders
+  - Street Life
+- Culture Club
+  - Do you really want to hurt me
+- Curtis Mayfield
+  - Move on up
+- Cutting Crew
+  - I just died in your arms
+- Cyndi Lauper
+  - Time after Time
+- Cypress Hill
+  - Rock superstar
+- Crossby, Stills & Nash
+- D'Angelo
+  - Sugar
+- DaftPunk
+  - Around The World
+  - Harder Better
+- Dalida
+  - Paroles
+  - Laissez moi danser
+- Daniel Balavoine
+  - L'Aziza
+- Daniel Guichard
+  - Mon Vieux
+- Dany Brillant
+  - Suzette
+- Daran
+  - Olivia
+- Dave
+  - Du côté de chez Swan
+- David & Jonathan
+- David Bowie
+  - Let's Dance
+- David Charvet
+- David Halliday
+- David Koven
+- David Martial
+  - Célimène
+- David Roussos
+- Dead Kennedies
+- Dead or Alive
+  - You spin me round
+- Debout sur le zinc
+  - Ma petite chérie
+- Début de Soirée
+  - Nuit de Folie
+- Deee-Lite
+  - Groove is in The heart
+- Deep Purple
+  - Smoke on the water
+- Def Leppard
+  - Pour some Sugar
+- Depeche Mode
+  - Enjoy The Silence
+  - Personnal Jesus
+- Des'Ree
+- Desireless
+  - Voyage Voyage
+- Destiny's Child
+  - Survivor
+- Devendra Banhart
+  - Never Seen Such Good Things
+- Diam's
+  - Bombe Latine
+- Diana Krall
+- Diana Ross
+- Diane Tell
+  - Si j'étais un homme
+- Dick Annegarn
+- Didier Barbelivien
+- Didier Super
+- Dido
+- Dionne Warwick
+  - Heartbreaker
+- Dire Straits
+  - Sultans of Swing
+- Disiz la Peste
+  - Je pète les plombs
+- Jul
+  - Tchikita
+- Doc Gyneco
+  - Le docteur
+- Dolly Parton
+  - Jolene
+- Dominique A
+  - 22 bar
+- Donna Lewis
+  - I love you always forever
+- Donna Summer
+  - Hot stuff
+- Donovan
+  - Mellow Yellow
+- Duffy
+  - Mercy
+- Duke Ellington
+- Duran Duran
+  - Final Countdown
+- Dweezil Zappa
+  - gonna get you
+- Dyonisos
+  - Jedi?
+- Eagle Eye Cherry
+  - Save Tonight
+- Eagles
+  - Hotel California
+- Earth Wind & Fire
+  - Fantasy
+- Ed Sheeran
+  - Shape of you
+- Eddie Cochran
+- Eddy Grant
+  - Gimme hope Jo'Anna
+- Eddy Mitchell
+  - Route de Memphis
+  - La dernière séance
+- Edith Piaf
+  - Mon légionnaire
+- Edmee
+  - Listen to your heart
+- Eiffel 65
+  - Blue
+- Electric Light Orchestra
+  - Mr. Blue Sky
+- Elli Medeiros
+- Elmer Food Beat
+  - Daniela
+- Elsa
+  - T'en vas pas
+- Elton John
+  - I'm still standing
+- Elvis Presley
+- Émilie Simon
+- Emily Loizeau
+  - L'autre bout du monde
+- Eminem
+- Emma Daumas
+  - Tu seras
+- En Vogue
+  - Free your mind
+- Enrico Macias
+- Enrique Iglesias
+  - Contigo
+- Erasure
+  - Sometimes
+- Eric Clapton
+  - Layla
+- Erikah Badu
+- Eros Ramazzotti
+  - Se bastasse una canzone
+- Estelle
+  - American Boy
+- Esther Philips
+  - What a difference a day makes
+- Etienne Daho
+  - Heures Hindoues
+  - Tombé pour la France
+- Europe
+  - The final countdown
+- Eurythmics
+  - There must be an Angel
+- Evanescence
+  - Bring me to life
+- Extreme
+  - More than Words
+  - There is No God
+- Fabienne Thiebault
+  - Les uns contre les autres
+- Fabulous Troubadours
+- Faith no More
+  - Ashes to Ashes
+- Faudel
+  - Tellement je t'aime
+- Feist
+- Fela Kuti
+  - Zombie
+- Felix Gray
+  - La gitane
+- Femmouzes T
+- FFF
+  - Morphée
+- Fifty cent
+  - P.I.M.P.
+- Fine Young Cannibals
+- Fiona Apple
+- Fishbone
+- Fletwood Mac
+- Florent Pagny
+  - Liberté de penser
+- Fool's Garden
+  - Lemon tree
+- Foo Fighters
+- Foreigner
+  - Juke box hero
+- FR David
+  - Words don't come easy
+- France Gall
+  - Papillon de nuit
+- Francis Cabrel
+  - Les murs de poussière
+  - Corrida
+- Francis Lalanne
+  - Pense à moi, comme je t'aime
+- Franck Alamo
+  - Biche o ma biche
+- Franck Sinatra
+  - Strangers in The Night
+- Franck Zappa
+- Franckie goes to Holywood
+  - Relax
+- Franckie Valli
+  - Grease
+- François Feldman
+  - Joue pas
+- François Valery
+  - Elle danse Marie elle danse
+- Françoise Hardy
+  - C'est le temps de l'amour
+- Franz Ferdinand
+  - Singing in the car
+- Freak Power
+- Frédéric François
+- Félix Leclerc
+  - Bonheur
+- Gala
+  - Freed from desire
+- Gamine
+  - Voilà les anges
+- Garbage
+  - Empty
+- Garou
+  - Seul
+- Gary Moore
+  - Parisienne Walkways
+- Genesis
+  - Invisible Touch
+- George Clinton
+- George Michael
+  - Freedom
+  - Faith
+- Georges Brassens
+  - Mauvaise Réputation
+- George Harisson
+  - Got My Mind Set on You
+- Georges Moustaki
+  - la Philosophie
+- Gérald De Palmas
+  - J'en rêve encore
+- Gérard Blanc
+  - On se donne du soleil
+- Gérard Blanchard
+  - Elle voulait revoir sa Normandie
+- Gérard Lenormand
+  - La balade des gens heureux
+- Gerry Rafferty
+  - Baker Street
+- GiedRé
+  - On fait tous caca
+- Gilbert Bécaud
+  - Nathalie
+- Gilbert Montagné
+  - On va s'aimer
+- Gilberto Gil
+  - Toda menina baiana
+- Gino Vanelli
+  - Brother to brother
+- Gipsy Kings
+  - Djobi Djoba
+- Gloria Estefan
+  - Conga
+- Gloria Lasso
+  - Histoire d'un amour
+- Gnarls Barkley
+  - Crazy
+- Gotye
+  - Somebody I used to know
+- Grand Jojo
+  - Chef un petit verre on a soif
+- Grateful Dead
+- Graziella de Michèle
+  - Pull-over blanc
+- Green Day
+  - Basket case
+- Grégoire
+  - Toi + moi
+- Guesh Patti
+  - Etienne
+- Guillaume Farley
+  - La looze
+- Gun's n Roses
+- Guy Béart
+  - L’eau vive
+- Guy Marchand
+  - Destinée
+- Hanson
+  - MMMBop
+- Har Mar superstar
+  - Lady, you shot me
+- Harry Connick Junior
+- Heart
+  - Barracuda
+- Hélène Ségara
+  - Trop de gens qui t'aiment
+- Henri Dès
+- Henri Salvador
+  - Le loup, la biche et le chevalier
+- Herbert Léonard
+  - Pour le Plaisir
+- Herbie Hancock
+  - Tonight's the night
+- Hervé Christiani
+  - Libre Max
+- Hervé Villard
+  - Capri
+- Hocus Pocus
+  - Je la Soul
+- Hoobastank
+  - The Reason
+- Hubert-Félix Thiéfaine
+  - La fille du coupeur de joint
+- Huey Lewis and the News
+  - The power of love
+- Hugues Auffray
+  - Santiano
+- I AM
+  - Sept
+- I wanna rock Twisted Sisters
+- INXS
+  - B Girl W Boy
+- Il était une fois
+  - J'ai encore rêvé d'elle
+  - Viens faire un tour sous la pluie
+- Imagine Dragons
+- Images
+  - Démons de Minuit
+- Imagination
+  - Music and Lights
+  - Just an illusion
+- Imany
+  - Clap your hands
+- Indila
+  - Dernière danse
+- Indochine
+  - 3 nuits par semaine
+- Irene Cara
+  - Fame
+- Isaac Hayes
+  - Theme from Shaft
+- Isabelle Boulay
+  - Parle-moi
+- J.J. Lionel
+  - La danse des canards
+- Jackie Quartz
+  - Juste une mise au point
+- Jackson 5
+- Jacques Brel
+  - Orly
+- Jacques Dutronc
+  - L'opportuniste
+- Jain
+  - Oh man
+- Jakno
+- James Blunt
+  - You're beautiful
+- James Brown
+- Jamie Cullum
+- Jamiroquai
+  - Space Cowboy
+- Jane Birkin
+- Jane Manson
+- Jane's addiction
+- Janet Jackson
+  - That's the way love goes
+- Janis Joplin
+- Jason Derulo
+- Java
+  - Et Dieu créa la flemme
+- Jay Jay Cale
+- Jean Ferrat
+- Jean Gabin
+- Jean Schulteis
+  - Confidence pour confidence
+- Jean Vasca
+- Jean-Jacques Goldman
+  - Je te donne
+  - matin actes
+- Jean-Jacques Lafon
+  - Géant de papier
+- Jean-Louis Aubert
+- Jean-Louis Murat
+- Jean-Luc Lahaye
+  - Femme que j'aime
+- Jean-Michel Jarre
+  - Oxygene part 4
+- Jean-Patrick Capdevielle
+  - Quand t'es dans le Désert
+- Jean-Pierre François
+  - Je te survivrai
+- Jean-Pierre Madère
+  - Macumba
+- Jeane Manson
+  - Avant de nous dire adieu
+- Jeanne Mas
+  - En rouge et Noir
+  - Toute première fois
+- Jeff Buckley
+- Jefferson Airplane
+- Jenifer
+  - Au soleil
+- Jermaine Jackson
+  - Do what you do
+- Jessie J
+  - Mama knows best
+- Jennifer Lopez
+- Jil Caplan
+  - Tout ce qui nous sépare
+- Jill Scott
+  - Gimme
+- Jimi Hendrix
+  - Castles made of sand
+- Jimmy Cliff
+  - Reggae Night
+- Jimmy Sommerville
+  - Smalltown Boy
+- Joan Baez
+  - Here's to you
+- Joe Cocker
+  - You are so beautiful
+- Joe Dassin
+  - l’éte indien
+- Joe Jackson
+  - Steppin out
+- Joe Satriani
+  - I Believe
+- Joëlle Ursull
+  - W&B Blues
+- John Bon Jovi
+- John Fogerty
+  - Centerfield
+- John Lennon
+  - Imagine
+- John Mayer
+  - Stop this train
+- John Miles
+  - Music
+- John Paul Young
+  - Love is in the air
+- Johnny Cash
+  - Folsom Prison Blues
+- Johnny Clegg
+  - Asimbonanga
+- Jonnhy Halliday
+  - Idole des Jeunes
+- Johnny Lee Hooker
+  - Boom boom boom
+- Joni Mitchell
+  - The Circle Game
+- Journey
+  - Separate ways
+- Joy Division
+  - Love will tear us apart
+- Judas Priest
+  - Breaking The law
+- Julie Pietri
+  - Ève lève-toi
+- Julie Zenatti
+  - Si je m'en sors
+- Julien Clerc
+  - Quand je joue
+- Julien Doré
+  - Coco câline
+- Juliette
+  - Aller sans retour
+- Juliette Gréco
+  - Déshabillez-moi
+- Julio Iglesias
+  - Vous les femmes
+- Justice
+  - Genesis
+- Justin Bieber
+- Justin Timberlake
+  - My love
+- Kajagogo
+  - Won't go
+- Kamini
+  - Marly-Gomont
+- Kansas
+  - Dust in the wind
+- Kaoma
+  - Lambada
+- Karine Costa
+  - Ce rêve bleu (Aladdin)
+- Kassav
+- Kate Nash
+- Kate Bush
+  - Babooshka
+- Katy Perry
+  - Hot'n'Cold
+- Kazero
+  - Thaïnana
+- Keane
+  - Everybody's changing
+- Kelis
+  - Trick me
+- Kelly Clarkson
+  - Because of you
+- Kendji  Girac
+  - Les yeux de la mama
+- Kent
+  - Allons à la campagne
+- Keny Arkana
+  - Fille du vent
+  - Vie d'artiste
+- Keziah Jones
+  - Rythm is love
+- Khaled
+- Kim Wilde
+  - Cambodia
+- Kim
+  - Fiesta
+- Kim Carnes
+  - Bette Davies Eyes
+- King's X
+- Kiss
+  - Creatures of The Night
+- Kool & The Gang
+  - Fresh
+- Kraftwerk
+  - Radioactivity
+- Kylie Minogue
+  - Can't get you Outta my Head
+- Kyo
+- L'Affaire Louis' Trio
+  - Chic Planète
+- L5
+  - Toutes les femmes de ta vie
+- L7
+  - Fuel my fire
+- La Grande Sophie
+  - Ma première ride
+- Lana del Rey
+- Lara Fabian
+  - Je t’aime
+- Laroche Valmont
+  - T'as le look coco
+- Larusso
+  - Tu m' oublieras
+- Las Ketchup
+  - Asereje
+- La Tordue
+  - Si Dieu était
+- Laura Branigan
+  - Self Control
+- Laurent Girard
+  - Les chevaux
+- Laurent Voulzy
+  - Song of You
+- Le Grand Orchestre du Splendid
+  - La Salsa du démon
+- Led Zeppelin
+- Lee Scratch Perry
+- Lene Marlin
+  - Where I'm headed
+- Lenny Kravitz
+- Leonard Cohen
+  - Suzanne
+- Leopold Nord
+  - C'est L'amour
+- Les Avions
+- Les Calamités
+  - Vélomoteur
+- Les Charts
+- Les Chaussettes Noires
+  - Daniela
+- Les Fatals Picard
+- Les Forbans
+- Les Frères Casquette
+  - Avant
+- Les Inconnus
+  - C'est toi que je t'aime
+- Les infidèles
+  - Les larmes des maux
+- Les Innocents
+  - Un homme extraordinaire
+- Les Négresses Vertes
+  - Voilà l’été
+- Les Porte-Mentaux
+- Les Satellites
+- Les Têtes Raides
+  - Dans la gueule
+  - Riches et célèbres
+- Les Wampas
+  - Manu Chao
+- Les Wriggles
+  - Passe ton bac
+- Level 42
+  - Lessons in love
+- Liane Foly
+  - Ça va ça vient
+- License IV
+  - Viens boire un ptit coup à la maison
+- Lilly Allen
+- Lilicub
+  - Voyage en Italie
+- Limp Biskit
+- Linda Lemay
+  - Il existe un paradis
+- Linkin Park
+- Lio
+  - Banana split
+- Lionel Richie
+  - All night long
+- Liquido
+  - Narcotic
+- Lisa Stansfield
+  - Change
+  - All around the world
+- Lofofora
+  - Bon à rien
+- Lorie
+  - Près de moi
+- Los del Rio
+  - Macarena
+- Los Lobos
+- Lou Bega
+  - Mambo n°5
+- Lou Reed
+  - Take a walk on the wild side
+- Louane
+  - Jour 1
+- Louis Armstrong
+  - Wonderful World
+- Louis Bertignac
+  - Ces idées là
+- Louis Chedid
+- Louis Prima
+  - Just a Gigolo
+- Lucy Pearl
+  - Don't mess with my man
+- Luis Mariano
+- Lukas Graham
+  - Seven years
+- Luna Parker
+  - Tes états d'âme Éric
+- Lynyrd Skynyrd
+  - Free Bird
+- M
+- Maceo Parker
+- Macy Gray
+- Madonna
+  - Like a Prayer
+- Major Lazer
+- Manau
+  - Dans la Vallée
+- Mano negra
+  - Passé de toi
+- Marc Lavoine
+  - Yeux Revolver
+  - Parking des Anges
+- Marcel Amont
+  - Il a le maillot jaune
+- Mariah Carey
+  - Always be my baby
+- Marianne Faithful
+- Marie Laforêt
+  - Vendanges de l'Amour
+- Marie Myriam
+  - L'oiseau et l'enfant
+- Marie-Paul Belle
+  - Parisienne
+- Marina Kaye
+  - Homeless
+- Maroon 5
+  - This love
+- Martin Circus
+  - Je m'éclate au Sénégal
+- Martin Solveig
+  - Jealousy
+- Marvin Gay
+  - What's going on
+- Mary Hopkins
+  - Thoses were a day
+- Marylin Monroe
+  - I want to be loved by you
+- Mathieu Boogaerts
+  - Ondule
+- Matmatah
+  - Lambé an dro
+  - les moutons
+- Matt Bianco
+  - Get Out Of Your Lazy Bed
+- Maurane
+  - Toutes les mamas
+- Martha and the Vandellas
+  - Dancing in the street
+- Maurice Albert
+  - Feelings
+- Maurice Chevalier
+- Maxime Leforestier
+  - Né quelque part
+- MC Hammer
+  - You can't touch this
+- MC Solaar
+  - Caroline
+- Meat Loaf
+  - I'd do anything for love
+- Mecano
+  - Une femme avec une femme
+- Mel & Kim
+  - Respectable
+- Men at work
+- Menelik
+- Metallica
+  - Enter Sandman
+- Michael Gray
+  - The weekend
+- Michael Jackson
+  - Thriller
+- Michael Sembello
+  - Maniac
+- Michel Berger
+  - La groupie du pianiste
+- Michel Delpech
+  - Quand j'étais chanteur
+- Michel Fugain
+  - Beau roman
+- Michel Jonasz
+  - La boite de Jazz
+- Michel Legrand
+- Michel Polnareff
+- Michel Sardou
+  - Etre une femme
+  - J'accuse
+- Michèle Torr
+  - Emmène moi danser ce soir
+- Mickael Miro
+  - L'horloge tourne
+- Mickey 3D
+  - Respire
+- Midnight Oil
+- Mika
+  - Relax (Take it easy)
+- Mike Brant
+  - Qui saura
+- Mike Oldfield
+  - Moonlight Shadow
+- Milli Vanilli
+- Mireille Mathieu
+  - Paris brûle-t-il
+- Miossec
+  - Brest
+- Miss Tick
+- Mister Big
+  - To be with you
+- Mister Gang
+  - Tout le monde est là
+- Modern talking
+  - You are my heart
+- Modjo
+  - Lady
+- Moonray
+  - Comanchero
+- Mort Shuman
+  - Il neige sur le Lac Majeur
+- Mory Kante
+  - Yeke Yeke
+- Motorhead
+  - Ace of spades
+- Mouloudji
+  - Un jour tu verras
+- Muddy Waters
+- Muriel Dacq
+  - Tropique
+- Murray head
+  - One night in Bangkok
+- Muse
+- Musical Youth
+  - Pass The Dutchie
+- Mylène Farmer
+  - Pourvu qu'elles soient douces
+- Mötley Crüe
+  - Girls girls girls
+- Nacash
+  - Elle imagine
+- Nach
+  - Âme mélodique
+- Nada Surf
+  - Popular
+- Nadiya
+  - Tous ces mots
+- Nana Mouskouri
+  - Quand tu chantes
+  - Chanter la vie
+- Nancy Sinatra
+  - These Boots Are Made for Walkin'
+- Nash
+- Natacha Saint Pier
+  - Tu trouveras
+- Natalie Imbruglia
+  - Torn
+- Neg Marron
+- Neil Young
+  - Harvest
+- Nelly Furtado
+  - Say it right
+- Nena
+  - 99 Luftballons
+- Niagara
+  - Guerre
+- Nick Cave
+- Nick Drake
+  - River man
+- Nick Kershaw
+  - The Riddle
+- Nicki Minaj
+- Nicolas Peyrac
+  - So far away from L.A.
+- Nicole Croisille
+  - Une femme avec toi
+- Nicole McCloud
+  - Don't you want my love
+- Nicoletta
+  - La Musique
+- Nina Morato
+- Nina Simone
+  - My baby don't care
+- Nino Ferrer
+  - Anarchistes
+  - le Sud
+- Nirvana
+- No Doubt
+  - Don't Speak
+- No One is Innocent
+  - La Peau
+- No Se
+- Noa
+  - I don't know
+- Noé Willer
+  - Toi, femme publique
+- NOFX
+- Noir Désir
+  - Le vent l'emportera
+- Nolwenn Leroy
+- Norah Jones
+  - Don't know Why
+- Nosfell
+- Notre Dame de Paris
+  - Belle
+- Nsync
+- NTM
+  - J'appuie sur la gachette
+- Nuttea
+  - Elle te rend dingue
+- Oasis
+  - Wonderwall
+- Odezenne
+- Ohio Players
+  - Love Rollercoaster
+- Oldelaf
+  - La tristitude
+- Oliver Cheatham
+  - Cet down machin
+- Olivia Ruiz
+  - La femme chocolat
+- Opus
+  - Life is Life
+- Orelsan
+  - Tout va bien
+- Otis Redding
+  - The dock of the bay
+- Outkast
+  - Hey ya
+- Ozzy Osbourne
+- P Lion
+  - Dream
+- Pacifique
+- Paolo Conte
+  - It's Wonderful
+- Papa Wemba
+  - Show me the way
+- Paris Combo
+- Partenaire particulier
+  - Partenaire particulier
+- Pascal Danel
+  - Laissons la plage aux romantique
+- Pascal Obispo
+  - Fan
+- Patachou
+  - Au bout de la semaine
+- Patricia Carli
+  - Demain tu te maries
+- Patricia Kaas
+  - Je voudrais la connaître
+- Patrick Bruel
+  - Marre de cette Nana là
+- Patrick Coutin
+  - J'aime regarder les filles
+- Patrick Duffy
+- Patrick Fiori
+  - Quatre mots sur un piano
+  - Toutes les peines
+- Patrick Juvet
+  - Où sont les femmes
+- Patrick Topaloff
+  - J'ai bien mangé, j'ai bien vu
+- Patsy Cline
+  - Let the teardrops fall
+- Patty Labelle
+  - Lady Marmalade
+- Paul Simon
+  - Fifty ways to leave your lover
+- Paul Young
+  - Come back and stay
+- Paula Abdul
+  - Straight up
+- Pauline Ester
+  - Oui je l'adore
+- Percy Sledge
+  - When a man loves a woman
+- Pet Shop Boys
+  - Domino Dancing
+- Peter & Sloane
+- Peter Frampton
+  - Baby I love your way
+- Peter Gabriel
+  - Sledge Hammer
+  - Solsbury Hill
+- Phil Barney
+  - Un enfant de toi
+- Phil Collins
+  - Another day in paradise
+- Philippe Cataldo
+  - Les divas du dancing
+- Philippe Chatel
+  - Mister Hyde
+- Philippe Katerine
+  - La banane
+- Philippe Lafontaine
+  - Coeur de loup
+- Philippe Lavil
+  - Il tape sur des bambous
+- Philippe Risoli
+  - Cuitas les Bananas
+- Philippe Swan
+  - Dans ma rue
+- Phoenix
+  - If I ever feel better
+- Pier Pol Jack
+  - Chais pas jouer
+- Pierre Bachelet
+  - En l'an 2001
+- Pierre Billon
+  - Comme une bamba triste
+- Pierre Chêne
+  - Mon papa
+- Pierre Perret
+  - Lili
+- Pierre Vassiliu
+  - Je lui téléphone
+- Pigalle
+  - Dans la salle du bar tabac de la rue des Martyrs
+- Pink
+  - Sober
+- Pink Floyd
+- Pink Martini
+  - Sympathique (Je ne veux pas travailler)
+- Pit & Rik
+  - La cicrane et la froumi
+- Pixies
+  - Where is my mind
+- Placebo
+  - The Bitter End
+- Plastic Bertrand
+  - Ça plane pour moi
+- Pleymo
+  - Modaddiction
+- Police
+  - So Lonely
+- Porcupine Tree
+  - Arriving
+- Prefab Sprout
+  - Cars and Girls
+- Presidents of The USA
+  - Lump
+- Pricess Erika
+- Primus
+  - John The Fisherman
+- Prince
+- Procol Harum
+  - A whiter shade of pale
+- Prohom
+  - Ca oublie d'aimer
+- Propaganda
+- Public Image Ltd
+  - Love Song
+- Pulp
+  - Disco 2000
+- Pussy Riot
+- Pussycat Dolls
+- Queen
+  - We are the champions
+- Queens of the stone age
+- Rachid Ferrache
+  - Le fille aux cheveux bleus
+- Rachid Taha
+  - Minouche
+- Radiohead
+- Raft
+  - Yaka dansé
+- Rage again The Machine
+  - Wake up
+- Ram Jam
+  - Black Betty
+- Raphaël
+  - Caravane
+- Raphael Callandreau
+  - le Piège à Gonzesses
+- Ray Charles
+  - Georgia
+- Ray Ventura
+  - Scarlatine
+- RHCP
+  - Under The Bridge
+  - Parallel Universe
+- REM
+- Refused
+- Regglyss
+  - Mets de l’huile
+- Régine
+  - Les petits papiers
+- Renan Luce
+  - Les voisines
+- Renaud
+  - Mistral Gagnant
+  - vent soufflera
+- Richard Anthony
+- Richard Clayderman
+  - Ballade pour Adeline
+- Richard Cocciante
+  - coup de soleil
+- Richard Gotainer
+  - Mambo du Décalco
+- Richard Marx
+  - Right here waiting for you
+- Richie Havens
+- Ridan
+  - Agriculteur
+- Rihanna
+  - Diamonds
+- Rika Zaraï
+  - Le kazatchok
+- Rita Mitsouko
+  - Les histoires d'amour
+- Ritchie Valens
+  - La Bamba
+- Robbie Williams
+- Robert Charlebois
+  - Je reviendrai à Montréal
+- Robert Miles
+  - Children
+- Robert Palmer
+  - Bad Case Of Loving You
+- Robert Wyatt
+- Roberta Flack
+  - Feel like making love
+- Rocca
+- Roch Voisine
+  - Hélène
+- Rockwell
+  - Somebody's watching me
+- Rod Stewart
+  - Baby Jane
+- Rod y Gab
+- Rodriguez
+- Roger Glover
+  - Love is all
+- Roman-Photo
+- Roméo & Juliette
+  - Aimer
+- Roméo
+  - Petite conne
+- Rondo Veneziano
+  - Musica Fantasio
+- Rory Gallagher
+  - Shadow Play
+- Rose Laurens
+  - Africa
+- Roxette
+  - The look
+  - Listen to your heart
+- Roxy Music
+- Rozlin Clarke
+  - Are you ready Eddy
+- Rush
+  - Subdivisions
+- Ryan Paris
+  - Dolce Vita
+- Rydann
+  - l'Agriculteur
+- Sabine Paturel
+  - Les bêtises
+- Sabrina
+  - Boys Boys Boys
+- Sacha Distel
+  - Des pommes, des poires et des scoubidous
+- Sade
+  - Sweetest Taboo
+- Saez
+  - Jeune et con
+- Saï Saï
+  - Un logement décent
+- Saian Supa Crew
+  - Angela
+- Salt and Peppa
+  - Let's talk about sex
+- Salvatore Adamo
+  - Vous permettez Monsieur
+- Sam Brown
+  - Stop !
+- Sam Cooke
+- Samantha Fox
+  - Touch me
+- San Severino
+- Sandra
+  - Everlasting Love
+- Sash!
+- Seal
+  - Crazy
+- Secret Service
+  - Flash in the night
+- Serge Gainsbourg
+  - Pas long feu
+- Serge Lama
+  - Femme, femme, femme
+- Serge Reggiani
+- Sergent Garcia
+  - Medecine Man
+- Sexion D'assaut
+  - J'ai pas les loves
+- Shakaponk
+  - My name is Stain
+- Shakira
+  - Waka waka
+- Shalamar
+  - And The beat goes on
+  - Night to Remember
+- Shania Twain
+  - That don't Impress me
+- Sheila
+  - L'école est finie
+- Sheryl Crow
+  - All I wanna do
+- Shirley Bassey
+- Shocking blue
+- Sia
+  - Chandelier
+- Silmarils
+  - Cours vite
+- Simon & Garfunkel
+  - El Condor Pasa
+- Simple Minds
+- Simply Red
+  - If you don't know me by now
+- Sinatra
+  - chanson xav julie
+- Sinclair
+  - Ensemble
+- Sinead O'Connor
+  - Nothing Compares
+- Sinsemilia
+  - Tout le bonheur
+- Ska-P
+  - Legalizacion
+- Skunk Anansie
+  - Hedonism
+- Sly and the Family Stone
+  - If you want me to stay
+- Smashing Pumpkins
+  - Today
+- Snoop Doggy Dog
+- SNAP!
+- SOAP
+  - This is How We Party
+- Soft Cell
+  - Tainted Love
+- Soldat Louis
+  - Du rhum, des femmes, ...
+- Sophie Ellis-Bextor
+  - Murder on the dancefloor
+- Soprano
+  - Clown
+- Soul Asylum
+  - Runaway train
+- Soundgarden
+  - Fell on black days
+- Spice Girls
+  - Say you'll be there
+- Spin Doctors
+  - Two Princes
+- Spinal Tap
+- Star Sailor
+  - Four to the Floor
+- Status Quo
+  - Army Now
+- Steely Dan
+  - Josie
+- Stéphane Eicher
+  - Déjeuner en paix
+- Stéphanie de Monaco
+  - Comme un ouragan
+- Steppenwolf
+  - Born to be wild
+- Steve Miller band
+  - The Joker
+- Stevie Ray Vaughan
+  - Mary had a little lamb
+- Stevie Wonder
+- Sting
+- Stone & Charden
+- Stretch
+  - Why did you do it
+- Stromae
+  - Papa où t'es ?
+- Sttellla
+  - Les Tartines
+- Sublime
+  - What I got
+- Suicidal Tendencies
+- Supergrass
+  - Alright
+- Supertramp
+  - The logical song
+  - It's raining again
+- Survivor
+  - Eye of the tiger
+- Suzanne Vega
+  - Luka
+- Svinkels
+- Sweet Smoke
+  - Silly Sally
+- Sylvie Vartan
+  - La plus belle pour aller danser
+- System of a down
+- Talk talk
+  - Such a shame
+- Talking Heads
+  - Once in a lifetime
+  - Psycho killer
+- Taxi Girl
+  - Cherchez le garçon
+- Taylor Swift
+  - Shake it off
+- Tears for Fears
+  - Everybody wants to rule the world
+- Téléphone
+- Ten Sharp
+  - You
+- Ten years After
+- Terence Trent D'Arby
+  - Sign your name
+- Teri Moïse
+  - Les poêmes de Michelle
+- Tété
+  - À la faveur de l'automne
+- Texas
+- The Animals
+  - Dont let me be misunderstood
+- The Art Company
+  - Susanna
+- The Bangles
+  - Eternal Flame
+  - Walk like an Egyptian
+- The Beach Boys
+  - I get Around
+- The Beatles
+- The Belle Stars
+  - Sign Of The Times
+- The Breeders
+  - Cannonball
+- The Cardigans
+  - Lovefool
+- The Carpenters
+  - Close to you
+- The Christians
+  - If I could find words
+- The Clarks
+- The Commodores
+  - Easy
+- The Communards
+- The Cranberries
+  - Zombie
+- The Cure
+- The Deftones
+  - My Own Summer
+  - Be Quiet & Drive
+- The Dø
+- The Doobie Brothers
+- The Doors
+  - Light my fire
+- The Fugees
+  - Fugee-la
+- The Gladiators
+- The Hives
+  - Hate to say I told you so
+- The Kinks
+  - you really got me
+- The Knack
+  - My Sharona
+- The Korgis
+  - Everybody's got to learn sometime
+- The Mamas & The Papas
+  - California Dreaming
+- The Offspring
+  - Pretty fly
+- The Pasadenas
+  - Tribute
+- The Pogues
+  - Dirty old town
+- The Platters
+  - Only you
+- The Pretenders
+  - I go to sleep
+- The Ramones
+  - Teenage Lobotomy
+- The Rasmus
+  - In The shadows
+- The Rembrants
+  - Friends?
+- The Rolling Stones
+  - Honky Tonk Woman
+- The Ronnettes
+  - Be my baby
+- The Roots
+- The Sex Pistols
+  - God save the Queen
+- The Shadows
+  - Apache
+- The Skatalites
+- The Stone Roses
+- The Stooges
+- The Strokes
+- The Supermen lovers
+  - Starlight
+- The Supremes
+  - Baby love
+- The Temptations
+  - My girl
+- The The
+- The Verve
+  - The bitter sweet symphony
+- The White Stripes
+  - Seven Nation Army
+- The Who
+  - My generation
+- The Yardbirds
+- Thierry Hazard
+  - Le Jerk
+- Thierry Pastor
+  - Le coup de folie
+- Thomas Fersen
+- Tiken Jah Fakoli
+- Tim Buckley
+- Tina Arena
+  - Chains
+- Tina Charles
+  - Love to love
+- Tina Turner
+  - The Best
+- Tino Rossi
+  - Mexico
+- TLC
+  - No Scrub
+- Tom Jones
+  - It's not unusual
+- Tom Petty
+  - Learning to fly
+- Tom Waits
+- Toni Braxton
+  - Unbreak my heart
+- Tonton David
+  - Chacun sa route, chacun son chemin
+- Tool
+- Toots and the Maytals
+  - 54.46 that's my number
+- Tori Amos
+  - Cruficy myself
+- Toto Cutunio
+  - l'italiano
+- Toto
+  - Africa
+- Toto Coelo
+  - Milk of the coconut
+- Tower of Power
+- Tracy Chapman
+  - Talking bout Revolution
+- Trust
+  - Antisocial
+- Tri Yann
+- Troggs
+  - Wild thing
+- Tryo
+  - Hymne de nos campagnes
+- Tunde Olaniran
+- U2
+  - One
+- UB40
+  - Red Red Wine
+- UFO
+  - Doctor doctor
+- Ugly Kid Joe
+  - Everything about you
+- Umberto Tozzi
+- Usher
+- Vanessa Carlton
+  - A 1000 miles
+- Vanessa Paradis
+  - Joe le Taxi
+  - Maryline et John
+- Vangelis
+- Vaya Con Dios
+  - Just a Friend
+- Vianney
+  - Je m'en vais
+- Vincent Delerm
+- Violent Femmes
+  - Blister in the sun
+- Visage
+  - Fade to Grey
+- Vivien Savage
+  - Le petite lady
+- Vitaa
+  - À fleur de toi
+- Vivien Savage
+- Véronique Sanson
+  - Rien que de l'eau
+- Warda
+  - Batwanes Beek
+- Warren G
+  - Regulate
+- Was not was
+- Weezer
+  - Island in the sun
+- Wet Wet Wet
+  - Sweet little mystery
+- Wham
+  - Wake me Up
+- White Stripes
+  - Seven Nation Army
+- Whitesnake
+  - Crying in the rain
+- Whitney Houston
+  - I wanna dance with somebody
+- Wild Cherry
+  - Play that funky music white boy
+- Wilson Pickett
+- William Sheller
+  - Un homme heureux
+- Willy Denzey
+  - Sexy Honey
+- Womack and Womack
+  - Teardrops
+- Yann Thiersen
+- Yannick Noah
+  - La voix des sages
+- Yazz
+  - The only way is up
+- Yes
+  - Owner of a lonely heart
+- Yodelice
+  - Sunday with a flu
+- Yves Duteil
+  - Tarentelle
+- Yves Jamait
+- Yves Montand
+  - A bicyclette
+- Yves Simon
+- Zaz
+- Zazie
+  - Rue de la Paix
+- Zebda
+  - égaliser
+- Zoufris Maracas en double
+- Zouk Machine
+  - Maldon'
+- Zizi Jeanmaire
+  - Mon truc en plume
+- Zoufris Maracas
+- ZZ Top
+
