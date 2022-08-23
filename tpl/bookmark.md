@@ -1,3 +1,3 @@
 #bookmark 
 
-[Go]({cursor})
+[Go](
