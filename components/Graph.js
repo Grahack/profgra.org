@@ -72,7 +72,7 @@ function Graph({graph}) {
     return (
         <>
             <div className="right-bar-container">
-                <h3>Interactive Graph</h3>
+                <h3>Graphe des articles</h3>
                 <div
                     style={{
                         border: "1px solid #ddd",

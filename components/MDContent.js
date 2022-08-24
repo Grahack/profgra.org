@@ -6,7 +6,7 @@ import {useRouter} from 'next/router'
 function BackLinks({linkList}) {
 
     return (<div className="note-footer">
-            <h3 className="backlink-heading">Link to this note</h3>
+            <h3 className="backlink-heading">Articles pointant vers celui-ci :</h3>
         {(linkList != null && linkList.length > 0)
             ?
             <>
@@ -24,7 +24,7 @@ function BackLinks({linkList}) {
                     )}
                 </div>
             </>
-            : <> <p className="no-backlinks"> No backlinks found</p> </>}
+            : <> <p className="no-backlinks">Pas d’article.</p> </>}
     </div>);
 }
 
@@ -53,7 +53,7 @@ function MDContent({content, backLinks, handleOpenNewContent}) {
             </div>
             <hr/>
             <footer>
-                <p>Powered by  <a href="https://github.com/TuanManhCao/digital-garden">Mind Stone</a>, © 2022</p>
+                <p>Système de publication basé sur <a href="https://github.com/TuanManhCao/digital-garden">Mind Stone</a> © 2022</p>
             </footer>
         </div>
     );
