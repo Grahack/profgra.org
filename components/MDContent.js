@@ -42,9 +42,8 @@ function MDContent({content, backLinks, handleOpenNewContent}) {
 
         <div className="markdown-rendered">
             <Alert severity="info">
-                <AlertTitle>Want to know more?</AlertTitle>
-                🌱 <strong>Follow</strong> or <strong>DM</strong> me on Twitter at <span><a
-                href="https://twitter.com/tuancm">@tuancm</a></span>
+                <AlertTitle>Bienveillance SVP !</AlertTitle>
+                Ce site est en cours de développement.
             </Alert>
             <div dangerouslySetInnerHTML={{__html: content}}/>
             {/*<button onClick={handleInternalLinkClick}>Click me</button>*/}
