@@ -9,6 +9,7 @@ import {styled} from '@mui/material/styles';
 const TCTreeItem = styled(TreeItem)(({theme}) => ({
     '& .MuiTreeItem-content': {
         '& .MuiTreeItem-label': {
+            // style items
             fontSize: '1rem',
             paddingLeft: '6px',
             fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif,',
