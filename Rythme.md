@@ -47,6 +47,7 @@ Graphical Rhythm Annotation
 ![[Metronome mes de silence]]
 ![[Metronome sur subdivisions]]
 ![[Metronome qui ralentit]]
+
 # Phrases diverses
 
 ```music-abc
@@ -80,8 +81,6 @@ L:1/8
 |: zG2 C2G zC2 G2C :|
 |: zGG C2G GC2 GGC :|
 |: zG2 C2G GC2 G2C | zGG C2G zC2 GGC :|
-
-
 ```
 
 ```music-abc
