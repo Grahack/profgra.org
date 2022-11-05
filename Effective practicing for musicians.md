@@ -393,15 +393,3 @@ you to advise a pedestrian on the street which direction to take once
 you know the destination.
 
 
-# Suggestions
-
-- p39 "is it" -> "it is"
-- p49 "on foot" -> "by foot"
-- p58 performance mode." -> ".
-- p58 to breakfast -> at breakfast
-- p73 top "exponentialy" I guess no
-- p78  "a such way" -> "such a way"
-- p83 "door to your practice room" -> of
-- p95 title: "no" -> "not", also top of p102
-- p184 "the the"
-

@@ -19,6 +19,10 @@ Bla
 Mi grave sorti à la trompette en regardant par la fenêtre et en pensant à autre
 chose.
 
+## Le bassiste qui pianotait
+
+Bla
+
 ## Du volley pour s'amuser
 
 Bla
