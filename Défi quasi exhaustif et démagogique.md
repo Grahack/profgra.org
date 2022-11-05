@@ -812,6 +812,8 @@ bla
   - Au soleil
 - Jermaine Jackson
   - Do what you do
+- Jerry Lee Lewis
+  - Great balls of fire
 - Jessie J
   - Mama knows best
 - Jennifer Lopez
@@ -860,6 +862,7 @@ bla
   - The Circle Game
 - Journey
   - Separate ways
+  - Don't stop believing
 - Joy Division
   - Love will tear us apart
 - Judas Priest
@@ -1820,6 +1823,7 @@ bla
   - Joe le Taxi
   - Maryline et John
 - Vangelis
+  - La petite fille de la mer
 - Vaya Con Dios
   - Just a Friend
 - Vianney
