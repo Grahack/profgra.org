@@ -17,6 +17,7 @@ Graphical Rhythm Annotation
 - ` ` ou `+` permettent de séparer les mesures;
 - un chiffre indique combien de coups à jouer pendant une pulsation,
   sauf si `?:` est indiqué en début de ligne;
+- par défaut en frisé, il n'y a pas d'indication de doigté pour l'instant;
 - `2:` en début de ligne indique que deux caractères sont utilisés pour
   une pulsation. Cela permet de démarrer un groupe sur une
   demi-pulsation (ex: `2:1133` est équivalent à `26`). Idem avec `4:`.
