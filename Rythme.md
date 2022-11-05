@@ -90,3 +90,14 @@ M:4/4
 L:1/8
 |: GG z2 G2 GG z2 G2 GG z2 G2  :|
 ```
+
+# Antisèche Born in dissonance
+
+```
+AAAABBAAAABBAAAABB
+AAAABBBAAAABBAAAAB
+AB
+ABAAB
+ABAABAAABB
+AAAAC
+```
