@@ -23,6 +23,7 @@ export default function Home({graphData, content, tree, flattenNodes, backLinks}
         <Layout>
             <div className = 'container'>
                 <nav className="nav-bar">
+                    <h1 id="root-title"><a href="/">ProfGra</a></h1>
                     <FolderTree tree={tree} flattenNodes={flattenNodes}/>
                 </nav>
                 <MDContent content={content}  handleOpenNewContent={null} backLinks={backLinks}/>

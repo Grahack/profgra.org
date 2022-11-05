@@ -26,6 +26,7 @@ export default function Home({note, backLinks, fileNames, tree, flattenNodes, gr
             </Head>
             <div className='container'>
                 <nav className="nav-bar">
+                    <h1 id="root-title"><a href="/">ProfGra</a></h1>
                     <FolderTree tree={tree} flattenNodes={flattenNodes}/>
                 </nav>
                 <MDContent content={note.data} fileNames={fileNames} handleOpenNewContent={null} backLinks={backLinks}/>

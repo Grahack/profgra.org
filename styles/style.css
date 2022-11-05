@@ -3,6 +3,15 @@
     --font-monospace: 'Source Code Pro', monospace;
 }
 
+#root-title {
+    text-align: center;
+    line-height: 1em;
+}
+
+#root-title a {
+    color: black;
+}
+
 a {
     color: var(--text-accent);
     outline: none;
