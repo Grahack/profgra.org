@@ -3,4 +3,3 @@
 # Python
 * [[Vocabulaire minimal en Python]]
 * [[range]]
-* 
