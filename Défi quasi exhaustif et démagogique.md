@@ -592,6 +592,7 @@ bla
 - Fool's Garden
   - Lemon tree
 - Foo Fighters
+  - My hero
 - Foreigner
   - Juke box hero
 - FR David
