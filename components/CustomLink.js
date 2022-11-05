@@ -1,4 +1,4 @@
-import Link from 'next/link';
+mport Link from 'next/link';  // doesn't seem to be loaded! (removed the i)
 
 export default function CustomLink({ children, href }) {
     // If the link is local it will start with a "/"
