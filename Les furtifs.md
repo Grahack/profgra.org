@@ -73,7 +73,7 @@ ta propre folie. Accepte-le. Accepte-la. Il n'y aura personne pour te
 donner un conseil qui vaille à ce moment-là....
 
 ### Réponse binaire 
-Iln'avait pas répondu à ma dernière question: il l'avait tapée au clavier,
+Il n'avait pas répondu à ma dernière question: il l'avait tapée au clavier,
 directement sur l'écran de mon gant. Chez Zilch, ça signifiait approxima
 tivement ceci > tu poses trop de questions, je perds du temps > je hacke,
 mec, et t'es qu'un putain de boulet de notech > alors agis et trace!

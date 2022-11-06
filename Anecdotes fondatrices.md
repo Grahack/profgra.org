@@ -14,6 +14,11 @@ Bla
 
 Bla
 
+## Mi grave
+
+Mi grave sorti à la trompette en regardant par la fenêtre et en pensant à autre
+chose.
+
 ## Le bassiste qui pianotait
 
 Bla
@@ -27,6 +32,10 @@ Bla
 À la Réunion
 
 ## Retour à Dire Straits
+
+Bla
+
+## Casque à Sitges 
 
 Bla
 

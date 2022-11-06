@@ -16,8 +16,14 @@ bla
   - Tuer l'un des Siens
 - inconnu
   - Voisin sur la lune
+
+### Chiffres
+
 - 4 non Blondes
   - What's going on
+
+### A
+
 - À cause des garçons
   - A cause des garçons
 - A Perfect Circle
@@ -121,6 +127,9 @@ bla
   - Cargo de Nuit
 - Axelle Red
   - Parce que c'est toi
+
+### B
+
 - B-52's
   - Love Shack
 - Backstreet Boys
@@ -281,6 +290,9 @@ bla
   - On the road
 - Busta Rhymes
   - Woo Hah
+
+### C
+
 - C Jérome
   - Et tu danses avec lui
 - Cake
@@ -413,6 +425,9 @@ bla
 - Cypress Hill
   - Rock superstar
 - Crossby, Stills & Nash
+
+### D
+
 - D'Angelo
   - Sugar
 - DaftPunk
@@ -502,6 +517,9 @@ bla
   - gonna get you
 - Dyonisos
   - Jedi?
+
+### E
+
 - Eagle Eye Cherry
   - Save Tonight
 - Eagles
@@ -566,6 +584,9 @@ bla
 - Extreme
   - More than Words
   - There is No God
+
+### F
+
 - Fabienne Thiebault
   - Les uns contre les autres
 - Fabulous Troubadours
@@ -592,6 +613,7 @@ bla
 - Fool's Garden
   - Lemon tree
 - Foo Fighters
+  - My hero
 - Foreigner
   - Juke box hero
 - FR David
@@ -624,6 +646,9 @@ bla
 - Frédéric François
 - Félix Leclerc
   - Bonheur
+
+### G
+
 - Gala
   - Freed from desire
 - Gamine
@@ -694,6 +719,9 @@ bla
   - L’eau vive
 - Guy Marchand
   - Destinée
+
+### H
+
 - Hanson
   - MMMBop
 - Har Mar superstar
@@ -724,6 +752,9 @@ bla
   - The power of love
 - Hugues Auffray
   - Santiano
+
+### I
+
 - I AM
   - Sept
 - I wanna rock Twisted Sisters
@@ -750,6 +781,9 @@ bla
   - Theme from Shaft
 - Isabelle Boulay
   - Parle-moi
+
+### J
+
 - J.J. Lionel
   - La danse des canards
 - Jackie Quartz
@@ -811,6 +845,8 @@ bla
   - Au soleil
 - Jermaine Jackson
   - Do what you do
+- Jerry Lee Lewis
+  - Great balls of fire
 - Jessie J
   - Mama knows best
 - Jennifer Lopez
@@ -859,6 +895,7 @@ bla
   - The Circle Game
 - Journey
   - Separate ways
+  - Don't stop believing
 - Joy Division
   - Love will tear us apart
 - Judas Priest
@@ -882,6 +919,9 @@ bla
 - Justin Bieber
 - Justin Timberlake
   - My love
+
+### K
+
 - Kajagogo
   - Won't go
 - Kamini
@@ -932,6 +972,9 @@ bla
 - Kylie Minogue
   - Can't get you Outta my Head
 - Kyo
+
+### L
+
 - L'Affaire Louis' Trio
   - Chic Planète
 - L5
@@ -1046,6 +1089,9 @@ bla
   - Tes états d'âme Éric
 - Lynyrd Skynyrd
   - Free Bird
+
+### M
+
 - M
 - Maceo Parker
 - Macy Gray
@@ -1182,6 +1228,9 @@ bla
   - Pourvu qu'elles soient douces
 - Mötley Crüe
   - Girls girls girls
+
+### N
+
 - Nacash
   - Elle imagine
 - Nach
@@ -1253,6 +1302,9 @@ bla
   - J'appuie sur la gachette
 - Nuttea
   - Elle te rend dingue
+
+### O
+
 - Oasis
   - Wonderwall
 - Odezenne
@@ -1273,6 +1325,9 @@ bla
 - Outkast
   - Hey ya
 - Ozzy Osbourne
+
+### P
+
 - P Lion
   - Dream
 - Pacifique
@@ -1399,9 +1454,15 @@ bla
   - Disco 2000
 - Pussy Riot
 - Pussycat Dolls
+
+### Q
+
 - Queen
   - We are the champions
 - Queens of the stone age
+
+### R
+
 - Rachid Ferrache
   - Le fille aux cheveux bleus
 - Rachid Taha
@@ -1499,6 +1560,9 @@ bla
   - Dolce Vita
 - Rydann
   - l'Agriculteur
+
+### S
+
 - Sabine Paturel
   - Les bêtises
 - Sabrina
@@ -1643,6 +1707,9 @@ bla
 - Sylvie Vartan
   - La plus belle pour aller danser
 - System of a down
+
+### T
+
 - Talk talk
   - Such a shame
 - Talking Heads
@@ -1803,6 +1870,9 @@ bla
 - Tryo
   - Hymne de nos campagnes
 - Tunde Olaniran
+
+### U
+
 - U2
   - One
 - UB40
@@ -1813,12 +1883,16 @@ bla
   - Everything about you
 - Umberto Tozzi
 - Usher
+
+### V
+
 - Vanessa Carlton
   - A 1000 miles
 - Vanessa Paradis
   - Joe le Taxi
   - Maryline et John
 - Vangelis
+  - La petite fille de la mer
 - Vaya Con Dios
   - Just a Friend
 - Vianney
@@ -1835,6 +1909,9 @@ bla
 - Vivien Savage
 - Véronique Sanson
   - Rien que de l'eau
+
+### W
+
 - Warda
   - Batwanes Beek
 - Warren G
@@ -1861,6 +1938,9 @@ bla
   - Sexy Honey
 - Womack and Womack
   - Teardrops
+
+### Y
+
 - Yann Thiersen
 - Yannick Noah
   - La voix des sages
@@ -1876,6 +1956,9 @@ bla
 - Yves Montand
   - A bicyclette
 - Yves Simon
+
+### Z
+
 - Zaz
 - Zazie
   - Rue de la Paix
