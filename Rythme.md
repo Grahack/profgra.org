@@ -87,9 +87,9 @@ L:1/8
 ```music-abc
 X:5
 T:Jazz in rock trick
-M:4/4
+M:6/4
 L:1/8
-|: GG z2 G2 GG z2 G2 GG z2 G2  :|
+|: G2 GG z2 G2 GG z2 :|
 ```
 
 # Antisèche Born in dissonance
