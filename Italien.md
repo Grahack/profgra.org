@@ -39,4 +39,27 @@
 1. Hai bisogno de qualcosa?
 1. Ho bisogno di aiuto (aide)
 1. Posso aiutarti (puis-je aider)? 7'20"
-
+1. Grazie per il tuo aiuto
+1. Sta piovendo (il pleut)
+1. Sta nevicando (il neige)
+1. Svegliati (réveille-toi)
+1. Alzati (lève-toi)
+1. Non ho soldi (je n’ai pas d’argent)
+1. Come hai dormito?
+1. Ho dormito bene
+1. È facile?
+1. È difficile?
+1. Che ore sono?
+1. È tardi (tard), è presto (tôt)
+1. Dov'è la farmacia?
+1. di medicine
+1. Ti piace? (tu aimes ça?)
+1. Mi piace / no mi piace
+1. Capischi? Vous comprenez?
+1. Capisco (je comprends)
+1. È piccolo.
+1. È grande.
+1. Sono in vacanza (je suis en vacances)
+1. Sono tourista.
+1. Cosa è successo? (que s’est-il passé?)
+1. Non è successo niente (il ne s’est rien passé) 12'08"
