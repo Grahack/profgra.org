@@ -49,3 +49,6 @@ Autour de C il y a un Fa donc la triade de C.
   * G alt avec Db-Eb
   * E alt avec Bb-C
   * A alt avec Eb-F
+* bV-bIII
+  * G alt avec E-Bb ou E-A#
+  * E alt avec Db-G ou C#-G
