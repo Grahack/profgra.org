@@ -6,3 +6,4 @@
 - "Not having a plan" doesn't imply "messing around".
 - Le contraire de ne pas en mettre partout n'est pas
   d'en mettre nulle part.
+- Je me cache sous mon bureau car les bons employés sont difficiles à trouver.
