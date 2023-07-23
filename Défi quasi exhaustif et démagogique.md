@@ -66,6 +66,7 @@ bla
 - Alex Beaupain
 - Alice Cooper
   - Poison
+- Alice Dona
 - Alice in Chains
 - Alicia Keys
   - New York
@@ -78,6 +79,8 @@ bla
   - Ma Philosophie
 - Alphaville
   - Forever young
+- Amir
+  - La fete
 - Amy Winehouse
   - No no no
 - Anais
@@ -303,6 +306,7 @@ bla
   - Face à la mer
 - Cameo
 - Camelia Jordana
+  - Non non non
 - Camille
   - Paris
 - Cannibal Corpse
@@ -488,6 +492,8 @@ bla
 - Didier Barbelivien
 - Didier Super
 - Dido
+- Dio
+. - Holy diver
 - Dionne Warwick
   - Heartbreaker
 - Dire Straits
@@ -498,6 +504,8 @@ bla
   - Tchikita
 - Doc Gyneco
   - Le docteur
+  - Dolly
+    - Je ne veux pas rester sage
 - Dolly Parton
   - Jolene
 - Dominique A
@@ -579,6 +587,7 @@ bla
   - The final countdown
 - Eurythmics
   - There must be an Angel
+- Eva Cassidy
 - Evanescence
   - Bring me to life
 - Extreme
@@ -726,6 +735,8 @@ bla
   - MMMBop
 - Har Mar superstar
   - Lady, you shot me
+- Harry Belafonte
+  - Day-O (Banana boat song)
 - Harry Connick Junior
 - Heart
   - Barracuda
@@ -781,6 +792,8 @@ bla
   - Theme from Shaft
 - Isabelle Boulay
   - Parle-moi
+- Izia
+  - Sous les pavés
 
 ### J
 
@@ -841,6 +854,7 @@ bla
   - Toute première fois
 - Jeff Buckley
 - Jefferson Airplane
+   - White Rabbit
 - Jenifer
   - Au soleil
 - Jermaine Jackson
@@ -928,6 +942,7 @@ bla
   - Marly-Gomont
 - Kansas
   - Dust in the wind
+  - Carry on Wayward Son
 - Kaoma
   - Lambada
 - Karine Costa
@@ -1193,10 +1208,12 @@ bla
 - Mike Oldfield
   - Moonlight Shadow
 - Milli Vanilli
-- Mireille Mathieu
-  - Paris brûle-t-il
+- Ministry
+  - Revenge
 - Miossec
   - Brest
+- Mireille Mathieu
+  - Paris brûle-t-il
 - Miss Tick
 - Mister Big
   - To be with you
@@ -1275,6 +1292,8 @@ bla
 - Nina Morato
 - Nina Simone
   - My baby don't care
+- Nine Inch Nails
+  - Wish
 - Nino Ferrer
   - Anarchistes
   - le Sud
@@ -1342,6 +1361,7 @@ bla
   - Laissons la plage aux romantique
 - Pascal Obispo
   - Fan
+- Pat Benatar
 - Patachou
   - Au bout de la semaine
 - Patricia Carli
@@ -1496,6 +1516,8 @@ bla
 - Renaud
   - Mistral Gagnant
   - vent soufflera
+- Ricchi E Poveri
+  - Sara perche ti amo
 - Richard Anthony
 - Richard Clayderman
   - Ballade pour Adeline
@@ -1584,6 +1606,8 @@ bla
 - Sam Brown
   - Stop !
 - Sam Cooke
+- Sam Smith
+ -  I'm not the only one
 - Samantha Fox
   - Touch me
 - San Severino
@@ -1625,6 +1649,7 @@ bla
 - Simon & Garfunkel
   - El Condor Pasa
 - Simple Minds
+  - Don't you
 - Simply Red
   - If you don't know me by now
 - Sinatra
@@ -1805,6 +1830,8 @@ bla
 - The Shadows
   - Apache
 - The Skatalites
+- The Specials
+  - Ghost Town
 - The Stone Roses
 - The Stooges
 - The Strokes
