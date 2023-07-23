@@ -8,18 +8,18 @@ INTRODUCTION 1
 3. Everything You Need to Have p.27
 4. A Few Things to Keep in Mind p.31
 
-THE FOUR UNDERLYING PRINCIPLES .33
+THE FOUR UNDERLYING PRINCIPLES p.33
 
-5. Writing ls the Only Thing That Matters .33
-6. Simplicity Is Paramount. .. 36
-7. Nobody Ever Starts From Scratch. ... 45
-8. Let the Work Carry You Forward . 49
+5. Writing ls the Only Thing That Matters p.33
+6. Simplicity Is Paramount p.36
+7. Nobody Ever Starts From Scratch p.45
+8. Let the Work Carry You Forward p.49
 
-THE SIX STEPS TO SUCCESSFUL WRITING 55
+THE SIX STEPS TO SUCCESSFUL WRITING p.55
 
-9. Separate and Interlocking Tasks... 55
-10. Read for Understanding.. .. 72
-11. Take Smart Notes. 88
+9. Separate and Interlocking Tasks p.55
+10. Read for Understanding p.72
+11. Take Smart Notes p.88
 12. Develop ldeas.. ... 105
 13. Share Your Insight.. 12 129
 14. Make It a Habit... .. 142
