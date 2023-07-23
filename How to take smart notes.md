@@ -3,6 +3,9 @@
 
 INTRODUCTION 1
 
+P1 Writing! Taking notes is generally under the radar.
+P4 It is not so important who you are, but what you do.
+
 1. Everything You Need to Know p.5
 2. Everything You Need to Do p.20
 3. Everything You Need to Have p.27
