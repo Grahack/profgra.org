@@ -14,14 +14,25 @@ Bla
 
 Bla
 
+## Db maj
+
+Concert lycée
+
 ## Mi grave
 
-Mi grave sorti à la trompette en regardant par la fenêtre et en pensant à autre
-chose.
+Mi grave sorti à la trompette en regardant par la fenêtre et en pensant à autre chose.
+
+## Flamenco
+
+JV1010
 
 ## Le bassiste qui pianotait
 
 Bla
+
+ ## Trompette au 9 billards
+
+ Le rythme !
 
 ## Du volley pour s'amuser
 
@@ -31,7 +42,15 @@ Bla
 
 À la Réunion
 
+## Tables de multiplication avec cousin
+
+Bla
+
 ## Retour à Dire Straits
+
+Bla
+
+## Merci respecté
 
 Bla
 
@@ -39,9 +58,13 @@ Bla
 
 Bla
 
+## Pas de Merco renversée
+
+Respect.
+
 ## Le bleu zébré
 
-Bla
+...des krl
 
 ## Un seul exemple
 
