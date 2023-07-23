@@ -23,3 +23,6 @@
 - [[Effective practicing for musicians]]
 - [[The Handmaid's tale]]
 - [[How to take smart notes]]
+- [[The illustrated man]]
+- [[Le problème à trois corps]]
+- [[La forêt sombre]]
