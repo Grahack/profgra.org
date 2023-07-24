@@ -2,6 +2,7 @@
 /content/.trash
 /content/graph-data.json
 
+.hugo_build.lock
 public
 resources
 assets/indices/linkIndex.json
