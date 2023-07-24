@@ -1,3 +1,9 @@
 /content/.obsidian
 /content/.trash
 /content/graph-data.json
+
+public
+resources
+assets/indices/linkIndex.json
+assets/indices/contentIndex.json
+linkmap
