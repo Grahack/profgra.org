@@ -13,9 +13,9 @@
 - [[Des maths ensemble et pour chacun]]
 - [[Freinet]]
 - les Servigne
-- [[Dans la forêt ]]
-- [[Les robots]]
-- [[Aucun souvenir assez solide ]]
+- [[Dans la forêt]]
+- [Les robots](Asimov%20Les%20robots.md)
+- [[Aucun souvenir assez solide]]
 - [[Machines like me]]
 - [[La horde du contrevent]]
 - [[Les furtifs]]
