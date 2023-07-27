@@ -43,7 +43,7 @@ Exemples:
 def expr1(P, Q, R):
     return (P and Q) or R
 ```
-Définir une fonction qui modélise l’implication,
+Définir une fonction qui modélise l'[[implication]],
 elle doit passer les tests:
 
 ```python
