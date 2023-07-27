@@ -1,3 +1,3 @@
 #musique/rythme #musique/meshuggah
 
-[Pattashuggah](https://grahack.github.io/pattashuggah/)
+[Page officielle de Pattashuggah](https://grahack.github.io/pattashuggah/)
