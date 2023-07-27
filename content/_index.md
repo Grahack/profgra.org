@@ -1,5 +1,3 @@
-# ProfGra.org
-
 Bienvenue dans cette base de connaissances publique.
 
 ## Lycée
