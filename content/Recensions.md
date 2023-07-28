@@ -9,6 +9,7 @@
 - [[Roald Dahl]]
 - [[EKR]]
 - [[Elements of style]]
+- [Gödel, Escher, Bach: an Eternal Golden Braid](GEB.md)
 - [[L'éthique des hackers]]
 - [[Des maths ensemble et pour chacun]]
 - [[Freinet]]
