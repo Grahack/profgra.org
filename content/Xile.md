@@ -1,7 +1,12 @@
-#classe/NSI #peda/actrapide #info/POO
+---
+title: "Xile"
+tags:
+    - classe/TNSI
+    - peda/actrapide
+    - info/POO
+---
 
-Un fou a inventé la structure de données
-`Xile`.
+Un fou a inventé la structure de données `Xile`.
 
 C’est comme une *pile* mais qu’on peut
 transformer en *file* à la volée en appelant la

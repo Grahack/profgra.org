@@ -1,6 +1,10 @@
-#info/lang #classes/nsi
-
-# Rosetta Code
+---
+title: "Rosetta Code"
+tags:
+    - info/lang
+    - NSI
+    - peda
+---
 
 Les liens pointent vers les versions Python.
 

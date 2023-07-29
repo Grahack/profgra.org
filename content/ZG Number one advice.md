@@ -1,39 +1,49 @@
-#peda #musique/batterie
+---
+title: "Number one advice from drummers"
+tags:
+    - peda
+    - musique/batterie
+---
 
-[video](https://www.youtube.com/watch?v=PA1VCM6aa1c)
+[Video de Zack Grooves](https://www.youtube.com/watch?v=PA1VCM6aa1c)
 
-Le mec de BB King :
+Le mec de BB King :  
 être attentif à tout (oreilles, yeux), tout prendre, être versatile
 
-Greg Bissonette :
+Greg Bissonette :  
 Avoir le bon tempo du début à la fin.
 
-EMC guy :
-Basics : technique, listen and watch as much as possible. Private instructor
+EMC guy :  
+Basics : technique, listen and watch as much as possible.
+Get a private instructor.
 
-Peter Erskine :
-Never pat a burning dog (Steve Gadd)
+Peter Erskine :  
+Never pat a burning dog (Steve Gadd).
 
-Donald Barrett :
-Keep practicing, keep listening, open your ears and get to work, keep practicing.
+Donald Barrett :  
+Keep practicing, keep listening, open your ears and get to work,
+keep practicing.
 
-Dimitri Fantini :
-Focus on fundamentals, on technique that keeps you really be relaxed. Work slowly to have solid fundations.
+Dimitri Fantini :  
+Focus on fundamentals, on technique that keeps you really be relaxed.
+Work slowly to have solid fundations.
 
-Allison Miller :
-Reach out to your heroes
+Allison Miller :  
+Reach out to your heroes.
 
-Roger Carter :
-Play things that have a musical purpose, not just a bunch of licks. « Chops don't solve every problem ».
+Roger Carter :  
+Play things that have a musical purpose, not just a bunch of licks.
+« Chops don't solve every problem ».
 
-Keio Stroud :
+Keio Stroud :  
 Listen to everyone, learn to read ?? out.
 
-Dorothea Taylor :
+Dorothea Taylor :  
 Practice, practice, practice.
 
-Edison :
-Use a metronome as much as possible, listen to as much as possible, try to get the basics done.
+Edison :  
+Use a metronome as much as possible, listen to as much as possible,
+try to get the basics done.
 
-Matthew :
+Matthew :  
 Don't overpower the band. 

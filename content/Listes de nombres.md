@@ -1,6 +1,13 @@
-#classe/NSI #peda/activite #info/lang/python
+---
+title: "Listes de nombres"
+tags:
+    - classe/1NSI
+    - peda/activite
+    - info/lang/python
+---
 
-# Listes de nombres
+## Listes de nombres
+
 1. Nombres consécutifs
     1. Écrire une instruction ou une suite d’instructions
        qui affiche les nombres entiers de 1 à 20, chacun
@@ -15,7 +22,8 @@
    une liste et teste si cette liste est la liste des
    nombres entiers de 1 à 20.
 
-# Propositions
+## Propositions
+
 ```python
 for i in range(20):
     print(i+1)
@@ -42,5 +50,4 @@ range(0, 21, 2)
 range(1, 20, 2)
 [x for x in range(1, 21) if x%2==0]
 [2*x for x in range(1, 11)]  # ajouter +1...
-
 ```

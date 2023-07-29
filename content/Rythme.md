@@ -1,8 +1,8 @@
-#musique/rythme
-
-# Rythme
-
-[[Pattashuggah]]
+---
+title: "Rythme"
+tags:
+    - musique/rythme
+---
 
 ## Notation GRA
 
@@ -48,15 +48,15 @@ Graphical Rhythm Annotation
 ![[Metronome sur subdivisions]]
 ![[Metronome qui ralentit]]
 
-# Phrases diverses
+## Phrases diverses
 
-```music-abc
+<pre>
 X:1
 T:God he sees in mirrors
 M:4/4
 L:1/16
 |: G4 G2G2 zG3 G3G | z2G2 zG3 G4 G2G2 | z2G2 G3G z2G2 G2 :|
-```
+</pre>
 
 ```music-abc
 X:2
@@ -92,7 +92,13 @@ L:1/8
 |: G2 GG z2 G2 GG z2 :|
 ```
 
-# Antisèche Born in dissonance
+## Meshuggah
+
+[[Pattashuggah]]
+
+Voir plus haut God he sees.
+
+Antisèche Born in dissonance :
 
 ```
 AAAABBAAAABBAAAABB

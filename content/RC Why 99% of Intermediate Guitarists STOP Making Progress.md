@@ -1,8 +1,12 @@
-#music #peda
+---
+title: "Why 99% of Intermediate Guitarists STOP Making Progress"
+tags:
+    - youtube
+    - musique
+    - peda
+---
 
-# Why 99% of Intermediate Guitarists STOP Making Progress
-
-[La video](https://www.youtube.com/watch?v=slJr2i1rWZg)
+[La video](https://www.youtube.com/watch?v=slJr2i1rWZg) de Ross Campbell.
 
 ## 1 Music theory is a language not a set of rules
 

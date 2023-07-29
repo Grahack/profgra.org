@@ -1,4 +1,8 @@
-#logique #contraposée
+---
+title: "Tiroirs"
+tags:
+    - logique
+---
 
 La contraposée de :
 
@@ -14,5 +18,3 @@ autrement dit :
 
 > Sur n tiroirs, si tous les tiroirs contiennent 0 ou 1 objet,
 > on ne peut pas avoir strictement plus de n objets en tout.
-
-

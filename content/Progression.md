@@ -1,6 +1,10 @@
-#musique
+---
+title: "Progression"
+tags:
+    - musique
+    - peda
+---
 
-# Progression
 
 Deux grands thèmes : [le rythme](#rythme) et [les notes](#notes).
 Jouer de la musique revient à [[#Notes en rythme|combiner]] ces thèmes.

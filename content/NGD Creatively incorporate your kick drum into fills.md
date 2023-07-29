@@ -1,8 +1,11 @@
-#musique/batterie
+---
+title: "Creatively incorporate your kick drum into fills"
+tags:
+    - musique/batterie
+    - peda
+---
 
-# Creatively incorporate your kick drum into fills
-
-[The video](https://www.youtube.com/watch?v=1pAizFTHqJo).
+[The video](https://www.youtube.com/watch?v=1pAizFTHqJo) of the Non Glamorousdrummer.
 
 ## Me
 

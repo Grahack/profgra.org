@@ -1,6 +1,10 @@
-#musique #peda
-
-# Harmony and theory
+---
+title: "Harmony and theory"
+tags:
+    - livre
+    - musique
+    - peda
+---
 
 ## Intro p5
 

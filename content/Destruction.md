@@ -1,4 +1,10 @@
-# Destruction
+---
+title: "Destruction"
+tags:
+    - musique
+---
+
+Morceaux réinterprétés de façon désagréable :
 
 - Stairway to heaven
 - Espagnolette

@@ -1,9 +1,14 @@
-#musique/metronome #musique/exo
+---
+title: "Metronome qui ralentit"
+tags:
+    - musique/metronome
+    - musique/exo
+---
 
 # Métronome qui ralentit
 
 - Commencer avec un métronome à 300 BPM et qui ralentit
-de 5 toutes les 30 secondes.
+  de 5 toutes les 30 secondes.
 - Jouer un frisé à 10 Hz (croches à 300 BPM!).
 - Attendre que le métronome ait assez ralenti
   pour pouvoir jouer des triolets.
@@ -13,7 +18,8 @@ de 5 toutes les 30 secondes.
   d'arriver sur le prochain bip, surtout sur les
   changements de débit.
 
-L'exercice permet de travailler:
+L'exercice permet de travailler :
+
 - le frisé, ou finalement n'importe quoi,
 - sentir quand basculer, et donc se connaître;
 - bascule binaire/ternaire.

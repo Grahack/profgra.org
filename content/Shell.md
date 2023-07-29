@@ -1,5 +1,17 @@
-#info/lang/sh
+---
+title: "Mémo shell"
+tags:
+    - info/lang/sh
+---
 
-# Mémo shell
+## Recherche dans des fichiers
 
-`find . -type f -name "*.md*" -exec grep -il "truc" {} \;`
+```sh
+find . -type f -name "*.md*" -exec grep -il "truc" {} \;
+```
+
+## Recherche dans des fichiers avec contexte
+
+```sh
+find . -type f -exec grep -H -n -C2 --regexp="truc" {} \;
+```

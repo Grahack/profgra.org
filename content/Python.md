@@ -1,6 +1,9 @@
-#info/lang/python
+---
+title: "Python"
+tags:
+    - info/lang/Python
+---
 
-# Python
 * [[Comment utiliser Python]]
 * [[Pour quoi utiliser Python]]
 * [[Vocabulaire minimal en Python]]

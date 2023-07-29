@@ -1,7 +1,9 @@
-Pas pour se moquer, peda purposes
+---
+title: "Perles"
+---
 
--2 + 2 calto
+C’est pas pour se moquer, c’est à des fins pédagogiques.
 
-Nbre décimales de rac 40
-
-Comment diviser par 4?
+* -2 + 2 calto
+* Nbre décimales de $\sqrt {40}$
+* Comment diviser par 4?

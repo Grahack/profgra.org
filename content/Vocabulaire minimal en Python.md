@@ -1,8 +1,14 @@
-#info/lang/python #-todo 
-
-# Vocabulaire minimal en Python
+---
+title: "Vocabulaire minimal en Python"
+tags:
+    - info/lang/python
+    - -todo
+---
 
 ## En seconde
 
+...
+
 ## En STS SIO
 
+...

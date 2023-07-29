@@ -1,6 +1,8 @@
-#info/tools
-
-# Vim
+---
+title: "vim"
+tags:
+    - info/outils/editeurs
+---
 
 ```
 set fileencoding=utf8

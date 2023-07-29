@@ -1,6 +1,11 @@
-#musique/basse
+---
+title: "Test affichage"
+tags:
+    - test
+---
 
-# Titre y
+## Titre y
+
 Code
 
 ```
@@ -19,6 +24,7 @@ Liste pages avec tag:
 tag:-todo
 ```
 
+## Partitions
 
 ```music-abc
 X:1
@@ -33,10 +39,9 @@ efe edB | dBA ABd | efe edB | gdB ABd |
 efe edB | d2d def | gfe edB |1 dBA ABd :|2 dBA AFD |]
 ```
 
-
 Salut $\emptyset$, c'est super.
 $$A=\emptyset$$
-Vraiment.
+Vraiment. Voir [[test latex]].
 
-[[Test#Titre y]]
+Lien interne : [[Test#Titre y]]
 

@@ -1,7 +1,13 @@
-https://www.youtube.com/watch?v=9zt1JBUzwsg
+---
+title: "Favorite warm-up of 2023"
+tags:
+    - musique/batterie
+---
 
-RlrRll RllrrL RlRlRR LrLrLL
+[Video](https://www.youtube.com/watch?v=9zt1JBUzwsg)
 
-para diddle diddle
-«6 strokes roll» (not to me)
-double paradiddles (RH lead then LH lead)
+`RlrRll RllrrL RlRlRR LrLrLL`
+
+* para diddle diddle
+* «6 strokes roll» (not to me)
+* double paradiddles (RH lead then LH lead)

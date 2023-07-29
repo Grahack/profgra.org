@@ -1,6 +1,9 @@
-#-draft
-
-# Workflow Obsidian
+---
+title: "Obsidian workflow"
+tags:
+    - obsidian
+    - -draft
+---
 
 ## Install
 

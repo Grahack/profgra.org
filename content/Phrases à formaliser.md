@@ -1,4 +1,9 @@
-#logique
+---
+title: "Phrases à formaliser"
+tags:
+    - classe/SIO
+    - logique
+---
 
 - Personne ne coche aucune case.
 - bla mais bli: et

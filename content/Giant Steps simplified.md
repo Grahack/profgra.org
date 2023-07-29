@@ -1,6 +1,8 @@
-#musique/standard
-
-# Giant Steps simplified
+---
+title: "Giant Steps simplified"
+tags:
+    - musique/standard
+---
 
 ```
 | B  -4 | G  -4 |  Eb  |  +4  |

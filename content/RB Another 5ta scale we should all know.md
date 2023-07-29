@@ -1,9 +1,13 @@
-#musique/basse
+---
+title: "Another 5ta scale we should all know"
+tags:
+    - peda
+    - youtube
+    - musique/basse
+---
 
-# Another penta scale we should all know
+[La video](https://youtu.be/RF3AL--2NaM) de Rich Brown.
 
 La grosse leçon:
 
 > 1 shape + 1 shape = 1 shape
-
-[Video](https://youtu.be/RF3AL--2NaM)

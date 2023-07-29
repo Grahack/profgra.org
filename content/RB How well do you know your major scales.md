@@ -1,6 +1,12 @@
-#musique/basse #peda
+---
+title: "How well do you know your major scales"
+tags:
+    - youtube
+    - musique/basse
+    - peda
+---
 
-https://www.youtube.com/watch?v=EBBS-IFrSds
+[La video](https://www.youtube.com/watch?v=EBBS-IFrSds) de Rich Brown.
 
 1. corde de Mi avec le majeur : 24124134
 2. corde de Mi avec l’auriculaire : 41341241

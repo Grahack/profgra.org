@@ -1,6 +1,9 @@
-#info #peda
-
-# Activité rapide sur les tris de dictionnaires
+---
+title: "Activité rapide sur les tris de dictionnaires"
+tags:
+    - info
+    - peda/actrapide
+---
 
 1. On considère une liste de dictionnaires :
 

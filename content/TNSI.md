@@ -1,5 +1,9 @@
-# Progression
-# T NSI
+---
+title: "TNSI"
+tags:
+    - -draft
+    - classe/Tnsi
+---
 
 ## Message pré-rentrée
 
@@ -29,8 +33,6 @@ Vous avez des forces et des faiblesses, travaillez vos faiblesses!
   pour l'informatique .
 
 ## Progression
-
-#-todo prog Tnsi
 
 1. Fonctions
 1. Encodage

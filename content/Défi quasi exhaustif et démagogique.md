@@ -1,8 +1,10 @@
-#musique 
+---
+title: "Le Défi quasi exhaustif et démagogique"
+tags:
+    - musique
+---
 
-# Le Défi quasi exhaustif et démagogique
-
-[Page FB](http://)
+[Page FB](https://www.facebook.com/ldqed)
 
 Originellement appelé "le défi du lac du Salagou".
 

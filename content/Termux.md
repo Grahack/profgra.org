@@ -1,15 +1,20 @@
-#-draft
+---
+title: "Termux"
+tags:
+    - -draft
+    - info
+---
 
-# Purpose
+## Purpose
 
 I mainly use Termux on Android for:
 
 - easier [[Backups]],
 - sync of my [[Obsidian]] git repository.
 
-# Basic install
+## Basic install
 
-```
+```shell
 termux-setup-storage
 
 apt update
@@ -24,7 +29,7 @@ cp dotfiles/* .
 mkdir .vim-tmp
 ```
 
-# Github
+## Github
 
 ```
 apt install openssh

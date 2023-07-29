@@ -1,6 +1,9 @@
-#musique #peda
-
-# My EPM
+---
+title: "My EPM"
+tags:
+    - musique
+    - peda
+---
 
 Voir [[Effective practicing for musicians]].
 
@@ -19,7 +22,7 @@ Voir [[Effective practicing for musicians]].
   - à structurer sur le manche: M=pos E et C, m=pos D et A
   - 5ta maj/min
 
-## Trompette
+## Trompette et trombone
 
 - physique: détente, hauteur, endurance 
 - monophonic improv

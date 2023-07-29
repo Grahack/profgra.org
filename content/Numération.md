@@ -1,6 +1,10 @@
-#-draft #classe/SIO 
-
-# Numération
+---
+title: "Numération"
+tags:
+    - -draft
+    - classe/SIO
+    - maths
+---
 
 ## Activité introductive
 

@@ -1,6 +1,10 @@
-# Offending 9-stroke pattern
-
-#musique/batterie #musique/exo 
+---
+title: "Offending 9-stroke pattern"
+tags:
+    - peda
+    - musique/batterie
+    - musique/exo
+---
 
 ```
 1A) KlRlRlRll
@@ -9,4 +13,4 @@
 2B) KKrLrLrll
 ```
 
-[Video](https://youtu.be/CsBm85-ikI8)
+[La video](https://youtu.be/CsBm85-ikI8) de Josh Merhar.

@@ -1,7 +1,11 @@
-# Minecraft
+---
+title: "Minecraft"
+tags:
+    - jeu
+---
 
 ## Alternatives
 
-Maxcraft
-Multicraft
-Minetest
+* Maxcraft
+* Multicraft
+* Minetest

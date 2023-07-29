@@ -1,3 +1,7 @@
+---
+title: "Départements français"
+---
+
 ```
 01 Ain
 02 Aisne
