@@ -1,4 +1,13 @@
-#classe/NSI #peda/activite #conversions
+---
+title: "Bilan conversions"
+tags:
+    - info
+    - NSI
+    - classe/1NSI
+    - classe/TNSI
+    - peda/activite
+    - conversions
+---
 
 1. On a 6 conversions possibles entre décimal,
   binaire et hexadécimal, classez-les de la plus
@@ -7,6 +16,7 @@
    `0111 0001` représente quel nombre en décimal?
    Même question pour `1011 1001`.
 1. Effectuez les conversions suivantes:
+
 ```
 | > |     D     |   B   |     H     |
 | D |     X     |  201  |    520    |

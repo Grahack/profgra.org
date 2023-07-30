@@ -1,5 +1,9 @@
-#-draft 
+---
+title: "Algorithmique"
+tags:
+    - -draft
+    - info/algo
+---
 
-Citation damasio [[Banque mentale d'algos]]
-
-Activité pair-impair
+* Citation de Damasio dans les Furtifs : [[Banque mentale d'algos]].
+* Activité pair-impair

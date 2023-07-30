@@ -1,27 +1,31 @@
-#musique #peda
+---
+title: "Effective practicing for musicians"
+tags:
+    - musique
+    - peda
+---
 
-# Effective practicing for musicians
 Benny Greb
 
 ```toc
 ```
 
-# Notes
-## Preface
+## Notes
+### Preface
 
 p11 Ironically
 
-## Introduction
+### Introduction
 
-## Light bulb moment
+### Light bulb moment
 
 Recorded practice session
 
-# Keypoints
+## Keypoints
 
-## Level 1 - EPM principles/Get ready
+### Level 1 - EPM principles/Get ready
 
-### Separate playing and practicing
+#### Separate playing and practicing
 
 - Make playing and practicing two separate activities.
 - Remember that playing is equally important, just make sure it doer. d
@@ -42,16 +46,16 @@ Recorded practice session
 - Did you feel a heightened sense of focus and productivity from the
   awareness that you were being recorded?
 - Listen back to the recording and see how you did. Write down what
- you find out and save these notes for later.
+  you find out and save these notes for later.
 
-### Environment
+#### Environment
 
 - Your environment infuences the likelihood of whether you will
   practice or not.
 - Visualize your ultimate practice space.
 - Get out a pen and paper and use the brainstorming method: Write
-down anything and everything that comes to mind, allowing yourself
-to dream big without criticizing or deleting.
+  down anything and everything that comes to mind, allowing yourself
+  to dream big without criticizing or deleting.
 - Go through your wish list and make as many improvements as
   possible-maybe choose the 3 things that would make the biggest
   difference right away.
@@ -63,7 +67,7 @@ to dream big without criticizing or deleting.
   simply treating yourself to a coffee after each practice session.
 - Make this space your own. Make it fun and do it now!
 
-### Practicing anywhere
+#### Practicing anywhere
 
 - Consider the three parameters of size, volume, and portability, and
   how they apply to vour instrument. Recognize how they might pose
@@ -89,31 +93,31 @@ to dream big without criticizing or deleting.
   a month? Ask around-you might be surprised to find your efforts
   rewarded.
 
-### Practicing without your instrument
+#### Practicing without your instrument
 
 - Remember that some exercises can help improve your playing and
-don't require you to have an instrument in your hands at all.
+  don't require you to have an instrument in your hands at all.
 - Come up with a list of all the ways you could practice without your
-instrument. Note this isn't an "either/or" scenario; some things you've
-practiced exclusively on your instrument so far can show up here as
-well.
+  instrument. Note this isn't an "either/or" scenario; some things you've
+  practiced exclusively on your instrument so far can show up here as
+  well.
 - Choose one song you are working on and take a few complete passes
-only in your head. Then play it on your instrument and see if there's
-been any improvement.
+  only in your head. Then play it on your instrument and see if there's
+  been any improvement.
 - Be resourceful! Download a metronome app like Gap Click by Benny
-Greb, which will help improve yourability to keep tempo and heighten
-your awareness of subdivision, whether youre with or without your
-instrument.
+  Greb, which will help improve yourability to keep tempo and heighten
+  your awareness of subdivision, whether youre with or without your
+  instrument.
 
-### A different look at discipline
+#### A different look at discipline
 
 - Realize that self-discipline is your friend that serves you, that works
-for you.
+  for you.
 - Self-discipline is freedom, because it gets you where you want to be.
 - In order for this friend to help you, you absolutely have to become
-crystal clear about what you want and why you want it. This is what
-gives your everyday actions purpose, and helps you remember that the
-challenge is worth it, even when the journey gets tough.
+  crystal clear about what you want and why you want it. This is what
+  gives your everyday actions purpose, and helps you remember that the
+  challenge is worth it, even when the journey gets tough.
 - Make the important choice to be loyal to your future, not your past.
 
 As soon as you become clear about what you want and can consistently
@@ -121,7 +125,7 @@ demonstrate your progress towards this goal, you will find out that you
 have more discipline than you think. Many musicians think they lack
 discipline, when all they need is a more disciplined approach.
 
-### Motivation
+#### Motivation
 
 - Write down at least things that you once wished, aspired to
 hoped for, that you achieved and now maybe even take for granted
@@ -158,7 +162,7 @@ nange your goal if it's merely your approach that needs changings
 Use recordings and journaling to compare where you are now to
 where you started.
 
-### Attitude
+#### Attitude
 
 - Don't be a perfectionist; strive every day to "do the best you can with
 what you have right now. If you add in some planning and long-term
@@ -191,7 +195,7 @@ ask vourself here are: How can I do this well? How can I make this fun
 while still respecting the task? How else can I get the job done? and
 lastly, How can I do this with greater calm and focus?
 
-### I don't have enough time
+#### I don't have enough time
 
 - **Set timer/take notes.** Decide how and where you want to take notes. It
 may be most practical to use a smartphone as your timer and a notepad
@@ -219,7 +223,7 @@ doing, but more importantly the activity patterns, or in other words, the
 things you do regularly. The biggest improvements are likely to come from
 changing patterns, not isolated activities. So do it for 10 days.
 
-### How often should I practice
+#### How often should I practice
 
 - If you only do it once in a while, dont be mad if you only see results
   once in a while.
@@ -238,7 +242,7 @@ start now and keep it consistent.
 - Consciously leverage the dramatic long-term effects of habits, routines,
 and rituals, for they will shape your future more than isolated incidents.
 
-### When is the best time to practice
+#### When is the best time to practice
 
 - There are many benefits to having regular practice times. Willpower
 doesn't last, but a ritual can last a lifetime.
@@ -255,7 +259,7 @@ preference, but don't use it as an excuse.
 wisdom of the fitness trainer and just practice whenever you can
 Eighty percent of success is just showing up.
 
-### Distraction/focus
+#### Distraction/focus
 
 - **Make sure you are clear!** Remember that in order to stay on track,
 there has to be one. Do you know specifically what you want to do in
@@ -276,12 +280,12 @@ phone, any notifications and incoming messages of any kind. Can
 you disable the doorbell? Is there unfinished business in the room that
 grabs your attention? Get rid of it!
 
-### The 3 must have tools for practicing
+#### The 3 must have tools for practicing
 
 Timer, recording device, journal.
 [I the skipped the keypoints]
 
-### How to deal with frustration and judgement
+#### How to deal with frustration and judgement
 
 - Be as respectful towards yourself as you would be to a good friend
 whom you are trying to help. Operate in reality; see your playing for
@@ -311,7 +315,7 @@ you react when frustration or impatience comes up. Try saying the
 "Interesting" mantra out loud and, if you want, add a smile. Problems
 hate it when you talke a moment to breathe and then smile at them.
 
-### The checklist cycle
+#### The checklist cycle
 
 BODY
 
@@ -357,7 +361,7 @@ and customize the checklist to fit your needs, whether this means
 adding something that feels missing or crossing something out. Make
 it yours and use it.
 
-### How to tackle big things by making them small
+#### How to tackle big things by making them small
 
 - Try out both variations on the whale method, salami slice and
 sandwich, and use these next bullet points as your quick guide.
@@ -373,7 +377,7 @@ note, go back to the version before, which you can handle without
 sacrificing tempo, form, sound quality, and relaxation.
 - Whatever happens, keep the form.
 
-### What to practice?
+#### What to practice?
 
 - First of all, relax and realize that not everything is equally important
 and urgent. In fact, most things dont really matter, or at least don't
@@ -391,5 +395,4 @@ is - or for our purposes, *what* to practice - using the same reasoning
 process that helps you decide what to have for breakfast, and allows
 you to advise a pedestrian on the street which direction to take once
 you know the destination.
-
 

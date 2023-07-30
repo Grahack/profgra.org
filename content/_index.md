@@ -1,18 +1,18 @@
 Bienvenue dans cette base de connaissances publique.
 
-# Lycée
+## Lycée
 
 - [Lycée Carcouët](http://carcouet.paysdelaloire.e-lyco.fr) -
 [Page Wikipedia](http://fr.wikipedia.org/)
 
-## Maths
+### Maths
 - [[STS SIO]]
 - [DMEPC](https://www.reseau-canope.fr/notice/des-maths-ensemble-et-pour-chacun-2nde.html)
 - [[Club des expressions]]
 - [[Défis maths]]
 
-## Informatique
-### SNT - NSI
+### Informatique
+#### SNT - NSI
 - [[Activités rapides]]
 - [[Défis NSI]]
 - [[1NSI]] - [[TNSI]] - [[Annales NSI]]
@@ -20,17 +20,17 @@ Bienvenue dans cette base de connaissances publique.
 - [[Machine de Turing]] - [[OrdiPapier]] - [[microBit]]
 - [[Culture informatique]]
 
-### Langages
+#### Langages
 - [[HTML]] - [[CSS]] - [[JS]]
 - [[Python]] -  [[Shell]] - [[MicroAlg]]
 - [[Tcl]] - [[Haskell]] - [[Lisp]] - [[PicoLisp]]
 - [[Clojure et ClojureScript]]
 
-### Outils informatiques
+#### Outils informatiques
 - [[vim]] - [[git]] - [[Termux]]
 - [[Idle]] - [[PythonTutor]]
 
-# Musique
+## Musique
 - [[Guitare]] - [[Basse]] - [[Batterie]] -
   [[Trompette]] - [[Clavier]]
 - [[Kapzik]] - [[Progression]] - [[Rythme]] - [[Standards]]
@@ -39,12 +39,12 @@ Bienvenue dans cette base de connaissances publique.
 - [[Guitare solo]] - [[Destruction]] - [[Les Carreleurs Américains]]
 - [[My EPM]]
 
-# Outils
+## Outils
 - [[Obsidian]] - [[Anki]]
 - [[Wikipedia]] - [[OpenStreetMap]] - [[MusicBrainz]] -
   [[opendata.fr]]
 
-# Divers
+## Divers
 - [[Recensions]]
 - [[Anecdotes fondatrices]]
 - [[Jonglerie]]

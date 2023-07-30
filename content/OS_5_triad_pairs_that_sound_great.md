@@ -1,6 +1,11 @@
-#triadpairs #music
+---
+title: "5 triad pairs that sound great"
+tags:
+    - musique/triadpairs
+    - peda
+---
 
-https://www.youtube.com/watch?v=wEyZs59oe8E
+[La video](https://www.youtube.com/watch?v=wEyZs59oe8E) d’Open Studio.
 
 1. 5 and 6 triads on major
 2. 2 (major) and 3 triads on lydian

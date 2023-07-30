@@ -1,5 +1,10 @@
-#musique #peda 
+---
+title: "Every musician is self taught"
+tags:
+    - musique
+    - peda
+---
 
-# Every musician is self taught
+From Steve Smith.
 
 [Video](https://youtu.be/nkcpmsI83Og)

@@ -1,6 +1,8 @@
-#info/tools 
-
-# git
+---
+title: "git"
+tags:
+    - info/outils
+---
 
 Outil de gestion des versions d’un système de fichiers.
 
@@ -10,4 +12,4 @@ Outil de gestion des versions d’un système de fichiers.
 
 ## Modèle d’adresse d’un dépôt
 
-`git@github.com:Grahack/profgra.git`
+`git@github.com:Grahack/profgra.org.git`

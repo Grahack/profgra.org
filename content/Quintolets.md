@@ -1,6 +1,8 @@
-#musique/rythme 
-
-# Quintolets
+---
+title: "Quintolets"
+tags:
+    - musique/rythme
+---
 
 Pour être bien calé avec la croche en jouant des quintolets,
 je propose de jouer en frisé `X-+-+-+-+-` et/ou en doubles

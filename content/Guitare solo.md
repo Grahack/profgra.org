@@ -1,8 +1,11 @@
-#musique/guitare
-
-# Guitare solo
+---
+title: "Guitare solo"
+tags:
+    - musique/guitare
+---
 
 ## Pop
+
 - Yeux couleurs menthe à l'eau 70
 - Time after time (bridge!) 130
 - Could it be Magic 124

@@ -1,6 +1,11 @@
-#peda #music
+---
+title: "7 hacks for swinging hard"
+tags:
+    - peda
+    - musique
+---
 
-[la video](https://www.youtube.com/watch?v=kyMR07wgOco)
+[La video](https://www.youtube.com/watch?v=kyMR07wgOco) d’Open Studio.
 
 1. Listen
 2. Play with swinging people

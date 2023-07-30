@@ -1,6 +1,9 @@
-#peda #musique/guitare
-
-# bla
+---
+title: "Évaluation niveau guitare"
+tags:
+    - peda
+    - musique/guitare
+---
 
 [Video](https://www.youtube.com/watch?v=Tr61Lb4aOOA)
 
@@ -45,3 +48,5 @@ DoM7 (8e case escalier), Rém (10e case), Sol+, DoM7 (8e case drop 3)
 DoM9 (type C/A), Rém7 (type C/A, j’aurais mis Rém9 à 3:57), E7b9/G# sans 7, G13b9 (j’avoue avoir cherché) puis deux types de Do
 
 ## 2 Le jeu aux doigts
+
+...

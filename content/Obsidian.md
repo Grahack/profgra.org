@@ -1,4 +1,8 @@
-# Obsidian
+---
+title: "Obsidian"
+tags:
+    - obsidian
+---
 
 Mon [workflow](Obsidian%20workflow.md).
 
@@ -26,7 +30,6 @@ CSS de l'app basée sur [ce gist](https://gist.github.com/liamcain/1fd5f9b2e55b7
     - [YAFPA pip](https://pypi.org/project/yafpa/)
     - [YAFPA GH](https://github.com/Mara-Li/yet-another-free-publish-alternative)
 * [Obsidian GH publisher](https://github.com/ObsidianPublisher/obsidian-github-publisher)
-
 
 ## Améliorations
 

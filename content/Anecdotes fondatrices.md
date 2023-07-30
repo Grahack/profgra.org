@@ -1,5 +1,8 @@
-#-draft
-# Anecdotes fondatrices
+---
+title: "Anecdotes fondatrices"
+tags:
+    - -draft
+---
 
 ## Classement élémentaire
 
@@ -34,7 +37,7 @@ Bla
 
 Bla
 
- ## Trompette au 9 billards
+## Trompette au 9 billards
 
  Le rythme !
 

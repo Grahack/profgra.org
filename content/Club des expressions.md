@@ -1,5 +1,9 @@
-#maths
+---
+title: "Le Club des expressions"
+tags:
+    - maths
+---
 
-# Le Club des expressions
+[Site officiel](http://expressions.club/)
 
-Fait avec [[ReFrame]].
+Fait avec [[ReFrame]] en [[Clojure et Clojurescript]].

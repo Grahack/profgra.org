@@ -1,6 +1,8 @@
-#peda 
-
-# Freinet
+---
+title: "Freinet"
+tags:
+    - peda
+---
 
 - ICEM
 - Pédagogie d'action directe

@@ -1,6 +1,9 @@
-#classe/NSI #-draft 
-
-# Ordonnancement
+---
+title: "Ordonnancement"
+tags:
+    - classe/TNSI
+    - -draft
+---
 
 1. Observation de processus avec `ps aux`.
 1. Définition de processus.

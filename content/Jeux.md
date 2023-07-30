@@ -1,4 +1,9 @@
-# Jeux
+---
+title: "Jeux"
+tags:
+    - jeu
+---
 
+- Chats chouettes
 - Dig
-- chats chouettes
+- Hybrides

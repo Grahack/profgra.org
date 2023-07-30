@@ -1,3 +1,8 @@
-#musique/standard 
+---
+title: "The girl from Ipanema"
+tags:
+    - peda
+    - musique/standard
+---
 
-Vid Adam Neely
+[La video](https://www.youtube.com/watch?v=OFWCbGzxofU) d’Adam Neely.

@@ -1,6 +1,8 @@
-#jeu
-
-# Hybrides
+---
+title: "Hybrides"
+tags:
+    - jeu
+---
 
 Merci à l’auteur, mais je ne me souviens pas qui c’est.
 

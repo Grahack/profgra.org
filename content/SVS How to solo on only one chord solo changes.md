@@ -1,6 +1,11 @@
-#peda #music
+---
+title: "How to solo on only one chord solo changes"
+tags:
+    - peda
+    - musique/impro
+---
 
-[la video](https://www.youtube.com/watch?v=Ae-1jcvXcEE)
+[La video](https://www.youtube.com/watch?v=Ae-1jcvXcEE) de Sir Valor Sax
 
 7 chord qualities :
 
@@ -24,10 +29,10 @@ On CM7 play M7.
 
 ## Major trick B
 
-C Major bebop : C D E F G Ab A B.
-It's lydian mode : G A B C# D Eb E F#
-It's lydian mode (starting with B) : B C# D Eb E F# G A
+C Major bebop : C D E F G Ab A B.  
+It's lydian mode : G A B C# D Eb E F#  
+It's lydian mode (starting with B) : B C# D Eb E F# G A  
 
 ## Minor
 
-https://youtu.be/Ae-1jcvXcEE?t=340
+[À 5'40''](https://youtu.be/Ae-1jcvXcEE?t=340)

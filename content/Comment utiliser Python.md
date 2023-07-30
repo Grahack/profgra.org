@@ -1,6 +1,9 @@
-#info/lang/python 
-
-# Comment utiliser Python
+---
+title: "Comment utiliser Python"
+tags:
+    - info/lang/python
+    - -todo
+---
 
 ## Logiciels
 
@@ -93,4 +96,4 @@ Je répète : tout ça se fait dans la console.
 
 ## Compléments: doctest
 
-#-todo
+...

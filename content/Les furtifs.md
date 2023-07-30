@@ -1,4 +1,9 @@
-# Les furtifs
+---
+title: "Les furtifs"
+tags:
+    - livre
+---
+
 ## Mon avis
 
 C'est du Damasio.

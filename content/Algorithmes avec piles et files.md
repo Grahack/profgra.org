@@ -1,12 +1,20 @@
-#info #peda
+---
+title: "Algorithmes avec piles et files"
+tags:
+    - info/algo
+    - peda
+    - -todo
+---
 
-# Algos avec piles et files
+## Présentation
 
-## Présentations
+...
+
+## Problèmes classiques
 
 Pour résoudre les problèmes suivants,
 on dispose d'autant de piles que l'on veut,
-et des structures classiques comme Si et Tant_Que...
+et des structures classiques comme `Si` et `Tant_Que`...
 mais pas aux listes par exemple.
 On peut par exemple écrire:
 
@@ -17,7 +25,7 @@ Q = nouvelle_pile()
 ```
 
 L'interface de ces piles est l'interface classique:
-`empiler`, `dépiler`, `est_vide.
+`empiler`, `dépiler`, `est_vide`.
 
 Problème 0  
 Longueur d'une pile.
@@ -49,4 +57,4 @@ Problème 3
 Séparer les pairs des impairs en les gardant dans l’ordre.
 
 Problème 4  
-File avec deux piles, Piles avec deux files.
+Implémenter une File avec deux piles, une Pile avec deux files.

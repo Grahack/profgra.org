@@ -1,8 +1,14 @@
+---
+title: "Progression SIO"
+tags:
+    - classe/SIO
+---
+
 On a 27 semaines pour 5 séquences,
 donc 5×5 sem + 2 sem. Avec 2h par semaine,
 on arrive par séquence à 10h de cours/TD + 5h TP.
 
-# Séquence 1
+## Séquence 1
 
 - Maths
   - Base Numération
@@ -23,7 +29,7 @@ pour détecter les niveaux des étudiants.
 DS vendredi 7 octobre, réserver une salle
 pour S1S2 et S3S4.
 
-# Séquence 2
+## Séquence 2
 
 - Maths
   - logique des propositions (non, et, ou, tables de vérité,

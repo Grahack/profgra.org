@@ -1,11 +1,14 @@
-#-draft
-
-# STS SIO
+---
+title: "STS SIO"
+tags:
+    - -draft
+    - classe/sio
+---
 
 Section de Technicien Supérieur en
 Services Informatiques aux Organisations
 
-Lien WP - Référentiel
+[Lien WP](https://fr.wikipedia.org/wiki/Brevet_de_technicien_sup%C3%A9rieur_-_Services_informatiques_aux_organisations) - [Référentiel sur le site du Certa](https://www.reseaucerta.org/le-nouveau-bts-sio-2021)
 
 ## Progression
 

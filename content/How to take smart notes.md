@@ -1,5 +1,8 @@
-```toc
-```
+---
+title: "How to take smart notes"
+tags:
+    - livre
+---
 
 INTRODUCTION 1
 

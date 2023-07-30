@@ -1,8 +1,11 @@
-#musique/batterie
+---
+title: "Creative Drum and Bass"
+tags:
+    - peda
+    - musique/batterie
+---
 
-# Creative Drum and Bass
-
-[Video](https://youtu.be/9uvDbDPGR6Q)
+[La video](https://youtu.be/9uvDbDPGR6Q) de JP Bouvet.
 
 ## Step 1, Short and long patterns
 

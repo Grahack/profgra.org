@@ -1,6 +1,8 @@
-# Interculturalité
-
-#-draft
+---
+title: "Interculturalité"
+tags:
+    - -draft
+---
 
 Suite à l’invitation de collègues pour parler de notre voyage en Australie à des étudiants, j’ai rassemblé quelques idées.
 

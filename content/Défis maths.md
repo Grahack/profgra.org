@@ -1,3 +1,10 @@
-#-todo 
+---
+title: "Défis maths"
+tags:
+    - -todo
+    - maths
+---
 
-# Défis pour les rapides
+## Défis pour les rapides
+
+...

@@ -1,4 +1,8 @@
-# Clojure et ClojureScript
+---
+title: "Clojure et ClojureScript"
+tags:
+    - info/lang
+---
 
 [[Rich Hickey]]
 

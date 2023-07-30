@@ -1,4 +1,10 @@
-# CHEAP BUT GOOD ADVICE FOR PLAYING MUSIC IN A GROUP
+---
+title: "Chick's advice"
+tags:
+    - musique
+---
+
+## CHEAP BUT GOOD ADVICE FOR PLAYING MUSIC IN A GROUP
 
 Chick corea
 

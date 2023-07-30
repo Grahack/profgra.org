@@ -1,6 +1,8 @@
-#info #hardware
-
-# Raspberry Pi
+---
+title: "Raspberry Pi"
+tags:
+    - info/hardware
+---
 
 ## Historique
 

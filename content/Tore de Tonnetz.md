@@ -1,3 +1,8 @@
-#musique #viz
+---
+title: "Tore de Tonnetz"
+tags:
+    - musique
+    - viz
+---
 
-![[tonnetz.jpg]]
+![[img/tonnetz.jpg]]

@@ -1,4 +1,9 @@
-#info #peda
+---
+title: "Activité rapide « lettre dans un texte »"
+tags:
+    - info
+    - peda/actrapide
+---
 
 * présence de la lettre "a" dans un texte
 * nombre de lettres "a" dans un texte

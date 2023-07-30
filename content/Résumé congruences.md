@@ -1,8 +1,11 @@
-#-draft #classe/SIO
+---
+title: "Résumé congruences"
+tags:
+    - -draft
+    - classe/SIO
+---
 
-# Résumé congruences
-
-![[Horloge 24 heures.jpg]]
+![[img/Horloge 24 heures.jpg]]
 
 ## Définition
 

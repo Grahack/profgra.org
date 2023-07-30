@@ -1,4 +1,11 @@
-#classe/NSI #peda/actrapide #info/POO #info/lang/python 
+---
+title: "Puissance fiscale sur Mars"
+tags:
+    - classe/TNSI
+    - peda/actrapide
+    - info/POO
+    - info/lang/python
+---
 
 Sur Mars, on calcule la puissance fiscale
 des véhicules avec le produit $n×mˆ2$, où:
@@ -26,6 +33,6 @@ assert v.puiss() == 2.88
 def f(n, m):
     return n+m
 
-v.nonuvelle_puissance(f)
+v.nouvelle_puissance(f)
 assert v.puiss() == 3.2
 ```

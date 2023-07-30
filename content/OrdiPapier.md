@@ -1,4 +1,8 @@
-#info/archi #info/algo
+---
+title: "OrdiPapier"
+tags:
+    - info/archi
+    - info/algo
+---
 
-# OrdiPapier
-
+Processeur théorique pour débutants.

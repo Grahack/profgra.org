@@ -1,2 +1,9 @@
+---
+title: "Bernard Edwards"
+tags:
+    - musique/basse
+---
+
 Bassiste de Chic
-https://fr.m.wikipedia.org/wiki/Bernard_Edwards
+
+[Page WP](https://fr.m.wikipedia.org/wiki/Bernard_Edwards)

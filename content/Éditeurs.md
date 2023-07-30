@@ -1,7 +1,12 @@
-#info
+---
+title: "Éditeurs"
+tags:
+    - info/outils/editeurs
+---
 
-# Éditeurs de code ou environnements de programmation
+## Éditeurs de code ou environnements de programmation
 
-- IDLE
+- [[vim]]
+- [[IDLE]]
 - mu
 - thonny

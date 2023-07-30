@@ -1,7 +1,11 @@
-#-draft 
-#info/lang/python #peda/activite #classe/SIO
-
-# Le jeu des allumettes
+---
+title: "Le jeu des allumettes"
+tags:
+    - -draft
+    - info/lang/python
+    - peda/activite
+    - classe/SIO
+---
 
 ## Jouer
 

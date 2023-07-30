@@ -1,7 +1,12 @@
-#classe/NSI
+---
+title: "Défis NSI"
+tags:
+    - NSI
+    - -todo
+---
 
-# Défis pour les rapides
+## Défis pour les rapides
 
 1. Écrire de deux façons une fonction qui teste
-  si une `str` est un suffixe d’une autre `str`.
-1. Écrire un itérateur ou un générateur. #-todo 
+   si une `str` est un suffixe d’une autre `str`.
+1. Écrire un itérateur ou un générateur. (TODO)

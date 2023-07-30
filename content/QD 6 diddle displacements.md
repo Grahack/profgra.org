@@ -1,16 +1,21 @@
-#youtube #musique/batterie/rudiments 
+---
+title: "6 diddle displacements"
+tags:
+    - youtube
+    - musique/batterie/rudiments
+---
 
-# 6 diddle displacements
-
-[YT](gIKOwLqGgHM)
+[La video](https://www.youtube.com/watch?v=gIKOwLqGgHM) de Quincy Davis.
 
 ## Why?
+
 1. Freer application of diddles
 2. Better organized stickings
 3. Speed/fluidity (bring accents out)
 4. Playing inner partials
 
 ## Exercises
+
 ### Snare only
 
 #### Paradiddle displacement 
@@ -76,7 +81,8 @@ splashed HH!
 * You can use a double to displace two strokes away,
   from down to down or up to up.
 * Try paradiddles in a ternary context and the others
-  in a binary context.[
+  in a binary context.
+
 ```
 X-++O+ --X-++ O+--X- ++O+--
 +O+--X -++O+- -X-++O +--X-+
