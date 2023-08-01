@@ -98,7 +98,7 @@ Il y a des conventions pour le nommage des fichiers.
 * les classes (avec tags correspondants):
   * 1NSI.md classe/1NSI
   * TNSI.md classe/TNSI
-  * STS--SIO classe/SIO (oui on mélange les deux niveaux)
+  * STS_SIO.md classe/SIO (oui on mélange les deux niveaux)
 * les leçons de youtubers: leurs initiales préfixent le nom du fichier
   * JK  Jason Klubnak
   * JPB JP Bouvet
