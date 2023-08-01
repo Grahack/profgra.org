@@ -14,7 +14,6 @@ CSS de l'app basée sur [ce gist](https://gist.github.com/liamcain/1fd5f9b2e55b7
 
 ## Questions
 * Comment gérer des marque-page ?
-* Frontmatter?
 * Pas de widgets sur Android?
 * Rassembler toutes les citations d'un ouvrage dans une page,
   ou faire une page par citation?
