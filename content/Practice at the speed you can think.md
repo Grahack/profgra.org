@@ -2,7 +2,7 @@
 title: "Practice at the speed you can think"
 tags:
     - peda
-    - musique
+    - musique/theorie
 ---
 
 Practice at the speed you can think.

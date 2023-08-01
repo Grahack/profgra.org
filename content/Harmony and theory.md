@@ -2,7 +2,7 @@
 title: "Harmony and theory"
 tags:
     - livre
-    - musique
+    - musique/theorie
     - peda
 ---
 

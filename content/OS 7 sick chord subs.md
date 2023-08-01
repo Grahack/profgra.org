@@ -2,7 +2,7 @@
 title: "Seven sick chord substitutions"
 tags:
     - peda
-    - musique
+    - musique/theorie
 ---
 
 [La video](https://www.youtube.com/watch?v=hWCX9-DnMG0)
