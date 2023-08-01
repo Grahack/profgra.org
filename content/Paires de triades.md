@@ -1,6 +1,7 @@
 ---
 title: "Paires de triades"
 tags:
+    - musique/theorie
     - musique/triadpairs
 ---
 
