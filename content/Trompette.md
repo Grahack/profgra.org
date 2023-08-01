@@ -1,6 +1,7 @@
 ---
 title: "Trompette"
 tags:
+    - -draft
     - musique/trompette
 ---
 
