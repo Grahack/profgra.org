@@ -1,4 +1,11 @@
-# ?
+---
+title: "Exercice"
+tags:
+    - -draft
+    - yo
+---
+
+
 
 ## Énoncé
 
