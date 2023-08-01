@@ -24,6 +24,8 @@ CSS de l'app basée sur [ce gist](https://gist.github.com/liamcain/1fd5f9b2e55b7
 - si titre modifié, liens internes mis à jour slt si utilisation outil
 
 ## Export et publication
+
+- Finalement grâce à [[Quartz]]
 - Pandoc plugin (un seul fichier à la fois donc bof)
 - https://notenote.link/ (en cours d’exploration)
     - [YAFPA pip](https://pypi.org/project/yafpa/)
