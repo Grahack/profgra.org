@@ -38,7 +38,7 @@ Bienvenue dans cette base de connaissances publique.
 ## Musique
 
 - [[Guitare]] - [[Basse]] - [[Batterie]] -
-  [[Trompette]] - [[Clavier]]
+  [[Trompette]] - [[Trombone]] - [[Clavier]]
 - [[Kapzik]] - [[Progression]] - [[Rythme]] - [[Standards]]
 - [[Meshuggah]] - [[Pattashuggah]]
 - [[Défi quasi exhaustif et démagogique ]]
