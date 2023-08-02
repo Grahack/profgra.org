@@ -5,6 +5,6 @@ tags:
     - peda
 ---
 
-From Steve Smith.
+Citation de Steve Smith.
 
 [Video](https://youtu.be/nkcpmsI83Og)

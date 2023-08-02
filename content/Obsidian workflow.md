@@ -102,6 +102,7 @@ Il y a des conventions pour le nommage des fichiers.
 * les leçons de youtubers: leurs initiales préfixent le nom du fichier
   * JK  Jason Klubnak
   * JPB JP Bouvet
+  * LK  Laurent Kremer
   * NGD Stephen Clark (Non Glamorous Drummer)
   * OS  Open Studio
   * QD  Quincy Davis

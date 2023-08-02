@@ -5,7 +5,7 @@ tags:
     - musique/guitare
 ---
 
-[Video](https://www.youtube.com/watch?v=Tr61Lb4aOOA)
+[La video](https://www.youtube.com/watch?v=Tr61Lb4aOOA) de Laurent Kremer.
 
 Vibrato bof
 

@@ -5,7 +5,7 @@ tags:
     - musique/theorie
 ---
 
-[La video](https://www.youtube.com/watch?v=hWCX9-DnMG0)
+[La video](https://www.youtube.com/watch?v=hWCX9-DnMG0) d’Open Studio.
 
 IIIm7 VI? IIm7 V7 on substitue le VI.
 
