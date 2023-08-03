@@ -39,7 +39,7 @@ Bienvenue dans cette base de connaissances publique.
 
 - [[Guitare]] - [[Basse]] - [[Batterie]] -
   [[Trompette]] - [[Trombone]] - [[Clavier]]
-- [[Kapzik]] - [[Progression]] - [[Rythme]] - [[Standards]]
+- [[Kapzik]] - [[Progression]] - [[Rythme]] - [[Gammes]] - [[Standards]]
 - [[Meshuggah]] - [[Pattashuggah]]
 - [[Défi quasi exhaustif et démagogique ]]
 - [[Guitare solo]] - [[Destruction]] - [[Les Carreleurs Américains]]
