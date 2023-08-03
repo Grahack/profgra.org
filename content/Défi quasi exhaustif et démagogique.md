@@ -1721,6 +1721,7 @@ bla
 - Sublime
   - What I got
 - Suicidal Tendencies
+- Superbus
 - Supergrass
   - Alright
 - Supertramp
