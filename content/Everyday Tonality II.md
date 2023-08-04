@@ -5,6 +5,8 @@ tags:
     - musique/theorie
 ---
 
+[[pdf/tagg_everyday_tonality.pdf|Le pdf]]
+
 ## Preface 11
 
 * Why this book? 11
