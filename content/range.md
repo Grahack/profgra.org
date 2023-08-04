@@ -15,4 +15,6 @@ sont donnés sous forme de `list`).
 [0, 1, 2]
 >>> range(3, 6)
 [3, 4, 5]
+>>> range(3, 9, 2)
+[3, 5, 7]
 ```
