@@ -1,9 +1,9 @@
-----
+---
 title: "Quartz"
 tags:
     - obsidian
     - -draft
-----
+---
 
 Outil de publication pour les dépôts Obsidian
 
