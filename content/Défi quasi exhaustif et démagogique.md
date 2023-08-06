@@ -955,6 +955,8 @@ bla
 - Kate Nash
 - Kate Bush
   - Babooshka
+- Katrina and the Waves
+  - Walking on Sunshine
 - Katy Perry
   - Hot'n'Cold
 - Kazero
