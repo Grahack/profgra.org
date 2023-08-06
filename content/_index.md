@@ -55,7 +55,7 @@ Bienvenue dans cette base de connaissances publique.
 
 - [[Recensions]]
 - [[Anecdotes fondatrices]]
-- [[Jonglerie]]
+- [[Jonglerie]] - [[Frussu]]
 - [[Jeu de go]] - [[Jeux]]
 - [[Recettes]]
 - [[TEST]]
