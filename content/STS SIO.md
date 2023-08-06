@@ -26,3 +26,5 @@ On voit tout le programme des deux années
 sauf:
 
 - [[Tableaux de Karnaugh]]
+- [[Ordonnancement SIO]]
+

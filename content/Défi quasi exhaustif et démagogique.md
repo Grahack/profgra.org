@@ -492,6 +492,8 @@ bla
   - Si j'étais un homme
 - Dick Annegarn
 - Didier Barbelivien
+- Didier Bénureau
+  - La maman de ma maman
 - Didier Super
 - Dido
 - Dio
@@ -953,6 +955,8 @@ bla
 - Kate Nash
 - Kate Bush
   - Babooshka
+- Katrina and the Waves
+  - Walking on Sunshine
 - Katy Perry
   - Hot'n'Cold
 - Kazero
@@ -1719,6 +1723,7 @@ bla
 - Sublime
   - What I got
 - Suicidal Tendencies
+- Superbus
 - Supergrass
   - Alright
 - Supertramp

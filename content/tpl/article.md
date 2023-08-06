@@ -1,7 +1,8 @@
 ---
 title: "{{title}}"
 tags:
-- todo
+    - -draft
+    - yo
 ---
 
-bla
+

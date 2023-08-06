@@ -179,8 +179,10 @@ Il y en a quatre, dont :
 * une est la relative mineure (et aussi un mode) de la GM,
 * une autre est un mode de la GM.
 
-### Harmonisation de la GM à 3 sons (4 pour le V)
+### Harmonisation de la GM à 3 sons (4 sons pour le V)
 
+* On empile des tierces, c'est très courant dans la musique occidentale
+* On verra plus loin que le V est le seul (à part le VII que l'on ignore) un comporter une tension que l'on aura tendance à vouloir résoudre
 * Nom des notes des triades (réviser avec un dé à 6 faces)
 * Solfège : lignes et interlignes
 * Couleur, fonction et chiffrage « jazz » des 7 accords

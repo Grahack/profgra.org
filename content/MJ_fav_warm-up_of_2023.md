@@ -4,7 +4,7 @@ tags:
     - musique/batterie
 ---
 
-[Video](https://www.youtube.com/watch?v=9zt1JBUzwsg)
+[La video](https://www.youtube.com/watch?v=9zt1JBUzwsg) de Mike Johnston.
 
 `RlrRll RllrrL RlRlRR LrLrLL`
 

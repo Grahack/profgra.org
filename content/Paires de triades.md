@@ -1,6 +1,7 @@
 ---
 title: "Paires de triades"
 tags:
+    - musique/theorie
     - musique/triadpairs
 ---
 
@@ -19,6 +20,9 @@ Autour de C il y a un Fa donc la triade de C.
 * b7-Im
   * D Dorien avec C-Dm
   * C Dorien avec Bb-Cm
+* Im-IIm
+  * D Dorien avec Dm-Em
+  * F# Dorien avec F#m-G#m (think Billie Jean)
 
 ## Lydien
 

@@ -1,6 +1,7 @@
 ---
 title: "3 levels of triad pairs"
 tags:
+    - musique/theorie
     - musique/triadpairs
     - peda
 ---

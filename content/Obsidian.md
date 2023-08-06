@@ -14,7 +14,6 @@ CSS de l'app basée sur [ce gist](https://gist.github.com/liamcain/1fd5f9b2e55b7
 
 ## Questions
 * Comment gérer des marque-page ?
-* Frontmatter?
 * Pas de widgets sur Android?
 * Rassembler toutes les citations d'un ouvrage dans une page,
   ou faire une page par citation?
@@ -25,6 +24,8 @@ CSS de l'app basée sur [ce gist](https://gist.github.com/liamcain/1fd5f9b2e55b7
 - si titre modifié, liens internes mis à jour slt si utilisation outil
 
 ## Export et publication
+
+- Finalement grâce à [[Quartz]]
 - Pandoc plugin (un seul fichier à la fois donc bof)
 - https://notenote.link/ (en cours d’exploration)
     - [YAFPA pip](https://pypi.org/project/yafpa/)
@@ -43,25 +44,3 @@ CSS de l'app basée sur [ce gist](https://gist.github.com/liamcain/1fd5f9b2e55b7
 - query une seule chanson dans musicbrainz
 - embed Python files
 
-### Template
-```
----  
-uid: 202204300633  
----  
-  
-# PURPOSE  
-  
-  
-## Headline Ideas  
-  
-  
-## Brain Dump  
-  
-  
-## Resources  
-  
-  
-## Tags  
-  
-  
-# DRAFT```
