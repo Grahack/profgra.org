@@ -1,35 +1,47 @@
 ---
 title: "Gammes"
 tags:
-    - -draft
     - musique/theorie
 ---
 
 ## Introduction
 
-Selon [[Everyday Tonality II]], une gamme est:
+Selon [[Everyday Tonality II]], ce que j’appelais une gamme est plutôt appelé
+un *mode* et est:
 
-> la distillation...
+> le résultat de la distillation d'un vocabulaire tonal vers un ensemble
+> d'occurences individuelles des notes qui le constituent. Elles sont
+> habituellement arrangées séquentiellement dans l’ordre ascendant et
+> délimitées par la tonique aux extrémités d’une octave.
 
-On reste ici dans me cadre du [[Tempérament égal]].
+Une gamme est en fait un mode à une certaine octave.
+
+On reste ici dans le cadre du [[Tempérament égal]].
 
 ## Majeures
 
-Do Ré Mi Fa Sol La Si Do
-Do♯ Ré♯ Mi♯ Fa♯ Sol♯ La♯ Si♯ Do♯
-Ré♭ Mi♭ Fa Sol♭ La♭ Si♭ Do Ré♭
+Do Ré Mi Fa Sol La Si Do  
+Do♯ Ré♯ Mi♯ Fa♯ Sol♯ La♯ Si♯ Do♯  
+Ré♭ Mi♭ Fa Sol♭ La♭ Si♭ Do Ré♭  
 ...
 
 ## Mineures
 
-Comme pour les accords mineurs, on baisse la tierce d’un demi ton. On garde quarte et quinte, et même la seconde, ce qui nous laisse quatre possibilités:
+Comme pour les accords mineurs, on baisse la tierce d’un demi ton. On garde
+quarte et quinte, et même la seconde, ce qui nous laisse quatre possibilités:
 
 1. 1 2 ♭3 4 5 6 7 1 (mineure mélodique, ou ascendante)
 2. 1 2 ♭3 4 5 6 ♭7 1 (dorien)
 3. 1 2 ♭3 4 5 ♭6 7 1 (mineure harmo)
 4. 1 2 ♭3 4 5 ♭6 ♭7 1 (aéolien ou mineure naturelle)
 
-On remarque que la gamme mineure naturelle de La est: La Si Do Ré Mi Fa Sol La, et n’a donc aucune altération. Le fait qu’on utilise les mêmes notes que la gamme de Do nous pousse à dire que Lam est la *relative mineure* de Do et Do est la *relative majeure* de Lam.
+On remarque que la gamme mineure naturelle de La est:  
+
+> La Si Do Ré Mi Fa Sol La
+
+et n’a donc aucune altération. Le fait qu’on utilise les mêmes notes que la
+gamme de Do nous pousse à dire que La*m* est la *relative mineure* de Do et Do
+est la *relative majeure* de La*m*.
 
 ## Gammes diminuées
 
@@ -40,8 +52,10 @@ On remarque que la gamme mineure naturelle de La est: La Si Do Ré Mi Fa Sol La,
 C’est une gamme à [[Transposition limitée]].
 
 Sur un clavier:
-* une utilise le Sol♯/La♭,
-* les deux autres utilisent chacune deux touches noires, séparées par 3 demis tons.
+
+* une utilise le Sol♯/La♭ et trois touches blanches,
+* les deux autres utilisent chacune deux touches noires, touches qui sont
+  séparées par 3 demis tons.
 
 #### Étude
 
@@ -80,7 +94,7 @@ L:1/8
 
 ```music-abc
 X:4
-T:Idem, mais avec noms alternatifs (A# trop d’altérations)
+T:Idem, mais avec d'autres noms (A# a trop d’altérations)
 M:4/4
 L:1/8
 | "A#7(b9)" z8 | "D#7(b9)" ^CE ^^F^A ^c^A ^^FE | "G#7(b9)" ^D^F A^B ^d^B A^F |
@@ -96,7 +110,7 @@ L:1/8
 
 ```music-abc
 X:6
-T:Idem, mais avec des noms d’accords alternatifs
+T:Idem, mais avec d'autres noms
 M:4/4
 L:1/8
 | "C#7(b9)" D^E ^GB dB ^G^E  | "F#7(b9)" ^CE G^A ^c^A GE | z8 :|
@@ -107,17 +121,17 @@ La résolution se fait donc ici naturellement en baissant n’importe quelle not
 G7♭9 vers C(M79):
 
 ```plain
- A♭ -> G
+ A♭ -> G ou A
  F  -> E
  D  -> C ou D
- B  -> B(♭) ou C
+ B  -> B ou C
 (G) -> G
 ```
 
 G7♭9 vers Cm(9):
 
 ```plain
- A♭ -> G
+ A♭ -> G ou A
  F  -> E♭
  D  -> C ou D
  B  -> B♭ ou C
@@ -126,10 +140,13 @@ G7♭9 vers Cm(9):
 
 ### À 8 sons
 
+Gammes à [[Transposition limitée]].
+
 Je les vois surtout comme celles à 4 sons mais auxquelles on a ajouté les approches chromatiques par en dessous.
 
 ## Par tons
 
 Gammes à [[Transposition limitée]]:
+
 * Do Ré Mi Fa♯/Sol♭ Sol♯/La♭ La♯/Si♭ Do (deux touches noires sur le clavier)
 * Do♯/Ré♭ Ré♯/Mi♭ Fa Sol La Si Do♯/Ré♭ (trois touches noires)
