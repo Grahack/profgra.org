@@ -5,8 +5,8 @@ Bienvenue dans cette base de connaissances publique.
 - [Lycée Carcouët](http://carcouet.paysdelaloire.e-lyco.fr) -
 [Page Wikipedia](http://fr.wikipedia.org/)
 - Journaux :
-  [[http://github.com/grahack/2023-2024|2023-2024]] -
-  [[http://github.com/grahack/2022-2023|2022-2023]]
+  [2023-2024](http://github.com/grahack/2023-2024) -
+  [2022-2023](http://github.com/grahack/2022-2023)
 
 ### Maths
 
