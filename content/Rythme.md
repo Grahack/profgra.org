@@ -50,6 +50,58 @@ Graphical Rhythm Annotation
 
 ## Phrases diverses
 
+### Une illusion rythmique
+
+Ce qu’ils jouent.
+
+<pre>
+X:2
+T:Lumen (Danilo Perez)
+M:6/8
+L:1/8
+|: G2G z2G z2G zG2 | zG2 zG2 G3 G3 :|
+</pre>
+
+Ce que j’entendais au début.
+
+<pre>
+X:3
+T:Lumen binaire (Danilo Perez)
+M:2/4
+L:1/16
+|: G2G2 zG3 :|
+</pre>
+
+### Rock in jazz, jazz in rock
+
+Une ruse bien connue pour faire entendre l’un dans l’autre.
+
+<pre>
+X:4
+T:Rock in jazz trick
+M:12/8
+L:1/8
+|: zG2 C2G zC2 G2C :|
+|: zGG C2G GC2 GGC :|
+|: zG2 C2G GC2 G2C | zGG C2G zC2 GGC :|
+</pre>
+
+<pre>
+X:5
+T:Jazz in rock trick
+M:6/4
+L:1/8
+|: G2 GG z2 G2 GG z2 :|
+</pre>
+
+## Meshuggah
+
+Voir aussi [[Pattashuggah]].
+
+### God he sees in mirrors
+
+Une phrase extraite de l’album Immutable de [[Meshuggah]].
+
 <pre>
 X:1
 T:God he sees in mirrors
@@ -58,47 +110,10 @@ L:1/16
 |: G4 G2G2 zG3 G3G | z2G2 zG3 G4 G2G2 | z2G2 G3G z2G2 G2 :|
 </pre>
 
-```music-abc
-X:2
-T:Lumen (Danilo Perez)
-M:6/8
-L:1/8
-|: G2G z2G z2G zG2 | zG2 zG2 G3 G3 :|
-```
 
-```music-abc
-X:3
-T:Lumen binaire (Danilo Perez)
-M:2/4
-L:1/16
-|: G2G2 zG3 :|
-```
+### Born in dissonance
 
-```music-abc
-X:4
-T:Rock in jazz trick
-M:12/8
-L:1/8
-|: zG2 C2G zC2 G2C :|
-|: zGG C2G GC2 GGC :|
-|: zG2 C2G GC2 G2C | zGG C2G zC2 GGC :|
-```
-
-```music-abc
-X:5
-T:Jazz in rock trick
-M:6/4
-L:1/8
-|: G2 GG z2 G2 GG z2 :|
-```
-
-## Meshuggah
-
-[[Pattashuggah]]
-
-Voir plus haut God he sees.
-
-Antisèche Born in dissonance :
+Antisèche pour le passage chaotique :
 
 ```
 AAAABBAAAABBAAAABB
