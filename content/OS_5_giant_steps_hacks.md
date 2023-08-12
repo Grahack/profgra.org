@@ -5,6 +5,8 @@ tags:
     - musique/standard
 ---
 
+Concerne [[std/Giant Steps]].
+
 [La video](https://www.youtube.com/watch?v=HLnDue6b9XY) d’Open Studio.
 
 1. 4 notes shapes (1235, 723 13, 1357, 3579, transposé ou voice leading)
