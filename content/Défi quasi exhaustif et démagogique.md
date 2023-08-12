@@ -13,1996 +13,1179 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 
 ## Liste
 
-- inconnu
-  - Tuer l'un des Siens
-- inconnu
-  - Voisin sur la lune
+- [[sng/inconnu - Tuer l'un des Siens]]
+- [[sng/inconnu - Voisin sur la lune]]
 
 ### Chiffres
 
-- 4 non Blondes
-  - What's going on
+- [[sng/4 non Blondes - What's going on]]
 
 ### A
 
-- À cause des garçons
-  - A cause des garçons
-- A Perfect Circle
-- A-HA
-  - Take on me
-- ABBA
-  - Gimme
-- AC-DC
-  - Highway to Hell
-- Ace of Base
-  - All that she wants
-- Adele
-- Aerosmith
-- Agnès Obel
-- Al Corley
-  - Square Rooms
-- Alain Barrière
-  - Elle était si jolie
-- Alain Bashung
-  - Vertige de l'amour
-- Alain Chamfort
-  - Manureva
-- Alain Leprest
-  - Peut-être
-  - Tout ce qui est dégueulasse porte un joli nom
-- Alain Souchon
-  - Passer amour machine
-  - 10 ans
-- Alain Schneider
-  - Mes p'tits légumes
-- Alan Parson's project
-  - Eye in The sky
-- Alan Stivell
-  - Brian Boru
-- Alanis Morissette
-- Alannah Myles
-  - Black Velvet
-- Aldebert
-  - Pour louper l'école
-- Alex Beaupain
-- Alice Cooper
-  - Poison
-- Alice Dona
-- Alice in Chains
-- Alicia Keys
-  - New York
-- Alizée
-  - Lolita
-- All Saints
-- Alliance Ethnik
-  - Respect
-- Amel Bent
-  - Ma Philosophie
-- Alphaville
-  - Forever young
-- Amir
-  - La fete
-- Amy Winehouse
-  - No no no
-- Anais
-  - Mon cœur mon amour
-- Anastacia
-  - I'm outta love
-- Ani Difranco
-- Anis
-- Anne Sylvestre
-  - Dans la vie en vrai
-- Annie Cordy
-  - Chaud
-- Antoine
-  - Les élucubrations
-- Arcade Fire
-  - No cars go
-- Aretha Franklin
-  - Think
-- Ariana Grande
-- Arno
-  - Dans les yeux de ma mère
-- Arnold Turboust & Zabou
-  - Adélaïde
-- Arrested Development
-  - Everyday People
-- Art Mengo
-  - Je l'ai adorée
-- Art of Noise
-  - Moment in love
-- Arthur H
-  - L'amoureux
-- Arthur Simms
-  - It's only mystery
-- Assassin
-- Assia
-  - Elle est à toi
-- At The Drive In
-  - One armed scissors
-- Au p'tit bonheur
-  - J'veux du soleil
-- AudioSlave
-- Autour de Lucie
-  - Personne n'est comme toi
-- Avril Lavigne
-  - Sk8er Boi
-- Axel Bauer
-  - Cargo de Nuit
-- Axelle Red
-  - Parce que c'est toi
+- [[sng/À cause des garçons - A cause des garçons]]
+- A Perfect Circle - ?
+- [[sng/A-HA - Take on me]]
+- [[sng/ABBA - Gimme]]
+- [[sng/AC-DC - Highway to Hell]]
+- [[sng/Ace of Base - All that she wants]]
+- Adele - ?
+- Aerosmith - ?
+- Agnès Obel - ?
+- [[sng/Al Corley - Square Rooms]]
+- [[sng/Alain Barrière - Elle était si jolie]]
+- [[sng/Alain Bashung - Vertige de l'amour]]
+- [[sng/Alain Chamfort - Manureva]]
+- [[sng/Alain Leprest - Peut-être]]
+- [[sng/Alain Leprest - Tout ce qui est dégueulasse porte un joli nom]]
+- [[sng/Alain Souchon - Passer amour machine]]
+- [[sng/Alain Souchon - 10 ans]]
+- [[sng/Alain Schneider - Mes p'tits légumes]]
+- [[sng/Alan Parson's project - Eye in The sky]]
+- [[sng/Alan Stivell - Brian Boru]]
+- Alanis Morissette - ?
+- [[sng/Alannah Myles - Black Velvet]]
+- [[sng/Aldebert - Pour louper l'école]]
+- Alex Beaupain - ?
+- [[sng/Alice Cooper - Poison]]
+- Alice Dona - ?
+- Alice in Chains - ?
+- [[sng/Alicia Keys - New York]]
+- [[sng/Alizée - Lolita]]
+- All Saints - ?
+- [[sng/Alliance Ethnik - Respect]]
+- [[sng/Amel Bent - Ma Philosophie]]
+- [[sng/Alphaville - Forever young]]
+- [[sng/Amir - La fete]]
+- [[sng/Amy Winehouse - No no no]]
+- [[sng/Anais - Mon cœur mon amour]]
+- [[sng/Anastacia - I'm outta love]]
+- Ani Difranco - ?
+- Anis - ?
+- [[sng/Anne Sylvestre - Dans la vie en vrai]]
+- [[sng/Annie Cordy - Chaud]]
+- [[sng/Antoine - Les élucubrations]]
+- [[sng/Arcade Fire - No cars go]]
+- [[sng/Aretha Franklin - Think]]
+- Ariana Grande - ?
+- [[sng/Arno - Dans les yeux de ma mère]]
+- [[sng/Arnold Turboust & Zabou - Adélaïde]]
+- [[sng/Arrested Development - Everyday People]]
+- [[sng/Art Mengo - Je l'ai adorée]]
+- [[sng/Art of Noise - Moment in love]]
+- [[sng/Arthur H - L'amoureux]]
+- [[sng/Arthur Simms - It's only mystery]]
+- Assassin - ?
+- [[sng/Assia - Elle est à toi]]
+- [[sng/At The Drive In - One armed scissors]]
+- [[sng/Au p'tit bonheur - J'veux du soleil]]
+- AudioSlave - ?
+- [[sng/Autour de Lucie - Personne n'est comme toi]]
+- [[sng/Avril Lavigne - Sk8er Boi]]
+- [[sng/Axel Bauer - Cargo de Nuit]]
+- [[sng/Axelle Red - Parce que c'est toi]]
 
 ### B
 
-- B-52's
-  - Love Shack
-- Backstreet Boys
-  - We've got it goin'on
-- Bad Brains
-- Bad Religion
-- Barbara
-  - l'aigle noir (mai)
-- Barry Manilow
-  - Could it be magic
-- Barry White
-  - Let the music play
-- Baster
-  - Pêcheur
-- BB King
-- Beastie Boys
-  - Party
-- Beck
-  - Loser
-- Bee Gees
-  - Staying Alive
-  - Night Fever
-  - How deep is your love
-- Ben E. King
-  - Stand by me
-- Ben Harper
-  - With my own two hands
-- Ben l'Oncle Soul
-  - Soulman
-- Ben Mazué
-  - Quand je marche
-- Bénabar
-  - Le dîner
-  - Le vélo
-  - Pas du tout
-- Benjamin Biolay
-  - Quinze août
-- Benny B
-  - Mais vous êtes fou
-- Benny Benassi
-  - Satisfaction
-- Bernard Lavilliers
-  - Idées Noires
-- Bernard Lubat
-- Bernard Minet
-  - Bioman
-- Bérurier Noir
-- Bette Midler
-- Beverley Knight
-- Beverly Craven
-  - Promise me
-- Beyonce
-  - Crazy in Love
-- Bezu
-  - Ali Baba
-  - A la queue leu leu
-- Bibi
-  - Tout doucement
-- Big Soul
-  - Le brio
-- Bill Baxter
-  - Embrasse moi idiot
-- Bill Deraime
-  - Babylon tu déconnes
-- Bill Medley
-  - Time of my life
-- Bill Withers
-  - Just the two of us
-- Billy Idol
-  - Flesh for fantasy
-- Billy Joel
-  - Just The Way you Are
-- Billy Ocean
-  - When the Going Gets Tough, the Tough Get Going
-- Billy Paul
-  - Your song
-- Billy Ray Cyrus
-  - Achy breaky heart
-- Billy Ze Kick et les Gamins en Folie
-  - Mangez moi
-- Birdy
-- Björk
-  - Anchor Song
-- Black Eyed Peas
-  - Shut up
-- Black M
-  - Sur ma route
-- Black Sabbath
-  - War pigs
-- Black
-  - Wonderful World
-- Blankass
-- Blink 182
-- Block Party
-- Blondie
-  - Call Me
-- Blondie
-  - Heart of Glass = reprise
-- Blues Trottoir
-  - Un soir de pluie
-- Blur
-  - Girls & Boys
-  - Song 2
-- Bob and Earl
-  - Harlem shuffle
-- Bob Dylan
-  - Blowing in the wind
-- Bob Marley
-- Bob Seeger
-  - Against the wind
-- Bobby Hebb
-  - Sunny
-- Bobby Lapointe
-  - Ta Katie t’a quitté
-- Bobby Mac Ferrin
-  - Don't worry be happy
-- Body Count
-  - Born Dead
-  - Evil Dick
-- Boney M
-  - Daddy Cool
-- Bonnie Tyler
-  - Total Eclipse of The Heart
-- Booba
-- Boris
-  - Soirée Disco
-- Boris Vian
-  - le Déserteur
-- Boston
-  - More than a feeling
-- Boule Noire
-  - Aimer d'amour
-- Boulevard des airs
-  - Bruxelles
-- Bourvil
-  - C'était bien
-- Boy George
-- Boys to Men
-- Boyzone
-- Brandy & Monica
-  - The Boy is Mine
-- Brian Adams
-  - Everything I Do
-- Brian Eno
-- Brian Ferry
-  - Slave to love
-- Brigitte Bardot
-  - La madrague
-- Britney Spears
-  - Toxic
-- Bronski Beat
-  - Smalltown boy
-- Brotherhood of man
-  - Save kisses for me
-- Bruce Springsteen
-  - Born in The USA
-- Buddy Guy
-  - On the road
-- Busta Rhymes
-  - Woo Hah
+- [[sng/B-52's - Love Shack]]
+- [[sng/Backstreet Boys - We've got it goin'on]]
+- Bad Brains - ?
+- Bad Religion - ?
+- [[sng/Barbara - l'aigle noir (mai)]]
+- [[sng/Barry Manilow - Could it be magic]]
+- [[sng/Barry White - Let the music play]]
+- [[sng/Baster - Pêcheur]]
+- BB King - ?
+- [[sng/Beastie Boys - Party]]
+- [[sng/Beck - Loser]]
+- [[sng/Bee Gees - Staying Alive]]
+- [[sng/Bee Gees - Night Fever]]
+- [[sng/Bee Gees - How deep is your love]]
+- [[sng/Ben E. King - Stand by me]]
+- [[sng/Ben Harper - With my own two hands]]
+- [[sng/Ben l'Oncle Soul - Soulman]]
+- [[sng/Ben Mazué - Quand je marche]]
+- [[sng/Bénabar - Le dîner]]
+- [[sng/Bénabar - Le vélo]]
+- [[sng/Bénabar - Pas du tout]]
+- [[sng/Benjamin Biolay - Quinze août]]
+- [[sng/Benny B - Mais vous êtes fou]]
+- [[sng/Benny Benassi - Satisfaction]]
+- [[sng/Bernard Lavilliers - Idées Noires]]
+- Bernard Lubat - ?
+- [[sng/Bernard Minet - Bioman]]
+- Bérurier Noir - ?
+- Bette Midler - ?
+- Beverley Knight - ?
+- [[sng/Beverly Craven - Promise me]]
+- [[sng/Beyonce - Crazy in Love]]
+- [[sng/Bezu - Ali Baba]]
+- [[sng/Bezu - A la queue leu leu]]
+- [[sng/Bibi - Tout doucement]]
+- [[sng/Big Soul - Le brio]]
+- [[sng/Bill Baxter - Embrasse moi idiot]]
+- [[sng/Bill Deraime - Babylon tu déconnes]]
+- [[sng/Bill Medley - Time of my life]]
+- [[sng/Bill Withers - Just the two of us]]
+- [[sng/Billy Idol - Flesh for fantasy]]
+- [[sng/Billy Joel - Just The Way you Are]]
+- [[sng/Billy Ocean - When the Going Gets Tough, the Tough Get Going]]
+- [[sng/Billy Paul - Your song]]
+- [[sng/Billy Ray Cyrus - Achy breaky heart]]
+- [[sng/Billy Ze Kick et les Gamins en Folie - Mangez moi]]
+- Birdy - ?
+- [[sng/Björk - Anchor Song]]
+- [[sng/Black Eyed Peas - Shut up]]
+- [[sng/Black M - Sur ma route]]
+- [[sng/Black Sabbath - War pigs]]
+- [[sng/Black - Wonderful World]]
+- Blankass - ?
+- Blink 182 - ?
+- Block Party - ?
+- [[sng/Blondie - Call Me]]
+- [[sng/Blondie - Heart of Glass = reprise]]
+- [[sng/Blues Trottoir - Un soir de pluie]]
+- [[sng/Blur - Girls & Boys]]
+- [[sng/Blur - Song 2]]
+- [[sng/Bob and Earl - Harlem shuffle]]
+- [[sng/Bob Dylan - Blowing in the wind]]
+- Bob Marley - ?
+- [[sng/Bob Seeger - Against the wind]]
+- [[sng/Bobby Hebb - Sunny]]
+- [[sng/Bobby Lapointe - Ta Katie t’a quitté]]
+- [[sng/Bobby Mac Ferrin - Don't worry be happy]]
+- [[sng/Body Count - Born Dead]]
+- [[sng/Body Count - Evil Dick]]
+- [[sng/Boney M - Daddy Cool]]
+- [[sng/Bonnie Tyler - Total Eclipse of The Heart]]
+- Booba - ?
+- [[sng/Boris - Soirée Disco]]
+- [[sng/Boris Vian - le Déserteur]]
+- [[sng/Boston - More than a feeling]]
+- [[sng/Boule Noire - Aimer d'amour]]
+- [[sng/Boulevard des airs - Bruxelles]]
+- [[sng/Bourvil - C'était bien]]
+- Boy George - ?
+- Boys to Men - ?
+- Boyzone - ?
+- [[sng/Brandy & Monica - The Boy is Mine]]
+- [[sng/Brian Adams - Everything I Do]]
+- Brian Eno - ?
+- [[sng/Brian Ferry - Slave to love]]
+- [[sng/Brigitte Bardot - La madrague]]
+- [[sng/Britney Spears - Toxic]]
+- [[sng/Bronski Beat - Smalltown boy]]
+- [[sng/Brotherhood of man - Save kisses for me]]
+- [[sng/Bruce Springsteen - Born in The USA]]
+- [[sng/Buddy Guy - On the road]]
+- [[sng/Busta Rhymes - Woo Hah]]
 
 ### C
 
-- C Jérome
-  - Et tu danses avec lui
-- Cake
-  - The Distance
-- Cali
-  - C'est quand le bonheur
-- Calogero
-  - Face à la mer
-- Cameo
-- Camelia Jordana
-  - Non non non
-- Camille
-  - Paris
-- Cannibal Corpse
-- Capital cities
-  - Safe and sound
-- Captain Beefheart and His Magic Band
-- Captain Sensible
-  - Wot!
-- Carapicho
-  - Bate forte tambor
-- Carl Carlton
-  - She is a bad mama jama
-- Carlos Santana
-  - Black Magic Woman
-- Caroline Loeb
-  - C'est la ouate
-- Carlos
-  - Je préfère manger à la cantine
-- Carmel
-  - Sally
-- Carole Laure
-- Carte de Séjour
-  - Zoubida
-  - Barbès
-- Castelhemis
-  - Coco
-- Cat Stevens
-  - Wild World
-- Catherine Lara
-  - Rockeuse de diamants
-- Cece  Peniston
-  - Finally
-- Céline Dion
-  - Pour que tu m'aimes encore
-  - S'il suffisait d'aimer
-- Cerrone
-- Cesaria Evora
-- Chagrin d'Amour
-  - Chacun fait ce qu'il lui plaît
-- Charles Aznavour
-  - La Bohème
-- Charles Bradley
-- Charles Trenet
-  - La mer
-  - Jolie môme
-- Charlie Winston
-  - Like a hobo
-- Charlots
-  - Histoire Merveilleuse
-- Cheap Trick
-- Cheb Mami
-- Cher
-  - Strong Enough
-- Cheryl Lynn
-  - Got to be real
-- Chicago
-  - If You Leave Me Now
-- Chico Buarque
-  - Essa moça ta differente
-- Chimène Badi
-- Chris de Burgh
-  - High on emotions
-- Chris Isaak
-  - Blue Hotel
-- Chris Rea
-  - The road to hell
-- Christina Aguilera
-  - Genie In The Bottle
-- Christophe
-  - Les mots bleus
-- Christophe Mahé
-  - Il est où le bonheur
-- Christopher Cross
-  - Ride like The Wind
-- Chuck Berry
-  - C'est la vie
-- Cindy Sander
-  - Papillon de lumière
-- Claude Barzotti
-- Claude François
-  - Alex
-- Claude Nougaro
-  - Il faut tourner la page
-- Coal Chamber
-- Cock Robin
-  - When your heart is weak
-  - Remember the promise you made
-- Cœur de pirate
-- ColdPlay
-  - Speed of Sound
-- Companie Créole
-- Cookie Dingler
-  - Femme Libérée
-- Corbier
-  - Sans ma barbe
-- Corynne Charby
-  - Pile ou face
-- Corneil
-  - Parce qu'on vient de loin
-- Counting Crows
-  - Mr. Jones
-- Courtney Love
-- Craig David
-- Crash Test Dummies
-  - MMMMM
-- Cream
-- Creedence Clearwater Revival
-  - Proud Mary
-- Crowded house
-  - Don't dream it's over
-- Crusaders
-  - Street Life
-- Culture Club
-  - Do you really want to hurt me
-- Curtis Mayfield
-  - Move on up
-- Cutting Crew
-  - I just died in your arms
-- Cyndi Lauper
-  - Time after Time
-- Cypress Hill
-  - Rock superstar
-- Crossby, Stills & Nash
+- [[sng/C Jérome - Et tu danses avec lui]]
+- [[sng/Cake - The Distance]]
+- [[sng/Cali - C'est quand le bonheur]]
+- [[sng/Calogero - Face à la mer]]
+- Cameo - ?
+- [[sng/Camelia Jordana - Non non non]]
+- [[sng/Camille - Paris]]
+- Cannibal Corpse - ?
+- [[sng/Capital cities - Safe and sound]]
+- Captain Beefheart and His Magic Band - ?
+- [[sng/Captain Sensible - Wot!]]
+- [[sng/Carapicho - Bate forte tambor]]
+- [[sng/Carl Carlton - She is a bad mama jama]]
+- [[sng/Carlos Santana - Black Magic Woman]]
+- [[sng/Caroline Loeb - C'est la ouate]]
+- [[sng/Carlos - Je préfère manger à la cantine]]
+- [[sng/Carmel - Sally]]
+- Carole Laure - ?
+- [[sng/Carte de Séjour - Zoubida]]
+- [[sng/Carte de Séjour - Barbès]]
+- [[sng/Castelhemis - Coco]]
+- [[sng/Cat Stevens - Wild World]]
+- [[sng/Catherine Lara - Rockeuse de diamants]]
+- [[sng/Cece  Peniston - Finally]]
+- [[sng/Céline Dion - Pour que tu m'aimes encore]]
+- [[sng/Céline Dion - S'il suffisait d'aimer]]
+- Cerrone - ?
+- Cesaria Evora - ?
+- [[sng/Chagrin d'Amour - Chacun fait ce qu'il lui plaît]]
+- [[sng/Charles Aznavour - La Bohème]]
+- Charles Bradley - ?
+- [[sng/Charles Trenet - La mer]]
+- [[sng/Charles Trenet - Jolie môme]]
+- [[sng/Charlie Winston - Like a hobo]]
+- [[sng/Charlots - Histoire Merveilleuse]]
+- Cheap Trick - ?
+- Cheb Mami - ?
+- [[sng/Cher - Strong Enough]]
+- [[sng/Cheryl Lynn - Got to be real]]
+- [[sng/Chicago - If You Leave Me Now]]
+- [[sng/Chico Buarque - Essa moça ta differente]]
+- Chimène Badi - ?
+- [[sng/Chris de Burgh - High on emotions]]
+- [[sng/Chris Isaak - Blue Hotel]]
+- [[sng/Chris Rea - The road to hell]]
+- [[sng/Christina Aguilera - Genie In The Bottle]]
+- [[sng/Christophe - Les mots bleus]]
+- [[sng/Christophe Mahé - Il est où le bonheur]]
+- [[sng/Christopher Cross - Ride like The Wind]]
+- [[sng/Chuck Berry - C'est la vie]]
+- [[sng/Cindy Sander - Papillon de lumière]]
+- Claude Barzotti - ?
+- [[sng/Claude François - Alex]]
+- [[sng/Claude Nougaro - Il faut tourner la page]]
+- Coal Chamber - ?
+- [[sng/Cock Robin - When your heart is weak]]
+- [[sng/Cock Robin - Remember the promise you made]]
+- Cœur de pirate - ?
+- [[sng/ColdPlay - Speed of Sound]]
+- Companie Créole - ?
+- [[sng/Cookie Dingler - Femme Libérée]]
+- [[sng/Corbier - Sans ma barbe]]
+- [[sng/Corynne Charby - Pile ou face]]
+- [[sng/Corneil - Parce qu'on vient de loin]]
+- [[sng/Counting Crows - Mr. Jones]]
+- Courtney Love - ?
+- Craig David - ?
+- [[sng/Crash Test Dummies - MMMMM]]
+- Cream - ?
+- [[sng/Creedence Clearwater Revival - Proud Mary]]
+- [[sng/Crowded house - Don't dream it's over]]
+- [[sng/Crusaders - Street Life]]
+- [[sng/Culture Club - Do you really want to hurt me]]
+- [[sng/Curtis Mayfield - Move on up]]
+- [[sng/Cutting Crew - I just died in your arms]]
+- [[sng/Cyndi Lauper - Time after Time]]
+- [[sng/Cypress Hill - Rock superstar]]
 
 ### D
 
-- D'Angelo
-  - Sugar
-- DaftPunk
-  - Around The World
-  - Harder Better
-- Dalida
-  - Paroles
-  - Laissez moi danser
-- Daniel Balavoine
-  - L'Aziza
-- Daniel Guichard
-  - Mon Vieux
-- Dany Brillant
-  - Suzette
-- Daran
-  - Olivia
-- Dave
-  - Du côté de chez Swan
-- David & Jonathan
-- David Bowie
-  - Let's Dance
-- David Charvet
-- David Halliday
-- David Koven
-- David Martial
-  - Célimène
-- David Roussos
-- Dead Kennedies
-- Dead or Alive
-  - You spin me round
-- Debout sur le zinc
-  - Ma petite chérie
-- Début de Soirée
-  - Nuit de Folie
-- Deee-Lite
-  - Groove is in The heart
-- Deep Purple
-  - Smoke on the water
-- Def Leppard
-  - Pour some Sugar
-- Depeche Mode
-  - Enjoy The Silence
-  - Personnal Jesus
-- Des'Ree
-- Desireless
-  - Voyage Voyage
-- Destiny's Child
-  - Survivor
-- Devendra Banhart
-  - Never Seen Such Good Things
-- Diam's
-  - Bombe Latine
-- Diana Krall
-- Diana Ross
-- Diane Tell
-  - Si j'étais un homme
-- Dick Annegarn
-- Didier Barbelivien
-- Didier Bénureau
-  - La maman de ma maman
-- Didier Super
-- Dido
-- Dio
-  - Holy diver
-- Dionne Warwick
-  - Heartbreaker
-- Dire Straits
-  - Sultans of Swing
-- Disiz la Peste
-  - Je pète les plombs
-- Doc Gyneco
-  - Le docteur
-- Dolly
-  - Je ne veux pas rester sage
-- Dolly Parton
-  - Jolene
-- Dominique A
-  - 22 bar
-- Donna Lewis
-  - I love you always forever
-- Donna Summer
-  - Hot stuff
-- Donovan
-  - Mellow Yellow
-- Duffy
-  - Mercy
-- Duke Ellington
-- Duran Duran
-  - Final Countdown
-- Dweezil Zappa
-  - gonna get you
-- Dyonisos
-  - Jedi?
+- Crossby, Stills & Nash - ?
+- [[sng/D'Angelo - Sugar]]
+- [[sng/DaftPunk - Around The World]]
+- [[sng/DaftPunk - Harder Better]]
+- [[sng/Dalida - Paroles]]
+- [[sng/Dalida - Laissez moi danser]]
+- [[sng/Daniel Balavoine - L'Aziza]]
+- [[sng/Daniel Guichard - Mon Vieux]]
+- [[sng/Dany Brillant - Suzette]]
+- [[sng/Daran - Olivia]]
+- [[sng/Dave - Du côté de chez Swan]]
+- David & Jonathan - ?
+- [[sng/David Bowie - Let's Dance]]
+- David Charvet - ?
+- David Halliday - ?
+- David Koven - ?
+- [[sng/David Martial - Célimène]]
+- David Roussos - ?
+- Dead Kennedies - ?
+- [[sng/Dead or Alive - You spin me round]]
+- [[sng/Debout sur le zinc - Ma petite chérie]]
+- [[sng/Début de Soirée - Nuit de Folie]]
+- [[sng/Deee-Lite - Groove is in The heart]]
+- [[sng/Deep Purple - Smoke on the water]]
+- [[sng/Def Leppard - Pour some Sugar]]
+- [[sng/Depeche Mode - Enjoy The Silence]]
+- [[sng/Depeche Mode - Personnal Jesus]]
+- Des'Ree - ?
+- [[sng/Desireless - Voyage Voyage]]
+- [[sng/Destiny's Child - Survivor]]
+- [[sng/Devendra Banhart - Never Seen Such Good Things]]
+- [[sng/Diam's - Bombe Latine]]
+- Diana Krall - ?
+- Diana Ross - ?
+- [[sng/Diane Tell - Si j'étais un homme]]
+- Dick Annegarn - ?
+- Didier Barbelivien - ?
+- [[sng/Didier Bénureau - La maman de ma maman]]
+- Didier Super - ?
+- Dido - ?
+- [[sng/Dio - Holy diver]]
+- [[sng/Dionne Warwick - Heartbreaker]]
+- [[sng/Dire Straits - Sultans of Swing]]
+- [[sng/Disiz la Peste - Je pète les plombs]]
+- [[sng/Doc Gyneco - Le docteur]]
+- [[sng/Dolly - Je ne veux pas rester sage]]
+- [[sng/Dolly Parton - Jolene]]
+- [[sng/Dominique A - 22 bar]]
+- [[sng/Donna Lewis - I love you always forever]]
+- [[sng/Donna Summer - Hot stuff]]
+- [[sng/Donovan - Mellow Yellow]]
+- [[sng/Duffy - Mercy]]
+- Duke Ellington - ?
+- [[sng/Duran Duran - Final Countdown]]
+- [[sng/Dweezil Zappa - gonna get you]]
+- [[sng/Dyonisos - Jedi?]]
 
 ### E
 
-- Eagle Eye Cherry
-  - Save Tonight
-- Eagles
-  - Hotel California
-- Earth Wind & Fire
-  - Fantasy
-- Ed Sheeran
-  - Shape of you
-- Eddie Cochran
-- Eddy Grant
-  - Gimme hope Jo'Anna
-- Eddy Mitchell
-  - Route de Memphis
-  - La dernière séance
-- Edith Piaf
-  - Mon légionnaire
-- Edmee
-  - Listen to your heart
-- Eiffel 65
-  - Blue
-- Electric Light Orchestra
-  - Mr. Blue Sky
-- Elli Medeiros
-- Elmer Food Beat
-  - Daniela
-- Elsa
-  - T'en vas pas
-- Elton John
-  - I'm still standing
-- Elvis Presley
-- Émilie Simon
-- Emily Loizeau
-  - L'autre bout du monde
-- Eminem
-- Emma Daumas
-  - Tu seras
-- En Vogue
-  - Free your mind
-- Enrico Macias
-- Enrique Iglesias
-  - Contigo
-- Erasure
-  - Sometimes
-- Eric Clapton
-  - Layla
-- Erikah Badu
-- Eros Ramazzotti
-  - Se bastasse una canzone
-- Estelle
-  - American Boy
-- Esther Philips
-  - What a difference a day makes
-- Etienne Daho
-  - Heures Hindoues
-  - Tombé pour la France
-- Europe
-  - The final countdown
-- Eurythmics
-  - There must be an Angel
-- Eva Cassidy
-- Evanescence
-  - Bring me to life
-- Extreme
-  - More than Words
-  - There is No God
+- [[sng/Eagle Eye Cherry - Save Tonight]]
+- [[sng/Eagles - Hotel California]]
+- [[sng/Earth Wind & Fire - Fantasy]]
+- [[sng/Ed Sheeran - Shape of you]]
+- Eddie Cochran - ?
+- [[sng/Eddy Grant - Gimme hope Jo'Anna]]
+- [[sng/Eddy Mitchell - Route de Memphis]]
+- [[sng/Eddy Mitchell - La dernière séance]]
+- [[sng/Edith Piaf - Mon légionnaire]]
+- [[sng/Edmee - Listen to your heart]]
+- [[sng/Eiffel 65 - Blue]]
+- [[sng/Electric Light Orchestra - Mr. Blue Sky]]
+- Elli Medeiros - ?
+- [[sng/Elmer Food Beat - Daniela]]
+- [[sng/Elsa - T'en vas pas]]
+- [[sng/Elton John - I'm still standing]]
+- Elvis Presley - ?
+- Émilie Simon - ?
+- [[sng/Emily Loizeau - L'autre bout du monde]]
+- Eminem - ?
+- [[sng/Emma Daumas - Tu seras]]
+- [[sng/En Vogue - Free your mind]]
+- Enrico Macias - ?
+- [[sng/Enrique Iglesias - Contigo]]
+- [[sng/Erasure - Sometimes]]
+- [[sng/Eric Clapton - Layla]]
+- Erikah Badu - ?
+- [[sng/Eros Ramazzotti - Se bastasse una canzone]]
+- [[sng/Estelle - American Boy]]
+- [[sng/Esther Philips - What a difference a day makes]]
+- [[sng/Etienne Daho - Heures Hindoues]]
+- [[sng/Etienne Daho - Tombé pour la France]]
+- [[sng/Europe - The final countdown]]
+- [[sng/Eurythmics - There must be an Angel]]
+- Eva Cassidy - ?
+- [[sng/Evanescence - Bring me to life]]
+- [[sng/Extreme - More than Words]]
+- [[sng/Extreme - There is No God]]
 
 ### F
 
-- Fabienne Thiebault
-  - Les uns contre les autres
-- Fabulous Troubadours
-- Faith no More
-  - Ashes to Ashes
-- Faudel
-  - Tellement je t'aime
-- Feist
-- Fela Kuti
-  - Zombie
-- Felix Gray
-  - La gitane
-- Femmouzes T
-- FFF
-  - Morphée
-- Fifty cent
-  - P.I.M.P.
-- Fine Young Cannibals
-- Fiona Apple
-- Fishbone
-- Fletwood Mac
-- Florent Pagny
-  - Liberté de penser
-- Fool's Garden
-  - Lemon tree
-- Foo Fighters
-  - My hero
-- Foreigner
-  - Juke box hero
-- FR David
-  - Words don't come easy
-- France Gall
-  - Papillon de nuit
-- Francis Cabrel
-  - Les murs de poussière
-  - Corrida
-- Francis Lalanne
-  - Pense à moi, comme je t'aime
-- Franck Alamo
-  - Biche o ma biche
-- Franck Sinatra
-  - Strangers in The Night
-- Franck Zappa
-- Franckie goes to Holywood
-  - Relax
-- Franckie Valli
-  - Grease
-- François Feldman
-  - Joue pas
-- François Valery
-  - Elle danse Marie elle danse
-- Françoise Hardy
-  - C'est le temps de l'amour
-- Franz Ferdinand
-  - Singing in the car
-- Freak Power
-- Frédéric François
-- Félix Leclerc
-  - Bonheur
+- [[sng/Fabienne Thiebault - Les uns contre les autres]]
+- Fabulous Troubadours - ?
+- [[sng/Faith no More - Ashes to Ashes]]
+- [[sng/Faudel - Tellement je t'aime]]
+- Feist - ?
+- [[sng/Fela Kuti - Zombie]]
+- [[sng/Felix Gray - La gitane]]
+- Femmouzes T - ?
+- [[sng/FFF - Morphée]]
+- [[sng/Fifty cent - P.I.M.P.]]
+- Fine Young Cannibals - ?
+- Fiona Apple - ?
+- Fishbone - ?
+- Fletwood Mac - ?
+- [[sng/Florent Pagny - Liberté de penser]]
+- [[sng/Fool's Garden - Lemon tree]]
+- [[sng/Foo Fighters - My hero]]
+- [[sng/Foreigner - Juke box hero]]
+- [[sng/FR David - Words don't come easy]]
+- [[sng/France Gall - Papillon de nuit]]
+- [[sng/Francis Cabrel - Les murs de poussière]]
+- [[sng/Francis Cabrel - Corrida]]
+- [[sng/Francis Lalanne - Pense à moi, comme je t'aime]]
+- [[sng/Franck Alamo - Biche o ma biche]]
+- [[sng/Franck Sinatra - Strangers in The Night]]
+- Franck Zappa - ?
+- [[sng/Franckie goes to Holywood - Relax]]
+- [[sng/Franckie Valli - Grease]]
+- [[sng/François Feldman - Joue pas]]
+- [[sng/François Valery - Elle danse Marie elle danse]]
+- [[sng/Françoise Hardy - C'est le temps de l'amour]]
+- [[sng/Franz Ferdinand - Singing in the car]]
+- Freak Power - ?
+- Frédéric François - ?
+- [[sng/Félix Leclerc - Bonheur]]
 
 ### G
 
-- Gala
-  - Freed from desire
-- Gamine
-  - Voilà les anges
-- Garbage
-  - Empty
-- Garou
-  - Seul
-- Gary Moore
-  - Parisienne Walkways
-- Genesis
-  - Invisible Touch
-- George Clinton
-- George Michael
-  - Freedom
-  - Faith
-- Georges Brassens
-  - Mauvaise Réputation
-- George Harisson
-  - Got My Mind Set on You
-- Georges Moustaki
-  - la Philosophie
-- Gérald De Palmas
-  - J'en rêve encore
-- Gérard Blanc
-  - On se donne du soleil
-- Gérard Blanchard
-  - Elle voulait revoir sa Normandie
-- Gérard Lenormand
-  - La balade des gens heureux
-- Gerry Rafferty
-  - Baker Street
-- GiedRé
-  - On fait tous caca
-- Gilbert Bécaud
-  - Nathalie
-- Gilbert Montagné
-  - On va s'aimer
-- Gilberto Gil
-  - Toda menina baiana
-- Gino Vanelli
-  - Brother to brother
-- Gipsy Kings
-  - Djobi Djoba
-- Gloria Estefan
-  - Conga
-- Gloria Lasso
-  - Histoire d'un amour
-- Gnarls Barkley
-  - Crazy
-- Gotye
-  - Somebody I used to know
-- Grand Jojo
-  - Chef un petit verre on a soif
-- Grateful Dead
-- Graziella de Michèle
-  - Pull-over blanc
-- Green Day
-  - Basket case
-- Grégoire
-  - Toi + moi
-- Guesh Patti
-  - Etienne
-- Guillaume Farley
-  - La looze
-- Gun's n Roses
-- Guy Béart
-  - L’eau vive
-- Guy Marchand
-  - Destinée
+- [[sng/Gala - Freed from desire]]
+- [[sng/Gamine - Voilà les anges]]
+- [[sng/Garbage - Empty]]
+- [[sng/Garou - Seul]]
+- [[sng/Gary Moore - Parisienne Walkways]]
+- [[sng/Genesis - Invisible Touch]]
+- George Clinton - ?
+- [[sng/George Michael - Freedom]]
+- [[sng/George Michael - Faith]]
+- [[sng/Georges Brassens - Mauvaise Réputation]]
+- [[sng/George Harisson - Got My Mind Set on You]]
+- [[sng/Georges Moustaki - la Philosophie]]
+- [[sng/Gérald De Palmas - J'en rêve encore]]
+- [[sng/Gérard Blanc - On se donne du soleil]]
+- [[sng/Gérard Blanchard - Elle voulait revoir sa Normandie]]
+- [[sng/Gérard Lenormand - La balade des gens heureux]]
+- [[sng/Gerry Rafferty - Baker Street]]
+- [[sng/GiedRé - On fait tous caca]]
+- [[sng/Gilbert Bécaud - Nathalie]]
+- [[sng/Gilbert Montagné - On va s'aimer]]
+- [[sng/Gilberto Gil - Toda menina baiana]]
+- [[sng/Gino Vanelli - Brother to brother]]
+- [[sng/Gipsy Kings - Djobi Djoba]]
+- [[sng/Gloria Estefan - Conga]]
+- [[sng/Gloria Lasso - Histoire d'un amour]]
+- [[sng/Gnarls Barkley - Crazy]]
+- [[sng/Gotye - Somebody I used to know]]
+- [[sng/Grand Jojo - Chef un petit verre on a soif]]
+- Grateful Dead - ?
+- [[sng/Graziella de Michèle - Pull-over blanc]]
+- [[sng/Green Day - Basket case]]
+- [[sng/Grégoire - Toi + moi]]
+- [[sng/Guesh Patti - Etienne]]
+- [[sng/Guillaume Farley - La looze]]
+- Gun's n Roses - ?
+- [[sng/Guy Béart - L’eau vive]]
+- [[sng/Guy Marchand - Destinée]]
 
 ### H
 
-- Hanson
-  - MMMBop
-- Har Mar superstar
-  - Lady, you shot me
-- Harry Belafonte
-  - Day-O (Banana boat song)
-- Harry Connick Junior
-- Heart
-  - Barracuda
-- Hélène Ségara
-  - Trop de gens qui t'aiment
-- Henri Dès
-- Henri Salvador
-  - Le loup, la biche et le chevalier
-- Herbert Léonard
-  - Pour le Plaisir
-- Herbie Hancock
-  - Tonight's the night
-- Hervé Christiani
-  - Libre Max
-- Hervé Villard
-  - Capri
-- Hocus Pocus
-  - Je la Soul
-- Hoobastank
-  - The Reason
-- Hubert-Félix Thiéfaine
-  - La fille du coupeur de joint
-- Huey Lewis and the News
-  - The power of love
-- Hugues Auffray
-  - Santiano
+- [[sng/Hanson - MMMBop]]
+- [[sng/Har Mar superstar - Lady, you shot me]]
+- [[sng/Harry Belafonte - Day-O (Banana boat song)]]
+- Harry Connick Junior - ?
+- [[sng/Heart - Barracuda]]
+- [[sng/Hélène Ségara - Trop de gens qui t'aiment]]
+- Henri Dès - ?
+- [[sng/Henri Salvador - Le loup, la biche et le chevalier]]
+- [[sng/Herbert Léonard - Pour le Plaisir]]
+- [[sng/Herbie Hancock - Tonight's the night]]
+- [[sng/Hervé Christiani - Libre Max]]
+- [[sng/Hervé Villard - Capri]]
+- [[sng/Hocus Pocus - Je la Soul]]
+- [[sng/Hoobastank - The Reason]]
+- [[sng/Hubert-Félix Thiéfaine - La fille du coupeur de joint]]
+- [[sng/Huey Lewis and the News - The power of love]]
+- [[sng/Hugues Auffray - Santiano]]
 
 ### I
 
-- I AM
-  - Sept
-- I wanna rock Twisted Sisters
-- INXS
-  - B Girl W Boy
-- Il était une fois
-  - J'ai encore rêvé d'elle
-  - Viens faire un tour sous la pluie
-- Imagine Dragons
-- Images
-  - Démons de Minuit
-- Imagination
-  - Music and Lights
-  - Just an illusion
-- Imany
-  - Clap your hands
-- Indila
-  - Dernière danse
-- Indochine
-  - 3 nuits par semaine
-- Irene Cara
-  - Fame
-- Isaac Hayes
-  - Theme from Shaft
-- Isabelle Boulay
-  - Parle-moi
-- Izia
-  - Sous les pavés
+- [[sng/I AM - Sept]]
+- I wanna rock Twisted Sisters - ?
+- [[sng/INXS - B Girl W Boy]]
+- [[sng/Il était une fois - J'ai encore rêvé d'elle]]
+- [[sng/Il était une fois - Viens faire un tour sous la pluie]]
+- Imagine Dragons - ?
+- [[sng/Images - Démons de Minuit]]
+- [[sng/Imagination - Music and Lights]]
+- [[sng/Imagination - Just an illusion]]
+- [[sng/Imany - Clap your hands]]
+- [[sng/Indila - Dernière danse]]
+- [[sng/Indochine - 3 nuits par semaine]]
+- [[sng/Irene Cara - Fame]]
+- [[sng/Isaac Hayes - Theme from Shaft]]
+- [[sng/Isabelle Boulay - Parle-moi]]
+- [[sng/Izia - Sous les pavés]]
 
 ### J
 
-- J.J. Lionel
-  - La danse des canards
-- Jackie Quartz
-  - Juste une mise au point
-- Jackson 5
-- Jacques Brel
-  - Orly
-- Jacques Dutronc
-  - L'opportuniste
-- Jain
-  - Oh man
-- Jakno
-- James Blunt
-  - You're beautiful
-- James Brown
-- Jamie Cullum
-- Jamiroquai
-  - Space Cowboy
-- Jane Birkin
-- Jane Manson
-- Jane's addiction
-- Janet Jackson
-  - That's the way love goes
-- Janis Joplin
-- Jason Derulo
-- Java
-  - Et Dieu créa la flemme
-- Jay Jay Cale
-- Jean Ferrat
-- Jean Gabin
-- Jean Schulteis
-  - Confidence pour confidence
-- Jean Vasca
-- Jean-Jacques Goldman
-  - Je te donne
-  - matin actes
-- Jean-Jacques Lafon
-  - Géant de papier
-- Jean-Louis Aubert
-- Jean-Louis Murat
-- Jean-Luc Lahaye
-  - Femme que j'aime
-- Jean-Michel Jarre
-  - Oxygene part 4
-- Jean-Patrick Capdevielle
-  - Quand t'es dans le Désert
-- Jean-Pierre François
-  - Je te survivrai
-- Jean-Pierre Madère
-  - Macumba
-- Jeane Manson
-  - Avant de nous dire adieu
-- Jeanne Mas
-  - En rouge et Noir
-  - Toute première fois
-- Jeff Buckley
-- Jefferson Airplane
-   - White Rabbit
-- Jenifer
-  - Au soleil
-- Jermaine Jackson
-  - Do what you do
-- Jerry Lee Lewis
-  - Great balls of fire
-- Jessie J
-  - Mama knows best
-- Jennifer Lopez
-- Jil Caplan
-  - Tout ce qui nous sépare
-- Jill Scott
-  - Gimme
-- Jimi Hendrix
-  - Castles made of sand
-- Jimmy Cliff
-  - Reggae Night
-- Jimmy Sommerville
-  - Smalltown Boy
-- Joan Baez
-  - Here's to you
-- Joe Cocker
-  - You are so beautiful
-- Joe Dassin
-  - l’éte indien
-- Joe Jackson
-  - Steppin out
-- Joe Satriani
-  - I Believe
-- Joëlle Ursull
-  - W&B Blues
-- John Bon Jovi
-- John Fogerty
-  - Centerfield
-- John Lennon
-  - Imagine
-- John Mayer
-  - Stop this train
-- John Miles
-  - Music
-- John Paul Young
-  - Love is in the air
-- Johnny Cash
-  - Folsom Prison Blues
-- Johnny Clegg
-  - Asimbonanga
-- Jonnhy Halliday
-  - Idole des Jeunes
-- Johnny Lee Hooker
-  - Boom boom boom
-- Joni Mitchell
-  - The Circle Game
-- Journey
-  - Separate ways
-  - Don't stop believing
-- Joy Division
-  - Love will tear us apart
-- Judas Priest
-  - Breaking The law
-- Jul
-  - Tchikita
-- Julie Pietri
-  - Ève lève-toi
-- Julie Zenatti
-  - Si je m'en sors
-- Julien Clerc
-  - Quand je joue
-- Julien Doré
-  - Coco câline
-- Juliette
-  - Aller sans retour
-- Juliette Gréco
-  - Déshabillez-moi
-- Julio Iglesias
-  - Vous les femmes
-- Justice
-  - Genesis
-- Justin Bieber
-- Justin Timberlake
-  - My love
+- [[sng/J.J. Lionel - La danse des canards]]
+- [[sng/Jackie Quartz - Juste une mise au point]]
+- Jackson 5 - ?
+- [[sng/Jacques Brel - Orly]]
+- [[sng/Jacques Dutronc - L'opportuniste]]
+- [[sng/Jain - Oh man]]
+- Jakno - ?
+- [[sng/James Blunt - You're beautiful]]
+- James Brown - ?
+- Jamie Cullum - ?
+- [[sng/Jamiroquai - Space Cowboy]]
+- Jane Birkin - ?
+- Jane Manson - ?
+- Jane's addiction - ?
+- [[sng/Janet Jackson - That's the way love goes]]
+- Janis Joplin - ?
+- Jason Derulo - ?
+- [[sng/Java - Et Dieu créa la flemme]]
+- Jay Jay Cale - ?
+- Jean Ferrat - ?
+- Jean Gabin - ?
+- [[sng/Jean Schulteis - Confidence pour confidence]]
+- Jean Vasca - ?
+- [[sng/Jean-Jacques Goldman - Je te donne]]
+- [[sng/Jean-Jacques Goldman - matin actes]]
+- [[sng/Jean-Jacques Lafon - Géant de papier]]
+- Jean-Louis Aubert - ?
+- Jean-Louis Murat - ?
+- [[sng/Jean-Luc Lahaye - Femme que j'aime]]
+- [[sng/Jean-Michel Jarre - Oxygene part 4]]
+- [[sng/Jean-Patrick Capdevielle - Quand t'es dans le Désert]]
+- [[sng/Jean-Pierre François - Je te survivrai]]
+- [[sng/Jean-Pierre Madère - Macumba]]
+- [[sng/Jeane Manson - Avant de nous dire adieu]]
+- [[sng/Jeanne Mas - En rouge et Noir]]
+- [[sng/Jeanne Mas - Toute première fois]]
+- Jeff Buckley - ?
+- White Rabbit
+- Jefferson Airplane - ?
+- [[sng/Jenifer - Au soleil]]
+- [[sng/Jermaine Jackson - Do what you do]]
+- [[sng/Jerry Lee Lewis - Great balls of fire]]
+- [[sng/Jessie J - Mama knows best]]
+- Jennifer Lopez - ?
+- [[sng/Jil Caplan - Tout ce qui nous sépare]]
+- [[sng/Jill Scott - Gimme]]
+- [[sng/Jimi Hendrix - Castles made of sand]]
+- [[sng/Jimmy Cliff - Reggae Night]]
+- [[sng/Jimmy Sommerville - Smalltown Boy]]
+- [[sng/Joan Baez - Here's to you]]
+- [[sng/Joe Cocker - You are so beautiful]]
+- [[sng/Joe Dassin - l’éte indien]]
+- [[sng/Joe Jackson - Steppin out]]
+- [[sng/Joe Satriani - I Believe]]
+- [[sng/Joëlle Ursull - W&B Blues]]
+- John Bon Jovi - ?
+- [[sng/John Fogerty - Centerfield]]
+- [[sng/John Lennon - Imagine]]
+- [[sng/John Mayer - Stop this train]]
+- [[sng/John Miles - Music]]
+- [[sng/John Paul Young - Love is in the air]]
+- [[sng/Johnny Cash - Folsom Prison Blues]]
+- [[sng/Johnny Clegg - Asimbonanga]]
+- [[sng/Jonnhy Halliday - Idole des Jeunes]]
+- [[sng/Johnny Lee Hooker - Boom boom boom]]
+- [[sng/Joni Mitchell - The Circle Game]]
+- [[sng/Journey - Separate ways]]
+- [[sng/Journey - Don't stop believing]]
+- [[sng/Joy Division - Love will tear us apart]]
+- [[sng/Judas Priest - Breaking The law]]
+- [[sng/Jul - Tchikita]]
+- [[sng/Julie Pietri - Ève lève-toi]]
+- [[sng/Julie Zenatti - Si je m'en sors]]
+- [[sng/Julien Clerc - Quand je joue]]
+- [[sng/Julien Doré - Coco câline]]
+- [[sng/Juliette - Aller sans retour]]
+- [[sng/Juliette Gréco - Déshabillez-moi]]
+- [[sng/Julio Iglesias - Vous les femmes]]
+- [[sng/Justice - Genesis]]
+- Justin Bieber - ?
+- [[sng/Justin Timberlake - My love]]
 
 ### K
 
-- Kajagogo
-  - Won't go
-- Kamini
-  - Marly-Gomont
-- Kansas
-  - Dust in the wind
-  - Carry on Wayward Son
-- Kaoma
-  - Lambada
-- Karine Costa
-  - Ce rêve bleu (Aladdin)
-- Kassav
-- Kate Nash
-- Kate Bush
-  - Babooshka
-- Katrina and the Waves
-  - Walking on Sunshine
-- Katy Perry
-  - Hot'n'Cold
-- Kazero
-  - Thaïnana
-- Keane
-  - Everybody's changing
-- Kelis
-  - Trick me
-- Kelly Clarkson
-  - Because of you
-- Kendji  Girac
-  - Les yeux de la mama
-- Kent
-  - Allons à la campagne
-- Keny Arkana
-  - Fille du vent
-  - Vie d'artiste
-- Keziah Jones
-  - Rythm is love
-- Khaled
-- Kim Wilde
-  - Cambodia
-- Kim
-  - Fiesta
-- Kim Carnes
-  - Bette Davies Eyes
-- King's X
-- Kiss
-  - Creatures of The Night
-- Kool & The Gang
-  - Fresh
-- Kraftwerk
-  - Radioactivity
-- Kylie Minogue
-  - Can't get you Outta my Head
-- Kyo
+- [[sng/Kajagogo - Won't go]]
+- [[sng/Kamini - Marly-Gomont]]
+- [[sng/Kansas - Dust in the wind]]
+- [[sng/Kansas - Carry on Wayward Son]]
+- [[sng/Kaoma - Lambada]]
+- [[sng/Karine Costa - Ce rêve bleu (Aladdin)]]
+- Kassav - ?
+- Kate Nash - ?
+- [[sng/Kate Bush - Babooshka]]
+- [[sng/Katrina and the Waves - Walking on Sunshine]]
+- [[sng/Katy Perry - Hot'n'Cold]]
+- [[sng/Kazero - Thaïnana]]
+- [[sng/Keane - Everybody's changing]]
+- [[sng/Kelis - Trick me]]
+- [[sng/Kelly Clarkson - Because of you]]
+- [[sng/Kendji  Girac - Les yeux de la mama]]
+- [[sng/Kent - Allons à la campagne]]
+- [[sng/Keny Arkana - Fille du vent]]
+- [[sng/Keny Arkana - Vie d'artiste]]
+- [[sng/Keziah Jones - Rythm is love]]
+- Khaled - ?
+- [[sng/Kim Wilde - Cambodia]]
+- [[sng/Kim - Fiesta]]
+- [[sng/Kim Carnes - Bette Davies Eyes]]
+- King's X - ?
+- [[sng/Kiss - Creatures of The Night]]
+- [[sng/Kool & The Gang - Fresh]]
+- [[sng/Kraftwerk - Radioactivity]]
+- [[sng/Kylie Minogue - Can't get you Outta my Head]]
 
 ### L
 
-- L'Affaire Louis' Trio
-  - Chic Planète
-- L5
-  - Toutes les femmes de ta vie
-- L7
-  - Fuel my fire
-- La Grande Sophie
-  - Ma première ride
-- Lana del Rey
-- Lara Fabian
-  - Je t’aime
-- Laroche Valmont
-  - T'as le look coco
-- Larusso
-  - Tu m' oublieras
-- Las Ketchup
-  - Asereje
-- La Tordue
-  - Si Dieu était
-- Laura Branigan
-  - Self Control
-- Laurent Girard
-  - Les chevaux
-- Laurent Voulzy
-  - Song of You
-- Le Grand Orchestre du Splendid
-  - La Salsa du démon
-- Led Zeppelin
-- Lee Scratch Perry
-- Lene Marlin
-  - Where I'm headed
-- Lenny Kravitz
-- Leonard Cohen
-  - Suzanne
-- Leopold Nord
-  - C'est L'amour
-- Les Avions
-- Les Calamités
-  - Vélomoteur
-- Les Charts
-- Les Chaussettes Noires
-  - Daniela
-- Les Fatals Picard
-- Les Forbans
-- Les Frères Casquette
-  - Avant
-- Les Inconnus
-  - C'est toi que je t'aime
-- Les infidèles
-  - Les larmes des maux
-- Les Innocents
-  - Un homme extraordinaire
-- Les Négresses Vertes
-  - Voilà l’été
-- Les Porte-Mentaux
-- Les Satellites
-- Les Têtes Raides
-  - Dans la gueule
-  - Riches et célèbres
-- Les Wampas
-  - Manu Chao
-- Les Wriggles
-  - Passe ton bac
-- Level 42
-  - Lessons in love
-- Liane Foly
-  - Ça va ça vient
-- License IV
-  - Viens boire un ptit coup à la maison
-- Lilly Allen
-- Lilicub
-  - Voyage en Italie
-- Limp Biskit
-- Linda Lemay
-  - Il existe un paradis
-- Linkin Park
-- Lio
-  - Banana split
-- Lionel Richie
-  - All night long
-- Liquido
-  - Narcotic
-- Lisa Stansfield
-  - Change
-  - All around the world
-- Lofofora
-  - Bon à rien
-- Lorie
-  - Près de moi
-- Los del Rio
-  - Macarena
-- Los Lobos
-- Lou Bega
-  - Mambo n°5
-- Lou Reed
-  - Take a walk on the wild side
-- Louane
-  - Jour 1
-- Louis Armstrong
-  - Wonderful World
-- Louis Bertignac
-  - Ces idées là
-- Louis Chedid
-- Louis Prima
-  - Just a Gigolo
-- Lucy Pearl
-  - Don't mess with my man
-- Luis Mariano
-- Lukas Graham
-  - Seven years
-- Luna Parker
-  - Tes états d'âme Éric
-- Lynyrd Skynyrd
-  - Free Bird
+- Kyo - ?
+- [[sng/L'Affaire Louis' Trio - Chic Planète]]
+- [[sng/L5 - Toutes les femmes de ta vie]]
+- [[sng/L7 - Fuel my fire]]
+- [[sng/La Grande Sophie - Ma première ride]]
+- Lana del Rey - ?
+- [[sng/Lara Fabian - Je t’aime]]
+- [[sng/Laroche Valmont - T'as le look coco]]
+- [[sng/Larusso - Tu m' oublieras]]
+- [[sng/Las Ketchup - Asereje]]
+- [[sng/La Tordue - Si Dieu était]]
+- [[sng/Laura Branigan - Self Control]]
+- [[sng/Laurent Girard - Les chevaux]]
+- [[sng/Laurent Voulzy - Song of You]]
+- [[sng/Le Grand Orchestre du Splendid - La Salsa du démon]]
+- Led Zeppelin - ?
+- Lee Scratch Perry - ?
+- [[sng/Lene Marlin - Where I'm headed]]
+- Lenny Kravitz - ?
+- [[sng/Leonard Cohen - Suzanne]]
+- [[sng/Leopold Nord - C'est L'amour]]
+- Les Avions - ?
+- [[sng/Les Calamités - Vélomoteur]]
+- Les Charts - ?
+- [[sng/Les Chaussettes Noires - Daniela]]
+- Les Fatals Picard - ?
+- Les Forbans - ?
+- [[sng/Les Frères Casquette - Avant]]
+- [[sng/Les Inconnus - C'est toi que je t'aime]]
+- [[sng/Les infidèles - Les larmes des maux]]
+- [[sng/Les Innocents - Un homme extraordinaire]]
+- [[sng/Les Négresses Vertes - Voilà l’été]]
+- Les Porte-Mentaux - ?
+- Les Satellites - ?
+- [[sng/Les Têtes Raides - Dans la gueule]]
+- [[sng/Les Têtes Raides - Riches et célèbres]]
+- [[sng/Les Wampas - Manu Chao]]
+- [[sng/Les Wriggles - Passe ton bac]]
+- [[sng/Level 42 - Lessons in love]]
+- [[sng/Liane Foly - Ça va ça vient]]
+- [[sng/License IV - Viens boire un ptit coup à la maison]]
+- Lilly Allen - ?
+- [[sng/Lilicub - Voyage en Italie]]
+- Limp Biskit - ?
+- [[sng/Linda Lemay - Il existe un paradis]]
+- Linkin Park - ?
+- [[sng/Lio - Banana split]]
+- [[sng/Lionel Richie - All night long]]
+- [[sng/Liquido - Narcotic]]
+- [[sng/Lisa Stansfield - Change]]
+- [[sng/Lisa Stansfield - All around the world]]
+- [[sng/Lofofora - Bon à rien]]
+- [[sng/Lorie - Près de moi]]
+- [[sng/Los del Rio - Macarena]]
+- Los Lobos - ?
+- [[sng/Lou Bega - Mambo n°5]]
+- [[sng/Lou Reed - Take a walk on the wild side]]
+- [[sng/Louane - Jour 1]]
+- [[sng/Louis Armstrong - Wonderful World]]
+- [[sng/Louis Bertignac - Ces idées là]]
+- Louis Chedid - ?
+- [[sng/Louis Prima - Just a Gigolo]]
+- [[sng/Lucy Pearl - Don't mess with my man]]
+- Luis Mariano - ?
+- [[sng/Lukas Graham - Seven years]]
+- [[sng/Luna Parker - Tes états d'âme Éric]]
+- [[sng/Lynyrd Skynyrd - Free Bird]]
 
 ### M
 
-- M
-- Maceo Parker
-- Macy Gray
-- Madonna
-  - Like a Prayer
-- Major Lazer
-- Manau
-  - Dans la Vallée
-- Mano negra
-  - Passé de toi
-- Marc Lavoine
-  - Yeux Revolver
-  - Parking des Anges
-- Marcel Amont
-  - Il a le maillot jaune
-- Mariah Carey
-  - Always be my baby
-- Marianne Faithful
-- Marie Laforêt
-  - Vendanges de l'Amour
-- Marie Myriam
-  - L'oiseau et l'enfant
-- Marie-Paul Belle
-  - Parisienne
-- Marina Kaye
-  - Homeless
-- Maroon 5
-  - This love
-- Martin Circus
-  - Je m'éclate au Sénégal
-- Martin Solveig
-  - Jealousy
-- Marvin Gay
-  - What's going on
-- Mary Hopkins
-  - Thoses were a day
-- Marylin Monroe
-  - I want to be loved by you
-- Mathieu Boogaerts
-  - Ondule
-- Matmatah
-  - Lambé an dro
-  - les moutons
-- Matt Bianco
-  - Get Out Of Your Lazy Bed
-- Maurane
-  - Toutes les mamas
-- Martha and the Vandellas
-  - Dancing in the street
-- Maurice Albert
-  - Feelings
-- Maurice Chevalier
-- Maxime Leforestier
-  - Né quelque part
-- MC Hammer
-  - You can't touch this
-- MC Solaar
-  - Caroline
-- Meat Loaf
-  - I'd do anything for love
-- Mecano
-  - Une femme avec une femme
-- Mel & Kim
-  - Respectable
-- Men at work
-- Menelik
-- Metallica
-  - Enter Sandman
-- Michael Gray
-  - The weekend
-- Michael Jackson
-  - Thriller
-- Michael Sembello
-  - Maniac
-- Michel Berger
-  - La groupie du pianiste
-- Michel Delpech
-  - Quand j'étais chanteur
-- Michel Fugain
-  - Beau roman
-- Michel Jonasz
-  - La boite de Jazz
-- Michel Legrand
-- Michel Polnareff
-- Michel Sardou
-  - Etre une femme
-  - J'accuse
-- Michèle Torr
-  - Emmène moi danser ce soir
-- Mickael Miro
-  - L'horloge tourne
-- Mickey 3D
-  - Respire
-- Midnight Oil
-- Mika
-  - Relax (Take it easy)
-- Mike Brant
-  - Qui saura
-- Mike Oldfield
-  - Moonlight Shadow
-- Milli Vanilli
-- Ministry
-  - Revenge
-- Miossec
-  - Brest
-- Mireille Mathieu
-  - Paris brûle-t-il
-- Miss Tick
-- Mister Big
-  - To be with you
-- Mister Gang
-  - Tout le monde est là
-- Modern talking
-  - You are my heart
-- Modjo
-  - Lady
-- Moonray
-  - Comanchero
-- Mort Shuman
-  - Il neige sur le Lac Majeur
-- Mory Kante
-  - Yeke Yeke
-- Motorhead
-  - Ace of spades
-- Mouloudji
-  - Un jour tu verras
-- Muddy Waters
-- Muriel Dacq
-  - Tropique
-- Murray head
-  - One night in Bangkok
-- Muse
-- Musical Youth
-  - Pass The Dutchie
-- Mylène Farmer
-  - Pourvu qu'elles soient douces
-- Mötley Crüe
-  - Girls girls girls
+- M - ?
+- Maceo Parker - ?
+- Macy Gray - ?
+- [[sng/Madonna - Like a Prayer]]
+- Major Lazer - ?
+- [[sng/Manau - Dans la Vallée]]
+- [[sng/Mano negra - Passé de toi]]
+- [[sng/Marc Lavoine - Yeux Revolver]]
+- [[sng/Marc Lavoine - Parking des Anges]]
+- [[sng/Marcel Amont - Il a le maillot jaune]]
+- [[sng/Mariah Carey - Always be my baby]]
+- Marianne Faithful - ?
+- [[sng/Marie Laforêt - Vendanges de l'Amour]]
+- [[sng/Marie Myriam - L'oiseau et l'enfant]]
+- [[sng/Marie-Paul Belle - Parisienne]]
+- [[sng/Marina Kaye - Homeless]]
+- [[sng/Maroon 5 - This love]]
+- [[sng/Martin Circus - Je m'éclate au Sénégal]]
+- [[sng/Martin Solveig - Jealousy]]
+- [[sng/Marvin Gay - What's going on]]
+- [[sng/Mary Hopkins - Thoses were a day]]
+- [[sng/Marylin Monroe - I want to be loved by you]]
+- [[sng/Mathieu Boogaerts - Ondule]]
+- [[sng/Matmatah - Lambé an dro]]
+- [[sng/Matmatah - les moutons]]
+- [[sng/Matt Bianco - Get Out Of Your Lazy Bed]]
+- [[sng/Maurane - Toutes les mamas]]
+- [[sng/Martha and the Vandellas - Dancing in the street]]
+- [[sng/Maurice Albert - Feelings]]
+- Maurice Chevalier - ?
+- [[sng/Maxime Leforestier - Né quelque part]]
+- [[sng/MC Hammer - You can't touch this]]
+- [[sng/MC Solaar - Caroline]]
+- [[sng/Meat Loaf - I'd do anything for love]]
+- [[sng/Mecano - Une femme avec une femme]]
+- [[sng/Mel & Kim - Respectable]]
+- Men at work - ?
+- Menelik - ?
+- [[sng/Metallica - Enter Sandman]]
+- [[sng/Michael Gray - The weekend]]
+- [[sng/Michael Jackson - Thriller]]
+- [[sng/Michael Sembello - Maniac]]
+- [[sng/Michel Berger - La groupie du pianiste]]
+- [[sng/Michel Delpech - Quand j'étais chanteur]]
+- [[sng/Michel Fugain - Beau roman]]
+- [[sng/Michel Jonasz - La boite de Jazz]]
+- Michel Legrand - ?
+- Michel Polnareff - ?
+- [[sng/Michel Sardou - Etre une femme]]
+- [[sng/Michel Sardou - J'accuse]]
+- [[sng/Michèle Torr - Emmène moi danser ce soir]]
+- [[sng/Mickael Miro - L'horloge tourne]]
+- [[sng/Mickey 3D - Respire]]
+- Midnight Oil - ?
+- [[sng/Mika - Relax (Take it easy)]]
+- [[sng/Mike Brant - Qui saura]]
+- [[sng/Mike Oldfield - Moonlight Shadow]]
+- Milli Vanilli - ?
+- [[sng/Ministry - Revenge]]
+- [[sng/Miossec - Brest]]
+- [[sng/Mireille Mathieu - Paris brûle-t-il]]
+- Miss Tick - ?
+- [[sng/Mister Big - To be with you]]
+- [[sng/Mister Gang - Tout le monde est là]]
+- [[sng/Modern talking - You are my heart]]
+- [[sng/Modjo - Lady]]
+- [[sng/Moonray - Comanchero]]
+- [[sng/Mort Shuman - Il neige sur le Lac Majeur]]
+- [[sng/Mory Kante - Yeke Yeke]]
+- [[sng/Motorhead - Ace of spades]]
+- [[sng/Mouloudji - Un jour tu verras]]
+- Muddy Waters - ?
+- [[sng/Muriel Dacq - Tropique]]
+- [[sng/Murray head - One night in Bangkok]]
+- Muse - ?
+- [[sng/Musical Youth - Pass The Dutchie]]
+- [[sng/Mylène Farmer - Pourvu qu'elles soient douces]]
+- [[sng/Mötley Crüe - Girls girls girls]]
 
 ### N
 
-- Nacash
-  - Elle imagine
-- Nach
-  - Âme mélodique
-- Nada Surf
-  - Popular
-- Nadiya
-  - Tous ces mots
-- Nana Mouskouri
-  - Quand tu chantes
-  - Chanter la vie
-- Nancy Sinatra
-  - These Boots Are Made for Walkin'
-- Nash
-- Natacha Saint Pier
-  - Tu trouveras
-- Natalie Imbruglia
-  - Torn
-- Neg Marron
-- Neil Young
-  - Harvest
-- Nelly Furtado
-  - Say it right
-- Nena
-  - 99 Luftballons
-- Niagara
-  - Guerre
-- Nick Cave
-- Nick Drake
-  - River man
-- Nick Kershaw
-  - The Riddle
-- Nicki Minaj
-- Nicolas Peyrac
-  - So far away from L.A.
-- Nicole Croisille
-  - Une femme avec toi
-- Nicole McCloud
-  - Don't you want my love
-- Nicoletta
-  - La Musique
-- Nina Morato
-- Nina Simone
-  - My baby don't care
-- Nine Inch Nails
-  - Wish
-- Nino Ferrer
-  - Anarchistes
-  - le Sud
-- Nirvana
-- No Doubt
-  - Don't Speak
-- No One is Innocent
-  - La Peau
-- No Se
-- Noa
-  - I don't know
-- Noé Willer
-  - Toi, femme publique
-- NOFX
-- Noir Désir
-  - Le vent l'emportera
-- Nolwenn Leroy
-- Norah Jones
-  - Don't know Why
-- Nosfell
-- Notre Dame de Paris
-  - Belle
-- Nsync
-- NTM
-  - J'appuie sur la gachette
-- Nuttea
-  - Elle te rend dingue
+- [[sng/Nacash - Elle imagine]]
+- [[sng/Nach - Âme mélodique]]
+- [[sng/Nada Surf - Popular]]
+- [[sng/Nadiya - Tous ces mots]]
+- [[sng/Nana Mouskouri - Quand tu chantes]]
+- [[sng/Nana Mouskouri - Chanter la vie]]
+- [[sng/Nancy Sinatra - These Boots Are Made for Walkin']]
+- Nash - ?
+- [[sng/Natacha Saint Pier - Tu trouveras]]
+- [[sng/Natalie Imbruglia - Torn]]
+- Neg Marron - ?
+- [[sng/Neil Young - Harvest]]
+- [[sng/Nelly Furtado - Say it right]]
+- [[sng/Nena - 99 Luftballons]]
+- [[sng/Niagara - Guerre]]
+- Nick Cave - ?
+- [[sng/Nick Drake - River man]]
+- [[sng/Nick Kershaw - The Riddle]]
+- Nicki Minaj - ?
+- [[sng/Nicolas Peyrac - So far away from L.A.]]
+- [[sng/Nicole Croisille - Une femme avec toi]]
+- [[sng/Nicole McCloud - Don't you want my love]]
+- [[sng/Nicoletta - La Musique]]
+- Nina Morato - ?
+- [[sng/Nina Simone - My baby don't care]]
+- [[sng/Nine Inch Nails - Wish]]
+- [[sng/Nino Ferrer - Anarchistes]]
+- [[sng/Nino Ferrer - le Sud]]
+- Nirvana - ?
+- [[sng/No Doubt - Don't Speak]]
+- [[sng/No One is Innocent - La Peau]]
+- No Se - ?
+- [[sng/Noa - I don't know]]
+- [[sng/Noé Willer - Toi, femme publique]]
+- NOFX - ?
+- [[sng/Noir Désir - Le vent l'emportera]]
+- Nolwenn Leroy - ?
+- [[sng/Norah Jones - Don't know Why]]
+- Nosfell - ?
+- [[sng/Notre Dame de Paris - Belle]]
+- Nsync - ?
+- [[sng/NTM - J'appuie sur la gachette]]
+- [[sng/Nuttea - Elle te rend dingue]]
 
 ### O
 
-- Oasis
-  - Wonderwall
-- Odezenne
-- Ohio Players
-  - Love Rollercoaster
-- Oldelaf
-  - La tristitude
-- Oliver Cheatham
-  - Cet down machin
-- Olivia Ruiz
-  - La femme chocolat
-- Opus
-  - Life is Life
-- Orelsan
-  - Tout va bien
-- Otis Redding
-  - The dock of the bay
-- Outkast
-  - Hey ya
-- Ozzy Osbourne
+- [[sng/Oasis - Wonderwall]]
+- Odezenne - ?
+- [[sng/Ohio Players - Love Rollercoaster]]
+- [[sng/Oldelaf - La tristitude]]
+- [[sng/Oliver Cheatham - Cet down machin]]
+- [[sng/Olivia Ruiz - La femme chocolat]]
+- [[sng/Opus - Life is Life]]
+- [[sng/Orelsan - Tout va bien]]
+- [[sng/Otis Redding - The dock of the bay]]
+- [[sng/Outkast - Hey ya]]
 
 ### P
 
-- P Lion
-  - Dream
-- Pacifique
-- Paolo Conte
-  - It's Wonderful
-- Papa Wemba
-  - Show me the way
-- Paris Combo
-- Partenaire particulier
-  - Partenaire particulier
-- Pascal Danel
-  - Laissons la plage aux romantique
-- Pascal Obispo
-  - Fan
-- Pat Benatar
-- Patachou
-  - Au bout de la semaine
-- Patricia Carli
-  - Demain tu te maries
-- Patricia Kaas
-  - Je voudrais la connaître
-- Patrick Bruel
-  - Marre de cette Nana là
-- Patrick Coutin
-  - J'aime regarder les filles
-- Patrick Duffy
-- Patrick Fiori
-  - Quatre mots sur un piano
-  - Toutes les peines
-- Patrick Juvet
-  - Où sont les femmes
-- Patrick Topaloff
-  - J'ai bien mangé, j'ai bien vu
-- Patsy Cline
-  - Let the teardrops fall
-- Patty Labelle
-  - Lady Marmalade
-- Paul Simon
-  - Fifty ways to leave your lover
-- Paul Young
-  - Come back and stay
-- Paula Abdul
-  - Straight up
-- Pauline Ester
-  - Oui je l'adore
-- Percy Sledge
-  - When a man loves a woman
-- Pet Shop Boys
-  - Domino Dancing
-- Peter & Sloane
-- Peter Frampton
-  - Baby I love your way
-- Peter Gabriel
-  - Sledge Hammer
-  - Solsbury Hill
-- Phil Barney
-  - Un enfant de toi
-- Phil Collins
-  - Another day in paradise
-- Philippe Cataldo
-  - Les divas du dancing
-- Philippe Chatel
-  - Mister Hyde
-- Philippe Katerine
-  - La banane
-- Philippe Lafontaine
-  - Coeur de loup
-- Philippe Lavil
-  - Il tape sur des bambous
-- Philippe Risoli
-  - Cuitas les Bananas
-- Philippe Swan
-  - Dans ma rue
-- Phoenix
-  - If I ever feel better
-- Pier Pol Jack
-  - Chais pas jouer
-- Pierre Bachelet
-  - En l'an 2001
-- Pierre Billon
-  - Comme une bamba triste
-- Pierre Chêne
-  - Mon papa
-- Pierre Perret
-  - Lili
-- Pierre Vassiliu
-  - Je lui téléphone
-- Pigalle
-  - Dans la salle du bar tabac de la rue des Martyrs
-- Pink
-  - Sober
-- Pink Floyd
-- Pink Martini
-  - Sympathique (Je ne veux pas travailler)
-- Pit & Rik
-  - La cicrane et la froumi
-- Pixies
-  - Where is my mind
-- Placebo
-  - The Bitter End
-- Plastic Bertrand
-  - Ça plane pour moi
-- Pleymo
-  - Modaddiction
-- Police
-  - So Lonely
-- Porcupine Tree
-  - Arriving
-- Prefab Sprout
-  - Cars and Girls
-- Presidents of The USA
-  - Lump
-- Pricess Erika
-- Primus
-  - John The Fisherman
-- Prince
-- Procol Harum
-  - A whiter shade of pale
-- Prohom
-  - Ca oublie d'aimer
-- Propaganda
-- Public Image Ltd
-  - Love Song
-- Pulp
-  - Disco 2000
-- Pussy Riot
-- Pussycat Dolls
+- Ozzy Osbourne - ?
+- [[sng/P Lion - Dream]]
+- Pacifique - ?
+- [[sng/Paolo Conte - It's Wonderful]]
+- [[sng/Papa Wemba - Show me the way]]
+- Paris Combo - ?
+- [[sng/Partenaire particulier - Partenaire particulier]]
+- [[sng/Pascal Danel - Laissons la plage aux romantique]]
+- [[sng/Pascal Obispo - Fan]]
+- Pat Benatar - ?
+- [[sng/Patachou - Au bout de la semaine]]
+- [[sng/Patricia Carli - Demain tu te maries]]
+- [[sng/Patricia Kaas - Je voudrais la connaître]]
+- [[sng/Patrick Bruel - Marre de cette Nana là]]
+- [[sng/Patrick Coutin - J'aime regarder les filles]]
+- Patrick Duffy - ?
+- [[sng/Patrick Fiori - Quatre mots sur un piano]]
+- [[sng/Patrick Fiori - Toutes les peines]]
+- [[sng/Patrick Juvet - Où sont les femmes]]
+- [[sng/Patrick Topaloff - J'ai bien mangé, j'ai bien vu]]
+- [[sng/Patsy Cline - Let the teardrops fall]]
+- [[sng/Patty Labelle - Lady Marmalade]]
+- [[sng/Paul Simon - Fifty ways to leave your lover]]
+- [[sng/Paul Young - Come back and stay]]
+- [[sng/Paula Abdul - Straight up]]
+- [[sng/Pauline Ester - Oui je l'adore]]
+- [[sng/Percy Sledge - When a man loves a woman]]
+- [[sng/Pet Shop Boys - Domino Dancing]]
+- Peter & Sloane - ?
+- [[sng/Peter Frampton - Baby I love your way]]
+- [[sng/Peter Gabriel - Sledge Hammer]]
+- [[sng/Peter Gabriel - Solsbury Hill]]
+- [[sng/Phil Barney - Un enfant de toi]]
+- [[sng/Phil Collins - Another day in paradise]]
+- [[sng/Philippe Cataldo - Les divas du dancing]]
+- [[sng/Philippe Chatel - Mister Hyde]]
+- [[sng/Philippe Katerine - La banane]]
+- [[sng/Philippe Lafontaine - Coeur de loup]]
+- [[sng/Philippe Lavil - Il tape sur des bambous]]
+- [[sng/Philippe Risoli - Cuitas les Bananas]]
+- [[sng/Philippe Swan - Dans ma rue]]
+- [[sng/Phoenix - If I ever feel better]]
+- [[sng/Pier Pol Jack - Chais pas jouer]]
+- [[sng/Pierre Bachelet - En l'an 2001]]
+- [[sng/Pierre Billon - Comme une bamba triste]]
+- [[sng/Pierre Chêne - Mon papa]]
+- [[sng/Pierre Perret - Lili]]
+- [[sng/Pierre Vassiliu - Je lui téléphone]]
+- [[sng/Pigalle - Dans la salle du bar tabac de la rue des Martyrs]]
+- [[sng/Pink - Sober]]
+- Pink Floyd - ?
+- [[sng/Pink Martini - Sympathique (Je ne veux pas travailler)]]
+- [[sng/Pit & Rik - La cicrane et la froumi]]
+- [[sng/Pixies - Where is my mind]]
+- [[sng/Placebo - The Bitter End]]
+- [[sng/Plastic Bertrand - Ça plane pour moi]]
+- [[sng/Pleymo - Modaddiction]]
+- [[sng/Police - So Lonely]]
+- [[sng/Porcupine Tree - Arriving]]
+- [[sng/Prefab Sprout - Cars and Girls]]
+- [[sng/Presidents of The USA - Lump]]
+- Pricess Erika - ?
+- [[sng/Primus - John The Fisherman]]
+- Prince - ?
+- [[sng/Procol Harum - A whiter shade of pale]]
+- [[sng/Prohom - Ca oublie d'aimer]]
+- Propaganda - ?
+- [[sng/Public Image Ltd - Love Song]]
+- [[sng/Pulp - Disco 2000]]
+- Pussy Riot - ?
 
 ### Q
 
-- Queen
-  - We are the champions
-- Queens of the stone age
+- Pussycat Dolls - ?
+- [[sng/Queen - We are the champions]]
 
 ### R
 
-- Rachid Ferrache
-  - Le fille aux cheveux bleus
-- Rachid Taha
-  - Minouche
-- Radiohead
-- Raft
-  - Yaka dansé
-- Rage again The Machine
-  - Wake up
-- Ram Jam
-  - Black Betty
-- Raphaël
-  - Caravane
-- Raphael Callandreau
-  - le Piège à Gonzesses
-- Ray Charles
-  - Georgia
-- Ray Ventura
-  - Scarlatine
-- RHCP
-  - Under The Bridge
-  - Parallel Universe
-- REM
-- Refused
-- Regglyss
-  - Mets de l’huile
-- Régine
-  - Les petits papiers
-- Renan Luce
-  - Les voisines
-- Renaud
-  - Mistral Gagnant
-  - vent soufflera
-- Ricchi E Poveri
-  - Sara perche ti amo
-- Richard Anthony
-- Richard Clayderman
-  - Ballade pour Adeline
-- Richard Cocciante
-  - coup de soleil
-- Richard Gotainer
-  - Mambo du Décalco
-- Richard Marx
-  - Right here waiting for you
-- Richie Havens
-- Ridan
-  - Agriculteur
-- Rihanna
-  - Diamonds
-- Rika Zaraï
-  - Le kazatchok
-- Rita Mitsouko
-  - Les histoires d'amour
-- Ritchie Valens
-  - La Bamba
-- Robbie Williams
-- Robert Charlebois
-  - Je reviendrai à Montréal
-- Robert Miles
-  - Children
-- Robert Palmer
-  - Bad Case Of Loving You
-- Robert Wyatt
-- Roberta Flack
-  - Feel like making love
-- Rocca
-- Roch Voisine
-  - Hélène
-- Rockwell
-  - Somebody's watching me
-- Rod Stewart
-  - Baby Jane
-- Rod y Gab
-- Rodriguez
-- Roger Glover
-  - Love is all
-- Roman-Photo
-- Roméo & Juliette
-  - Aimer
-- Roméo
-  - Petite conne
-- Rondo Veneziano
-  - Musica Fantasio
-- Rory Gallagher
-  - Shadow Play
-- Rose Laurens
-  - Africa
-- Roxette
-  - The look
-  - Listen to your heart
-- Roxy Music
-- Rozlin Clarke
-  - Are you ready Eddy
-- Rush
-  - Subdivisions
-- Ryan Paris
-  - Dolce Vita
-- Rydann
-  - l'Agriculteur
+- Queens of the stone age - ?
+- [[sng/Rachid Ferrache - Le fille aux cheveux bleus]]
+- [[sng/Rachid Taha - Minouche]]
+- Radiohead - ?
+- [[sng/Raft - Yaka dansé]]
+- [[sng/Rage again The Machine - Wake up]]
+- [[sng/Ram Jam - Black Betty]]
+- [[sng/Raphaël - Caravane]]
+- [[sng/Raphael Callandreau - le Piège à Gonzesses]]
+- [[sng/Ray Charles - Georgia]]
+- [[sng/Ray Ventura - Scarlatine]]
+- [[sng/RHCP - Under The Bridge]]
+- [[sng/RHCP - Parallel Universe]]
+- REM - ?
+- Refused - ?
+- [[sng/Regglyss - Mets de l’huile]]
+- [[sng/Régine - Les petits papiers]]
+- [[sng/Renan Luce - Les voisines]]
+- [[sng/Renaud - Mistral Gagnant]]
+- [[sng/Renaud - vent soufflera]]
+- [[sng/Ricchi E Poveri - Sara perche ti amo]]
+- Richard Anthony - ?
+- [[sng/Richard Clayderman - Ballade pour Adeline]]
+- [[sng/Richard Cocciante - coup de soleil]]
+- [[sng/Richard Gotainer - Mambo du Décalco]]
+- [[sng/Richard Marx - Right here waiting for you]]
+- Richie Havens - ?
+- [[sng/Ridan - Agriculteur]]
+- [[sng/Rihanna - Diamonds]]
+- [[sng/Rika Zaraï - Le kazatchok]]
+- [[sng/Rita Mitsouko - Les histoires d'amour]]
+- [[sng/Ritchie Valens - La Bamba]]
+- Robbie Williams - ?
+- [[sng/Robert Charlebois - Je reviendrai à Montréal]]
+- [[sng/Robert Miles - Children]]
+- [[sng/Robert Palmer - Bad Case Of Loving You]]
+- Robert Wyatt - ?
+- [[sng/Roberta Flack - Feel like making love]]
+- Rocca - ?
+- [[sng/Roch Voisine - Hélène]]
+- [[sng/Rockwell - Somebody's watching me]]
+- [[sng/Rod Stewart - Baby Jane]]
+- Rod y Gab - ?
+- Rodriguez - ?
+- [[sng/Roger Glover - Love is all]]
+- Roman-Photo - ?
+- [[sng/Roméo & Juliette - Aimer]]
+- [[sng/Roméo - Petite conne]]
+- [[sng/Rondo Veneziano - Musica Fantasio]]
+- [[sng/Rory Gallagher - Shadow Play]]
+- [[sng/Rose Laurens - Africa]]
+- [[sng/Roxette - The look]]
+- [[sng/Roxette - Listen to your heart]]
+- Roxy Music - ?
+- [[sng/Rozlin Clarke - Are you ready Eddy]]
+- [[sng/Rush - Subdivisions]]
+- [[sng/Ryan Paris - Dolce Vita]]
+- [[sng/Rydann - l'Agriculteur]]
 
 ### S
 
-- Sabine Paturel
-  - Les bêtises
-- Sabrina
-  - Boys Boys Boys
-- Sacha Distel
-  - Des pommes, des poires et des scoubidous
-- Sade
-  - Sweetest Taboo
-- Saez
-  - Jeune et con
-- Saï Saï
-  - Un logement décent
-- Saian Supa Crew
-  - Angela
-- Salt and Peppa
-  - Let's talk about sex
-- Salvatore Adamo
-  - Vous permettez Monsieur
-- Sam Brown
-  - Stop !
-- Sam Cooke
-- Sam Smith
- -  I'm not the only one
-- Samantha Fox
-  - Touch me
-- San Severino
-- Sandra
-  - Everlasting Love
-- Sash!
-- Seal
-  - Crazy
-- Secret Service
-  - Flash in the night
-- Serge Gainsbourg
-  - Pas long feu
-- Serge Lama
-  - Femme, femme, femme
-- Serge Reggiani
-- Sergent Garcia
-  - Medecine Man
-- Sexion D'assaut
-  - J'ai pas les loves
-- Shakaponk
-  - My name is Stain
-- Shakira
-  - Waka waka
-- Shalamar
-  - And The beat goes on
-  - Night to Remember
-- Shania Twain
-  - That don't Impress me
-- Sheila
-  - L'école est finie
-- Sheryl Crow
-  - All I wanna do
-- Shirley Bassey
-- Shocking blue
-- Sia
-  - Chandelier
-- Silmarils
-  - Cours vite
-- Simon & Garfunkel
-  - El Condor Pasa
-- Simple Minds
-  - Don't you
-- Simply Red
-  - If you don't know me by now
-- Sinatra
-  - chanson xav julie
-- Sinclair
-  - Ensemble
-- Sinead O'Connor
-  - Nothing Compares
-- Sinsemilia
-  - Tout le bonheur
-- Ska-P
-  - Legalizacion
-- Skunk Anansie
-  - Hedonism
-- Sly and the Family Stone
-  - If you want me to stay
-- Smashing Pumpkins
-  - Today
-- Snoop Doggy Dog
-- SNAP!
-- SOAP
-  - This is How We Party
-- Soft Cell
-  - Tainted Love
-- Soldat Louis
-  - Du rhum, des femmes, ...
-- Sophie Ellis-Bextor
-  - Murder on the dancefloor
-- Soprano
-  - Clown
-- Soul Asylum
-  - Runaway train
-- Soundgarden
-  - Fell on black days
-- Spice Girls
-  - Say you'll be there
-- Spin Doctors
-  - Two Princes
-- Spinal Tap
-- Star Sailor
-  - Four to the Floor
-- Status Quo
-  - Army Now
-- Steely Dan
-  - Josie
-- Stéphane Eicher
-  - Déjeuner en paix
-- Stéphanie de Monaco
-  - Comme un ouragan
-- Steppenwolf
-  - Born to be wild
-- Steve Miller band
-  - The Joker
-- Stevie Ray Vaughan
-  - Mary had a little lamb
-- Stevie Wonder
-- Sting
-- Stone & Charden
-- Stretch
-  - Why did you do it
-- Stromae
-  - Papa où t'es ?
-- Sttellla
-  - Les Tartines
-- Sublime
-  - What I got
-- Suicidal Tendencies
-- Superbus
-- Supergrass
-  - Alright
-- Supertramp
-  - The logical song
-  - It's raining again
-- Survivor
-  - Eye of the tiger
-- Suzanne Vega
-  - Luka
-- Svinkels
-- Sweet Smoke
-  - Silly Sally
-- Sylvie Vartan
-  - La plus belle pour aller danser
-- System of a down
+- [[sng/Sabine Paturel - Les bêtises]]
+- [[sng/Sabrina - Boys Boys Boys]]
+- [[sng/Sacha Distel - Des pommes, des poires et des scoubidous]]
+- [[sng/Sade - Sweetest Taboo]]
+- [[sng/Saez - Jeune et con]]
+- [[sng/Saï Saï - Un logement décent]]
+- [[sng/Saian Supa Crew - Angela]]
+- [[sng/Salt and Peppa - Let's talk about sex]]
+- [[sng/Salvatore Adamo - Vous permettez Monsieur]]
+- [[sng/Sam Brown - Stop !]]
+- Sam Cooke - ?
+-  I'm not the only one
+- Sam Smith - ?
+- [[sng/Samantha Fox - Touch me]]
+- San Severino - ?
+- [[sng/Sandra - Everlasting Love]]
+- Sash! - ?
+- [[sng/Seal - Crazy]]
+- [[sng/Secret Service - Flash in the night]]
+- [[sng/Serge Gainsbourg - Pas long feu]]
+- [[sng/Serge Lama - Femme, femme, femme]]
+- Serge Reggiani - ?
+- [[sng/Sergent Garcia - Medecine Man]]
+- [[sng/Sexion D'assaut - J'ai pas les loves]]
+- [[sng/Shakaponk - My name is Stain]]
+- [[sng/Shakira - Waka waka]]
+- [[sng/Shalamar - And The beat goes on]]
+- [[sng/Shalamar - Night to Remember]]
+- [[sng/Shania Twain - That don't Impress me]]
+- [[sng/Sheila - L'école est finie]]
+- [[sng/Sheryl Crow - All I wanna do]]
+- Shirley Bassey - ?
+- Shocking blue - ?
+- [[sng/Sia - Chandelier]]
+- [[sng/Silmarils - Cours vite]]
+- [[sng/Simon & Garfunkel - El Condor Pasa]]
+- [[sng/Simple Minds - Don't you]]
+- [[sng/Simply Red - If you don't know me by now]]
+- [[sng/Sinatra - chanson xav julie]]
+- [[sng/Sinclair - Ensemble]]
+- [[sng/Sinead O'Connor - Nothing Compares]]
+- [[sng/Sinsemilia - Tout le bonheur]]
+- [[sng/Ska-P - Legalizacion]]
+- [[sng/Skunk Anansie - Hedonism]]
+- [[sng/Sly and the Family Stone - If you want me to stay]]
+- [[sng/Smashing Pumpkins - Today]]
+- Snoop Doggy Dog - ?
+- SNAP! - ?
+- [[sng/SOAP - This is How We Party]]
+- [[sng/Soft Cell - Tainted Love]]
+- [[sng/Soldat Louis - Du rhum, des femmes, ...]]
+- [[sng/Sophie Ellis-Bextor - Murder on the dancefloor]]
+- [[sng/Soprano - Clown]]
+- [[sng/Soul Asylum - Runaway train]]
+- [[sng/Soundgarden - Fell on black days]]
+- [[sng/Spice Girls - Say you'll be there]]
+- [[sng/Spin Doctors - Two Princes]]
+- Spinal Tap - ?
+- [[sng/Star Sailor - Four to the Floor]]
+- [[sng/Status Quo - Army Now]]
+- [[sng/Steely Dan - Josie]]
+- [[sng/Stéphane Eicher - Déjeuner en paix]]
+- [[sng/Stéphanie de Monaco - Comme un ouragan]]
+- [[sng/Steppenwolf - Born to be wild]]
+- [[sng/Steve Miller band - The Joker]]
+- [[sng/Stevie Ray Vaughan - Mary had a little lamb]]
+- Stevie Wonder - ?
+- Sting - ?
+- Stone & Charden - ?
+- [[sng/Stretch - Why did you do it]]
+- [[sng/Stromae - Papa où t'es ?]]
+- [[sng/Sttellla - Les Tartines]]
+- [[sng/Sublime - What I got]]
+- Suicidal Tendencies - ?
+- Superbus - ?
+- [[sng/Supergrass - Alright]]
+- [[sng/Supertramp - The logical song]]
+- [[sng/Supertramp - It's raining again]]
+- [[sng/Survivor - Eye of the tiger]]
+- [[sng/Suzanne Vega - Luka]]
+- Svinkels - ?
+- [[sng/Sweet Smoke - Silly Sally]]
+- [[sng/Sylvie Vartan - La plus belle pour aller danser]]
 
 ### T
 
-- Talk talk
-  - Such a shame
-- Talking Heads
-  - Once in a lifetime
-  - Psycho killer
-- Taxi Girl
-  - Cherchez le garçon
-- Taylor Swift
-  - Shake it off
-- Tears for Fears
-  - Everybody wants to rule the world
-- Téléphone
-- Ten Sharp
-  - You
-- Ten years After
-- Terence Trent D'Arby
-  - Sign your name
-- Teri Moïse
-  - Les poêmes de Michelle
-- Tété
-  - À la faveur de l'automne
-- Texas
-- The Animals
-  - Dont let me be misunderstood
-- The Art Company
-  - Susanna
-- The Bangles
-  - Eternal Flame
-  - Walk like an Egyptian
-- The Beach Boys
-  - I get Around
-- The Beatles
-- The Belle Stars
-  - Sign Of The Times
-- The Breeders
-  - Cannonball
-- The Cardigans
-  - Lovefool
-- The Carpenters
-  - Close to you
-- The Christians
-  - If I could find words
-- The Clarks
-- The Commodores
-  - Easy
-- The Communards
-- The Cranberries
-  - Zombie
-- The Cure
-- The Deftones
-  - My Own Summer
-  - Be Quiet & Drive
-- The Dø
-- The Doobie Brothers
-- The Doors
-  - Light my fire
-- The Fugees
-  - Fugee-la
-- The Gladiators
-- The Hives
-  - Hate to say I told you so
-- The Kinks
-  - you really got me
-- The Knack
-  - My Sharona
-- The Korgis
-  - Everybody's got to learn sometime
-- The Mamas & The Papas
-  - California Dreaming
-- The Offspring
-  - Pretty fly
-- The Pasadenas
-  - Tribute
-- The Pogues
-  - Dirty old town
-- The Platters
-  - Only you
-- The Pretenders
-  - I go to sleep
-- The Ramones
-  - Teenage Lobotomy
-- The Rasmus
-  - In The shadows
-- The Rembrants
-  - Friends?
-- The Rolling Stones
-  - Honky Tonk Woman
-- The Ronnettes
-  - Be my baby
-- The Roots
-- The Sex Pistols
-  - God save the Queen
-- The Shadows
-  - Apache
-- The Skatalites
-- The Specials
-  - Ghost Town
-- The Stone Roses
-- The Stooges
-- The Strokes
-- The Supermen lovers
-  - Starlight
-- The Supremes
-  - Baby love
-- The Temptations
-  - My girl
-- The The
-- The Verve
-  - The bitter sweet symphony
-- The White Stripes
-  - Seven Nation Army
-- The Who
-  - My generation
-- The Yardbirds
-- Thierry Hazard
-  - Le Jerk
-- Thierry Pastor
-  - Le coup de folie
-- Thomas Fersen
-- Tiken Jah Fakoli
-- Tim Buckley
-- Tina Arena
-  - Chains
-- Tina Charles
-  - Love to love
-- Tina Turner
-  - The Best
-- Tino Rossi
-  - Mexico
-- TLC
-  - No Scrub
-- Tom Jones
-  - It's not unusual
-- Tom Petty
-  - Learning to fly
-- Tom Waits
-- Toni Braxton
-  - Unbreak my heart
-- Tonton David
-  - Chacun sa route, chacun son chemin
-- Tool
-- Toots and the Maytals
-  - 54.46 that's my number
-- Tori Amos
-  - Cruficy myself
-- Toto Cutunio
-  - l'italiano
-- Toto
-  - Africa
-- Toto Coelo
-  - Milk of the coconut
-- Tower of Power
-- Tracy Chapman
-  - Talking bout Revolution
-- Trust
-  - Antisocial
-- Tri Yann
-- Troggs
-  - Wild thing
-- Tryo
-  - Hymne de nos campagnes
-- Tunde Olaniran
+- System of a down - ?
+- [[sng/Talk talk - Such a shame]]
+- [[sng/Talking Heads - Once in a lifetime]]
+- [[sng/Talking Heads - Psycho killer]]
+- [[sng/Taxi Girl - Cherchez le garçon]]
+- [[sng/Taylor Swift - Shake it off]]
+- [[sng/Tears for Fears - Everybody wants to rule the world]]
+- Téléphone - ?
+- [[sng/Ten Sharp - You]]
+- Ten years After - ?
+- [[sng/Terence Trent D'Arby - Sign your name]]
+- [[sng/Teri Moïse - Les poêmes de Michelle]]
+- [[sng/Tété - À la faveur de l'automne]]
+- Texas - ?
+- [[sng/The Animals - Dont let me be misunderstood]]
+- [[sng/The Art Company - Susanna]]
+- [[sng/The Bangles - Eternal Flame]]
+- [[sng/The Bangles - Walk like an Egyptian]]
+- [[sng/The Beach Boys - I get Around]]
+- The Beatles - ?
+- [[sng/The Belle Stars - Sign Of The Times]]
+- [[sng/The Breeders - Cannonball]]
+- [[sng/The Cardigans - Lovefool]]
+- [[sng/The Carpenters - Close to you]]
+- [[sng/The Christians - If I could find words]]
+- The Clarks - ?
+- [[sng/The Commodores - Easy]]
+- The Communards - ?
+- [[sng/The Cranberries - Zombie]]
+- The Cure - ?
+- [[sng/The Deftones - My Own Summer]]
+- [[sng/The Deftones - Be Quiet & Drive]]
+- The Dø - ?
+- The Doobie Brothers - ?
+- [[sng/The Doors - Light my fire]]
+- [[sng/The Fugees - Fugee-la]]
+- The Gladiators - ?
+- [[sng/The Hives - Hate to say I told you so]]
+- [[sng/The Kinks - you really got me]]
+- [[sng/The Knack - My Sharona]]
+- [[sng/The Korgis - Everybody's got to learn sometime]]
+- [[sng/The Mamas & The Papas - California Dreaming]]
+- [[sng/The Offspring - Pretty fly]]
+- [[sng/The Pasadenas - Tribute]]
+- [[sng/The Pogues - Dirty old town]]
+- [[sng/The Platters - Only you]]
+- [[sng/The Pretenders - I go to sleep]]
+- [[sng/The Ramones - Teenage Lobotomy]]
+- [[sng/The Rasmus - In The shadows]]
+- [[sng/The Rembrants - Friends?]]
+- [[sng/The Rolling Stones - Honky Tonk Woman]]
+- [[sng/The Ronnettes - Be my baby]]
+- The Roots - ?
+- [[sng/The Sex Pistols - God save the Queen]]
+- [[sng/The Shadows - Apache]]
+- The Skatalites - ?
+- [[sng/The Specials - Ghost Town]]
+- The Stone Roses - ?
+- The Stooges - ?
+- The Strokes - ?
+- [[sng/The Supermen lovers - Starlight]]
+- [[sng/The Supremes - Baby love]]
+- [[sng/The Temptations - My girl]]
+- The The - ?
+- [[sng/The Verve - The bitter sweet symphony]]
+- [[sng/The White Stripes - Seven Nation Army]]
+- [[sng/The Who - My generation]]
+- The Yardbirds - ?
+- [[sng/Thierry Hazard - Le Jerk]]
+- [[sng/Thierry Pastor - Le coup de folie]]
+- Thomas Fersen - ?
+- Tiken Jah Fakoli - ?
+- Tim Buckley - ?
+- [[sng/Tina Arena - Chains]]
+- [[sng/Tina Charles - Love to love]]
+- [[sng/Tina Turner - The Best]]
+- [[sng/Tino Rossi - Mexico]]
+- [[sng/TLC - No Scrub]]
+- [[sng/Tom Jones - It's not unusual]]
+- [[sng/Tom Petty - Learning to fly]]
+- Tom Waits - ?
+- [[sng/Toni Braxton - Unbreak my heart]]
+- [[sng/Tonton David - Chacun sa route, chacun son chemin]]
+- Tool - ?
+- [[sng/Toots and the Maytals - 54.46 that's my number]]
+- [[sng/Tori Amos - Cruficy myself]]
+- [[sng/Toto Cutunio - l'italiano]]
+- [[sng/Toto - Africa]]
+- [[sng/Toto Coelo - Milk of the coconut]]
+- Tower of Power - ?
+- [[sng/Tracy Chapman - Talking bout Revolution]]
+- [[sng/Trust - Antisocial]]
+- Tri Yann - ?
+- [[sng/Troggs - Wild thing]]
+- [[sng/Tryo - Hymne de nos campagnes]]
 
 ### U
 
-- U2
-  - One
-- UB40
-  - Red Red Wine
-- UFO
-  - Doctor doctor
-- Ugly Kid Joe
-  - Everything about you
-- Umberto Tozzi
-- Usher
+- Tunde Olaniran - ?
+- [[sng/U2 - One]]
+- [[sng/UB40 - Red Red Wine]]
+- [[sng/UFO - Doctor doctor]]
+- [[sng/Ugly Kid Joe - Everything about you]]
+- Umberto Tozzi - ?
 
 ### V
 
-- Vanessa Carlton
-  - A 1000 miles
-- Vanessa Paradis
-  - Joe le Taxi
-  - Maryline et John
-- Vangelis
-  - La petite fille de la mer
-- Vaya Con Dios
-  - Just a Friend
-- Vianney
-  - Je m'en vais
-- Vincent Delerm
-- Violent Femmes
-  - Blister in the sun
-- Visage
-  - Fade to Grey
-- Vivien Savage
-  - Le petite lady
-- Vitaa
-  - À fleur de toi
-- Vivien Savage
-- Véronique Sanson
-  - Rien que de l'eau
+- Usher - ?
+- [[sng/Vanessa Carlton - A 1000 miles]]
+- [[sng/Vanessa Paradis - Joe le Taxi]]
+- [[sng/Vanessa Paradis - Maryline et John]]
+- [[sng/Vangelis - La petite fille de la mer]]
+- [[sng/Vaya Con Dios - Just a Friend]]
+- [[sng/Vianney - Je m'en vais]]
+- Vincent Delerm - ?
+- [[sng/Violent Femmes - Blister in the sun]]
+- [[sng/Visage - Fade to Grey]]
+- [[sng/Vivien Savage - Le petite lady]]
+- [[sng/Vitaa - À fleur de toi]]
+- Vivien Savage - ?
+- [[sng/Véronique Sanson - Rien que de l'eau]]
 
 ### W
 
-- Warda
-  - Batwanes Beek
-- Warren G
-  - Regulate
-- Was not was
-- Weezer
-  - Island in the sun
-- Wet Wet Wet
-  - Sweet little mystery
-- Wham
-  - Wake me Up
-- White Stripes
-  - Seven Nation Army
-- Whitesnake
-  - Crying in the rain
-- Whitney Houston
-  - I wanna dance with somebody
-- Wild Cherry
-  - Play that funky music white boy
-- Wilson Pickett
-- William Sheller
-  - Un homme heureux
-- Willy Denzey
-  - Sexy Honey
-- Womack and Womack
-  - Teardrops
+- [[sng/Warda - Batwanes Beek]]
+- [[sng/Warren G - Regulate]]
+- Was not was - ?
+- [[sng/Weezer - Island in the sun]]
+- [[sng/Wet Wet Wet - Sweet little mystery]]
+- [[sng/Wham - Wake me Up]]
+- [[sng/White Stripes - Seven Nation Army]]
+- [[sng/Whitesnake - Crying in the rain]]
+- [[sng/Whitney Houston - I wanna dance with somebody]]
+- [[sng/Wild Cherry - Play that funky music white boy]]
+- Wilson Pickett - ?
+- [[sng/William Sheller - Un homme heureux]]
+- [[sng/Willy Denzey - Sexy Honey]]
+- [[sng/Womack and Womack - Teardrops]]
 
 ### Y
 
-- Yann Thiersen
-- Yannick Noah
-  - La voix des sages
-- Yazz
-  - The only way is up
-- Yes
-  - Owner of a lonely heart
-- Yodelice
-  - Sunday with a flu
-- Yves Duteil
-  - Tarentelle
-- Yves Jamait
-- Yves Montand
-  - A bicyclette
-- Yves Simon
+- Yann Thiersen - ?
+- [[sng/Yannick Noah - La voix des sages]]
+- [[sng/Yazz - The only way is up]]
+- [[sng/Yes - Owner of a lonely heart]]
+- [[sng/Yodelice - Sunday with a flu]]
+- [[sng/Yves Duteil - Tarentelle]]
+- Yves Jamait - ?
+- [[sng/Yves Montand - A bicyclette]]
 
 ### Z
 
-- Zaz
-- Zazie
-  - Rue de la Paix
-- Zebda
-  - égaliser
-- Zoufris Maracas en double
-- Zouk Machine
-  - Maldon'
-- Zizi Jeanmaire
-  - Mon truc en plume
-- Zoufris Maracas
-- ZZ Top
-
+- Yves Simon - ?
+- Zaz - ?
+- [[sng/Zazie - Rue de la Paix]]
+- [[sng/Zebda - égaliser]]
+- Zoufris Maracas en double - ?
+- [[sng/Zouk Machine - Maldon']]
+- [[sng/Zizi Jeanmaire - Mon truc en plume]]
+- Zoufris Maracas - ?
