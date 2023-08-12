@@ -504,12 +504,10 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
   - Sultans of Swing
 - Disiz la Peste
   - Je pète les plombs
-- Jul
-  - Tchikita
 - Doc Gyneco
   - Le docteur
-  - Dolly
-    - Je ne veux pas rester sage
+- Dolly
+  - Je ne veux pas rester sage
 - Dolly Parton
   - Jolene
 - Dominique A
@@ -918,6 +916,8 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
   - Love will tear us apart
 - Judas Priest
   - Breaking The law
+- Jul
+  - Tchikita
 - Julie Pietri
   - Ève lève-toi
 - Julie Zenatti
