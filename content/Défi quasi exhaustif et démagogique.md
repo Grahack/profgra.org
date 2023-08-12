@@ -330,7 +330,8 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
   - Sally
 - Carole Laure
 - Carte de Séjour
-  - Zoubida .  Barbès
+  - Zoubida
+  - Barbès
 - Castelhemis
   - Coco
 - Cat Stevens
@@ -496,7 +497,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - Didier Super
 - Dido
 - Dio
-. - Holy diver
+  - Holy diver
 - Dionne Warwick
   - Heartbreaker
 - Dire Straits
