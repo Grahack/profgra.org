@@ -6,11 +6,10 @@ tags:
 
 [Page FB](https://www.facebook.com/ldqed)
 
-Originellement appelé "le défi du lac du Salagou".
-
 ## Principe
 
-bla
+Originellement appelé "le défi du lac du Salagou", le but est de connaître
+*une* chanson par artiste connu.
 
 ## Liste
 
