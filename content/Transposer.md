@@ -1,3 +1,9 @@
+---
+title: "Transposer"
+tags:
+    - musique
+---
+
 ## Idées de phrases à transposer
 
 ### Sur la gamme majeure
