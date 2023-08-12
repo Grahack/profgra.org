@@ -93,6 +93,7 @@ Les autres tags sont des sujets, avec utilisation massive des sous-tags
 * musique/impro
 * musique/meshuggah
 * musique/metronome
+* musique/outil
 * musique/oreille (mettre la vid de max)
 * musique/piano -> clavier
 * musique/rythme
