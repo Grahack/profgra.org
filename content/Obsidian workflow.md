@@ -131,4 +131,3 @@ Il y a des conventions pour le nommage des fichiers.
   * SVS Sir Valor Sax
   * WK  Wayne Krantz
   * ZG  Zack Grooves
-
