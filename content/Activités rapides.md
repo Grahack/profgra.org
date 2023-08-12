@@ -5,5 +5,5 @@ tags:
 ---
 
 ```query
-tag:#actrapide
+tag:peda/actrapide
 ```

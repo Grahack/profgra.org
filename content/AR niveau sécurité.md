@@ -1,7 +1,7 @@
 ---
 title: "Activité rapide Niveau de sécurité d’une CB"
 tags:
-    - actrapide
+    - peda/actrapide
     - combinatoire
 ---
 

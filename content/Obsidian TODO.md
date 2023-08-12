@@ -16,7 +16,7 @@ tags:
   - laisse juste apparaître une ligne grisée sur le site
   - peut être caché avec du CSS?
 - queries:
-  - Activités rapides: actrapide
+  - Activités rapides: peda/actrapide
   - Recettes
   - Standards
 - page qui pourraient en être:
