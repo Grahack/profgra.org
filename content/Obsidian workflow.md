@@ -2,7 +2,7 @@
 title: "Obsidian workflow"
 tags:
     - obsidian
-    - -draft
+    - -todo
 ---
 
 ## Install
@@ -13,7 +13,7 @@ tags:
   qui arrive sur mon site) avec la page
   `index.md` ouverte en mode « Vue ».
 * Customizable sidebar (pour la simplifier)
-* [[Obsidian LaTeX demo]]
+* ...
 
 ### Configuration
 
