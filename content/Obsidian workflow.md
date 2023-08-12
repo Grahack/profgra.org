@@ -38,6 +38,25 @@ tags:
 
 Dépôts git (termux, github, ordi perso)
 
+## Sous répertoires
+
+### Extensions
+
+- gif
+- ods
+- odt
+- pdf
+- py
+- exception : img pour les .jpg et .png
+
+### Autres sous-dossiers
+
+- bookmarks (marque pages)
+- sng (chansons)
+- std (standards)
+- theorie (des exemples pour chaque élément de théorie musicale)
+- tpl (templates Obsidian)
+
 ## Tags
 
 Les statuts commencent par un tiret:
