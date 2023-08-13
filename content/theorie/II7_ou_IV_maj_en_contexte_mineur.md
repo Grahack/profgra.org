@@ -1,35 +1,71 @@
-Master blaster
-Say say say
-Blue Hotel
-Always on my mind (renv)
-Anastacia, I'm outta love
-I can read your mind
-BGs saturday night fever
-C'est une maison bleue
-Fame
-Terence Trent - Sign yourname
-Frere et soeurs
-Marley Jammin'
-Goldman long is the road
-Axel Red Rester femme
-Hôtel California
-Butterfly ball Love is all
-Libre max
-Bangles Eternal Flame
-Cartney Michael J: say say say
-Rolling Stones paint it black
-Gall . Resiste
-On s'est aimé comme on se quitte
-Rasputin
-Bagdag café
-Call me
-Probably me
-Booms et bangs
-Punk Floyd wall
-Gainsbourg sorry angel
-Le jerk
-Murs de poussière
-Paint it black
-Dernier jour du disco
-À cause des garçons 
+---
+title: "II7 ou IV maj en contexte_mineur"
+---
 
+- [[sng/Alan Parson's Project - I can read your mind]]
+- [[sng/Anastacia - I'm outta love]]
+- [[sng/Axel Red - Rester femme]]
+- [[sng/BO - Bagdag Café]]
+- [[sng/Beach Boys - Kokomo]]
+- [[sng/Bee Gees - Stayin' Alive]]
+- [[sng/Bee Gees saturday night fever]]
+- [[sng/Ben - Soul man]]
+- [[sng/Bernard Minet - Bioman]]
+- [[sng/Billie Ellish - No time to die]]
+- [[sng/Blondie - Call me]]
+- [[sng/Blondie - Heart of glass]]
+- [[sng/Bob Marley - Jammin']]
+- [[sng/Boney M. - Rasputin]]
+- [[sng/Chis Isaak - Blue Hotel]]
+- [[sng/Demis Roussos - Rain and tears]]
+- [[sng/Eagles - Hôtel California]]
+- [[sng/Eddy Mitchell - Pas de boogie woogie]]
+- [[sng/Eurythmics - Here comes the rain again]]
+- [[sng/Every breath you take]]
+- [[sng/France Gall - Résiste]]
+- [[sng/Francis Cabrel - Animal]]
+- [[sng/Francis Cabrel - Les murs de poussière]]
+- [[sng/Francis Cabrel - Petite marie]]
+- [[sng/Frère et soeurs]]
+- [[sng/Gainsbourg - Sorry angel]]
+- [[sng/Georges Brassens - Le radeau de la méduse]]
+- [[sng/Guns and Roses - Patience]]
+- [[sng/Hervé Christiani - Il est Libre Max]] ????
+- [[sng/Il était une fois - J'ai encore rêvé d'elle]]
+- [[sng/Irene Cara - Fame]]
+- [[sng/JJ Goldman - Elle a fait un bébé toute seule]]
+- [[sng/JJ Goldman - Long is the road]]
+- [[sng/Joe Dassin - Les Champs-Élysées]]
+- [[sng/Joe Dassin - On s'est aimé comme on se quitte]]
+- [[sng/Julie Armanet - Dernier jour du disco]]
+- [[sng/Maxime Leforestier - C'est une maison bleue]]
+- [[sng/Mike Brant - Laisse moi t'aimer]]
+- [[sng/Nino Ferrer - Le Sud]]
+- [[sng/Paul McCartney and Michael Jackson - Say say say]]
+- [[sng/Pink Floyd - The Wall]]
+- [[sng/Pop corn ~]]
+- [[sng/Punk Floyd - The wall]]
+- [[sng/Queen - I want to break free]] (bridge)]]
+- [[sng/Roger Glover - Love is all]]
+- [[sng/Rolling Stones paint it black]]
+- [[sng/Serge Gainsbourg - Comme un boomerang]]
+- [[sng/Stevie Wonder - Master Blaster]]
+- [[sng/Sting - Probably me]]
+- [[sng/Terence Trent d’Arby - Sign your name]]
+- [[sng/The Bangles - Eternal Flame]]
+- [[sng/The Beatles - Blackbird]]
+- [[sng/The Beatles - While my guitar gently weeps]]
+- [[sng/The Beatles - Yesterday]]
+- [[sng/The Rolling Stones - Paint it black]]
+- [[sng/The Supremes - Can't hurry love]]
+- [[sng/Thierry Hazard - Le jerk]]
+- [[sng/Toto Cutugno - Mia Donna]]
+- [[sng/Tradi - Hymne des États-Unis]]
+- [[sng/U2 - One]]
+- [[sng/Yves Duteil - Le petit pont de bois]]
+- [[sng/Zouk Machine - Maldon']]
+- [[sng/À cause des garçons - À cause des garçons ]]
+
+## ?
+
+Always on my mind?
