@@ -445,7 +445,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - [[sng/Harry Belafonte - Day-O (Banana boat song)]]
 - Harry Connick Junior - ?
 - [[sng/Heart - Barracuda]]
-- [[sng/Hélène Ségara - Trop de gens qui t'aiment]]
+- [[sng/Hélène Ségara - Il y a trop de gens qui t'aiment]]
 - Henri Dès - ?
 - [[sng/Henri Salvador - Le loup, la biche et le chevalier]]
 - [[sng/Herbert Léonard - Pour le Plaisir]]
