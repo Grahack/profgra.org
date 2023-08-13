@@ -2,6 +2,6 @@
 title: "IV7"
 ---
 
-- [[Chris Isaak - Blue Hotel]]
-- [[Elton John - Your song]]
+- [[sng/Chris Isaak - Blue Hotel]]
+- [[sng/Elton John - Your song]]
 
