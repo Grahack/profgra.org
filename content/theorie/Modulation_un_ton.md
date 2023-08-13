@@ -1,14 +1,16 @@
-Goldman. Tu es de ma famille
-Michael J - you are not alone
-I wanna dance with sbdy
-Sanson que de l'eau
-Queen, show must go on
-Call me
-Noah, Du soleil comme s'il en pleuvait
-Mathmatah - Viens faire
-Pour que tu m'aimes encor
-Show must go on
-Heal the world
-What love got to do
-Comme toi de jjg
+---
+title: "Modulation un ton"
+---
 
+- [[sng/Blondie - Call me]]
+- [[sng/Céline Dion - Pour que tu m'aimes encore]]
+- [[sng/JJ Goldman - Comme toi]]
+- [[sng/JJ Goldman - Tu es de ma famille]]
+- [[sng/Mathmatah - Viens faire]]
+- [[sng/Michael Jackson - Heal the world]]
+- [[sng/Michael Jackson - You are not alone]]
+- [[sng/Queen - The show must go on]]
+- [[sng/Tina Turner - What's love got to do with it]]
+- [[sng/Véronique Sanson - Rien que de l'eau]]
+- [[sng/Whitney Houston - I wanna dance with somebody]]
+- [[sng/Yannick Noah - Mon eldorado]]
