@@ -13,9 +13,6 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 
 ## Liste
 
-- [[sng/inconnu - Tuer l'un des Siens]]
-- [[sng/inconnu - Voisin sur la lune]]
-
 ### Chiffres
 
 - [[sng/4 non Blondes - What's going on]]
@@ -1192,3 +1189,9 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - [[sng/Zouk Machine - Maldon']]
 - [[sng/Zizi Jeanmaire - Mon truc en plume]]
 - Zoufris Maracas - ?
+
+## Auteurs inconnus
+
+- Tuer l'un des Siens
+- Voisin sur la lune
+
