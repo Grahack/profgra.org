@@ -15,16 +15,16 @@ title: "IVm"
 - [[sng/Gilbert Montagné - Sunlights des tropiques]]
 - [[sng/Harold Melvin and the Blue Notes - If you don't know me by now]]
 - [[sng/Justice - DANCE]]
-- [[sng/Mike Brant - C'est comme ça ]]
+- [[sng/Mike Brant - C'est comme ça]]
 - [[sng/Nino Ferrer - Le Sud]]
 - [[sng/Pains au chocolat, dassin]]
 - [[sng/Panic at the disco - High hopes]]
 - [[sng/Rod Stewart - If you think I'm sexy]]
-- [[sng/Serge Gainsbourg - Elisa ]]
-- [[sng/Serge Lama - Femme femme femme ]]
+- [[sng/Serge Gainsbourg - Elisa]]
+- [[sng/Serge Lama - Femme femme femme]]
 - [[sng/The Alan Parsons Project - Eye in the sky]]
 - [[sng/The Beatles - Blackbird]]
-- [[sng/Vannessa Paradis - Ces mots simples]]
+- [[sng/Vanessa Paradis - Ces mots simples]]
 
 ## ?
 

@@ -2,7 +2,7 @@
 title: "II7 ou IV maj en contexte mineur"
 ---
 
-- [[sng/À cause des garçons - À cause des garçons ]]
+- [[sng/À cause des garçons - À cause des garçons]]
 - [[sng/Anastacia - I'm outta love]]
 - [[sng/Axel Red - Rester femme]]
 - [[sng/BO - Bagdag Café]]

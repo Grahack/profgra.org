@@ -19,7 +19,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 
 ### A
 
-- [[sng/À cause des garçons - A cause des garçons]]
+- [[sng/À cause des garçons - À cause des garçons]]
 - A Perfect Circle - ?
 - [[sng/A-HA - Take on me]]
 - [[sng/ABBA - Gimme]]
