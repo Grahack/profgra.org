@@ -1,5 +1,5 @@
 ---
-title: FR David - Words don't come easy
+title: FR David - Words
 tags:
     - -draft
     - musique/chanson
