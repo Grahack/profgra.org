@@ -168,6 +168,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - Boys to Men - ?
 - Boyzone - ?
 - [[sng/Brandy & Monica - The Boy is Mine]]
+- [[sng/Brenda Lee - Always on my mind]]
 - [[sng/Brian Adams - Everything I Do]]
 - Brian Eno - ?
 - [[sng/Brian Ferry - Slave to love]]
@@ -528,6 +529,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - [[sng/Jimmy Cliff - Reggae Night]]
 - [[sng/Jimmy Sommerville - Smalltown Boy]]
 - [[sng/Joan Baez - Here's to you]]
+- [[sng/Jocelyne Béroard - Kolé Séré]]
 - [[sng/Joe Cocker - You are so beautiful]]
 - [[sng/Joe Dassin - l’éte indien]]
 - [[sng/Joe Jackson - Steppin out]]
@@ -762,6 +764,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - [[sng/Niagara - Guerre]]
 - Nick Cave - ?
 - [[sng/Nick Drake - River man]]
+- [[sng/Nick Kamen - I promised myself]]
 - [[sng/Nick Kershaw - The Riddle]]
 - Nicki Minaj - ?
 - [[sng/Nicolas Peyrac - So far away from L.A.]]
