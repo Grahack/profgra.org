@@ -7,5 +7,5 @@ title: "bVI"
 - [[sng/Eurythmics - There must be an angel]]
 - [[sng/Laurent Voulzy - Mon premier c'est désir]]
 - [[sng/Michael Jackson - You are not alone]]
-- [[sng/Michel Polnareff - Love me]]
+- [[sng/Michel Polnareff - Love me, please love me]]
 - [[sng/The Police - Every breath you take]]

@@ -3,7 +3,7 @@ title: "Cadences avec I et V"
 ---
 
 - [[sng/Chuck Berry - You never can tell]]
-- [[sng/Jean-Jacques Lionel - La danse des canards]]
+- [[sng/J.J. Lionel - La danse des canards]]
 - [[sng/James Crawford - Iko Iko]]
 
 ## ?

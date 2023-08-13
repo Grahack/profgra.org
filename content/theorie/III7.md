@@ -3,7 +3,7 @@ title: "III7"
 ---
 
 - [[sng/Christophe - Aline]]
-- [[sng/Guns and Roses - You ain't the first]]
+- [[sng/Guns N' Roses - You ain't the first]]
 - [[sng/Il était une fois - J'ai encore rêvé d'elle]]
 - [[sng/Joe Dassin - À toi]]
 - [[sng/John Lennon - Imagine]]
@@ -14,4 +14,4 @@ title: "III7"
 
 ## ?
 
-- [[Johnny Clegg - Asimbonanga]]
+- Johnny Clegg - Asimbonanga ?

@@ -6,9 +6,9 @@ title: "VI7"
 - [[sng/Beach Boys - Get around]]
 - [[sng/Beach Boys - Kokomo]]
 - [[sng/Ben - Soul man]]
-- [[sng/Berger qques mots d'amour]]
+- [[sng/Michel Berger - Quelques mots d'amour]]
 - [[sng/Bernard Lavilliers - Noir et blanc]] (pas 7)
-- [[sng/Claude François - Magnolias]]
+- [[sng/Claude François - Les magnolias]]
 - [[sng/Claude François - Marche tout droit]]
 - [[sng/Dalida - Mourir sur scène]]
 - [[sng/Dany Brillant - Suzette]]

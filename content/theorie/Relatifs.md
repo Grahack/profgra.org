@@ -7,7 +7,7 @@ des relatifs.
 
 ## G Em
 
-- [[sng/Guns and Roses - Civil war]]
+- [[sng/Guns N' Roses - Civil war]]
 
 ## Ab Fm
 

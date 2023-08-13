@@ -7,5 +7,5 @@ title: "Tierce picarde finale"
 - [[sng/Elsa - Un roman d’amitié]]
 - [[sng/JS Bach - 847 prélude 2]]
 - [[sng/Lori Lieberman - Killing me softly]]
-- [[sng/Michel Fugain - Un beau roman]]
+- [[sng/Michel Fugain - Une belle histoire]]
 - [[sng/Muse - Unintented]]

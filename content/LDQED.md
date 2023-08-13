@@ -324,7 +324,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - [[sng/Ed Sheeran - Shape of you]]
 - Eddie Cochran - ?
 - [[sng/Eddy Grant - Gimme hope Jo'Anna]]
-- [[sng/Eddy Mitchell - Route de Memphis]]
+- [[sng/Eddy Mitchell - Sur la route de Memphis]]
 - [[sng/Eddy Mitchell - La dernière séance]]
 - [[sng/Edith Piaf - Mon légionnaire]]
 - [[sng/Edmee - Listen to your heart]]
@@ -500,7 +500,6 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - [[sng/Jean Schulteis - Confidence pour confidence]]
 - Jean Vasca - ?
 - [[sng/Jean-Jacques Goldman - Je te donne]]
-- [[sng/Jean-Jacques Goldman - matin actes]]
 - [[sng/Jean-Jacques Lafon - Géant de papier]]
 - Jean-Louis Aubert - ?
 - Jean-Louis Murat - ?
@@ -707,7 +706,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - [[sng/Michael Sembello - Maniac]]
 - [[sng/Michel Berger - La groupie du pianiste]]
 - [[sng/Michel Delpech - Quand j'étais chanteur]]
-- [[sng/Michel Fugain - Beau roman]]
+- [[sng/Michel Fugain - Une belle histoire]]
 - [[sng/Michel Jonasz - La boite de Jazz]]
 - Michel Legrand - ?
 - Michel Polnareff - ?
@@ -1115,7 +1114,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - Tool - ?
 - [[sng/Toots and the Maytals - 54.46 that's my number]]
 - [[sng/Tori Amos - Cruficy myself]]
-- [[sng/Toto Cutunio - l'italiano]]
+- [[sng/Toto Cutugno - L'italiano]]
 - [[sng/Toto - Africa]]
 - [[sng/Toto Coelo - Milk of the coconut]]
 - Tower of Power - ?

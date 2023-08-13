@@ -4,8 +4,8 @@ title: "Modulation un ton"
 
 - [[sng/Blondie - Call me]]
 - [[sng/Céline Dion - Pour que tu m'aimes encore]]
-- [[sng/JJ Goldman - Comme toi]]
-- [[sng/JJ Goldman - Tu es de ma famille]]
+- [[sng/Jean-Jacques Goldman - Comme toi]]
+- [[sng/Jean-Jacques Goldman - Tu es de ma famille]]
 - [[sng/Mathmatah - Viens faire]]
 - [[sng/Michael Jackson - Heal the world]]
 - [[sng/Michael Jackson - You are not alone]]

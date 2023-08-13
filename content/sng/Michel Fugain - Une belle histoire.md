@@ -1,5 +1,5 @@
 ---
-title: Jean-Jacques Goldman - matin actes
+title: Michel Fugain - Une belle histoire
 tags:
     - -draft
     - musique/chanson
