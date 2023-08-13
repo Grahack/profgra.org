@@ -377,7 +377,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - [[sng/Fool's Garden - Lemon tree]]
 - [[sng/Foo Fighters - My hero]]
 - [[sng/Foreigner - Juke box hero]]
-- [[sng/FR David - Words don't come easy]]
+- [[sng/FR David - Words]]
 - [[sng/France Gall - Papillon de nuit]]
 - [[sng/Francis Cabrel - Les murs de poussière]]
 - [[sng/Francis Cabrel - Corrida]]
