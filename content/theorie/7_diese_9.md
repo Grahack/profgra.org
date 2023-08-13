@@ -11,4 +11,3 @@ title: "7 dièse 9"
 ## Standards
 
 - [[std/Blue Bossa]]
-
