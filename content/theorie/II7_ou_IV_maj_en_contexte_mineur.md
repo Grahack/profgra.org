@@ -1,8 +1,8 @@
 ---
-title: "II7 ou IV maj en contexte_mineur"
+title: "II7 ou IV maj en contexte mineur"
 ---
 
-- [[sng/Alan Parson's Project - I can read your mind]]
+- [[sng/À cause des garçons - À cause des garçons ]]
 - [[sng/Anastacia - I'm outta love]]
 - [[sng/Axel Red - Rester femme]]
 - [[sng/BO - Bagdag Café]]
@@ -52,6 +52,7 @@ title: "II7 ou IV maj en contexte_mineur"
 - [[sng/Stevie Wonder - Master Blaster]]
 - [[sng/Sting - Probably me]]
 - [[sng/Terence Trent d’Arby - Sign your name]]
+- [[sng/The Alan Parsons Project - I can read your mind]]
 - [[sng/The Bangles - Eternal Flame]]
 - [[sng/The Beatles - Blackbird]]
 - [[sng/The Beatles - While my guitar gently weeps]]
@@ -64,7 +65,6 @@ title: "II7 ou IV maj en contexte_mineur"
 - [[sng/U2 - One]]
 - [[sng/Yves Duteil - Le petit pont de bois]]
 - [[sng/Zouk Machine - Maldon']]
-- [[sng/À cause des garçons - À cause des garçons ]]
 
 ## ?
 

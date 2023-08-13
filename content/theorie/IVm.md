@@ -1,29 +1,32 @@
-Aerosm Crazy
-Blue Hotel
-Panic at the disco, High hopes
-Justice, DANCE
-Le Sud
-Elisa Gainsbourg
-Always on my mind (renv)
-Sunlights des tropiques
-If you think I'm sexy
-I can read your mind
-Beach Boys, Kokomo
-Bruno Mars, when I was your man
-Blackbird
-Vannessa paradis ces mots simples
-Brigitte, à bouche que veux tu
-Gainsbourg Elisa
-Beatles Elisa
-If you don't know me by now
-Drôle de vie 
-Eye in the sky
-Axelle Red, sensualité
-Pains au chocolat, dassin
-Vaiana
-Come on Eileen, dexys midnight runners
-A cause des garçons
-Femme femme femme 
-Mike Brant - c'est comme ça 
-Can't take
+---
+title: "IVm"
+---
 
+- [[sng/À cause des garçons - À cause des garçons]]
+- [[sng/Aerosmith - Crazy]]
+- [[sng/Axelle Red - Sensualité]]
+- [[sng/BO - Vaiana]]
+- [[sng/Beach Boys - Kokomo]]
+- [[sng/Brigitte - À bouche que veux-tu]]
+- [[sng/Bruno Mars - When I was your man]]
+- [[sng/Chris Isaak - Blue Hotel]]
+- [[sng/Dexys Midnight Runners - Come on Eileen]]
+- [[sng/Frankie Valli and the Four Seasons - Can't take my eyes off of you]]
+- [[sng/Gilbert Montagné - Sunlights des tropiques]]
+- [[sng/Harold Melvin and the Blue Notes - If you don't know me by now]]
+- [[sng/Justice - DANCE]]
+- [[sng/Mike Brant - C'est comme ça ]]
+- [[sng/Nino Ferrer - Le Sud]]
+- [[sng/Pains au chocolat, dassin]]
+- [[sng/Panic at the disco - High hopes]]
+- [[sng/Rod Stewart - If you think I'm sexy]]
+- [[sng/Serge Gainsbourg - Elisa ]]
+- [[sng/Serge Lama - Femme femme femme ]]
+- [[sng/The Alan Parsons Project - Eye in the sky]]
+- [[sng/The Beatles - Blackbird]]
+- [[sng/Vannessa Paradis - Ces mots simples]]
+
+## ?
+
+- Always on my mind (renv)
+- Drôle de vie

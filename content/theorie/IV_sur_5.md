@@ -1,5 +1,9 @@
-Johnny Je te promets
-Étienne Daho WE à Rome
-Dav Bowie Let's dance
+---
+title: "IV sur 5"
+---
+
+- [[sng/David Bowie - Let's dance]]
+- [[sng/Johnny Hallyday - Je te promets]]
+- [[sng/Étienne Daho - Week-End à Rome]]
 
 

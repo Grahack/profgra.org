@@ -1,3 +1,6 @@
+---
+title: "IIdim7"
+---
 
-Cloclo Magnolias
+- [[sng/Claude François - Les magnolias]]
 
