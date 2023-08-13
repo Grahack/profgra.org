@@ -44,7 +44,7 @@ Bienvenue dans cette base de connaissances publique.
   [[Trompette]] - [[Trombone]] - [[Clavier]]
 - [[Kapzik]] - [[Progression]] - [[Rythme]] - [[Gammes]] - [[Standards]]
 - [[Meshuggah]] - [[Pattashuggah]]
-- [[Défi quasi exhaustif et démagogique]]
+- [[LDQED|Le Défi quasi exhaustif et démagogique]]
 - [[Guitare solo]] - [[Destruction]] - [[Les Carreleurs Américains]]
 - [[My EPM]]
 
