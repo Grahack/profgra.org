@@ -37,7 +37,6 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - [[sng/Alain Souchon - Passer amour machine]]
 - [[sng/Alain Souchon - 10 ans]]
 - [[sng/Alain Schneider - Mes p'tits légumes]]
-- [[sng/Alan Parson's project - Eye in The sky]]
 - [[sng/Alan Stivell - Brian Boru]]
 - Alanis Morissette - ?
 - [[sng/Alannah Myles - Black Velvet]]
@@ -552,6 +551,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - [[sng/Julien Clerc - Quand je joue]]
 - [[sng/Julien Doré - Coco câline]]
 - [[sng/Juliette - Aller sans retour]]
+- [[sng/Juliette Armanet - Le dernier jour du disco]]
 - [[sng/Juliette Gréco - Déshabillez-moi]]
 - [[sng/Julio Iglesias - Vous les femmes]]
 - [[sng/Justice - Genesis]]
@@ -897,7 +897,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - REM - ?
 - Refused - ?
 - [[sng/Regglyss - Mets de l’huile]]
-- [[sng/Régine - Les petits papiers]]
+- [[sng/Régine - Les p'tits papiers]]
 - [[sng/Renan Luce - Les voisines]]
 - [[sng/Renaud - Mistral Gagnant]]
 - [[sng/Renaud - vent soufflera]]
@@ -992,7 +992,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - SNAP! - ?
 - [[sng/SOAP - This is How We Party]]
 - [[sng/Soft Cell - Tainted Love]]
-- [[sng/Soldat Louis - Du rhum, des femmes, ...]]
+- [[sng/Soldat Louis - Du rhum, des femmes]]
 - [[sng/Sophie Ellis-Bextor - Murder on the dancefloor]]
 - [[sng/Soprano - Clown]]
 - [[sng/Soul Asylum - Runaway train]]
@@ -1042,6 +1042,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - [[sng/Teri Moïse - Les poêmes de Michelle]]
 - [[sng/Tété - À la faveur de l'automne]]
 - Texas - ?
+- [[sng/The Alan Parsons project - Eye in The sky]]
 - [[sng/The Animals - Dont let me be misunderstood]]
 - [[sng/The Art Company - Susanna]]
 - [[sng/The Bangles - Eternal Flame]]
@@ -1131,7 +1132,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - [[sng/UB40 - Red Red Wine]]
 - [[sng/UFO - Doctor doctor]]
 - [[sng/Ugly Kid Joe - Everything about you]]
-- Umberto Tozzi - ?
+- [[sng/Umberto Tozzi - Gloria]]
 
 ### V
 
@@ -1177,10 +1178,10 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - [[sng/Yves Duteil - Tarentelle]]
 - Yves Jamait - ?
 - [[sng/Yves Montand - A bicyclette]]
+- Yves Simon - ?
 
 ### Z
 
-- Yves Simon - ?
 - Zaz - ?
 - [[sng/Zazie - Rue de la Paix]]
 - [[sng/Zebda - égaliser]]

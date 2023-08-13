@@ -1,5 +1,5 @@
 ---
-title: Régine - Les petits papiers
+title: Régine - Les p'tits papiers
 tags:
     - -draft
     - musique/chanson
