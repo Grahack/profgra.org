@@ -1,25 +1,32 @@
-Wonderful life
-Final Countdown
-Capitaine abandonné
-Phil Collins. One more night
-Bright
-Lilikub, voyage en Italie
-Final countdown
-Frere et soeur
-Bruel Alors regarde
-Bruel, je te le dis qd même 
-Balavoine Tous les cris, aziza x2
-Tears for fears Seeds of love
-Johnny Je te promets
-Johnny l'envie
-Une autre histoire
-Jeanne Mas Tte 1 fois
-What a feeling
-Led Zeppelin - All my love
-J'irai au bout de mes rêves
-Il changeait la vie
-Motivés 
-We are the world
-Je te promets
-Innocents, destin ordinaire 
+---
+title: "Premier renversement"
+---
 
+- [[sng/BO - Frère et soeur]]
+- [[sng/Black - Wonderful life]]
+- [[sng/Brenda Lee - Always on my mind]]
+- [[sng/Daniel Balavoine - L’Aziza]]
+- [[sng/Daniel Balavoine - Tous les cris les SOS]]
+- [[sng/Europe - Final Countdown]]
+- [[sng/Gérard Blanc - Une autre histoire]]
+- [[sng/Gold - Capitaine abandonné]]
+- [[sng/J'irai au bout de mes rêves]]
+- [[sng/Jeanne Mas - Toute première fois]]
+- [[sng/JJ Goldman - Il changeait la vie]]
+- [[sng/Johnny Hallyday - Je te promets]]
+- [[sng/Johnny Hallyday - Je te promets]]
+- [[sng/Johnny Hallyday - L'envie]]
+- [[sng/Led Zeppelin - All my love]]
+- [[sng/Les Innocents - Un homme ordinaire]]
+- [[sng/Lilikub - Voyage en Italie]]
+- [[sng/Patrick Bruel - Alors regarde]]
+- [[sng/Patrick Bruel - Je te le dis qd même]]
+- [[sng/Phil Collins. One more night]]
+- [[sng/Tears for fears - Seeds of love]]
+- [[sng/USA for Africa - We are the world]]
+- [[sng/What a feeling]]
+- [[sng/Zebda - Motivés]]
+
+## ?
+
+- Bright

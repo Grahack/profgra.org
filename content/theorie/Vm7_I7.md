@@ -1,6 +1,8 @@
-Ou je vais - Amel Bent
-Bill Withers Just the two of us
-J'ai encore rêvé d'elle
-Words don't come easy (mais vers VI M)
+---
+title: "Vm7 I7"
+---
 
-
+- [[sng/Amel Bent - Où je vais]]
+- [[sng/Bill Withers - Just the two of us]]
+- [[sng/Il était une fois - J'ai encore rêvé d'elle]]
+- [[sng/F.R. David - Words don't come easy]] (mais vers VI M)

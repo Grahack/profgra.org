@@ -1,19 +1,20 @@
-Words don't come easy (mais pas 7)
-Ben oncle soul. Soul man
-Lavilliers, De n'importe quel (pas 7)
-Berger qques mots d'amour
-Beach Boys, Kokomo
-Beach Boys? Get around
-Cloclo Marche tout droit
-Cloclo Magnolias
-Polnareff Depuis que
-Les cités d'or
-Une autre histoire
-J'ai encore rêvé d'elle #5
-Keane Everybody's changing
-Dany - Suzette
-Une autre histoire, Gerard Blanc, pas 7
-Get around
-La Philosophie 
-Mourir sur scène 
+---
+title: "VI7"
+---
 
+- [[sng/BO - Les cités d'or]]
+- [[sng/Beach Boys - Get around]]
+- [[sng/Beach Boys - Kokomo]]
+- [[sng/Ben - Soul man]]
+- [[sng/Berger qques mots d'amour]]
+- [[sng/Bernard Lavilliers - Noir et blanc]] (pas 7)
+- [[sng/Claude François - Magnolias]]
+- [[sng/Claude François - Marche tout droit]]
+- [[sng/Dalida - Mourir sur scène]]
+- [[sng/Dany Brillant - Suzette]]
+- [[sng/F.R. David - Words]] (mais pas 7)
+- [[sng/George Moustaki - La philosophie]]
+- [[sng/Gérard Blanc - Une autre histoire]] pas 7
+- [[sng/Il était une fois - J'ai encore rêvé d'elle]]
+- [[sng/Keane - Everybody's changing]]
+- [[sng/Michel Polnareff - Lettre à France]]

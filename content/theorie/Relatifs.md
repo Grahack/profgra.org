@@ -1,6 +1,19 @@
-## Chansons comportant les deux modes
+---
+title: "Relatifs"
+---
 
-- G Em - Civil war
-- Ab Fm - Every breath
-- A F#m - Le chanteur
+Liste des chansons comportant les deux modes, ceci facilitant la mémorisation
+des relatifs.
+
+## G Em
+
+- [[sng/Guns and Roses - Civil war]]
+
+## Ab Fm
+
+- [[sng/The Police - Every breath you take]]
+
+## A F#m
+
+- [[sng/Daniel Balavoine - Le chanteur]]
 
