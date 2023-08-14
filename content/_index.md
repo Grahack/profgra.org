@@ -28,13 +28,14 @@ Bienvenue dans cette base de connaissances publique.
 
 #### Langages
 
-- [[HTML]] - [[CSS]] - [[JS]]
-- [[Python]] -  [[Shell]] - [[MicroAlg]]
-- [[Tcl]] - [[Haskell]] - [[Lisp]] - [[PicoLisp]]
+- [[HTML]] - [[CSS]] - [[JavaScript|JS]]
+- [[Python]] -  [[Shell]]
+- [[Tcl-Tk]] - [[Haskell]] - [[Lisp]] - [[PicoLisp]] - [[MicroAlg]]
 - [[Clojure et ClojureScript]]
 
 #### Outils informatiques
 
+- [[Éditeurs]]
 - [[vim]] - [[git]] - [[Termux]]
 - [[Idle]] - [[PythonTutor]]
 
