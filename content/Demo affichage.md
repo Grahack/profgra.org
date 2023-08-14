@@ -39,13 +39,17 @@ efe edB | dBA ABd | efe edB | gdB ABd |
 efe edB | d2d def | gfe edB |1 dBA ABd :|2 dBA AFD |]
 ```
 
-Salut $\emptyset$, c'est super.
-$$A=\emptyset$$
-Vraiment. Voir [[test latex]].
-
 Lien interne : [[Test#Titre y]]
 
 ## LaTeX
+
+Salut, le $\LaTeX$ en ligne, c'est super. Sinon :
+
+$$A=\emptyset$$
+
+### Ensembles
+
+$\emptyset$
 
 ### Logique
 
