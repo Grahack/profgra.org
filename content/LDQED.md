@@ -93,7 +93,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - BB King - ?
 - [[sng/Beastie Boys - Party]]
 - [[sng/Beck - Loser]]
-- [[sng/Bee Gees - Staying Alive]]
+- [[sng/Bee Gees - Stayin' Alive]]
 - [[sng/Bee Gees - Night Fever]]
 - [[sng/Bee Gees - How deep is your love]]
 - [[sng/Ben E. King - Stand by me]]
@@ -1122,7 +1122,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - [[sng/Tracy Chapman - Talking bout Revolution]]
 - [[sng/Trust - Antisocial]]
 - Tri Yann - ?
-- [[sng/Troggs - Wild thing]]
+- [[sng/The Troggs - Wild thing]]
 - [[sng/Tryo - Hymne de nos campagnes]]
 
 ### U

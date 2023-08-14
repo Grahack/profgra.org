@@ -1,5 +1,5 @@
 ---
-title: Troggs - Wild thing
+title: Vanessa Paradis - Ces mots simples
 tags:
     - -draft
     - musique/chanson

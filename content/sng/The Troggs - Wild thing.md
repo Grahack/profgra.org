@@ -1,5 +1,5 @@
 ---
-title: Bee Gees - Staying Alive
+title: The Troggs - Wild thing
 tags:
     - -draft
     - musique/chanson

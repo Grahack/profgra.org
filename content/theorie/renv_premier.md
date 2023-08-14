@@ -24,7 +24,7 @@ title: "Premier renversement"
 - [[sng/Phil Collins - One more night]]
 - [[sng/Tears for fears - Seeds of love]]
 - [[sng/USA for Africa - We are the world]]
-- [[sng/Iren Cara - What a feeling]]
+- [[sng/Irene Cara - What a feeling]]
 - [[sng/Zebda - Motivés]]
 
 ## ?

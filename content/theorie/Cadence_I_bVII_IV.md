@@ -21,8 +21,8 @@ Celte, mixo, western
 - [[sng/Julien Clerc - Mélissa]] (ponctuellement)
 - [[sng/Kenny Loggins - Footloose]]
 - [[sng/Kool and the Gang - Celebration]]
-- [[sng/Led Zeppelin - All my love (Bridge)]]
-- [[sng/Lenny Kravitz - Are you gonna (pont)]]
+- [[sng/Led Zeppelin - All my love]] (Bridge)
+- [[sng/Lenny Kravitz - Are you gonna go my way]] (pont)
 - [[sng/Michel Polnareff - La poupée qui fait non]]
 - [[sng/Midnight Oil - Beds are burning]]
 - [[sng/Niagara - Je dois m'en aller]]
@@ -35,7 +35,7 @@ Celte, mixo, western
 - [[sng/Lynyrd Skynyrd - Sweet home Alabama]]
 - [[sng/The Beatles - Get back]]
 - [[sng/The Romantics - What I like about you]]
-- [[sng/Vanessa Paradis - Dans le mot je t'aime.]]
+- [[sng/Vanessa Paradis - Dans le mot je t'aime]]
 
 ## ?
 
