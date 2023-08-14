@@ -5,7 +5,7 @@ tags:
     - humour
 ---
 
-Lu frussu ut une [[https://fr.wikipedia.org/wiki/Langue_construite|lug custruite]] buzue sur lu fruçu dut un u rupluçu tutes lus vuyules pur dus «u».
+Lu frussu ut une [lug custruite](https://fr.wikipedia.org/wiki/Langue_construite) buzue sur lu fruçu dut un u rupluçu tutes lus vuyules pur dus «u».
 
 Çutte puje prupuz une vursiu ucrute.
 
@@ -33,6 +33,7 @@ FIN FU
 GENRE JURE
 PH F
 PHE F
+rupluçu (lu durniu «u» nu su prununs pus)
 
 S Z
 
