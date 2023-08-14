@@ -27,5 +27,6 @@ Sinon (ou autre):
 5. Solar
 6. Song for my father
 7. Syeeda's song flute
-8. Tune up
-9. Vent du Sud (à mettre ailleurs)
+8. [[std/The girl from Ipanema]]
+9. Tune up
+10. Vent du Sud (à mettre ailleurs)
