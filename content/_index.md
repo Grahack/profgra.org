@@ -42,9 +42,9 @@ Bienvenue dans cette base de connaissances publique.
 
 - [[Guitare]] - [[Basse]] - [[Batterie]] -
   [[Trompette]] - [[Trombone]] - [[Clavier]]
-- [[Kapzik]] - [[Progression]] - [[Rythme]] - [[Gammes]] - [[Standards]]
+- [[Théorie musicale]] - [[Progression]] - [[Rythme]] - [[Gammes]] - [[Kapzik]]
+- [[LDQED|Le Défi quasi exhaustif et démagogique]] - [[Standards]]
 - [[Meshuggah]] - [[Pattashuggah]]
-- [[LDQED|Le Défi quasi exhaustif et démagogique]]
 - [[Guitare solo]] - [[Destruction]] - [[Les Carreleurs Américains]]
 - [[My EPM]]
 
