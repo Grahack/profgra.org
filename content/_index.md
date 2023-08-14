@@ -61,4 +61,4 @@ Bienvenue dans cette base de connaissances publique.
 - [[Jonglerie]] - [[Frussu]]
 - [[Jeu de go]] - [[Jeux]]
 - [[Recettes]]
-- [[TEST]]
+- [[Demo affichage]]
