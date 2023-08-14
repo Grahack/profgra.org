@@ -1097,7 +1097,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - [[sng/The White Stripes - Seven Nation Army]]
 - [[sng/The Who - My generation]]
 - The Yardbirds - ?
-- [[sng/Thierry Hazard - Le Jerk]]
+- [[sng/Thierry Hazard - Le jerk]]
 - [[sng/Thierry Pastor - Le coup de folie]]
 - Thomas Fersen - ?
 - Tiken Jah Fakoli - ?
