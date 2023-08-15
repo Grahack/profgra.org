@@ -116,12 +116,12 @@ TODO:virer les '‐ ' et les multi espaces.
 
 ### Summary in 14 points
 
-1.EXTRA‐OCTAVE TUNING exists basically to ensure that all participants in a
+1. EXTRA‐OCTAVE TUNING exists basically to ensure that all participants in a
   musical event perform any given note at the same pitch. CONCERT PITCH
   (A4=440 Hz) was established as international standard to facilitate such
   tuning. ABSOLUTE (OR PERFECT) PITCH is a side effect of this
   standardisation.
-2.INTRA‐OCTAVE TUNING regulates intervals (see §9) between the octave’s
+2. INTRA‐OCTAVE TUNING regulates intervals (see §9) between the octave’s
   (see §3) constituent pitches so that they are sounded in a consistent fashion.
 3. In most Western music the OCTAVE is treated heptatonically, in the sense
   that it very often consists of seven basic steps (doh ré mi fa sol la ti).
