@@ -5,4 +5,4 @@ tags:
     - musique/trombone
 ---
 
-bonepos
+[BonePos](https://grahack.github.io/bonepos/), les diagrammes de positions au trombone
