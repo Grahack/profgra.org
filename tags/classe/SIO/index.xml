@@ -4,4 +4,5 @@ Les plus rapides peuvent commencer à lire et commenter le code.</description></
 Définition $a \equiv b[n]$ se dit «a est congru à b modulo n». Cela signifie (équivalences):
 a et b ont le même reste dans la division euclidienne par n.</description></item><item><title>STS SIO</title><link>https://grahack.github.io/profgra.org/STS-SIO/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://grahack.github.io/profgra.org/STS-SIO/</guid><description>Section de Technicien Supérieur en Services Informatiques aux Organisations
 Lien WP - Référentiel sur le site du Certa
-Progression En première année, nous attaquons:</description></item></channel></rss>
+Progression En première année, nous attaquons:</description></item><item><title>Tableaux de Karnaugh</title><link>https://grahack.github.io/profgra.org/Tableaux-de-Karnaugh/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://grahack.github.io/profgra.org/Tableaux-de-Karnaugh/</guid><description>Ruse graphique qui combine tableau et diagramme de Venn pour simplifier des expressions booléennes.
+[[karnaugh.odt]]</description></item></channel></rss>
