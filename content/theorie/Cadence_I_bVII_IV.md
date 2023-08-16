@@ -26,7 +26,7 @@ Celte, mixo, western
 - [[sng/Michel Polnareff - La poupée qui fait non]]
 - [[sng/Midnight Oil - Beds are burning]]
 - [[sng/Niagara - Je dois m'en aller]]
-- [[sng/Olivia Ruiz - La femme Chocolat]]
+- [[sng/Olivia Ruiz - La femme chocolat]]
 - [[sng/John Mellencamp - R.O.C.K. in the U.S.A.]]
 - [[sng/Randy Newman - You can leave your hat on]]
 - [[sng/Ray Parker Jr. - Ghostbuster]]
