@@ -89,10 +89,10 @@ TODO:virer les '‐ ' et les multi espaces.
    otherwise, sounded at the same pitch and volume. Its adjective is TIMBRAL.
 12. TIMBRE consists of an ENVELOPE containing four elements: ATTACK, DECAY,
    SUSTAIN and RELEASE.
-13.DECAY and SUSTAIN are the most readily extendable elements of timbre and can
-   be referred to collectively as the CONTINUANT.  
-   A tone’s CONTINUANT consists of a FUNDAMENTAL PITCH and of PARTIALS or
-   HARMONICS pitched at integral multiples of the fundamental’s own frequency.
+13. DECAY and SUSTAIN are the most readily extendable elements of timbre and
+   can be referred to collectively as the CONTINUANT. A tone’s CONTINUANT
+   consists of a FUNDAMENTAL PITCH and of PARTIALS or HARMONICS pitched at
+   integral multiples of the fundamental’s own frequency.
 14. How strongly which HARMONICS are present in which parts of an envelope is
    an essential factor defining a particular timbre.
 15. MODES are by definition TONAL. The widely disseminated binary
@@ -667,11 +667,23 @@ be summarised as follows.
 
 ### Summary in 5 points
 
-[1] The dynamics of harmony in popular music tend to rely less on long‐term narrative (diataxis) and much more on tonal variation presented in bouts of the extended present (syncrisis).
-[2] The indication of a single chord on paper, or in theory, is in prac‐ tice rarely performed as just one single chord by competent musicians accompanying a popular tune in such styles as valse musette, rock, pop, gospel, soul, R&B,19 funk, etc. (see examples 250‐267).
-[3] Accompanying musicians have to learn how to configure a single chord in a range of style‐appropriate ways (§2). Such configuration in‐ volves the inclusion of other chords that provide the theoretical ‘one single chord’ with a sense of ongoing cyclical tonal movement. Accom‐ panimental configurations of this type constitute the tonal aspect of groove.
-[4] A single chord indication can in aural reality be interpreted as a sequence of up to five different chords, if the sequence were tran‐ scribed and set in front of euroclassical harmony students, as in ex‐ amples 268 and 269.
-[5] Equating the indication of a single chord in the sheet music to a popular song with harmonic impoverishment is a sign of musical naïvety or ignorance.
+1. The dynamics of harmony in popular music tend to rely less on long‐term
+  narrative (diataxis) and much more on tonal variation presented in bouts of
+  the extended present (syncrisis).
+2. The indication of a single chord on paper, or in theory, is in prac‐ tice
+  rarely performed as just one single chord by competent musicians accompanying
+  a popular tune in such styles as valse musette, rock, pop, gospel, soul, R&B,
+  funk, etc. (see examples 250‐267).
+3. Accompanying musicians have to learn how to configure a single chord in a
+  range of style‐appropriate ways (§2). Such configuration in‐ volves the
+  inclusion of other chords that provide the theoretical ‘one single chord’
+  with a sense of ongoing cyclical tonal movement. Accom‐ panimental
+  configurations of this type constitute the tonal aspect of groove.
+4. A single chord indication can in aural reality be interpreted as a sequence
+  of up to five different chords, if the sequence were tran‐ scribed and set
+  in front of euroclassical harmony students, as in ex‐ amples 268 and 269.
+5. Equating the indication of a single chord in the sheet music to a popular
+  song with harmonic impoverishment is a sign of musical naïvety or ignorance.
 
 ### Subjects
 
@@ -684,9 +696,64 @@ be summarised as follows.
 
 ## Chapter 12.
 
-### Summary
+### Summary in 16 points
 
-
+1. The observations listed below are, like the rest of this chapter,
+  based on widely disseminated recordings of English‐language
+  popular song released between 1955 and 2005 (p. 372).
+2. A CHORD SHUTTLE involves ongoing oscillation between two
+  chords. Each of the two chords occupies a duration of between one
+  and four beats of the music’s underlying pulse.
+3. The two chords in a shuttle are normally of equal duration and importance.
+  The duration of a single chord shuttle does not exceed
+  that of the extended present.
+4. Many chord shuttles have an identifiable TONIC (e.g. the aeolian
+  i<->VI: §13, below) but others do not (see §10 and §14, below).
+5. The tonic in shuttles consisting of the same two chords can vary
+  according to tonal idiom, e.g. E<->A as I<->IV in Satisfaction but as
+  V<->I in Beethoven’s 7th symphony (ex. 270, p. 373).
+6. The most COMMON general types of chord shuttle are PLAGAL
+  (I<->IV, i<->IV, i<->iv, IV<->I, etc.) QUINTAL (I<->V, i<->v, i<->V, V<->I,
+  etc.), SUBMEDIANTAL (I<->vi, i<->bVI, etc.), and SUBTONIC (I<->bVII,
+  i<->bVII, bVII<->I, etc.).
+7. SUPERTONIC SHUTTLES are not very common. The supertonic
+  shuttle I<->ii is plagal in character. P HRYGIAN SHUTTLES (I/i<->bII)
+  are quite rare in and have exotic connotations (pp. 374‐375). 34
+8. M EDIANTAL SHUTTLES (I<->III, etc.) are extremely rare. While
+ I->III works well as a harmonic departure, III->I is highly unlikely to mark a
+ return (p. 374).
+9. PLAGAL SHUTTLES are very common and of three main types:
+  simple (I<->IV), reverse (IV<->I) and dorian (i<->IV).
+10. Many DORIAN SHUTTLES have a clear minor tonic triad (i<->IV),
+  while others act as a repeated ii<->V culminating in a final ii->V->I
+  wih I outside the shuttle. However, it is sometimes impossible, as
+  in the case of Pink Floyd’s Dark Side of the Moon (1973), to identify
+  any tonic in a dorian shuttle which, like all chord shuttles, func‐
+  tions as an ongoing tonal state or ‘place to be’ rather than as a tonal
+  process leading anywhere in particular (pp. 378‐380; see also §15).
+11. QUINTAL SHUTTLES ( I<->V, V<->I ) are common in euroclassical music, most
+  notably in final cadences. While by no means rare in rock
+  music, they are much less common than plagal shuttles. Quintal
+  shuttles seem to be absent from gospel, soul and blues‐related
+  styles (pp. 381‐384).
+12. There are two main types of SUBMEDIANTAL SHUTTLE —I<->vi
+  and i<->bVI, the aeolian shuttle. I<->vi is common in pop music of
+  the milksap era. It also turns up in 1960s gospel music (p. 384).
+13. AEOLIAN SHUTTLES (i<->bVI) in rock music are often linked to
+  things ominous, fateful, painful and implacable; or to modernity, cold,
+  waiting, uncertainty, sadness, stasis, infinity in time and space, etc. (pp.
+  386‐388).
+14. SUBTONIC SHUTTLES —bVII<->I or I<->bVII— are basically mixolydian.
+  They are quite common in postwar English‐language popu‐
+  lar song. If repeated several times in succession, they may well be
+  associated with waiting (p. 389‐395).
+15. Some apparently SUBTONIC SHUTTLES , like the F<->G in Human
+  League’s Don’t You Want Me Baby?, have, like some dorian shuttles
+  (see §10), no clear tonic (pp. 391‐394).
+16. PARTIAL SHUTTLES can be found in harmonisations of traditional melody
+  from the British Isles but they do not fit tunes that
+  return to the first of the shuttle’s two chords at the end of each
+  verse. They function instead as COUNTERPOISE SANDWICHES (pp. 396‐398).
 
 ### Subjects
 
