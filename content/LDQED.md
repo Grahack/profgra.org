@@ -794,7 +794,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - Odezenne - ?
 - [[sng/Ohio Players - Love Rollercoaster]]
 - [[sng/Oldelaf - La tristitude]]
-- [[sng/Oliver Cheatham - Cet down machin]]
+- [[sng/Oliver Cheatham - Get down saturday night]]
 - [[sng/Olivia Ruiz - La femme chocolat]]
 - [[sng/Opus - Life is Life]]
 - [[sng/Orelsan - Tout va bien]]
