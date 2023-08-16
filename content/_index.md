@@ -1,9 +1,7 @@
-Bienvenue dans cette base de connaissances publique.
-
 ## Lycée
 
-- [Lycée Carcouët](http://carcouet.paysdelaloire.e-lyco.fr) -
-[Page Wikipedia](http://fr.wikipedia.org/)
+- [Lycée Carcouët (e-lyco)](http://carcouet.paysdelaloire.e-lyco.fr) -
+[Page Wikipedia du lycée](http://fr.wikipedia.org/)
 - Journaux :
   [2023-2024](http://github.com/grahack/2023-2024) -
   [2022-2023](http://github.com/grahack/2022-2023)
