@@ -19,7 +19,7 @@
 
 - [[Activités rapides]]
 - [[Défis NSI]]
-- [[1NSI]] - [[TNSI]] - [[Annales NSI]]
+- [[1NSI]] - [[TNSI]] - [Annales NSI sur pixees.fr](https://pixees.fr/informatiquelycee/term/suj_bac/index.html)
 - [[Algorithmique]]
 - [[Machine de Turing]] - [[OrdiPapier]] - [[microBit]]
 - [[Culture informatique]]
