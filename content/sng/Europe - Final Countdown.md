@@ -1,5 +1,5 @@
 ---
-title: Europe - Final Countdown
+title: "Europe - Final Countdown"
 tags:
     - -draft
     - musique/chanson

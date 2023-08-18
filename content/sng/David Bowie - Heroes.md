@@ -1,5 +1,5 @@
 ---
-title: David Bowie - Heroes
+title: "David Bowie - Heroes"
 tags:
     - -draft
     - musique/chanson

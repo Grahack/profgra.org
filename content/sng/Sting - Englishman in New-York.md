@@ -1,5 +1,5 @@
 ---
-title: Sting - Englishman in New-York
+title: "Sting - Englishman in New-York"
 tags:
     - -draft
     - musique/chanson

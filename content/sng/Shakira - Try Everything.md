@@ -1,5 +1,5 @@
 ---
-title: Shakira - Try Everything
+title: "Shakira - Try Everything"
 tags:
     - -draft
     - musique/chanson

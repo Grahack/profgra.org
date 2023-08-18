@@ -1,5 +1,5 @@
 ---
-title: Gold - Capitaine abandonné
+title: "Gold - Capitaine abandonné"
 tags:
     - -draft
     - musique/chanson

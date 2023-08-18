@@ -1,5 +1,5 @@
 ---
-title: Joe Dassin - Le petit pain au chocolat
+title: "Joe Dassin - Le petit pain au chocolat"
 tags:
     - -draft
     - musique/chanson

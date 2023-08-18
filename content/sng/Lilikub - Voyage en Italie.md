@@ -1,5 +1,5 @@
 ---
-title: Lilikub - Voyage en Italie
+title: "Lilikub - Voyage en Italie"
 tags:
     - -draft
     - musique/chanson

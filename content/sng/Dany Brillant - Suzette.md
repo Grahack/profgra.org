@@ -1,5 +1,5 @@
 ---
-title: Dany Brillant - Suzette
+title: "Dany Brillant - Suzette"
 tags:
     - -draft
     - musique/chanson

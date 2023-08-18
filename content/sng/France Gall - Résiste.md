@@ -1,5 +1,5 @@
 ---
-title: France Gall - Résiste
+title: "France Gall - Résiste"
 tags:
     - -draft
     - musique/chanson

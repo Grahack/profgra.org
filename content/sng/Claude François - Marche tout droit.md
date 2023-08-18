@@ -1,5 +1,5 @@
 ---
-title: Claude François - Marche tout droit
+title: "Claude François - Marche tout droit"
 tags:
     - -draft
     - musique/chanson

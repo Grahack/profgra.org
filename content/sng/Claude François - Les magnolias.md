@@ -1,5 +1,5 @@
 ---
-title: Claude François - Les magnolias
+title: "Claude François - Les magnolias"
 tags:
     - -draft
     - musique/chanson

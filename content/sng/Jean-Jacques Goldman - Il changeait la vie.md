@@ -1,5 +1,5 @@
 ---
-title: JJ Goldman - Il changeait la vie
+title: "Jean-Jacques Goldman - Il changeait la vie"
 tags:
     - -draft
     - musique/chanson

@@ -1,5 +1,5 @@
 ---
-title: Vanessa Paradis - Ces mots simples
+title: "Vanessa Paradis - Ces mots simples"
 tags:
     - -draft
     - musique/chanson

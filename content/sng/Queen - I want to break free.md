@@ -1,5 +1,5 @@
 ---
-title: Queen - I want to break free
+title: "Queen - I want to break free"
 tags:
     - -draft
     - musique/chanson

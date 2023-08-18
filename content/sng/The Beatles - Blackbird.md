@@ -1,5 +1,5 @@
 ---
-title: The Beatles - Blackbird
+title: "The Beatles - Blackbird"
 tags:
     - -draft
     - musique/chanson

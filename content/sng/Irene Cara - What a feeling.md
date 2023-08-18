@@ -1,5 +1,5 @@
 ---
-title: Irene Cara - What a feeling
+title: "Irene Cara - What a feeling"
 tags:
     - -draft
     - musique/chanson

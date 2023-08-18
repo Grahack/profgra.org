@@ -1,5 +1,5 @@
 ---
-title: Lori Lieberman - Killing me softly
+title: "Lori Lieberman - Killing me softly"
 tags:
     - -draft
     - musique/chanson

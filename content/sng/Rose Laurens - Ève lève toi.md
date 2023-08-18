@@ -1,5 +1,5 @@
 ---
-title: Rose Laurens - Ève lève toi
+title: "Rose Laurens - Ève lève toi"
 tags:
     - -draft
     - musique/chanson

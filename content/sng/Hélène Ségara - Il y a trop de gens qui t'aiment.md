@@ -1,5 +1,5 @@
 ---
-title: Hélène Ségara - Il y a trop de gens qui t'aiment
+title: "Hélène Ségara - Il y a trop de gens qui t'aiment"
 tags:
     - -draft
     - musique/chanson

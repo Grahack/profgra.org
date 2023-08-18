@@ -1,5 +1,5 @@
 ---
-title: Georges Brassens - Le radeau de la méduse
+title: "Georges Brassens - Le radeau de la méduse"
 tags:
     - -draft
     - musique/chanson

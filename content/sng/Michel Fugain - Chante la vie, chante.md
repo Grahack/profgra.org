@@ -1,5 +1,5 @@
 ---
-title: Michel Fugain - Chante la vie, chante
+title: "Michel Fugain - Chante la vie, chante"
 tags:
     - -draft
     - musique/chanson

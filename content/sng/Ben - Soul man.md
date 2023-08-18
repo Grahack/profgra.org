@@ -1,5 +1,5 @@
 ---
-title: Ben - Soul man
+title: "Ben - Soul man"
 tags:
     - -draft
     - musique/chanson

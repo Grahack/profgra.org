@@ -1,5 +1,5 @@
 ---
-title: Elton John - Your song
+title: "Elton John - Your song"
 tags:
     - -draft
     - musique/chanson

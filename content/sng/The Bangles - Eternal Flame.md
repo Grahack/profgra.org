@@ -1,5 +1,5 @@
 ---
-title: The Bangles - Eternal Flame
+title: "The Bangles - Eternal Flame"
 tags:
     - -draft
     - musique/chanson

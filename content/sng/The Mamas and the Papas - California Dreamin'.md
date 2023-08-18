@@ -1,5 +1,5 @@
 ---
-title: The Mamas and the Papas - California Dreamin'
+title: "The Mamas and the Papas - California Dreamin'"
 tags:
     - -draft
     - musique/chanson

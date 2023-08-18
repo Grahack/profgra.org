@@ -1,5 +1,5 @@
 ---
-title: Blondie - Call me
+title: "Blondie - Call me"
 tags:
     - -draft
     - musique/chanson

@@ -1,5 +1,5 @@
 ---
-title: Michel Berger - Quelques mots d'amour
+title: "Michel Berger - Quelques mots d'amour"
 tags:
     - -draft
     - musique/chanson

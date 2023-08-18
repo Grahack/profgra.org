@@ -1,5 +1,5 @@
 ---
-title: The Supremes - Can't hurry love
+title: "The Supremes - Can't hurry love"
 tags:
     - -draft
     - musique/chanson

@@ -1,5 +1,5 @@
 ---
-title: Pink Floyd - The Wall
+title: "Pink Floyd - The Wall"
 tags:
     - -draft
     - musique/chanson

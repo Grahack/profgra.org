@@ -20,7 +20,7 @@ title: "Premier renversement"
 - [[sng/Les Innocents - Un homme ordinaire]]
 - [[sng/Lilikub - Voyage en Italie]]
 - [[sng/Patrick Bruel - Alors regarde]]
-- [[sng/Patrick Bruel - Je te le dis qd même]]
+- [[sng/Patrick Bruel - Je te le dis quand même]]
 - [[sng/Phil Collins - One more night]]
 - [[sng/Tears for fears - Seeds of love]]
 - [[sng/USA for Africa - We are the world]]

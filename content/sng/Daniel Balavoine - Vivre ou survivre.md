@@ -1,5 +1,5 @@
 ---
-title: Daniel Balavoine - Vivre ou survivre
+title: "Daniel Balavoine - Vivre ou survivre"
 tags:
     - -draft
     - musique/chanson

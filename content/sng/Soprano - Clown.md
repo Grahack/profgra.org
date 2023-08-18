@@ -1,5 +1,5 @@
 ---
-title: Soprano - Clown
+title: "Soprano - Clown"
 tags:
     - -draft
     - musique/chanson

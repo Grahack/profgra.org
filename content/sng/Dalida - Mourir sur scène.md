@@ -1,5 +1,5 @@
 ---
-title: Dalida - Mourir sur scène
+title: "Dalida - Mourir sur scène"
 tags:
     - -draft
     - musique/chanson

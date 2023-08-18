@@ -1,5 +1,5 @@
 ---
-title: Terence Trent d’Arby - Sign your name
+title: "Terence Trent d’Arby - Sign your name"
 tags:
     - -draft
     - musique/chanson

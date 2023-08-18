@@ -1,5 +1,5 @@
 ---
-title: Il était une fois - J'ai encore rêvé d'elle
+title: "Il était une fois - J'ai encore rêvé d'elle"
 tags:
     - -draft
     - musique/chanson

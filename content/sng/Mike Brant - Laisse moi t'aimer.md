@@ -1,5 +1,5 @@
 ---
-title: Mike Brant - Laisse moi t'aimer
+title: "Mike Brant - Laisse moi t'aimer"
 tags:
     - -draft
     - musique/chanson

@@ -1,5 +1,5 @@
 ---
-title: Tradi - Douce nuit
+title: "Tradi - Douce nuit"
 tags:
     - -draft
     - musique/chanson

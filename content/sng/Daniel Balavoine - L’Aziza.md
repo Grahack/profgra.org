@@ -1,5 +1,5 @@
 ---
-title: Daniel Balavoine - L’Aziza
+title: "Daniel Balavoine - L’Aziza"
 tags:
     - -draft
     - musique/chanson

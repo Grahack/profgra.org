@@ -1,5 +1,5 @@
 ---
-title: Phil Collins - Two hearts
+title: "Phil Collins - Two hearts"
 tags:
     - -draft
     - musique/chanson

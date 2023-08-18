@@ -1,5 +1,5 @@
 ---
-title: Muriel Dacq - Tropiques au compteur
+title: "Muriel Dacq - Tropiques au compteur"
 tags:
     - -draft
     - musique/chanson

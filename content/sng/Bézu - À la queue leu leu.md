@@ -1,5 +1,5 @@
 ---
-title: Bézu - À la queue leu leu
+title: "Bézu - À la queue leu leu"
 tags:
     - -draft
     - musique/chanson

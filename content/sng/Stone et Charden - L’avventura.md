@@ -1,5 +1,5 @@
 ---
-title: Stone et Charden - L’avventura
+title: "Stone et Charden - L’avventura"
 tags:
     - -draft
     - musique/chanson

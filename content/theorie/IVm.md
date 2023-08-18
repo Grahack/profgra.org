@@ -21,7 +21,7 @@ title: "IVm"
 - [[sng/Panic at the disco - High hopes]]
 - [[sng/Rod Stewart - If you think I'm sexy]]
 - [[sng/Serge Gainsbourg - Elisa]]
-- [[Serge Lama - Femme, femme, femme]]
+- [[sng/Serge Lama - Femme, femme, femme]]
 - [[sng/The Alan Parsons Project - Eye in the sky]]
 - [[sng/The Beatles - Blackbird]]
 - [[sng/Vanessa Paradis - Ces mots simples]]

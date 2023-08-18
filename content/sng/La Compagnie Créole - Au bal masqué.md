@@ -1,5 +1,5 @@
 ---
-title: La Compagnie Créole - Au bal masqué
+title: "La Compagnie Créole - Au bal masqué"
 tags:
     - -draft
     - musique/chanson

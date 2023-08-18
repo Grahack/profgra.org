@@ -1,5 +1,5 @@
 ---
-title: Christophe - Aline
+title: "Christophe - Aline"
 tags:
     - -draft
     - musique/chanson

@@ -1,5 +1,5 @@
 ---
-title: Raft - Yaka dansé
+title: "Raft - Yaka dansé"
 tags:
     - -draft
     - musique/chanson

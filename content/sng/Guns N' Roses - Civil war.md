@@ -1,5 +1,5 @@
 ---
-title: Guns and Roses - Civil war
+title: "Guns N' Roses - Civil war"
 tags:
     - -draft
     - musique/chanson

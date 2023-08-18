@@ -1,5 +1,5 @@
 ---
-title: Jocelyne Béroard - Kolé Séré
+title: "Jocelyne Béroard - Kolé Séré"
 tags:
     - -draft
     - musique/chanson

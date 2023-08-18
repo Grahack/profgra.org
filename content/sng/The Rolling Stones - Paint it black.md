@@ -1,5 +1,5 @@
 ---
-title: The Rolling Stones - Paint it black
+title: "The Rolling Stones - Paint it black"
 tags:
     - -draft
     - musique/chanson

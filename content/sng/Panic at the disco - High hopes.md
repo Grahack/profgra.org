@@ -1,5 +1,5 @@
 ---
-title: Panic at the disco - High hopes
+title: "Panic at the disco - High hopes"
 tags:
     - -draft
     - musique/chanson

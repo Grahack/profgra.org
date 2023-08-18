@@ -1,5 +1,5 @@
 ---
-title: Guns and Roses - Patience
+title: "Guns N' Roses - Patience"
 tags:
     - -draft
     - musique/chanson

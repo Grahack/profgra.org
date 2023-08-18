@@ -1,5 +1,5 @@
 ---
-title: Aerosmith - Crazy
+title: "Aerosmith - Crazy"
 tags:
     - -draft
     - musique/chanson

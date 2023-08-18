@@ -1,5 +1,5 @@
 ---
-title: Daniel Balavoine - Le chanteur
+title: "Daniel Balavoine - Le chanteur"
 tags:
     - -draft
     - musique/chanson

@@ -1,5 +1,5 @@
 ---
-title: Zebda - Motivés
+title: "Zebda - Motivés"
 tags:
     - -draft
     - musique/chanson

@@ -1,5 +1,5 @@
 ---
-title: Laurent Voulzy - Song of you
+title: "Laurent Voulzy - Song of you"
 tags:
     - -draft
     - musique/chanson

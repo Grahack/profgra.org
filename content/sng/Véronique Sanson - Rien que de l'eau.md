@@ -1,5 +1,5 @@
 ---
-title: Véronique Sanson - Rien que de l'eau
+title: "Véronique Sanson - Rien que de l'eau"
 tags:
     - -draft
     - musique/chanson

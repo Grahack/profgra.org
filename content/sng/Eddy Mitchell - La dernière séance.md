@@ -1,5 +1,5 @@
 ---
-title: Eddy Mitchell - La dernière séance
+title: "Eddy Mitchell - La dernière séance"
 tags:
     - -draft
     - musique/chanson

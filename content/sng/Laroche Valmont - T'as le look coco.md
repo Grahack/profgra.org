@@ -1,5 +1,5 @@
 ---
-title: Laroche Valmont - T'as le look coco
+title: "Laroche Valmont - T'as le look coco"
 tags:
     - -draft
     - musique/chanson

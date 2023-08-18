@@ -1,5 +1,5 @@
 ---
-title: Florent Pagny - N'importe quoi
+title: "Florent Pagny - N'importe quoi"
 tags:
     - -draft
     - musique/chanson

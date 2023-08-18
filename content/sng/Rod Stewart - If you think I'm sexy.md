@@ -1,5 +1,5 @@
 ---
-title: Rod Stewart - If you think I'm sexy
+title: "Rod Stewart - If you think I'm sexy"
 tags:
     - -draft
     - musique/chanson

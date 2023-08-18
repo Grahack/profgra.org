@@ -1,5 +1,5 @@
 ---
-title: Michael Jackson - Heal the world
+title: "Michael Jackson - Heal the world"
 tags:
     - -draft
     - musique/chanson

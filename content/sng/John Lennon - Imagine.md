@@ -1,5 +1,5 @@
 ---
-title: John Lennon - Imagine
+title: "John Lennon - Imagine"
 tags:
     - -draft
     - musique/chanson

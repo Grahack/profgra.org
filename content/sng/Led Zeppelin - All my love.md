@@ -1,5 +1,5 @@
 ---
-title: Led Zeppelin - All my love
+title: "Led Zeppelin - All my love"
 tags:
     - -draft
     - musique/chanson

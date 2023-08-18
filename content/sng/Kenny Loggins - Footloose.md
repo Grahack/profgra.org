@@ -1,5 +1,5 @@
 ---
-title: Kenny Loggins - Footloose
+title: "Kenny Loggins - Footloose"
 tags:
     - -draft
     - musique/chanson

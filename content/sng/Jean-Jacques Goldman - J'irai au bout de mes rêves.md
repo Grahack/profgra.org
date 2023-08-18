@@ -1,5 +1,5 @@
 ---
-title: JJ Goldman - J'irai au bout de mes rêves
+title: "Jean-Jacques Goldman - J'irai au bout de mes rêves"
 tags:
     - -draft
     - musique/chanson

@@ -1,5 +1,5 @@
 ---
-title: David Bowie - Let's Dance
+title: "David Bowie - Let's Dance"
 tags:
     - -draft
     - musique/chanson

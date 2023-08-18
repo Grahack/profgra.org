@@ -1,5 +1,5 @@
 ---
-title: Dexys Midnight Runners - Come on Eileen
+title: "Dexys Midnight Runners - Come on Eileen"
 tags:
     - -draft
     - musique/chanson

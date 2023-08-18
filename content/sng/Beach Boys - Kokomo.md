@@ -1,5 +1,5 @@
 ---
-title: Beach Boys - Kokomo
+title: "Beach Boys - Kokomo"
 tags:
     - -draft
     - musique/chanson

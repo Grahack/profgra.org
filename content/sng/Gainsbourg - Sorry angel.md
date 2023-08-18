@@ -1,5 +1,5 @@
 ---
-title: Gainsbourg - Sorry angel
+title: "Gainsbourg - Sorry angel"
 tags:
     - -draft
     - musique/chanson

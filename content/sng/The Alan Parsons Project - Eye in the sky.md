@@ -1,5 +1,5 @@
 ---
-title: The Alan Parsons Project - Eye in the sky
+title: "The Alan Parsons Project - Eye in the sky"
 tags:
     - -draft
     - musique/chanson

@@ -1,5 +1,5 @@
 ---
-title: The Beatles - Yesterday
+title: "The Beatles - Yesterday"
 tags:
     - -draft
     - musique/chanson

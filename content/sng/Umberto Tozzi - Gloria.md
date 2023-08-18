@@ -1,5 +1,5 @@
 ---
-title: Umberto Tozzi - Gloria
+title: "Umberto Tozzi - Gloria"
 tags:
     - -draft
     - musique/chanson

@@ -1,5 +1,5 @@
 ---
-title: Eagles - Hotel California
+title: "Eagles - Hotel California"
 tags:
     - -draft
     - musique/chanson

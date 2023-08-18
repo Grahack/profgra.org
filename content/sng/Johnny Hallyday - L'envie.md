@@ -1,5 +1,5 @@
 ---
-title: Johnny Hallyday - L'envie
+title: "Johnny Hallyday - L'envie"
 tags:
     - -draft
     - musique/chanson

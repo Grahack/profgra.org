@@ -1,5 +1,5 @@
 ---
-title: BO - Vaiana
+title: "BO - Vaiana"
 tags:
     - -draft
     - musique/chanson

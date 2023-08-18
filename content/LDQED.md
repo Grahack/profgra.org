@@ -446,7 +446,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - [[sng/Henri Salvador - Le loup, la biche et le chevalier]]
 - [[sng/Herbert Léonard - Pour le Plaisir]]
 - [[sng/Herbie Hancock - Tonight's the night]]
-- [[sng/Hervé Christiani - Libre Max]]
+- [[sng/Hervé Christiani - Il est libre Max]]
 - [[sng/Hervé Villard - Capri]]
 - [[sng/Hocus Pocus - Je la Soul]]
 - [[sng/Hoobastank - The Reason]]
@@ -637,6 +637,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - [[sng/Lilicub - Voyage en Italie]]
 - Limp Biskit - ?
 - [[sng/Linda Lemay - Il existe un paradis]]
+- [[sng/Link Wray - Rumble]]
 - Linkin Park - ?
 - [[sng/Lio - Banana split]]
 - [[sng/Lionel Richie - All night long]]
@@ -665,9 +666,9 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - M - ?
 - Maceo Parker - ?
 - Macy Gray - ?
-- [[sng/Madonna - Like a Prayer]]
+- [[sng/Madonna - Like a prayer]]
 - Major Lazer - ?
-- [[sng/Manau - Dans la Vallée]]
+- [[sng/Manau - Dans la vallée]]
 - [[sng/Mano negra - Passé de toi]]
 - [[sng/Marc Lavoine - Yeux Revolver]]
 - [[sng/Marc Lavoine - Parking des Anges]]

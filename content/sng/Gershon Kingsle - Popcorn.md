@@ -1,5 +1,5 @@
 ---
-title: Pop corn ~
+title: "Gershon Kingsle - Popcorn"
 tags:
     - -draft
     - musique/chanson

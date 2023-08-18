@@ -1,5 +1,5 @@
 ---
-title: Boney M. - Rasputin
+title: "Boney M. - Rasputin"
 tags:
     - -draft
     - musique/chanson

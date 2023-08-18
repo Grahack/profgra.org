@@ -1,5 +1,5 @@
 ---
-title: Joe Dassin - À toi
+title: "Joe Dassin - À toi"
 tags:
     - -draft
     - musique/chanson

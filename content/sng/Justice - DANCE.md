@@ -1,5 +1,5 @@
 ---
-title: Justice - DANCE
+title: "Justice - DANCE"
 tags:
     - -draft
     - musique/chanson

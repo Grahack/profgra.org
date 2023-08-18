@@ -1,5 +1,5 @@
 ---
-title: Bernard Minet - Bioman
+title: "Bernard Minet - Bioman"
 tags:
     - -draft
     - musique/chanson

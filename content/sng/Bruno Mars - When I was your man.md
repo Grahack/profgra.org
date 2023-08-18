@@ -1,5 +1,5 @@
 ---
-title: Bruno Mars - When I was your man
+title: "Bruno Mars - When I was your man"
 tags:
     - -draft
     - musique/chanson

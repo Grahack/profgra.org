@@ -1,5 +1,5 @@
 ---
-title: Jermaine Jackson and Pia Zadora - After the rain begins to fall
+title: "Jermaine Jackson and Pia Zadora - After the rain begins to fall"
 tags:
     - -draft
     - musique/chanson

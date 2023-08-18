@@ -1,5 +1,5 @@
 ---
-title: Maxime Leforestier - Mon frère
+title: "Maxime Leforestier - Mon frère"
 tags:
     - -draft
     - musique/chanson

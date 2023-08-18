@@ -1,5 +1,5 @@
 ---
-title: Amel Bent - Où je vais
+title: "Amel Bent - Où je vais"
 tags:
     - -draft
     - musique/chanson

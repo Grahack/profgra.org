@@ -1,5 +1,5 @@
 ---
-title: Nino Ferrer - Le Sud
+title: "Nino Ferrer - Le Sud"
 tags:
     - -draft
     - musique/chanson

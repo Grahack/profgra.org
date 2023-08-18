@@ -1,5 +1,5 @@
 ---
-title: JJ Goldman - Long is the road
+title: "Jean-Jacques Goldman - Long is the road"
 tags:
     - -draft
     - musique/chanson

@@ -1,5 +1,5 @@
 ---
-title: Bee Gees - Stayin' Alive
+title: "Bee Gees - Stayin' Alive"
 tags:
     - -draft
     - musique/chanson

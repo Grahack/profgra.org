@@ -1,5 +1,5 @@
 ---
-title: Michel Polnareff - Lettre à France
+title: "Michel Polnareff - Lettre à France"
 tags:
     - -draft
     - musique/chanson

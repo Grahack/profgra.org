@@ -1,5 +1,5 @@
 ---
-title: Michael Jackson - You are not alone
+title: "Michael Jackson - You are not alone"
 tags:
     - -draft
     - musique/chanson

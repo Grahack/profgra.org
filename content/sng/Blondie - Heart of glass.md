@@ -1,5 +1,5 @@
 ---
-title: Blondie - Heart of glass
+title: "Blondie - Heart of glass"
 tags:
     - -draft
     - musique/chanson

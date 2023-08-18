@@ -1,5 +1,5 @@
 ---
-title: Étienne Daho - Tombé pour la France
+title: "Étienne Daho - Tombé pour la France"
 tags:
     - -draft
     - musique/chanson

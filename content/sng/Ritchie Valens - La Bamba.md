@@ -1,5 +1,5 @@
 ---
-title: Ritchie Valens - La Bamba
+title: "Ritchie Valens - La Bamba"
 tags:
     - -draft
     - musique/chanson

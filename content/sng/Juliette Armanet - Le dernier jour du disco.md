@@ -1,5 +1,5 @@
 ---
-title: Julie Armanet - Dernier jour du disco
+title: "Juliette Armanet - Le dernier jour du disco"
 tags:
     - -draft
     - musique/chanson

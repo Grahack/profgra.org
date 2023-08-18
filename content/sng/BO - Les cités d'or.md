@@ -1,5 +1,5 @@
 ---
-title: BO - Les cités d'or
+title: "BO - Les cités d'or"
 tags:
     - -draft
     - musique/chanson

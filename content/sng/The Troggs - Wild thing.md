@@ -1,5 +1,5 @@
 ---
-title: The Troggs - Wild thing
+title: "The Troggs - Wild thing"
 tags:
     - -draft
     - musique/chanson

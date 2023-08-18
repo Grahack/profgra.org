@@ -1,5 +1,5 @@
 ---
-title: Francis Cabrel - Animal
+title: "Francis Cabrel - Animal"
 tags:
     - -draft
     - musique/chanson

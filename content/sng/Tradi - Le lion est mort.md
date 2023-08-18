@@ -1,5 +1,5 @@
 ---
-title: Tradi - Le lion est mort
+title: "Tradi - Le lion est mort"
 tags:
     - -draft
     - musique/chanson

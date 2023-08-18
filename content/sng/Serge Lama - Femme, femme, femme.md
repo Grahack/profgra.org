@@ -1,5 +1,5 @@
 ---
-title: Serge Lama - Femme, femme, femme
+title: "Serge Lama - Femme, femme, femme"
 tags:
     - -draft
     - musique/chanson

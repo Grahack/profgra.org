@@ -1,5 +1,5 @@
 ---
-title: De Palmas - Sur la route
+title: "De Palmas - Sur la route"
 tags:
     - -draft
     - musique/chanson

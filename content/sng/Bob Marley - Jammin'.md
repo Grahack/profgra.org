@@ -1,5 +1,5 @@
 ---
-title: Bob Marley - Jammin'
+title: "Bob Marley - Jammin'"
 tags:
     - -draft
     - musique/chanson

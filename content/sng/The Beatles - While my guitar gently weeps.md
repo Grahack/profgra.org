@@ -1,5 +1,5 @@
 ---
-title: The Beatles - While my guitar gently weeps
+title: "The Beatles - While my guitar gently weeps"
 tags:
     - -draft
     - musique/chanson

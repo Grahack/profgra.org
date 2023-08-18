@@ -1,5 +1,5 @@
 ---
-title: Black - Wonderful life
+title: "Black - Wonderful life"
 tags:
     - -draft
     - musique/chanson

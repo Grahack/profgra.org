@@ -1,5 +1,5 @@
 ---
-title: Stevie Wonder - Master Blaster
+title: "Stevie Wonder - Master Blaster"
 tags:
     - -draft
     - musique/chanson

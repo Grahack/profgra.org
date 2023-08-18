@@ -17,7 +17,7 @@ title: "bVIIm7"
 - [[sng/Michel Polnareff - Lettre à France]]
 - [[sng/Mr Big - To be with you]]
 - [[sng/Muriel Dacq - Tropiques au compteur]]
-- [[sng/Pascal Obispo - L'important]]
+- [[sng/Pascal Obispo - L’important c’est d’aimer]]
 - [[sng/Phil Collins - One more night]]
 - [[sng/Soprano - Clown]]
 - [[sng/Umberto Tozzi - Gloria]]

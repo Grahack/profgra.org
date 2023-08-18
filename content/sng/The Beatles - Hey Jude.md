@@ -1,5 +1,5 @@
 ---
-title: The Beatles - Hey Jude
+title: "The Beatles - Hey Jude"
 tags:
     - -draft
     - musique/chanson

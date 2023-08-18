@@ -1,5 +1,5 @@
 ---
-title: The Beatles - Get back
+title: "The Beatles - Get back"
 tags:
     - -draft
     - musique/chanson

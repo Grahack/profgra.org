@@ -1,5 +1,5 @@
 ---
-title: Live - Lightning Crashes
+title: "Live - Lightning Crashes"
 tags:
     - -draft
     - musique/chanson

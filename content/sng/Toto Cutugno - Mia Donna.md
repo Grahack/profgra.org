@@ -1,5 +1,5 @@
 ---
-title: Toto Cutugno - Mia Donna
+title: "Toto Cutugno - Mia Donna"
 tags:
     - -draft
     - musique/chanson

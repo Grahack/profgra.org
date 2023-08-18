@@ -1,5 +1,5 @@
 ---
-title: Steppenwolf - Born to be wild
+title: "Steppenwolf - Born to be wild"
 tags:
     - -draft
     - musique/chanson

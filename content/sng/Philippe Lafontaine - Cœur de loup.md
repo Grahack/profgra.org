@@ -1,5 +1,5 @@
 ---
-title: Philippe Lafontaine - Cœur de loup
+title: "Philippe Lafontaine - Cœur de loup"
 tags:
     - -draft
     - musique/chanson

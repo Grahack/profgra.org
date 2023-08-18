@@ -1,5 +1,5 @@
 ---
-title: Free - Alright
+title: "Free - Alright"
 tags:
     - -draft
     - musique/chanson

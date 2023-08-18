@@ -1,5 +1,5 @@
 ---
-title: Gun's and Roses - Paradise City
+title: "Guns N' Roses - Paradise City"
 tags:
     - -draft
     - musique/chanson

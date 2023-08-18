@@ -1,5 +1,5 @@
 ---
-title: Axelle Red - Sensualité
+title: "Axelle Red - Sensualité"
 tags:
     - -draft
     - musique/chanson

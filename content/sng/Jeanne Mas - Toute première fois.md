@@ -1,5 +1,5 @@
 ---
-title: Jeanne Mas - Toute première fois
+title: "Jeanne Mas - Toute première fois"
 tags:
     - -draft
     - musique/chanson

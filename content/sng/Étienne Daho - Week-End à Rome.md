@@ -1,5 +1,5 @@
 ---
-title: Étienne Daho - Week-End à Rome
+title: "Étienne Daho - Week-End à Rome"
 tags:
     - -draft
     - musique/chanson

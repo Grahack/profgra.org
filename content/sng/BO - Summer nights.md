@@ -1,5 +1,5 @@
 ---
-title: BO - Summer nights
+title: "BO - Summer nights"
 tags:
     - -draft
     - musique/chanson

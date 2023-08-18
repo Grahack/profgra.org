@@ -1,5 +1,5 @@
 ---
-title: Johnny Hallyday - Je te promets
+title: "Johnny Hallyday - Je te promets"
 tags:
     - -draft
     - musique/chanson

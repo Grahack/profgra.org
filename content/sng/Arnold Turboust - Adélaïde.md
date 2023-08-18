@@ -1,5 +1,5 @@
 ---
-title: Arnold Turboust - Adélaïde
+title: "Arnold Turboust - Adélaïde"
 tags:
     - -draft
     - musique/chanson

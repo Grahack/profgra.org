@@ -1,5 +1,5 @@
 ---
-title: Michael Jackson - Man in the mirror
+title: "Michael Jackson - Man in the mirror"
 tags:
     - -draft
     - musique/chanson

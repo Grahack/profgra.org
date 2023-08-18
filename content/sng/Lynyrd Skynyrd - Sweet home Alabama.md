@@ -1,5 +1,5 @@
 ---
-title: Lynyrd Skynyrd - Sweet home Alabama
+title: "Lynyrd Skynyrd - Sweet home Alabama"
 tags:
     - -draft
     - musique/chanson

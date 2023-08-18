@@ -1,5 +1,5 @@
 ---
-title: Hoobastank - The Reason
+title: "Hoobastank - The Reason"
 tags:
     - -draft
     - musique/chanson

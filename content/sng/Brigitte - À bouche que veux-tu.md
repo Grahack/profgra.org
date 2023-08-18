@@ -1,5 +1,5 @@
 ---
-title: Brigitte - À bouche que veux-tu
+title: "Brigitte - À bouche que veux-tu"
 tags:
     - -draft
     - musique/chanson

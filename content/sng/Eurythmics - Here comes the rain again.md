@@ -1,5 +1,5 @@
 ---
-title: Eurythmics - Here comes the rain again
+title: "Eurythmics - Here comes the rain again"
 tags:
     - -draft
     - musique/chanson

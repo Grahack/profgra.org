@@ -1,5 +1,5 @@
 ---
-title: Pointer Sisters - So excited
+title: "The Pointer Sisters - So excited"
 tags:
     - -draft
     - musique/chanson

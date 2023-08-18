@@ -1,5 +1,5 @@
 ---
-title: Pascal Obispo - L'important c’est d’aimer
+title: "Pascal Obispo - L'important c’est d’aimer"
 tags:
     - -draft
     - musique/chanson

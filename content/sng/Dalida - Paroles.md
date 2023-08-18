@@ -1,5 +1,5 @@
 ---
-title: Dalida - Paroles
+title: "Dalida - Paroles"
 tags:
     - -draft
     - musique/chanson

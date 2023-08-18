@@ -1,5 +1,5 @@
 ---
-title: Beach Boys - Get around
+title: "Beach Boys - Get around"
 tags:
     - -draft
     - musique/chanson

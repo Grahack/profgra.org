@@ -1,5 +1,5 @@
 ---
-title: Paul McCartney and Michael Jackson - Say say say
+title: "Paul McCartney and Michael Jackson - Say say say"
 tags:
     - -draft
     - musique/chanson

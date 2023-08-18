@@ -1,5 +1,5 @@
 ---
-title: Daniel Balavoine - Tous les cris les SOS
+title: "Daniel Balavoine - Tous les cris les SOS"
 tags:
     - -draft
     - musique/chanson

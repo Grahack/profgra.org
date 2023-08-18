@@ -1,5 +1,5 @@
 ---
-title: Anastacia - I'm outta love
+title: "Anastacia - I'm outta love"
 tags:
     - -draft
     - musique/chanson

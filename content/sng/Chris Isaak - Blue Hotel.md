@@ -1,5 +1,5 @@
 ---
-title: Chris Isaak - Blue Hotel
+title: "Chris Isaak - Blue Hotel"
 tags:
     - -draft
     - musique/chanson

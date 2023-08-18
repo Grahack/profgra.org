@@ -1,5 +1,5 @@
 ---
-title: Brenda Lee - Always on my mind
+title: "Brenda Lee - Always on my mind"
 tags:
     - -draft
     - musique/chanson

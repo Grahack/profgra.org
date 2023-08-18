@@ -1,5 +1,5 @@
 ---
-title: Irene Cara - Fame
+title: "Irene Cara - Fame"
 tags:
     - -draft
     - musique/chanson

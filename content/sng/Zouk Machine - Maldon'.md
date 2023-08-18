@@ -1,5 +1,5 @@
 ---
-title: Zouk Machine - Maldon'
+title: "Zouk Machine - Maldon'"
 tags:
     - -draft
     - musique/chanson
