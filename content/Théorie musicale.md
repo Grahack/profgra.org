@@ -35,6 +35,7 @@ des morceaux de musique qui utilise ledit concept.
 - [[theorie/bVI]]
 - [[theorie/bVI_dim]]
 - [[theorie/VI7]]
+- [[theorie/bVII]]
 - [[theorie/bVIIm7]]
 - [[theorie/VIIm7]]
 - [[theorie/VII7]]
