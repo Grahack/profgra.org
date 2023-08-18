@@ -248,6 +248,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - [[sng/Crash Test Dummies - MMMMM]]
 - Cream - ?
 - [[sng/Creedence Clearwater Revival - Proud Mary]]
+- Crossby, Stills & Nash - ?
 - [[sng/Crowded house - Don't dream it's over]]
 - [[sng/Crusaders - Street Life]]
 - [[sng/Culture Club - Do you really want to hurt me]]
@@ -258,7 +259,6 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 
 ### D
 
-- Crossby, Stills & Nash - ?
 - [[sng/D'Angelo - Sugar]]
 - [[sng/DaftPunk - Around The World]]
 - [[sng/DaftPunk - Harder Better]]
@@ -365,6 +365,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - Feist - ?
 - [[sng/Fela Kuti - Zombie]]
 - [[sng/Félix Gray - La gitane]]
+- [[sng/Félix Leclerc - Bonheur]]
 - Femmouzes T - ?
 - [[sng/FFF - Morphée]]
 - [[sng/Fifty cent - P.I.M.P.]]
@@ -392,7 +393,6 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - [[sng/Franz Ferdinand - Singing in the car]]
 - Freak Power - ?
 - Frédéric François - ?
-- [[sng/Félix Leclerc - Bonheur]]
 
 ### G
 
@@ -589,10 +589,10 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - [[sng/Kool & The Gang - Fresh]]
 - [[sng/Kraftwerk - Radioactivity]]
 - [[sng/Kylie Minogue - Can't get you Outta my Head]]
+- Kyo - ?
 
 ### L
 
-- Kyo - ?
 - [[sng/L'Affaire Louis' Trio - Chic Planète]]
 - [[sng/L5 - Toutes les femmes de ta vie]]
 - [[sng/L7 - Fuel my fire]]
@@ -731,6 +731,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - [[sng/Moonray - Comanchero]]
 - [[sng/Mort Shuman - Il neige sur le Lac Majeur]]
 - [[sng/Mory Kante - Yeke Yeke]]
+- [[sng/Mötley Crüe - Girls girls girls]]
 - [[sng/Motorhead - Ace of spades]]
 - [[sng/Mouloudji - Un jour tu verras]]
 - Muddy Waters - ?
@@ -739,7 +740,6 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - Muse - ?
 - [[sng/Musical Youth - Pass The Dutchie]]
 - [[sng/Mylène Farmer - Pourvu qu'elles soient douces]]
-- [[sng/Mötley Crüe - Girls girls girls]]
 
 ### N
 
@@ -800,10 +800,10 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - [[sng/Orelsan - Tout va bien]]
 - [[sng/Otis Redding - The dock of the bay]]
 - [[sng/Outkast - Hey ya]]
+- Ozzy Osbourne - ?
 
 ### P
 
-- Ozzy Osbourne - ?
 - [[sng/P Lion - Dream]]
 - Pacifique - ?
 - [[sng/Paolo Conte - It's Wonderful]]
@@ -873,15 +873,15 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - [[sng/Public Image Ltd - Love Song]]
 - [[sng/Pulp - Disco 2000]]
 - Pussy Riot - ?
+- Pussycat Dolls - ?
 
 ### Q
 
-- Pussycat Dolls - ?
 - [[sng/Queen - We are the champions]]
+- Queens of the stone age - ?
 
 ### R
 
-- Queens of the stone age - ?
 - [[sng/Rachid Ferrache - Le fille aux cheveux bleus]]
 - [[sng/Rachid Taha - Minouche]]
 - Radiohead - ?
@@ -1025,10 +1025,10 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - Svinkels - ?
 - [[sng/Sweet Smoke - Silly Sally]]
 - [[sng/Sylvie Vartan - La plus belle pour aller danser]]
+- System of a down - ?
 
 ### T
 
-- System of a down - ?
 - [[sng/Talk talk - Such a shame]]
 - [[sng/Talking Heads - Once in a lifetime]]
 - [[sng/Talking Heads - Psycho killer]]
@@ -1124,24 +1124,25 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - Tri Yann - ?
 - [[sng/The Troggs - Wild thing]]
 - [[sng/Tryo - Hymne de nos campagnes]]
+- Tunde Olaniran - ?
 
 ### U
 
-- Tunde Olaniran - ?
 - [[sng/U2 - One]]
 - [[sng/UB40 - Red Red Wine]]
 - [[sng/UFO - Doctor doctor]]
 - [[sng/Ugly Kid Joe - Everything about you]]
 - [[sng/Umberto Tozzi - Gloria]]
+- Usher - ?
 
 ### V
 
-- Usher - ?
 - [[sng/Vanessa Carlton - A 1000 miles]]
 - [[sng/Vanessa Paradis - Joe le Taxi]]
 - [[sng/Vanessa Paradis - Maryline et John]]
 - [[sng/Vangelis - La petite fille de la mer]]
 - [[sng/Vaya Con Dios - Just a Friend]]
+- [[sng/Véronique Sanson - Rien que de l'eau]]
 - [[sng/Vianney - Je m'en vais]]
 - Vincent Delerm - ?
 - [[sng/Violent Femmes - Blister in the sun]]
@@ -1149,7 +1150,6 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - [[sng/Vivien Savage - Le petite lady]]
 - [[sng/Vitaa - À fleur de toi]]
 - Vivien Savage - ?
-- [[sng/Véronique Sanson - Rien que de l'eau]]
 
 ### W
 
