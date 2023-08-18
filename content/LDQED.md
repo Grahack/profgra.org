@@ -364,7 +364,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - [[sng/Faudel - Tellement je t'aime]]
 - Feist - ?
 - [[sng/Fela Kuti - Zombie]]
-- [[sng/Felix Gray - La gitane]]
+- [[sng/Félix Gray - La gitane]]
 - Femmouzes T - ?
 - [[sng/FFF - Morphée]]
 - [[sng/Fifty cent - P.I.M.P.]]
