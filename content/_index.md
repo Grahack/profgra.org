@@ -9,7 +9,7 @@
 ### Maths
 
 - [[STS SIO]]
-- [DMEPC](https://www.reseau-canope.fr/notice/des-maths-ensemble-et-pour-chacun-2nde.html)
+- [DMEPC sur reseau-canope.fr](https://www.reseau-canope.fr/notice/des-maths-ensemble-et-pour-chacun-2nde.html)
 - [[Club des expressions]]
 - [[Défis maths]]
 
