@@ -26,7 +26,7 @@
 
 #### Langages
 
-- [[HTML]] - [[CSS]] - [[JavaScript|JS]]
+- [[HTML-CSS-JS|le triplet HTML-CSS-JS]]
 - [[Python]] -  [[Shell]]
 - [[Tcl-Tk]] - [[Haskell]] - [[Lisp]] - [[PicoLisp]] - [[MicroAlg]]
 - [[Clojure et ClojureScript]]
