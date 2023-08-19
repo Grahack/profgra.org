@@ -35,7 +35,7 @@
 
 - [[Éditeurs]]
 - [[vim]] - [[git]] - [[Termux]]
-- [[Idle]] - [[PythonTutor]]
+- [[Idle]] - [[Python Tutor]]
 
 ## Musique
 
