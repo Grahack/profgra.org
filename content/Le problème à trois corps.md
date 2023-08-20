@@ -241,3 +241,7 @@ Lin Yu, avancées sur foudre en boule et macro-atome, collab de Ding, pourrait �
 
 Plaque commémorative.
 YW: "Le crépuscule des hommes."
+
+## Bilan
+
+Dernier tiers un peu lourd.
