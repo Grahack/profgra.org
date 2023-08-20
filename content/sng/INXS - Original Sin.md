@@ -1,5 +1,5 @@
 ---
-title: INXS - B Girl W Boy
+title: INXS - Original Sin
 tags:
     - -draft
     - musique/chanson

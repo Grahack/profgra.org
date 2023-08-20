@@ -458,7 +458,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 
 - [[sng/I AM - Sept]]
 - I wanna rock Twisted Sisters - ?
-- [[sng/INXS - B Girl W Boy]]
+- [[sng/INXS - Original Sin]]
 - [[sng/Il était une fois - J'ai encore rêvé d'elle]]
 - [[sng/Il était une fois - Viens faire un tour sous la pluie]]
 - Imagine Dragons - ?
