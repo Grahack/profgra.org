@@ -24,7 +24,7 @@ apt update
 apt upgrade
 # use the new conf file for openssl and bash
 
-apt install vim git python
+pkg install vim git python  # and openssh if github needed
 cp dotfiles/* .
 mkdir .vim-tmp
 ```
@@ -32,20 +32,16 @@ mkdir .vim-tmp
 ## Github
 
 ```
-apt install openssh
+pkg install openssh
 # creates some key pairs
-ls ~/.ssh
 ssh-keygen -t ed25519 -C "your_email@example.com"
 # fingerprint EIdKDiH4TUhx...
-eval "$(ssh-agent -s)"
+eval "$(ssh-agent -s)"  # ?
 
 # copy the public key to github
 
-ssh -T git@github.com  # OK
+ssh -T git@github.com  # OK, add to known_hosts
 
-# ?? ssh-keyscan -t rsa github.com >> ~/.ssh/known_hosts
-
-git clone git@github.com:Grahack/ProfGra.git .
-# ? git clone ssh://username@domain.example/P.git .
+git clone git@github.com:Grahack/profgra.org.git .
 ```
 
