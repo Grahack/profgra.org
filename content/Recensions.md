@@ -2,10 +2,9 @@
 title: "Recensions"
 tags:
     - livre
-    - -draft
 ---
 
-# Recensions
+## Recensions
 
 - [[Histoire naturelle du surnaturel]]
 - [[Les fourmis]]
