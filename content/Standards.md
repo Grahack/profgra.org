@@ -26,20 +26,23 @@ Tous les standards ont une programmation [[ChordBot]] sauf mention contraire «�
 13. Desafinado (S-S-0)
 14. Dindi (S-S-0)
 15. Dolphin Dance (S-0-0) sans CB
-16. E.S.P. (S-0-0) sans CB
-17. Falsa Baiana (0-0-0) sans CB
-18. Favela (S-0-0) sans CB
-19. Felicidade (S-0-0) sans CB
+16. Donna Lee (S-S-0)
+17. E.S.P. (S-0-0) sans CB
+18. Falsa Baiana (0-0-0) sans CB
+19. Favela (S-0-0) sans CB
+20. Felicidade (S-0-0) sans CB
 
 Sinon (ou autre):
 
-1. Cantaloupe Island
-2. Folk song
-3. Impressions
-4. One eye transvestite
-5. Solar
-6. Song for my father
-7. Syeeda's song flute
-8. [[std/The girl from Ipanema]]
-9. Tune up
-10. Vent du Sud (à mettre ailleurs)
+1. Butch and Butch
+2. Cantaloupe Island
+3. Folk song
+4. Impressions
+5. Nardis
+6. One eye transvestite
+7. Solar
+8. Song for my father
+9. Syeeda's song flute
+10. [[std/The girl from Ipanema]]
+11. Tune up
+12. Vent du Sud (à mettre ailleurs)
