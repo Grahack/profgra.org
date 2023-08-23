@@ -123,3 +123,29 @@ ABAAB
 ABAABAAABB
 AAAAC
 ```
+
+### Phantoms
+
+#### Yogev
+
+```
+1   2   4   3  =  34
+1   2   4   3  =  34
+1   2   4   3  =  34
+1   2 7 4   3  =  56
+1   2   4   3  =  34
+     57 notes  = 192 = 12 mesures
+```
+
+### Simon Schröder et Tigran
+
+Groupés par hauteur de note
+
+```
+1 2  4   3   |1 2   4   3  |1 2   4   3
+434 333 433 4|43 433 343 34|4 343 334 334
+
+1 2  7         4   3  |1 2   4   3
+434 333 333 433 343 34|4 343 334 334
+```
+
