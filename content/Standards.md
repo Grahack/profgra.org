@@ -20,6 +20,7 @@ Tous les standards ont une programmation [[ChordBot]] sauf mention contraire Â«Â
 1. Beautiful love (S-0-0)
 1. [[std/Blue Bossa]] (0-S-0)
 1. Bouncin' with Bud (S-0-0)
+1. Butch and Butch (S-S-0) sans CB
 1. Caravan (0-S-0)
 1. Chega de saudade (S-0-0)
 1. Dearly Beloved (S-0-0)
@@ -34,7 +35,6 @@ Tous les standards ont une programmation [[ChordBot]] sauf mention contraire Â«Â
 
 Sinon (ou autre):
 
-1. Butch and Butch
 1. Cantaloupe Island
 1. Folk song
 1. Impressions
