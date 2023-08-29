@@ -202,6 +202,10 @@ Jeff Tain Watts
 Jeremy Colson
 Vai
 
+John JR Robinson
+
+![](https://www.youtube.com/watch?v=YgjQmA9tI_Y)
+
 Jim Riley
 ![](https://www.youtube.com/watch?v=de4mTYcA59g))
 
