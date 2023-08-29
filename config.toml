@@ -1,4 +1,4 @@
-baseURL = "https://grahack.github.io/profgra.org/"
+baseURL = "http://ici.profgra.org/"
 languageCode = "en-us"
 relativeURLs = false
 disablePathToLower = true
