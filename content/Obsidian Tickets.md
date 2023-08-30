@@ -4,6 +4,10 @@ tags:
     - obsidian
 ---
 
+## i18n
+
+- File already exists
+
 ## Core
 
 - Listes ordonnées devraient être de la forme 1. 1.
