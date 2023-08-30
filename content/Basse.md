@@ -5,6 +5,8 @@ tags:
     - musique/basse
 ---
 
+- [[Bassistes]]
+
 ## Walking bass
 
 Cours de Peter Giron

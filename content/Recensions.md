@@ -2,10 +2,9 @@
 title: "Recensions"
 tags:
     - livre
-    - -draft
 ---
 
-# Recensions
+## Recensions
 
 - [[Histoire naturelle du surnaturel]]
 - [[Les fourmis]]
@@ -33,4 +32,5 @@ tags:
 - [[Everyday Tonality II]]
 - [[Le problème à trois corps]]
 - [[La forêt sombre]]
+- [[The Testaments]]
 - [[Mathematica]]

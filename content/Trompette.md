@@ -5,6 +5,10 @@ tags:
     - musique/trompette
 ---
 
+## Divers liens
+
+- [[Souplesses]]
+
 ## Doigtés
 
 ```

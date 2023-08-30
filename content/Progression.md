@@ -121,12 +121,12 @@ sont blanches, d’autres noires, c’est comme ça.
 
 La base est ici la gamme majeure (GM) de do, à partir de laquelle :
 
-1. on travaille à une octave près la hauteur des notes
+1. on travaille à une octave près la hauteur des notes, à la fois de façon passive (reconnaissance), et active (chant)
 1. on peut obtenir d’autres gammes majeures (à travailler en parallèle du
    reste, puis il faudra refaire tout ce qui aura été fait en do, mais avec ces
    nouvelles gammes)
 1. on découvre 4 gammes mineures (Gm), dont une est la relative mineure de la
-   GM (et réciproquement !)
+   GM (et réciproquement !), à comparer avec la GM, comme toutes les gammes
 1. harmonisation à 3 sons de la GM
    1. sept accords
    1. cadences (il faut 4 sons pour le V)

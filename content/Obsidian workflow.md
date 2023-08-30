@@ -125,6 +125,7 @@ Il y a des conventions pour le nommage des fichiers.
   * JPB JP Bouvet
   * LK  Laurent Kremer
   * NGD Stephen Clark (Non Glamorous Drummer)
+  * NS Nate Smith (80/20 drummer)
   * OS  Open Studio
   * QD  Quincy Davis
   * RC  Ross Campbell

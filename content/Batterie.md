@@ -4,8 +4,7 @@ tags:
     - musique/batterie
 ---
 
-# Batterie
-
+- [[Batteurs]]
 - [[Rudiments]]
 - [[Importance de la main faible]]
 - [[Trois dans quatre]] et [[Deux ou Quatre dans Six]]

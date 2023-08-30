@@ -18,3 +18,8 @@ P33 personnages inconnus.
 Ding Yi intervewé sur dangers des intellectrons.  
 Dialogue intellectron et 2e fissureur.
 
+## Bilan
+
+Difficile de rentrer dans ce tome.
+
+Pas le courage de finir, surtout que Sw m’a sorti [[Testaments]] de la médiathèque !

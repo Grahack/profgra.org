@@ -29,6 +29,7 @@ TODO créer des sng
 - Ne pleure pas Jeannette 56 (avec une #4)
 - Mon beau sapin 54
 - Oh Lucile embrasse moi 76 (arpèges à fond)
+- On est là 75 (très conjoint)
 - Petit papa Noël 54
 - Pirouette cacahuète 16 (difficile)
 - Vive le vent Refrain 15 Couplet 56
