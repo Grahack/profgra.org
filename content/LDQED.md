@@ -610,6 +610,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - Lee Scratch Perry - ?
 - [[sng/Lene Marlin - Where I'm headed]]
 - Lenny Kravitz - ?
+- [[sng/Léo Ferré - Les anarchistes]]
 - [[sng/Leonard Cohen - Suzanne]]
 - [[sng/Leopold Nord - C'est L'amour]]
 - Les Avions - ?
@@ -770,7 +771,6 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - Nina Morato - ?
 - [[sng/Nina Simone - My baby don't care]]
 - [[sng/Nine Inch Nails - Wish]]
-- [[sng/Nino Ferrer - Anarchistes]]
 - [[sng/Nino Ferrer - Le Sud]]
 - Nirvana - ?
 - [[sng/No Doubt - Don't Speak]]
