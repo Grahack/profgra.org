@@ -23,6 +23,7 @@ TODO créer des sng
 - Jeanneton 55
 - Joyeux anniversaire 55
 - La berceuse 11
+- La chenille 75
 - La marseillaise 55
 - L’eau vive 14 (facile)
 - Ne pleure pas Jeannette 56 (avec une #4)
