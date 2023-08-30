@@ -45,7 +45,7 @@ title: "II7 ou IV maj en contexte mineur"
 - [[sng/Nino Ferrer - Le Sud]]
 - [[sng/Paul McCartney and Michael Jackson - Say say say]]
 - [[sng/Pink Floyd - The Wall]]
-- [[sng/Queen - I want to break free]] (bridge)]]
+- [[sng/Queen - I want to break free]] (bridge)
 - [[sng/Roger Glover - Love is all]]
 - [[sng/Rolling Stones paint it black]]
 - [[sng/Serge Gainsbourg - Comme un boomerang]]
