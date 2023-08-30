@@ -1,8 +1,13 @@
 ---
 title: "Comptines majeures"
+tags:
+    - musique/theorie
+    - -todo
 ---
 
 Les deux chiffres indiquent les notes les plus basses et les plus hautes.
+
+TODO créer des sng
 
 - À la claire fontaine 15 (facile)
 - À la queue leu leu 55 (avec une b7)
