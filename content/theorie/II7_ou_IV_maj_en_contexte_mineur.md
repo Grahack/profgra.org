@@ -40,6 +40,7 @@ title: "II7 ou IV maj en contexte mineur"
 - [[sng/Joe Dassin - On s'est aimé comme on se quitte]]
 - [[sng/Juliette Armanet - Le dernier jour du disco]]
 - [[sng/Maxime Leforestier - C'est une maison bleue]]
+- [[sng/Michael Jackson - Rock with you]]
 - [[sng/Mike Brant - Laisse moi t'aimer]]
 - [[sng/Nino Ferrer - Le Sud]]
 - [[sng/Paul McCartney and Michael Jackson - Say say say]]
