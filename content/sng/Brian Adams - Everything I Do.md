@@ -1,5 +1,5 @@
 ---
-title: Brian Adams - Everything I Do
+title: "Brian Adams - Everything I do"
 tags:
     - -draft
     - musique/chanson

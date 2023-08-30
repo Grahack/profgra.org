@@ -1,5 +1,5 @@
 ---
-title: Eurythmics - There must be an Angel
+title: "Eurythmics - There must be an angel"
 tags:
     - -draft
     - musique/chanson

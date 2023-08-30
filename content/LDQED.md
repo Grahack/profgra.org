@@ -772,7 +772,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - [[sng/Nina Simone - My baby don't care]]
 - [[sng/Nine Inch Nails - Wish]]
 - [[sng/Nino Ferrer - Anarchistes]]
-- [[sng/Nino Ferrer - le Sud]]
+- [[sng/Nino Ferrer - Le Sud]]
 - Nirvana - ?
 - [[sng/No Doubt - Don't Speak]]
 - [[sng/No One is Innocent - La Peau]]

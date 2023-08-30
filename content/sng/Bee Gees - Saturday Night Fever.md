@@ -1,5 +1,5 @@
 ---
-title: Bee Gees saturday night fever
+title: "Bee Gees - Saturday night fever"
 tags:
     - -draft
     - musique/chanson
