@@ -13,3 +13,5 @@ Selon [[Everyday Tonality II]] à la page 67, un *tempérament* sert à :
 Personnellement, même si je me suis intéressé à ces questions, je ne me sers
 d’aucune finasserie sur le sujet : le tempérament égal est un axiome de ma
 pratique musicale (même si je ne suis pas toujours juste).
+
+Pour écouter : [[bookmarks/Other tuning systems on bandcamp|Other tuning systems on bandcamp]].
