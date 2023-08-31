@@ -49,7 +49,7 @@
 
 ## Outils
 
-- [[Obsidian]] - [[Anki]]
+- [[Orgzly]] - [[Obsidian]] - [[Anki]]
 - [[Wikipedia]] - [[OpenStreetMap]] - [[MusicBrainz]] -
   [[opendata.fr]]
 
