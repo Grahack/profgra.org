@@ -1,4 +1,4 @@
-baseURL = "http://ici.profgra.org/"
+baseURL = "https://ici.profgra.org/"
 languageCode = "en-us"
 relativeURLs = false
 disablePathToLower = true
