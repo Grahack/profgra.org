@@ -117,6 +117,9 @@ Dana Hawkins
 Dave DiCenso
 compil: ![](https://www.youtube.com/watch?v=6CwdPi0Uyss)
 
+Dave Elitch
+[Site pro](https://daveelitch.com/)
+
 Dave King
 
 Dave Lombardo
