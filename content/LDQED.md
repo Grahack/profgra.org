@@ -313,7 +313,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - Duke Ellington - ?
 - [[sng/Duran Duran - Final Countdown]]
 - [[sng/Dweezil Zappa - gonna get you]]
-- [[sng/Dyonisos - Jedi?]]
+- [[Dyonisos - Jedi]]
 
 ### E
 
@@ -1012,7 +1012,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - Sting - ?
 - Stone & Charden - ?
 - [[sng/Stretch - Why did you do it]]
-- [[sng/Stromae - Papa où t'es ?]]
+- [[Stromae - Papa où t'es]]
 - [[sng/Sttellla - Les Tartines]]
 - [[sng/Sublime - What I got]]
 - Suicidal Tendencies - ?
@@ -1078,7 +1078,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - [[sng/The Pretenders - I go to sleep]]
 - [[sng/The Ramones - Teenage Lobotomy]]
 - [[sng/The Rasmus - In The shadows]]
-- [[sng/The Rembrants - Friends?]]
+- [[The Rembrants - Friends]]
 - [[sng/The Rolling Stones - Honky Tonk Woman]]
 - [[sng/The Ronnettes - Be my baby]]
 - The Roots - ?
