@@ -313,7 +313,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - Duke Ellington - ?
 - [[sng/Duran Duran - Final Countdown]]
 - [[sng/Dweezil Zappa - gonna get you]]
-- [[Dyonisos - Jedi]]
+- [[Dyonisos - Song For Jedi]]
 
 ### E
 
