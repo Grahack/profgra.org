@@ -23,4 +23,6 @@ tags:
 ## Pré-rentrée année n
 
 - speech amphi
-- liste officieuse, mais vraies infos officielles sur canal officiel !
+    - 14 noms, syndiqués à différents syndicats, ou non syndiqués
+    - liste officieuse, mais vraies infos officielles plutôt sur canal officiel
+    - se faire accompagner
