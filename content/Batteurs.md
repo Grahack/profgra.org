@@ -6,7 +6,7 @@
 - Abe Cunningham
   - Deftones
 - Adam Deitch
-  - [Cette video (modern drummer 2010)](https://www.youtube.com/watch?v=7KyWfk192uE)
+  - [Modern Drummer 2010](https://www.youtube.com/watch?v=7KyWfk192uE)
   - Sco
 - Aldo Romano
 - Alex Van Halen
