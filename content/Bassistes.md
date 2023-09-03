@@ -31,3 +31,8 @@
 
 - Simon Grove
     - Plini, Intervals
+
+## V
+
+- Verdine White
+    - Earth, Wind and Fire
