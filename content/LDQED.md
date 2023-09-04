@@ -1014,6 +1014,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - [[sng/Stretch - Why did you do it]]
 - [[Stromae - Papa où t'es]]
 - [[sng/Sttellla - Les Tartines]]
+- [[sng/Styx - Renegade]]
 - [[sng/Sublime - What I got]]
 - Suicidal Tendencies - ?
 - Superbus - ?
