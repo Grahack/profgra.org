@@ -17,6 +17,8 @@
 
 - Les Claypool
     - Primus
+- Linus Klausenitzer
+    - Fretless metal
 
 ## M
 

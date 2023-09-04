@@ -288,6 +288,10 @@
     ([video](https://www.youtube.com/watch?v=ADyDKM2bOKo))
 - Richard Kolinka
   - Téléphone
+- Richard Spaven
+  - [Jungle planante](https://www.youtube.com/watch?v=cEJteCKPWIs)
+  - [Nova](https://www.youtube.com/watch?v=QkzveuZ8LVk)
+  - [Displacement Essentials](https://www.youtube.com/watch?v=Av0pGLkHUbM)
 - Ringo Starr
 - Rob Brown
 - Robert Sput Searight
