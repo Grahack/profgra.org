@@ -1,3 +1,9 @@
+---
+title: Gammes majeures et MMTS
+tags:
+  - musique/theorie
+---
+
 > [!Quote] En bref
 > Certains moyens mnémotechniques (ordre des bémols, des dièses) sont des
 > faux raccourcis, il vaut mieux « savoir » les gammes, sans forcément les
