@@ -1,3 +1,8 @@
+> [!Quote] En bref
+> Certains moyens mnémotechniques (ordre des bémols, des dièses) sont des
+> faux raccourcis, il vaut mieux « savoir » les gammes, sans forcément les
+> avoir apprises « par cœur ».
+
 Au début d'une portée, une «armure» peut indiquer les dièses ou bémols
 (les «altérations») à appliquer aux notes. On sait, grâce à des
 raisonnements assez simples, que les gammes majeures ont un certain
