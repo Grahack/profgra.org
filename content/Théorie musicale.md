@@ -9,6 +9,8 @@ tags:
 Pour l’instant c’est juste une liste vers des concepts. Chaque page liste
 des morceaux de musique qui utilise ledit concept.
 
+- [[Gammes majeures et MMTS]]
+
 ## Cadences
 
 - [[theorie/Cadences]]
