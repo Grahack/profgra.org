@@ -11,12 +11,6 @@ dans cet article pourquoi je suis frustré de voir qu'il leur manque
 une étape importante pour pouvoir vraiment utiliser la théorie
 musicale sur leur instrument.
 
-1 MMTS : quels sont-ils ?
-2 MMTS : un savoir froid ?
-3 L'étape suivante
-4 Pourquoi s’être arrêté avant ?
-5 Et après ?
-
 ## MMTS : Quels sont-ils ?
 
 La construction des gammes majeures (GM) est un processus assez simple
