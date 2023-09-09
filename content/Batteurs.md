@@ -86,6 +86,8 @@
 - Dana Hawkins
 - Dave DiCenso
   - [Compil](https://www.youtube.com/watch?v=6CwdPi0Uyss)
+- Dave Early
+  - Sade
 - Dave Elitch
   - le champion de la posture
   - [Site pro](https://daveelitch.com/)
@@ -150,6 +152,9 @@
 - Ginger Baker
   - Cream
 - Gregg Bissonette
+- Gregory C. Coleman
+  - [WP](https://en.wikipedia.org/wiki/Gregory_C._Coleman)
+  - Amen break
 - Greyson Nekrutman
   - Suicidal Tendencies
 
