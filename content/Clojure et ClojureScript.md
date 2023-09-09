@@ -8,6 +8,6 @@ tags:
 
 [[ReFrame]]
 
+## Astuces
 
-
-
+`(def log (.-log js/console))`
