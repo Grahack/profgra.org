@@ -10,9 +10,10 @@ tags:
 ### 1
 
 ## II PRECIOUS FLOWER p7
-### 2
 
 369A
+
+### 2
 
 - precious flowers but snares
 - castle unlocked by magic ring
@@ -73,6 +74,9 @@ tags:
 
 
 ## VI SIX FOR DEAD p71
+
+369A
+
 ### 15
 
 - a handmaid at home
@@ -126,17 +130,93 @@ tags:
 - refugee organization
 - change clothes, put the ones from the store
 
+### 22
 
+- Arrival at Carnarvon
 
+### 23
 
+- Daisy wakes up, Ellijah here too
+- Revelations about parents
+- Revelation about Baby Nicole
 
 ## IX Thank Tank p135
 
+### 24
+
+- summons from C.Judd, his wife ill
+- suicide of Aunt Adrianna?
+- Aunt Sally reported before to me
+- she's been attacked by A.Adrianna
+- they argued about notifying me
+- other discoveries with microdot camera
+- back to the stadium, songs
+- basics taken for granted
+- was hardening for what was to come
+- sorry solves nothing
+- clothes of the shooting women, "I put it on, what else should I have done?"
+
 ## X SPRING GREEN p151
 
-XI Sackcloth p167
+369A
 
-XII CARPITZ p183
+### 25
+
+- both sides?
+- Paula, Kyle, A.Vidala
+- stones in cemeteries lead to reading, which leads to depravity
+- how do you become an Aunt?
+- dollhouse to the poor
+
+ ### 26
+
+- wardrobe team
+- not anybody, wedlock
+- deck of cards
+- measurement, Aunt writing
+- already worn
+
+### 27
+
+- Rubies Premarital Preparatory
+- Aunts more stylish
+- other pupils from Vidala school seem older
+- offers are better for younger girls
+- 18 is dried goods
+
+### 28
+
+- no one should expect a cow to be a bird
+- lessons but never in a position to put them into practice
+- Becka's suicide tentative
+- Agnes learnt to be a better actress
+
+## XI Sackcloth p167
+
+### 29
+
+- the nightmare in the stadium
+- Judd again, with records of her life, commenting against principles of Gilead
+- the ordeal (with Anita)
+- think -> react to stimuli
+- asks and is given carte blanche
+- A.Vidala shot a look of hatred
+- initial sessions
+- C.Judd wants to be forgiven
+- Vidala snitching on Elisabeth
+
+## XII CARPITZ p183
+
+369B
+
+### 30
+
+- Mayday classed internationally as  a terrorist organization
+- George saw the car explode
+
+### 31
+
+- bla
 
 XIII Secateurs p207
 
