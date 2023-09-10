@@ -29,7 +29,20 @@ tags:
     - liste officieuse, mais vraies infos officielles plutôt sur canal officiel
     - se faire accompagner
 
+### Nouvelle équipe
+
+Deuxième semaine de septembre, envoi d’un mail à l’ancienne équipe, sauf les départs et celles et ceux qui ont dit ne pas vouloir reprendre.
+
+- qui arrête et qui continue ?
+- résumé de qui part, qui arrête, qui arrive, puis combien de personnes il
+  nous manque, à recruter parmi profs ou AED
+- rappel des dates pour les élections
+
 ## Conseils d’Administration (CA)
+
+### Dates et présences
+
+Anticiper les 7 présents ! Utiliser une liste à cocher au tableau.
 
 ### Questions diverses
 
