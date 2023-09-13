@@ -123,6 +123,7 @@ Il y a des conventions pour le nommage des fichiers.
   * JD  Jazz Duets
   * JK  Jason Klubnak
   * JPB JP Bouvet
+  - JN Jeff Schneider
   * LK  Laurent Kremer
   * NGD Stephen Clark (Non Glamorous Drummer)
   * NS Nate Smith (80/20 drummer)
