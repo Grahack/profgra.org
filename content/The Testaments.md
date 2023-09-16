@@ -216,21 +216,161 @@ tags:
 
 ### 31
 
-- bla
+- Garth and the new van
+- info about Daisy's real mother and the smuggling
+- Carpita, loose lips sink ships
+- the news
 
-XIII Secateurs p207
+### 32
 
-XIV ARDUA HALL p219
+- considerations about Mayday, other countries, Republic of Texas, California, dots on the brochures
+- the plan
+- how A.Adrianna was killed
+- fanatics kill
 
-xv Fox and Cat p249
+### 33
+
+- training, Garth thawing, combat, get hands dirty, praying
+- panhandle, be picked up, infiltrate smoothly
+- tattoo
+
+## XIII Secateurs p207
+
+### 34
+
+- Becka afraid of penises
+- may become an Aunt
+
+## XIV ARDUA HALL p219
+
+369A
+
+### 35
+
+- 3 photographs
+
+### 36
+
+- run away? (but geography problems)
+- C.Judd has been chosen
+- sedate brides (must stay conscious)
+- suicide?
+- meeting CJ
+- choosing the wedding dress, underwear like a gift package
+- 14 days to live
+
+### 37
+
+- A.Lydia's visit
+- a plan to meet...
+
+### 38
+
+- arrival at Ardua Hall
+- take the book
+
+### 39
+
+- Becka is here
+- A.Lydia is the scariest
+
+### 40
+
+- Paula's visit
+- interviews
+- women's duty
+- A.Lydia: good repaid by good
+
+## xv Fox and Cat p249
+
+### 41
+
+- all things come to she who waits
+- A.Lydia ears what supplicants tell
+- she pronounced the sentence
+- talk with A.Elizabeth, asking her to bear false witness
 
 XVI PEARL GIRLS p257
 
-xvir Perfect Teeth p275
+### 42
 
-XVIII READING ROOM p283
+- in the street
+- not be taken the first time
 
-XIX Study p311
+### 43
+
+- Garth didn't take advantage
+
+### 44
+
+- taken
+- "you're safe now" but in the other direction
+- Garth sold Daisy
+- board the plane
+
+### 45
+
+- flight and landing
+- no lettering
+- Thanks Giving by Aunt Lydia
+
+## XVII Perfect Teeth p275
+
+### 46
+
+- still heart of tornado
+- particicution of an Angel (Mayday but lemons) and Dr.Grove
+- ...
+
+## XVIII READING ROOM p283
+
+369A
+
+### 47
+
+- Daisy and Becka observe Jade
+- Becka fainted at the particicution because she felt she was responsible
+- 9 years at Ardua Hall?
+- ruthlessness we lacked
+
+### 48
+
+- for Becka, Daisy was nicer than the others at school
+- anachronism with the names
+- inspected like a vegetable
+- Becka painted books
+- read too soon your mind may be not strong enough
+- A.Lily's suicide
+- nobody wants to die
+- A.Vidala's tales
+- Shu's visit
+
+### 49
+
+- Reading, writing
+- did not provide the answer to all questions.  It led to other questions, and then to others.
+- tests and control yourself techniques
+- months and years
+
+### 50
+
+- the most forbidden of books
+- Becka's warning
+- Everyone at the top of Gilead has lied to us.
+- believe in God or Gilead but not both
+
+### 51
+
+- the blue folder
+- other folders for two years
+- the one of C.Judd
+
+## XIX Study p311
+
+### 52
+
+ - A.Vidala doubting about Jade
+ - 
 
 XX BLOODLINES p319
 
