@@ -4,7 +4,7 @@ tags:
   - musique/theorie
 ---
 
-> [!tldr] En bref
+> [!tldr] En bref  
 > Certains moyens mnémotechniques (ordre des bémols, des dièses) sont des
 > faux raccourcis, il vaut mieux « savoir » les gammes, sans forcément les
 > avoir apprises « par cœur ».

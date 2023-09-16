@@ -127,6 +127,7 @@ Il y a des conventions pour le nommage des fichiers.
   * NGD Stephen Clark (Non Glamorous Drummer)
   * NS Nate Smith (80/20 drummer)
   * OS  Open Studio
+  * PT Paul Thompson
   * QD  Quincy Davis
   * RC  Ross Campbell
   * RB  Rich Brown
