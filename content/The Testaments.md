@@ -10,9 +10,10 @@ tags:
 ### 1
 
 ## II PRECIOUS FLOWER p7
-### 2
 
 369A
+
+### 2
 
 - precious flowers but snares
 - castle unlocked by magic ring
@@ -73,6 +74,9 @@ tags:
 
 
 ## VI SIX FOR DEAD p71
+
+369A
+
 ### 15
 
 - a handmaid at home
@@ -126,31 +130,247 @@ tags:
 - refugee organization
 - change clothes, put the ones from the store
 
+### 22
 
+- Arrival at Carnarvon
 
+### 23
 
+- Daisy wakes up, Ellijah here too
+- Revelations about parents
+- Revelation about Baby Nicole
 
 ## IX Thank Tank p135
 
+### 24
+
+- summons from C.Judd, his wife ill
+- suicide of Aunt Adrianna?
+- Aunt Sally reported before to me
+- she's been attacked by A.Adrianna
+- they argued about notifying me
+- other discoveries with microdot camera
+- back to the stadium, songs
+- basics taken for granted
+- was hardening for what was to come
+- sorry solves nothing
+- clothes of the shooting women, "I put it on, what else should I have done?"
+
 ## X SPRING GREEN p151
 
-XI Sackcloth p167
+369A
 
-XII CARPITZ p183
+### 25
 
-XIII Secateurs p207
+- both sides?
+- Paula, Kyle, A.Vidala
+- stones in cemeteries lead to reading, which leads to depravity
+- how do you become an Aunt?
+- dollhouse to the poor
 
-XIV ARDUA HALL p219
+ ### 26
 
-xv Fox and Cat p249
+- wardrobe team
+- not anybody, wedlock
+- deck of cards
+- measurement, Aunt writing
+- already worn
+
+### 27
+
+- Rubies Premarital Preparatory
+- Aunts more stylish
+- other pupils from Vidala school seem older
+- offers are better for younger girls
+- 18 is dried goods
+
+### 28
+
+- no one should expect a cow to be a bird
+- lessons but never in a position to put them into practice
+- Becka's suicide tentative
+- Agnes learnt to be a better actress
+
+## XI Sackcloth p167
+
+### 29
+
+- the nightmare in the stadium
+- Judd again, with records of her life, commenting against principles of Gilead
+- the ordeal (with Anita)
+- think -> react to stimuli
+- asks and is given carte blanche
+- A.Vidala shot a look of hatred
+- initial sessions
+- C.Judd wants to be forgiven
+- Vidala snitching on Elisabeth
+
+## XII CARPITZ p183
+
+369B
+
+### 30
+
+- Mayday classed internationally as  a terrorist organization
+- George saw the car explode
+
+### 31
+
+- Garth and the new van
+- info about Daisy's real mother and the smuggling
+- Carpita, loose lips sink ships
+- the news
+
+### 32
+
+- considerations about Mayday, other countries, Republic of Texas, California, dots on the brochures
+- the plan
+- how A.Adrianna was killed
+- fanatics kill
+
+### 33
+
+- training, Garth thawing, combat, get hands dirty, praying
+- panhandle, be picked up, infiltrate smoothly
+- tattoo
+
+## XIII Secateurs p207
+
+### 34
+
+- Becka afraid of penises
+- may become an Aunt
+
+## XIV ARDUA HALL p219
+
+369A
+
+### 35
+
+- 3 photographs
+
+### 36
+
+- run away? (but geography problems)
+- C.Judd has been chosen
+- sedate brides (must stay conscious)
+- suicide?
+- meeting CJ
+- choosing the wedding dress, underwear like a gift package
+- 14 days to live
+
+### 37
+
+- A.Lydia's visit
+- a plan to meet...
+
+### 38
+
+- arrival at Ardua Hall
+- take the book
+
+### 39
+
+- Becka is here
+- A.Lydia is the scariest
+
+### 40
+
+- Paula's visit
+- interviews
+- women's duty
+- A.Lydia: good repaid by good
+
+## xv Fox and Cat p249
+
+### 41
+
+- all things come to she who waits
+- A.Lydia ears what supplicants tell
+- she pronounced the sentence
+- talk with A.Elizabeth, asking her to bear false witness
 
 XVI PEARL GIRLS p257
 
-xvir Perfect Teeth p275
+### 42
 
-XVIII READING ROOM p283
+- in the street
+- not be taken the first time
 
-XIX Study p311
+### 43
+
+- Garth didn't take advantage
+
+### 44
+
+- taken
+- "you're safe now" but in the other direction
+- Garth sold Daisy
+- board the plane
+
+### 45
+
+- flight and landing
+- no lettering
+- Thanks Giving by Aunt Lydia
+
+## XVII Perfect Teeth p275
+
+### 46
+
+- still heart of tornado
+- particicution of an Angel (Mayday but lemons) and Dr.Grove
+- ...
+
+## XVIII READING ROOM p283
+
+369A
+
+### 47
+
+- Daisy and Becka observe Jade
+- Becka fainted at the particicution because she felt she was responsible
+- 9 years at Ardua Hall?
+- ruthlessness we lacked
+
+### 48
+
+- for Becka, Daisy was nicer than the others at school
+- anachronism with the names
+- inspected like a vegetable
+- Becka painted books
+- read too soon your mind may be not strong enough
+- A.Lily's suicide
+- nobody wants to die
+- A.Vidala's tales
+- Shu's visit
+
+### 49
+
+- Reading, writing
+- did not provide the answer to all questions.  It led to other questions, and then to others.
+- tests and control yourself techniques
+- months and years
+
+### 50
+
+- the most forbidden of books
+- Becka's warning
+- Everyone at the top of Gilead has lied to us.
+- believe in God or Gilead but not both
+
+### 51
+
+- the blue folder
+- other folders for two years
+- the one of C.Judd
+
+## XIX Study p311
+
+### 52
+
+ - A.Vidala doubting about Jade
+ - 
 
 XX BLOODLINES p319
 

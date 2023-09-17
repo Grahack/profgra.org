@@ -13,6 +13,10 @@
 - Guy Pratt
     - Like a prayer
 
+## J
+
+- Julian Crampton
+
 ## L
 
 - Les Claypool
@@ -28,6 +32,11 @@
     - Bee Gees
 - Michel Alibo
     - Sixun
+- Moto Fukushima
+
+## R
+
+- Remy Chaudagne
 
 ## S
 

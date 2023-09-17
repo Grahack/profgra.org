@@ -17,11 +17,12 @@ Idées de phrases à transposer.
 - Take a chance
 - Starwars 5551... 5 4328... 5 4328... 5 4342...
 
-### Mineurs
+## Sur la gamme mineure
 
 - Starwars 51... 2343... 51... 2353154...
+- Fort Boyard 51, 13271, 13534, 554432721, 13531
 
-### Plans penta
+## Plans penta
 
 - Heartbreaker
 - She's hot
@@ -32,3 +33,6 @@ Idées de phrases à transposer.
 - Pantera
 - On dirait le sud
 
+## Mixolydien
+
+- Funky Town
