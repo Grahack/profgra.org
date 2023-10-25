@@ -1,3 +1,8 @@
+
+## C
+
+- Chris Squire
+  - Yes
 ## D
 
 - David Hungate
@@ -15,6 +20,8 @@
 
 ## J
 
+- John Paul Jones
+  - [[https://www.guitarworld.com/features/the-10-most-famous-bass-guitars-of-led-zeppelins-john-paul-jones|his basses @guitarworld]]
 - Julian Crampton
 
 ## L
@@ -33,6 +40,10 @@
 - Michel Alibo
     - Sixun
 - Moto Fukushima
+
+## N
+
+- Nate Watts
 
 ## R
 
