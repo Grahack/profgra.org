@@ -812,7 +812,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - [[sng/Partenaire particulier - Partenaire particulier]]
 - [[sng/Pascal Danel - Laissons la plage aux romantique]]
 - [[sng/Pascal Obispo - Fan]]
-- Pat Benatar - ?
+- [[sng/Pat Benatar - Hit me with your best shot]]
 - [[sng/Patachou - Au bout de la semaine]]
 - [[sng/Patricia Carli - Demain tu te maries]]
 - [[sng/Patricia Kaas - Je voudrais la connaître]]
