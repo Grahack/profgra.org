@@ -1,0 +1,4 @@
+- [[https://jtgt-static.b-cdn.net/images/modules/PMT1/MT-101.png|cercle-chromatique.png]]
+- [[https://www.apprendre-a-jouer-de-la-basse-electrique.info/lecon/la-portee-et-la-lecture-relative/|cercle-diatonique.png]]
+- [[https://hellomusictheory.com/learn/circle-of-fifths/|cycle-quintes.png]]
+- [[https://johncarlosbaez.files.wordpress.com/2022/11/513px-pitch_class_space_star.svg_.png|cycle-quintes-dans-cercle-chromatique.png]]
