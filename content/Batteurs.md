@@ -198,6 +198,10 @@
   - The Doors
 - Jojo Meyer
 - Jonathan Moffett
+- Josh Dion
+  - [[https://www.youtube.com/watch?v=Bwpx3_kovLA|Vision Complete (2015)]]
+  - [[https://www.youtube.com/watch?v=4fcZNg5Kw1A|Vision Complete (2016)]]
+  - [[https://www.youtube.com/watch?v=yaPKnSz9gu0|Further up on the road]]
 - Josh Freese
   - [WP](https://fr.wikipedia.org/wiki/Josh_Freese)
 - JP Bouvet
@@ -357,6 +361,7 @@
 
 - Vinnie Colaiuta
 - Vinnie Paul
+  - [[https://www.youtube.com/watch?v=ikaJz1GBBFw|The Genius of Vinnie Paul]]
 - Virgil Donati
 
 ## Y
