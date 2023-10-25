@@ -73,3 +73,7 @@ $\emptyset$
 
 - $a \equiv b \Leftrightarrow b \equiv a$
 - $a \not\equiv b$
+
+## Autres pages
+
+- [[Obsidian Callouts]]
