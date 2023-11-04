@@ -18,6 +18,11 @@
 - Guy Pratt
     - Like a prayer
 
+## H
+
+- Herbie Flowers
+  - Lou Reed’s  “Walk on the Wild Side”
+
 ## J
 
 - John Paul Jones
