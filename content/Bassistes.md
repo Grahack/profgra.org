@@ -59,6 +59,11 @@
 - Simon Grove
     - Plini, Intervals
 
+## T
+
+- TM Stevens
+  - [Disco's last great bass line](https://www.youtube.com/watch?v=gi7K1QO_zhM)
+
 ## V
 
 - Verdine White

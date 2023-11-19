@@ -175,6 +175,8 @@
 ## J
 
 - Jack Dejohnette
+- James Gadson
+  - [Snare ep.3](https://www.youtube.com/watch?v=bNHrOuYhsA0)
 - Jay Weinberg
 - JD Beck
 - Jeff Porcaro
