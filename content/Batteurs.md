@@ -185,7 +185,6 @@
   - Vai
 - John JR Robinson
   - [Rock with you](https://www.youtube.com/watch?v=YgjQmA9tI_Y)
-
 - Jim Riley
   - [Creating beats (Drumeo)](https://www.youtube.com/watch?v=de4mTYcA59g))
 - Jim Grandcamp
