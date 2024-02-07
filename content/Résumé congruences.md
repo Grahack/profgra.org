@@ -20,6 +20,10 @@ Cela signifie (équivalences):
   si on prend pour nouveau *k* l’opposé de *k*.
 - $a - b$ est un multiple de *n*
 
+## Exemples
+
+Sans retenue, le travail sur les octets se fait modulo 256.
+
 ## Propriétés
 
 - $a \equiv b \Leftrightarrow b \equiv a$
