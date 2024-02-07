@@ -15,6 +15,9 @@
 
 ## G
 
+- George Porter Jr.
+  - The Meters
+  - [Funk isn't...](https://www.ultimate-guitar.com/news/general_music_news/syncopation_is_history_funk_isnt_the_same_anymore_bass_legend_george_porter_jr_says.html)
 - Guy Pratt
     - Like a prayer
 
@@ -50,6 +53,10 @@
 
 - Nate Watts
 
+## P
+
+- Percy Heath
+  - [PdBass story](https://www.youtube.com/watch?v=P-zFxabARsc)
 ## R
 
 - Remy Chaudagne
@@ -68,3 +75,8 @@
 
 - Verdine White
     - Earth, Wind and Fire
+
+## W
+
+- Willie Weeks
+  - [son solo](https://youtu.be/Ft3BgP5SQAk)
