@@ -211,6 +211,9 @@
 ## K
 
 - Karim Ziad
+- Kaz Rodriguez
+  - [Drumeo lesson](https://www.youtube.com/watch?v=d1rYSLqWqoM)
+  - [Jerry was a race car driver](https://www.youtube.com/watch?v=RB9sFi-BmhM)
 - Keith Carlock
 - Kofi Baker
 - Krishou
