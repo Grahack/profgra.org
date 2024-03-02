@@ -7,3 +7,4 @@ tags:
 
 * Citation de Damasio dans les Furtifs : [[Banque mentale d'algos]].
 * Activité pair-impair
+- [[Évaluation algo et prog]]
