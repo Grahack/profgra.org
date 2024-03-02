@@ -36,6 +36,10 @@
 - Benny Greb
 - Bernard Purdie
   - [WP](https://fr.wikipedia.org/wiki/Bernard_Purdie)
+- Bill Bruford
+  - Yes
+  - King Crimson
+     -  [Waiting Man (live)](https://www.youtube.com/watch?v=QTUgaThmZj8)
 - Bill Stewart
 - Billy Cobham
   - [WP](https://en.wikipedia.org/wiki/Billy_Cobham)
@@ -51,6 +55,8 @@
 
 ## C
 
+- Carl Palmer
+  - Emerson, Lake & Palmer
 - Carter Mc Lean
 - Chad Smith
 - Chad Wackerman
@@ -94,6 +100,18 @@
 - Dave King
   - [Compil 2019-2020](https://www.youtube.com/watch?v=CrhYfkCk-sg)
   - Rationale Funk ([YT channel](https://www.youtube.com/@RATIONALFUNKwithDaveKing))
+    - [2](https://www.youtube.com/watch?v=pcZamTg6NCk) Ignore The Audience,
+      Know Your Brand, One-Handed Snare Roll
+       - kill shot (one hand roll 20h a day for 8 years)
+       - Hemingway
+       - *Disregard anyone who is near you*
+       - Never acknowledge a mistake
+       - *That goes for every aspect of your life*
+       - (that would be a big mistake)
+       - Know your brand
+       - do it like «who gives a fuck?»
+       - Cuban music -> Miami Sound Machine
+       - *Dave said Stone Temple Pilots*
     - [6](https://www.youtube.com/watch?v=bIPI1OhlQCw) Stomp, military
     - [7](https://www.youtube.com/watch?v=6Ej0iEeajuo) Rap/Rock, Drummer as
       writer
@@ -359,6 +377,8 @@
   - par Mike Clark
     [part 1](https://www.youtube.com/watch?v=Sroumdzu3c4)
     [part 2](https://www.youtube.com/watch?v=UVztfbaT76s)
+- Tosh Peterson
+  - [Hears Deep Purple for the 1st time](https://www.youtube.com/watch?v=U9DI-lc0VU0)
 - Trilok Gurtu
 
 ## V
