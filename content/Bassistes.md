@@ -70,11 +70,13 @@
 
 - TM Stevens
   - [Disco's last great bass line](https://www.youtube.com/watch?v=gi7K1QO_zhM)
+- Tony Levin
 
 ## V
 
 - Verdine White
     - Earth, Wind and Fire
+- Vincen Garcia
 
 ## W
 
