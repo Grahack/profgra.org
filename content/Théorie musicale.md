@@ -56,6 +56,7 @@ des morceaux de musique qui utilise ledit concept.
 - [[theorie/Modulation_vers_le_maj_du_rel_min]]
 - [[theorie/Modulation_vers_le_min_du_rel_maj]]
 - [[theorie/Modulation_vers_relatif_majeur]]
+- [[theorie/Modulation_Im_vers_VIbm]]
 
 ## Divers
 
