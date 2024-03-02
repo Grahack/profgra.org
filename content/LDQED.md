@@ -334,6 +334,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - [[sng/Elsa - T'en vas pas]]
 - [[sng/Elton John - I'm still standing]]
 - Elvis Presley - ?
+- Emerson, Lake and Palmer - ?
 - Émilie Simon - ?
 - [[sng/Emily Loizeau - L'autre bout du monde]]
 - Eminem - ?
