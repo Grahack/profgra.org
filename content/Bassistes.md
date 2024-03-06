@@ -52,6 +52,9 @@
 ## N
 
 - Nate Watts
+- Nick Campbell
+  - [Site officiel](https://nickcampbelldestroys.com/)
+  - [Interview SBL](https://www.youtube.com/watch?v=NzH_lXTdI6g)
 
 ## P
 

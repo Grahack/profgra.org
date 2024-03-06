@@ -33,6 +33,8 @@
 
 - Baard Kolstad
     - Leprous
+- Barriemore Barlow
+  - Jethro Tull (2e vague)
 - Benny Greb
 - Bernard Purdie
   - [WP](https://fr.wikipedia.org/wiki/Bernard_Purdie)
