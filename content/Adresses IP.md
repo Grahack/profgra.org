@@ -1,7 +1,8 @@
 Juste un mémo pour la maison, même si on peut retrouver les machines connectées à la Freebox depuis l’appli.
 
 - surf
-  - wlan0 192.168.0.56
+  - chauchau 192.168.0.56
+  - bouillon 102.168.1.35
 - RPi 4
   - wlan0 192.168.0.200
   - eth0 192.168.0.182
