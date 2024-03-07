@@ -39,7 +39,7 @@ Tract Gallimard numéro 49
   - on expliquait que la concurrence entre langues est une concurrence entre groupes sociaux ?
   - on encourageait les traductions et le plurilinguisme, la diffusion des films majoritairement en VO à la télévision comme au cinéma ?
 
-# 4. Le français n’est pas règlementé par l’Académie française
+# 4. Le français n’est pas réglementé par l’Académie française
 
 - L’Académie française a accompagné les évolutions de la langue jusqu’en 1835
 - L’Académie française n’a aucun pouvoir sur la langue
