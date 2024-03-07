@@ -298,6 +298,8 @@
 ## P
 
 - Paco Sery
+- Pascal Thielen
+  - [Art of Drumming](https://artofdrumming.com/)
 - Pat Petrillo
 - Paul Motian
 - Peter DePoe
