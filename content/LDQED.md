@@ -914,7 +914,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - [[sng/Rika Zaraï - Le kazatchok]]
 - [[sng/Rita Mitsouko - Les histoires d'amour]]
 - [[sng/Ritchie Valens - La Bamba]]
-- Robbie Williams - ?
+- [[sng/Robbie Williams - Angels]]
 - [[sng/Robert Charlebois - Je reviendrai à Montréal]]
 - [[sng/Robert Miles - Children]]
 - [[sng/Robert Palmer - Bad Case Of Loving You]]
