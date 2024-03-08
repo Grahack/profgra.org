@@ -2,7 +2,7 @@
 title: "Piano"
 tags:
     - gammes
-    - piano
+    - clavier
 ---
 
 # Doigtés pour les gammes majeures
