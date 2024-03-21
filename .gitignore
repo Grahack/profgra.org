@@ -5,9 +5,9 @@
 /content/unresolved links output.md
 /content/unlinked files output.md
 
-.hugo_build.lock
 public
-resources
-assets/indices/linkIndex.json
-assets/indices/contentIndex.json
-linkmap
+node_modules
+tsconfig.tsbuildinfo
+.quartz-cache
+.replit
+replit.nix
