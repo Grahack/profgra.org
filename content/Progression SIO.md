@@ -8,6 +8,12 @@ On a 27 semaines pour 5 séquences,
 donc 5×5 sem + 2 sem. Avec 2h par semaine,
 on arrive par séquence à 10h de cours/TD + 5h TP.
 
+Notes pour l’algo :
+- penser à un projet de taille moyenne
+- utiliser davantage `random`
+- utiliser une doc maison sur Python toute l’année (dire que ce sont les seuls
+  éléments à utiliser pour construire un algo/programme)
+
 ## Séquence 1
 
 - Maths
