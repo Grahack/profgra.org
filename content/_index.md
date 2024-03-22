@@ -41,7 +41,7 @@
 
 - [[Guitare]] - [[Basse]] - [[Batterie]] -
   [[Trompette]] - [[Trombone]] - [[Clavier]]
-- [[Théorie musicale]] - [[Progression]] - [[Rythme]] - [[Gammes]] - [[Kapzik]]
+- [[Théorie musicale]] - [[Progression]] - [[Rythme]] - [[Gammes]] - [[Kapzik]] - [[Dyyp]]
 - [[LDQED|Le Défi quasi exhaustif et démagogique]] - [[Standards]]
 - [[Meshuggah]] - [[Pattashuggah]]
 - [[Guitare solo]] - [[Destruction]] - [[Les Carreleurs Américains]]
