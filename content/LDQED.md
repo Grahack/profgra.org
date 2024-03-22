@@ -169,6 +169,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - Brian Eno - ?
 - [[sng/Brian Ferry - Slave to love]]
 - [[sng/Brigitte Bardot - La madrague]]
+- [[sng/Brigitte Fontaine - Les dieux sont dingues]]
 - [[sng/Britney Spears - Toxic]]
 - [[sng/Bronski Beat - Smalltown boy]]
 - [[sng/Brotherhood of man - Save kisses for me]]
@@ -237,7 +238,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - [[sng/Cock Robin - Remember the promise you made]]
 - Cœur de pirate - ?
 - [[sng/ColdPlay - Speed of Sound]]
-- Companie Créole - ?
+- [[sng/Colette Magny - Melocoton]]
 - [[sng/Cookie Dingler - Femme Libérée]]
 - [[sng/Corbier - Sans ma barbe]]
 - [[sng/Corynne Charby - Pile ou face]]
@@ -596,6 +597,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - [[sng/L'Affaire Louis' Trio - Chic Planète]]
 - [[sng/L5 - Toutes les femmes de ta vie]]
 - [[sng/L7 - Fuel my fire]]
+- La Companie Créole - ?
 - [[sng/La Grande Sophie - Ma première ride]]
 - Lana del Rey - ?
 - [[sng/Lara Fabian - Je t’aime]]
