@@ -46,7 +46,8 @@ pulsations (ou *temps*), mais aussi parfois 6, 2, 5, 7…
 
 Dans la musique « qu’on entend à la radio », les mesures comportent très très
 souvent 4 pulsations et le motif classique de batterie est « poum tchac poum
-tchac », avec un son par pulsation.
+tchac », avec un son par pulsation (donc le plus souvent une noire pour chacun
+des quatre sons).
 
 Les mesures sont regroupées en *lignes*, le plus souvent de 4 mesures, mais
 aussi de 2, 3 ou 5 mesures. Il existe des façons de compter les pulsations et
