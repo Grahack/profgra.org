@@ -83,10 +83,15 @@ les combinaisons. Cela peut se faire :
   ou avec les doigts de la MD de la basse),
 * avec la voix.
 
-Les phrases musicales ont un « débit » : la plus grande subdivision qui peut
-les porter.
+Les phrases musicales ont un « débit minimal d’interprétation » :
+la subdivision la plus longue qui peut les porter. Exemples (avec la pulsation
+sur les noires) :
 
-Bon exo : passer d’une subdivision à une autre (en jouant toutes les
+- la noire pour le couplet de Paint it black,
+- la croche pour Highway to Hell,
+- la double croche pour Saturday night fever.
+
+Un bon exercice : passer d’une subdivision à une autre (en jouant toutes les
 notes) surtout d’une binaire à une ternaire (ou inversement). On peut aussi
 jouer un rythme plus lent que la pulsation, un peu comme si la subdivision
 était strictement inférieure à 1.
