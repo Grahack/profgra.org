@@ -9,7 +9,7 @@ tags:
 
 ## Walking bass
 
-Cours de Peter Giron
+Cours de Peter Giron (à taper)
 
 ## Tumbao
 

@@ -66,7 +66,7 @@ $2^0f\approx30$ ; $2^1f\approx60$ ; $2^2f\approx120$ ; $2^3f\approx240$ ; $2
 
 C’est extrêmement étendu. Nous allons de plus zoomer sur la fondamentale et ses premières harmoniques. Disons les 15 premières, de $2f$ à $16f$.
 
-Ma connaissance est limitée à certains instruments, mais on peut supposer que si $f$ est la fréquence de la note la plus grave d’un instrument (disons même la fréquence de sa résonance propre), alors on ne sort raisonnablement pas de note plus aiguë que $16f$. Par exemple la note la plus grave d’un trombone ou la corde la plus grave d’une basse est un E1 avec $f \approx 40\text{Hz}$. Cela correspondrait à aller jusqu’à E5 avec $16 f \approx 640\text{Hz}$. C’est très aigu pour ces instruments. À partir de B♭0, cela correspondrait à aller jusqu’à B♭4.
+Ma connaissance est limitée à certains instruments, mais on peut supposer que si $f$ est la fréquence de la note la plus grave d’un instrument (disons même la fréquence de sa résonance propre), alors on ne sort raisonnablement pas de note plus aiguë que $16f$. Par exemple la note la plus grave d’un sousaphone ou la corde la plus grave d’une basse est un E1 avec $f \approx 40\text{Hz}$. Cela correspondrait à aller jusqu’à E5 avec $16 f \approx 640\text{Hz}$. C’est très aigu pour ces instruments. À partir de B♭0, cela correspondrait à aller jusqu’à B♭4.
 
 #### Échelle linéaire
 
