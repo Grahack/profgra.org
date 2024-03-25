@@ -5,4 +5,4 @@ tags:
     - musique/clavier
 ---
 
-[Site officiel](http:http://pianopractice.org/)
+[Site officiel](http://pianopractice.org/)
