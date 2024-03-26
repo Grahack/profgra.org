@@ -44,6 +44,7 @@ export default (() => {
         {js
           .filter((resource) => resource.loadTime === "beforeDOMReady")
           .map((res) => JSResourceToScriptElement(res, true))}
+        <style>.abctext {'{'}display:none;{'}'}</style>
       </head>
     )
   }
