@@ -19,6 +19,7 @@
   - Devin Townsend,
     [par ex cette video](https://www.youtube.com/watch?v=ACVfETpeE1U)
 - Ari Hoenig
+  - [Podcast 8020](https://youtu.be/L1Ud9Z9FZHE)
 - Aric Improta
 - Aron Mellergård
   - Dirty Loops
@@ -64,7 +65,7 @@
 - Chad Wackerman
   - [WP](https://en.wikipedia.org/wiki/Chad_Wackerman)
 - Charly Benante
--  Anthrax
+  -  Anthrax
 - Chip Ritter
   - [Juggling guy on Drumeo](https://www.youtube.com/watch?v=cEQ-_jaTD3s)
 - Chris Coleman
@@ -91,7 +92,10 @@
 - Dafnis Prieto
 - Dan Searle
   - Architects
+- Dan Weiss
+  - [Compil](https://youtu.be/utt0zCe4RUY)
 - Dana Hawkins
+  - itw
 - Dave DiCenso
   - [Compil](https://www.youtube.com/watch?v=6CwdPi0Uyss)
 - Dave Early
@@ -141,9 +145,10 @@
   - Sultans of Swing
 - Deantoni Parks
 - Dennis Chambers
+  - [Live from a pad](https://youtu.be/oXvW63Xo9z0)
 - Derrick Mckenzie
 - Dorothea Taylor
-  - [Profil Drummer Zone](https://drummerszone.com/artists/dorothea-taylor/15320/profile/
+  - [Profil Drummer Zone](https://drummerszone.com/artists/dorothea-taylor/15320/profile/)
 
 ## E
 
@@ -205,6 +210,7 @@
   - Vai
 - John JR Robinson
   - [Rock with you](https://www.youtube.com/watch?v=YgjQmA9tI_Y)
+  - [Stomp chez PD bass](https://youtu.be/F7el0I5BQtw)
 - Jim Riley
   - [Creating beats (Drumeo)](https://www.youtube.com/watch?v=de4mTYcA59g))
 - Jim Grandcamp
@@ -235,6 +241,7 @@
   - [Drumeo lesson](https://www.youtube.com/watch?v=d1rYSLqWqoM)
   - [Jerry was a race car driver](https://www.youtube.com/watch?v=RB9sFi-BmhM)
 - Keith Carlock
+- Keith Moon
 - Kofi Baker
 - Krishou
 
@@ -250,11 +257,14 @@
 
 - Manu Katché
 - Marco Minnemann
+- Marcus Gilmore
+  - Sonor solo
 - Mario Duplantier
 - Mark Guiliana
 - Matt Cameron
 - Matt Halpern
   - Periphery
+  - [Podcast 8020](https://youtu.be/Oi2g1pZeVG8)
 - Matt Sorum
   - Guns'n'Roses
 - Michael Bland
@@ -307,6 +317,8 @@
   - Redbone (band)
   - King Kong beat
 - Peter Erskine
+- Phil Rudd
+  - AC/DC
 - Philip "Fish" Fisher
 - Philly Joe Jones
   - [Bill Evans Trio 1978 Nardis](https://www.youtube.com/watch?v=hETmWOrKcRE)
@@ -316,7 +328,7 @@
 ## R
 
 - Ralph Humphrey
-  - [Profil @Drummer World](https://www.drummerworld.com/drummers/Ralph_Humphrey.html
+  - [Profil @Drummer World](https://www.drummerworld.com/drummers/Ralph_Humphrey.html)
 - Raphaël Giraud
 - Rex Hardy
   - le mec qui bouge grave décontract' sur Mary J Blige

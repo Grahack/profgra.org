@@ -1,4 +1,9 @@
 
+# B
+
+- Bakithi Kumalo
+  - Paul Simon's You can call me Al
+
 ## C
 
 - Chris Squire
@@ -29,6 +34,7 @@
 
 ## J
 
+- James Genus
 - John Paul Jones
   - [[https://www.guitarworld.com/features/the-10-most-famous-bass-guitars-of-led-zeppelins-john-paul-jones|his basses @guitarworld]]
 - Julian Crampton
@@ -39,6 +45,8 @@
     - Primus
 - Linus Klausenitzer
     - Fretless metal
+- Louis Johnson
+  - [Stomp chez PD bass](https://youtu.be/F7el0I5BQtw)
 
 ## M
 
@@ -46,8 +54,13 @@
     - [Bill Evans Trio Nardis 1978](https://www.youtube.com/watch?v=hETmWOrKcRE)
 - Maurice Gibb
     - Bee Gees
+- Michael Henderson
+  -  [WP](https://en.m.wikipedia.org/wiki/Michael_Henderson)
 - Michel Alibo
     - Sixun
+- Mick Karn
+  - Japan
+  - [PD's video](https://youtu.be/jFyZMd6Axoc)
 - Moto Fukushima
 
 ## N
@@ -61,9 +74,12 @@
 
 - Percy Heath
   - [PdBass story](https://www.youtube.com/watch?v=P-zFxabARsc)
+
 ## R
 
 - Remy Chaudagne
+- John Deacon
+  - Queen
 
 ## S
 
