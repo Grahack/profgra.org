@@ -8,6 +8,7 @@ tags:
 
 * [Accords](http://huit.re/acc)
 * [[Guitare solo]]
+* [[Effets]]
 
 ## Positions issues de GM
 
