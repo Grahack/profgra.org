@@ -48,6 +48,7 @@ title: "II7 ou IV maj en contexte mineur"
 - [[sng/Queen - I want to break free]] (bridge)
 - [[sng/Roger Glover - Love is all]]
 - [[sng/Rolling Stones paint it black]]
+- [[sng/Scott Joplin - The Entertainer]]
 - [[sng/Serge Gainsbourg - Comme un boomerang]]
 - [[sng/Stevie Wonder - Master Blaster]]
 - [[sng/Sting - Probably me]]
