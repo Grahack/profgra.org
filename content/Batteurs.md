@@ -102,7 +102,7 @@ tags:
 - Dan Weiss
   - [Compil](https://youtu.be/utt0zCe4RUY)
 - Dana Hawkins
-  - itw
+  - [Podcast 8020](https://www.youtube.com/watch?v=GT7JBQK0OyE)
 - Dave DiCenso
   - [Compil](https://www.youtube.com/watch?v=6CwdPi0Uyss)
 - Dave Early
@@ -233,9 +233,9 @@ tags:
 - Jojo Meyer
 - Jonathan Moffett
 - Josh Dion
-  - [[https://www.youtube.com/watch?v=Bwpx3_kovLA|Vision Complete (2015)]]
-  - [[https://www.youtube.com/watch?v=4fcZNg5Kw1A|Vision Complete (2016)]]
-  - [[https://www.youtube.com/watch?v=yaPKnSz9gu0|Further up on the road]]
+  - [Vision Complete (2015)](https://www.youtube.com/watch?v=Bwpx3_kovLA)
+  - [Vision Complete (2016)](https://www.youtube.com/watch?v=4fcZNg5Kw1A)
+  - [Further up on the road](https://www.youtube.com/watch?v=yaPKnSz9gu0)
 - Josh Freese
   - [WP](https://fr.wikipedia.org/wiki/Josh_Freese)
 - JP Bouvet
@@ -408,7 +408,7 @@ tags:
 
 - Vinnie Colaiuta
 - Vinnie Paul
-  - [[https://www.youtube.com/watch?v=ikaJz1GBBFw|The Genius of Vinnie Paul]]
+  - [Drumeo: The Genius of Vinnie Paul](https://www.youtube.com/watch?v=ikaJz1GBBFw)
 - Virgil Donati
 
 ## Y
