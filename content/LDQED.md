@@ -149,6 +149,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - [[sng/Bobby Hebb - Sunny]]
 - [[sng/Bobby Lapointe - Ta Katie t’a quitté]]
 - [[sng/Bobby Mac Ferrin - Don't worry be happy]]
+- [[sng/Bobby Womack - Across 110th street]]
 - [[sng/Body Count - Born Dead]]
 - [[sng/Body Count - Evil Dick]]
 - [[sng/Boney M - Daddy Cool]]
@@ -208,6 +209,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - Cerrone - ?
 - Cesaria Evora - ?
 - [[sng/Chagrin d'Amour - Chacun fait ce qu'il lui plaît]]
+- [[sng/Chantal Goya - Un lapin]]
 - [[sng/Charles Aznavour - La Bohème]]
 - Charles Bradley - ?
 - [[sng/Charles Trenet - La mer]]
@@ -230,6 +232,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - [[sng/Christopher Cross - Ride like The Wind]]
 - [[sng/Chuck Berry - C'est la vie]]
 - [[sng/Cindy Sander - Papillon de lumière]]
+- [[sng/Clara Luciani - Respire]]
 - Claude Barzotti - ?
 - [[sng/Claude François - Alex]]
 - [[sng/Claude Nougaro - Il faut tourner la page]]
@@ -425,6 +428,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - [[sng/Gloria Lasso - Histoire d'un amour]]
 - [[sng/Gnarls Barkley - Crazy]]
 - [[sng/Gotye - Somebody I used to know]]
+- [[sng/Grace Jones - Feel Up]]
 - [[sng/Grand Jojo - Chef un petit verre on a soif]]
 - Grateful Dead - ?
 - [[sng/Graziella de Michèle - Pull-over blanc]]
@@ -469,6 +473,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - [[sng/Imany - Clap your hands]]
 - [[sng/Indila - Dernière danse]]
 - [[sng/Indochine - 3 nuits par semaine]]
+- [[sng/Inner City - Good Life]]
 - [[sng/Irene Cara - Fame]]
 - [[sng/Isaac Hayes - Theme from Shaft]]
 - [[sng/Isabelle Boulay - Parle-moi]]
@@ -761,6 +766,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - [[sng/Neil Young - Harvest]]
 - [[sng/Nelly Furtado - Say it right]]
 - [[sng/Nena - 99 Luftballons]]
+- [[sng/Neneh Cherry - Buffalo Stance]]
 - [[sng/Niagara - Guerre]]
 - Nick Cave - ?
 - [[sng/Nick Drake - River man]]
@@ -838,6 +844,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - [[sng/Peter Frampton - Baby I love your way]]
 - [[sng/Peter Gabriel - Sledge Hammer]]
 - [[sng/Peter Gabriel - Solsbury Hill]]
+- [[sng/Petula Clark - La gadoue]]
 - [[sng/Phil Barney - Un enfant de toi]]
 - [[sng/Phil Collins - Another day in paradise]]
 - [[sng/Philippe Cataldo - Les divas du dancing]]
