@@ -6,6 +6,7 @@ tags:
 ---
 
 - Personne ne coche aucune case.
+- "Quelqu'un ne parle pas" versus "personne ne parle"
 - bla mais bli: et
 - il n'y a que les imbéciles qui ne changent pas d'avis
 - "Not having a plan" doesn't imply "messing around".

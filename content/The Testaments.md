@@ -370,21 +370,132 @@ XVI PEARL GIRLS p257
 ### 52
 
  - A.Vidala doubting about Jade
- - 
+ - visit to C.Judd
+ - mixing names and art work
+ - two choices
 
-XX BLOODLINES p319
+## XX BLOODLINES p319
 
-XXI Last and Thick p341
+two icons
 
-XXII HEARTSTOPPER p351
+### 53
 
-XXIII Wall p369
+369B
 
-XXIV THE NELLIE J. BANKS p375
+- living a thing is different than studying it
 
-XXV Wakeup p385
+### 54
 
-XXVI LANDFALL p393
+369A
+
+- Jade is not disciplined
+
+### 55
+
+369B
+
+- lonely, where is the source?
+
+### 56
+
+369A
+
+- a past behind my past
+- sisters
+
+### 57
+
+- A.Lydia places a dot in the O
+
+### 58
+
+369A
+
+- crucial part
+- guessing game
+- hugs
+- the mission back
+
+## XXI Fast and Thick p341
+
+### 59
+
+- Aunts doubts
+- Eyes and Angels at Ardua Hall
+- C.Judd already at A.Lydia's office
+
+## XXII HEARTSTOPPER p351
+
+### 60
+
+369A
+
+- urgent meeting with the girls
+
+### 61
+
+- out
+- Nicole punches A.Vidala
+
+### 62
+
+369B
+
+- the drive
+- act natural now? But maybe she doesn't know anything else?
+- as they went north the friendliness decreased
+- get down, say the password and take the gear
+
+### 63
+
+369A
+
+- underwear was different
+- drive
+
+### 64
+
+369B
+
+- boat, moon
+- I was going home
+
+## XXIII Wall p369
+
+- A.Vidala's coma
+- vial of morphine
+- explanation for everything
+
+## XXIV THE NELLIE J. BANKS p375
+
+### 66
+
+369B
+
+- meet the captain
+- he knows Ada
+- ocean
+- the sister do not always agree
+
+### 67
+
+369A
+
+- Nicole ill
+- easier to climb in jeans
+- engine trouble, what if caught?
+- prayer
+- offloaded in an inflatable
+- oars
+
+## XXV Wakeup p385
+
+- A.Vidala is sane and knows
+- A.Lydia said she has brain damage and accuses A.Elizabeth
+
+## XXVI LANDFALL p393
+
+
 
 XXVII Sendoff p401
 

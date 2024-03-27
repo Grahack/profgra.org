@@ -35,7 +35,7 @@ Mi grave sorti à la trompette en regardant par la fenêtre et en pensant à aut
 
 ## Flamenco
 
-JV1010
+JV1010 dec 2000
 
 ## Impression au dos d’une facture
 
@@ -49,7 +49,15 @@ Bla
 
  Le rythme !
 
+## Élève batteur Cachin
+
+Bla
+
 ## Du volley pour s'amuser
+
+Bla
+
+## Contrebasse beatbox
 
 Bla
 
