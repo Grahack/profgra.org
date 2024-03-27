@@ -6,22 +6,22 @@ tags:
 ---
 - accordeur
 - Freq
-. - wha
-. - whammy
-. - pitch
-. - oct
+  - wha
+  - whammy
+  - pitch
+  - oct
 - Gain (dyn)
-. - overdrive
-. - disto
-. - fuzz
+  - overdrive
+  - disto
+  - fuzz
 - Mod
-. - chorus
-. - flanger
-. - phaser
-. - tremolo
-. - pédale volume
+  - chorus
+  - flanger
+  - phaser
+  - tremolo
+  - pédale volume
 - Temps
-. - delay
-. - echo
-. - reverb
+  - delay
+  - echo
+  - reverb
 - Amp
