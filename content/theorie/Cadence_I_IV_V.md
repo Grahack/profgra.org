@@ -25,6 +25,7 @@ title: "Cadence I IV V"
 - [[sng/The Beatles - Twist and shout]]
 - [[sng/Tina Turner - What's love got to do with it]]
 - [[sng/Tradi - Douce nuit]]
+- [[sng/Tradi - Joyeux anniversaire]]
 - [[sng/Tradi - Le lion est mort]]
 - [[sng/Tradi - Vive le vent]]
 - [[sng/Tradi - When the Saints go marching in]]

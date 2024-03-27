@@ -18,6 +18,7 @@ des morceaux de musique qui utilise ledit concept.
 - [[theorie/Cadence_christophe]]
 - [[theorie/Cadence_I_bVII_IV]]
 - [[theorie/Cadence_I_IV_V]]
+- [[theorie/Cadence_Im_IVm_V]]
 
 ## Sorties de l’harmonisation de la gamme majeure
 
