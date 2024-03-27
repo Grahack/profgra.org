@@ -6,7 +6,7 @@ tags:
 
 ## Pages connexes
 
-* [Accords](http://huit re/acc)
+* [Accords](http://huit.re/acc)
 * [[Guitare solo]]
 
 ## Positions issues de GM
