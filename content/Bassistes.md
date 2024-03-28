@@ -73,6 +73,8 @@
 
 ## P
 
+- Pat Badger
+  - Extreme
 - Percy Heath
   - [PdBass story](https://www.youtube.com/watch?v=P-zFxabARsc)
 
