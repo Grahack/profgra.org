@@ -16,6 +16,10 @@
     - …
 - Dominique Di Piazza
 
+## E
+
+- Eddie Gomez
+
 ## F
 
 - Flea
