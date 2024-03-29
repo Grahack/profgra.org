@@ -8,7 +8,7 @@ tags:
 - [[Batteurs]]
 - [[Rudiments]]
 - [[Importance de la main faible]]
-- [[Trois dans quatre]] et [[Deux ou Quatre dans Six]]
+- [[Trois dans quatre]] et [[Deux dans trois]]
 
 ## Leçons sur YouTube
 
