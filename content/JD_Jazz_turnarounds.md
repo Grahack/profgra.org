@@ -11,7 +11,7 @@ tags:
 2. VI7
 3. II7
 4. biii dim7
-5. #i dim7
+5. \#i dim7
 6. biii m7
 7. alt
 8. sub V7 applied
