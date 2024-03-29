@@ -1,7 +1,6 @@
 ---
 title: "Joe Dassin - À toi"
 tags:
-    - -draft
     - musique/chanson
 ---
 

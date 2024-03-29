@@ -1,7 +1,6 @@
 ---
 title: Eiffel 65 - Blue
 tags:
-    - -draft
     - musique/chanson
 ---
 

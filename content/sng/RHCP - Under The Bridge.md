@@ -1,7 +1,6 @@
 ---
 title: RHCP - Under The Bridge
 tags:
-    - -draft
     - musique/chanson
 ---
 

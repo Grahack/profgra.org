@@ -1,7 +1,6 @@
 ---
 title: Arthur H - L'amoureux
 tags:
-    - -draft
     - musique/chanson
 ---
 

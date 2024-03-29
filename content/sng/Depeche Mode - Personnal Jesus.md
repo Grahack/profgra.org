@@ -1,7 +1,6 @@
 ---
 title: Depeche Mode - Personnal Jesus
 tags:
-    - -draft
     - musique/chanson
 ---
 

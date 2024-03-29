@@ -1,7 +1,6 @@
 ---
 title: "Tradi - Hymne des États-Unis"
 tags:
-    - -draft
     - musique/chanson
 ---
 

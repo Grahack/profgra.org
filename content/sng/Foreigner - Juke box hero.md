@@ -1,7 +1,6 @@
 ---
 title: Foreigner - Juke box hero
 tags:
-    - -draft
     - musique/chanson
 ---
 

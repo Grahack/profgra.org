@@ -1,7 +1,6 @@
 ---
 title: Taxi Girl - Cherchez le garçon
 tags:
-    - -draft
     - musique/chanson
 ---
 

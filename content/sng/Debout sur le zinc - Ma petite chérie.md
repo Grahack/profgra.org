@@ -1,7 +1,6 @@
 ---
 title: Debout sur le zinc - Ma petite chérie
 tags:
-    - -draft
     - musique/chanson
 ---
 

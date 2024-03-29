@@ -1,7 +1,6 @@
 ---
 title: Franckie Valli - Grease
 tags:
-    - -draft
     - musique/chanson
 ---
 

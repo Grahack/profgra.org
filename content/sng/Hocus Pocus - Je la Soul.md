@@ -1,7 +1,6 @@
 ---
 title: Hocus Pocus - Je la Soul
 tags:
-    - -draft
     - musique/chanson
 ---
 

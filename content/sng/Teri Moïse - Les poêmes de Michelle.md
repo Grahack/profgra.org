@@ -1,7 +1,6 @@
 ---
 title: Teri Moïse - Les poêmes de Michelle
 tags:
-    - -draft
     - musique/chanson
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Lionel Richie - All night long
 tags:
-    - -draft
     - musique/chanson
 ---
 

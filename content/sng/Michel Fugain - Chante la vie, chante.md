@@ -1,7 +1,6 @@
 ---
 title: "Michel Fugain - Chante la vie, chante"
 tags:
-    - -draft
     - musique/chanson
 ---
 

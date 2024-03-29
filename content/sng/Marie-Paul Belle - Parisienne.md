@@ -1,7 +1,6 @@
 ---
 title: Marie-Paul Belle - Parisienne
 tags:
-    - -draft
     - musique/chanson
 ---
 

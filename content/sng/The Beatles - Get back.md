@@ -1,7 +1,6 @@
 ---
 title: "The Beatles - Get back"
 tags:
-    - -draft
     - musique/chanson
 ---
 

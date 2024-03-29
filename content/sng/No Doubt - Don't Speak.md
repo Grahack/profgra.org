@@ -1,7 +1,6 @@
 ---
 title: No Doubt - Don't Speak
 tags:
-    - -draft
     - musique/chanson
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Images - Corps à corps
 tags:
-  - -draft
   - musique/chanson
 ---
 

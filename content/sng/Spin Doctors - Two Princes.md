@@ -1,7 +1,6 @@
 ---
 title: Spin Doctors - Two Princes
 tags:
-    - -draft
     - musique/chanson
 ---
 

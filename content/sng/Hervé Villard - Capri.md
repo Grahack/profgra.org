@@ -1,7 +1,6 @@
 ---
 title: Hervé Villard - Capri
 tags:
-    - -draft
     - musique/chanson
 ---
 

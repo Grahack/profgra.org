@@ -1,7 +1,6 @@
 ---
 title: "Gérard Blanc - Une autre histoire"
 tags:
-    - -draft
     - musique/chanson
 ---
 

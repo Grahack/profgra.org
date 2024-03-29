@@ -1,7 +1,6 @@
 ---
 title: "The Police - Every breath you take"
 tags:
-    - -draft
     - musique/chanson
 ---
 

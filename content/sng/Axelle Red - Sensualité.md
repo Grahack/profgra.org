@@ -1,7 +1,6 @@
 ---
 title: "Axelle Red - Sensualité"
 tags:
-    - -draft
     - musique/chanson
 ---
 

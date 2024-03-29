@@ -1,7 +1,6 @@
 ---
 title: Toto Cutunio - l'italiano
 tags:
-    - -draft
     - musique/chanson
 ---
 

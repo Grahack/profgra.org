@@ -1,7 +1,6 @@
 ---
 title: Garou - Seul
 tags:
-    - -draft
     - musique/chanson
 ---
 

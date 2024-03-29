@@ -1,7 +1,6 @@
 ---
 title: "David Bowie - China girl"
 tags:
-    - -draft
     - musique/chanson
 ---
 

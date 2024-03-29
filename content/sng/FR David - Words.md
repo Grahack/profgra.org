@@ -1,7 +1,6 @@
 ---
 title: FR David - Words
 tags:
-    - -draft
     - musique/chanson
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Castelhemis - Coco
 tags:
-    - -draft
     - musique/chanson
 ---
 

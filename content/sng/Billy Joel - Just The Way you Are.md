@@ -1,7 +1,6 @@
 ---
 title: Billy Joel - Just The Way you Are
 tags:
-    - -draft
     - musique/chanson
 ---
 

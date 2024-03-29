@@ -1,7 +1,6 @@
 ---
 title: Europe - The final countdown
 tags:
-    - -draft
     - musique/chanson
 ---
 

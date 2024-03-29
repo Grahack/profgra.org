@@ -1,7 +1,6 @@
 ---
 title: Charlie Winston - Like a hobo
 tags:
-    - -draft
     - musique/chanson
 ---
 

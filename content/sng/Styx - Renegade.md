@@ -1,7 +1,6 @@
 ---
 title: Styx - Renegade
 tags:
-  - -draft
   - musique/chanson
 ---
 

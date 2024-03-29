@@ -1,7 +1,6 @@
 ---
 title: Gala - Freed from desire
 tags:
-    - -draft
     - musique/chanson
 ---
 

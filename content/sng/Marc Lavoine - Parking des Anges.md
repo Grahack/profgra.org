@@ -1,7 +1,6 @@
 ---
 title: "Marc Lavoine - Parking des anges"
 tags:
-    - -draft
     - musique/chanson
 ---
 

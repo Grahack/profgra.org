@@ -1,7 +1,6 @@
 ---
 title: Tradi - Joyeux anniversaire
 tags:
-  - -draft
   - musique/chanson
 ---
 

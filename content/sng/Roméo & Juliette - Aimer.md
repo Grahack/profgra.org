@@ -1,7 +1,6 @@
 ---
 title: Roméo & Juliette - Aimer
 tags:
-    - -draft
     - musique/chanson
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Michael Jackson - Thriller
 tags:
-    - -draft
     - musique/chanson
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Nick Kershaw - The Riddle
 tags:
-    - -draft
     - musique/chanson
 ---
 

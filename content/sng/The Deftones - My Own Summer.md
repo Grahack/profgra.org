@@ -1,7 +1,6 @@
 ---
 title: The Deftones - My Own Summer
 tags:
-    - -draft
     - musique/chanson
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Camille - Paris
 tags:
-    - -draft
     - musique/chanson
 ---
 

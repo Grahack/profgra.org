@@ -1,7 +1,6 @@
 ---
 title: RHCP - Parallel Universe
 tags:
-    - -draft
     - musique/chanson
 ---
 

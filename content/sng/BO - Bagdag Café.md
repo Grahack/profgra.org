@@ -1,7 +1,6 @@
 ---
 title: "BO - Bagdag Café"
 tags:
-    - -draft
     - musique/chanson
 ---
 

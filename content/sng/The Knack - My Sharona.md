@@ -1,7 +1,6 @@
 ---
 title: The Knack - My Sharona
 tags:
-    - -draft
     - musique/chanson
 ---
 

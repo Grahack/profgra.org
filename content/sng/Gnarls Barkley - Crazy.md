@@ -1,7 +1,6 @@
 ---
 title: Gnarls Barkley - Crazy
 tags:
-    - -draft
     - musique/chanson
 ---
 

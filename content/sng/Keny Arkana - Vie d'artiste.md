@@ -1,7 +1,6 @@
 ---
 title: Keny Arkana - Vie d'artiste
 tags:
-    - -draft
     - musique/chanson
 ---
 

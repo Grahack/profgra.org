@@ -1,7 +1,6 @@
 ---
 title: Tino Rossi - Mexico
 tags:
-    - -draft
     - musique/chanson
 ---
 

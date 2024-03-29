@@ -1,7 +1,6 @@
 ---
 title: Notre Dame de Paris - Belle
 tags:
-    - -draft
     - musique/chanson
 ---
 

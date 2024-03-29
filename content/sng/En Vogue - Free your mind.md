@@ -1,7 +1,6 @@
 ---
 title: En Vogue - Free your mind
 tags:
-    - -draft
     - musique/chanson
 ---
 

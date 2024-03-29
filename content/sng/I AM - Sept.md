@@ -1,7 +1,6 @@
 ---
 title: I AM - Sept
 tags:
-    - -draft
     - musique/chanson
 ---
 

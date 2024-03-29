@@ -1,7 +1,6 @@
 ---
 title: A-HA - Take on me
 tags:
-    - -draft
     - musique/chanson
 ---
 

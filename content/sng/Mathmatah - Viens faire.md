@@ -1,7 +1,6 @@
 ---
 title: "Mathmatah - Viens faire"
 tags:
-    - -draft
     - musique/chanson
 ---
 

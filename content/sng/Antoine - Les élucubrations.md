@@ -1,7 +1,6 @@
 ---
 title: Antoine - Les élucubrations
 tags:
-    - -draft
     - musique/chanson
 ---
 

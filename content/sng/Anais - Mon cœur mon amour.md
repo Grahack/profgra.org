@@ -1,7 +1,6 @@
 ---
 title: Anais - Mon cœur mon amour
 tags:
-    - -draft
     - musique/chanson
 ---
 

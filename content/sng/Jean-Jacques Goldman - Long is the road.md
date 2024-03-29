@@ -1,7 +1,6 @@
 ---
 title: "Jean-Jacques Goldman - Long is the road"
 tags:
-    - -draft
     - musique/chanson
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Francis Cabrel - Corrida
 tags:
-    - -draft
     - musique/chanson
 ---
 

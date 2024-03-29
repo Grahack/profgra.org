@@ -1,7 +1,6 @@
 ---
 title: Gloria Estefan - Conga
 tags:
-    - -draft
     - musique/chanson
 ---
 

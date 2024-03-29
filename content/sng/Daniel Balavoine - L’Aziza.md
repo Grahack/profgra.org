@@ -1,7 +1,6 @@
 ---
 title: "Daniel Balavoine - L’Aziza"
 tags:
-    - -draft
     - musique/chanson
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: "Kenny Loggins - Footloose"
 tags:
-    - -draft
     - musique/chanson
 ---
 

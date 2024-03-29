@@ -1,7 +1,6 @@
 ---
 title: "Blondie - Call me"
 tags:
-    - -draft
     - musique/chanson
 ---
 

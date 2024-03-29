@@ -1,7 +1,6 @@
 ---
 title: "Guns N' Roses - Civil war"
 tags:
-    - -draft
     - musique/chanson
 ---
 

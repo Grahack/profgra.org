@@ -1,7 +1,6 @@
 ---
 title: Emma Daumas - Tu seras
 tags:
-    - -draft
     - musique/chanson
 ---
 

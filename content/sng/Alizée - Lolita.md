@@ -1,7 +1,6 @@
 ---
 title: Alizée - Lolita
 tags:
-    - -draft
     - musique/chanson
 ---
 

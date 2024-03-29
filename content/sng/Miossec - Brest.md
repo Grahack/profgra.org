@@ -1,7 +1,6 @@
 ---
 title: Miossec - Brest
 tags:
-    - -draft
     - musique/chanson
 ---
 

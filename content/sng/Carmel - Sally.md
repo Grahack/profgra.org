@@ -1,7 +1,6 @@
 ---
 title: Carmel - Sally
 tags:
-    - -draft
     - musique/chanson
 ---
 

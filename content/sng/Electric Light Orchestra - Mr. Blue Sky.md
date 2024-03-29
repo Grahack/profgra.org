@@ -1,7 +1,6 @@
 ---
 title: Electric Light Orchestra - Mr. Blue Sky
 tags:
-    - -draft
     - musique/chanson
 ---
 

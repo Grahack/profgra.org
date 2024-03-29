@@ -1,7 +1,6 @@
 ---
 title: Paula Abdul - Straight up
 tags:
-    - -draft
     - musique/chanson
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Opus - Life is Life
 tags:
-    - -draft
     - musique/chanson
 ---
 

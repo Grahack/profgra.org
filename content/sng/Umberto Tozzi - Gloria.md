@@ -1,7 +1,6 @@
 ---
 title: "Umberto Tozzi - Gloria"
 tags:
-    - -draft
     - musique/chanson
 ---
 

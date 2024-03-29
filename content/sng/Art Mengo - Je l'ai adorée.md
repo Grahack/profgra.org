@@ -1,7 +1,6 @@
 ---
 title: Art Mengo - Je l'ai adorée
 tags:
-    - -draft
     - musique/chanson
 ---
 

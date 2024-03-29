@@ -1,7 +1,6 @@
 ---
 title: Neil Young - Harvest
 tags:
-    - -draft
     - musique/chanson
 ---
 

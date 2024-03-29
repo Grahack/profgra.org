@@ -1,7 +1,6 @@
 ---
 title: "Michael Jackson - Heal the world"
 tags:
-    - -draft
     - musique/chanson
 ---
 

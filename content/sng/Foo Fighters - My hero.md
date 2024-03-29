@@ -1,7 +1,6 @@
 ---
 title: Foo Fighters - My hero
 tags:
-    - -draft
     - musique/chanson
 ---
 

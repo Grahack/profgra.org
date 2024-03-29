@@ -1,7 +1,6 @@
 ---
 title: Sttellla - Les Tartines
 tags:
-    - -draft
     - musique/chanson
 ---
 

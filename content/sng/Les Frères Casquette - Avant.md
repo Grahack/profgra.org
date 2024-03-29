@@ -1,7 +1,6 @@
 ---
 title: Les Frères Casquette - Avant
 tags:
-    - -draft
     - musique/chanson
 ---
 

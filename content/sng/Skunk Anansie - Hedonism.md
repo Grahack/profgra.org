@@ -1,7 +1,6 @@
 ---
 title: Skunk Anansie - Hedonism
 tags:
-    - -draft
     - musique/chanson
 ---
 

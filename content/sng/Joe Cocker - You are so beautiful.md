@@ -1,7 +1,6 @@
 ---
 title: Joe Cocker - You are so beautiful
 tags:
-    - -draft
     - musique/chanson
 ---
 

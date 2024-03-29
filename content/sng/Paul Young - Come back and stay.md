@@ -1,7 +1,6 @@
 ---
 title: Paul Young - Come back and stay
 tags:
-    - -draft
     - musique/chanson
 ---
 

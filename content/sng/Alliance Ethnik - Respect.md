@@ -1,7 +1,6 @@
 ---
 title: Alliance Ethnik - Respect
 tags:
-    - -draft
     - musique/chanson
 ---
 

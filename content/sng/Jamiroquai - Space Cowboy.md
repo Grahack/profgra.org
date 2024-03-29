@@ -1,7 +1,6 @@
 ---
 title: Jamiroquai - Space Cowboy
 tags:
-    - -draft
     - musique/chanson
 ---
 

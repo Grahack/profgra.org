@@ -1,7 +1,6 @@
 ---
 title: "Muse - Unintented"
 tags:
-    - -draft
     - musique/chanson
 ---
 

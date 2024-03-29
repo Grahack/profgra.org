@@ -1,7 +1,6 @@
 ---
 title: Björk - Anchor Song
 tags:
-    - -draft
     - musique/chanson
 ---
 

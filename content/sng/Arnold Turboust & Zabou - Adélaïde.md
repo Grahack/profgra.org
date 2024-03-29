@@ -1,7 +1,6 @@
 ---
 title: Arnold Turboust & Zabou - Adélaïde
 tags:
-    - -draft
     - musique/chanson
 ---
 

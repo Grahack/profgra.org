@@ -1,7 +1,6 @@
 ---
 title: Renaud - vent soufflera
 tags:
-    - -draft
     - musique/chanson
 ---
 

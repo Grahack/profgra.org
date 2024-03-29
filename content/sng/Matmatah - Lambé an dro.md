@@ -1,7 +1,6 @@
 ---
 title: Matmatah - Lambé an dro
 tags:
-    - -draft
     - musique/chanson
 ---
 

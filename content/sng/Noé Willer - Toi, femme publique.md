@@ -1,7 +1,6 @@
 ---
 title: Noé Willer - Toi, femme publique
 tags:
-    - -draft
     - musique/chanson
 ---
 

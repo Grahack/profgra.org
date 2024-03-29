@@ -1,7 +1,6 @@
 ---
 title: "Suzanne Vega - Luka"
 tags:
-    - -draft
     - musique/chanson
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Les Têtes Raides - Dans la gueule
 tags:
-    - -draft
     - musique/chanson
 ---
 

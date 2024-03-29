@@ -1,7 +1,6 @@
 ---
 title: "Raft - Yaka dansé"
 tags:
-    - -draft
     - musique/chanson
 ---
 

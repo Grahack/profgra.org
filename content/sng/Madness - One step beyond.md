@@ -1,7 +1,6 @@
 ---
 title: Madness - One step beyond
 tags:
-  - -draft
   - musique/chanson
 ---
 

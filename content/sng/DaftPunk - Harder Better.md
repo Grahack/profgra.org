@@ -1,7 +1,6 @@
 ---
 title: DaftPunk - Harder Better
 tags:
-    - -draft
     - musique/chanson
 ---
 

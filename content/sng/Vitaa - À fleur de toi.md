@@ -1,7 +1,6 @@
 ---
 title: Vitaa - À fleur de toi
 tags:
-    - -draft
     - musique/chanson
 ---
 

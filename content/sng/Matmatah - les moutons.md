@@ -1,7 +1,6 @@
 ---
 title: Matmatah - les moutons
 tags:
-    - -draft
     - musique/chanson
 ---
 

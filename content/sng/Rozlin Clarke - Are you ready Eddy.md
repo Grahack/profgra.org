@@ -1,7 +1,6 @@
 ---
 title: Rozlin Clarke - Are you ready Eddy
 tags:
-    - -draft
     - musique/chanson
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Beverly Craven - Promise me
 tags:
-    - -draft
     - musique/chanson
 ---
 

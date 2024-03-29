@@ -1,7 +1,6 @@
 ---
 title: Jacques Brel - Orly
 tags:
-    - -draft
     - musique/chanson
 ---
 

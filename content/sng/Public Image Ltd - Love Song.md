@@ -1,7 +1,6 @@
 ---
 title: Public Image Ltd - Love Song
 tags:
-    - -draft
     - musique/chanson
 ---
 

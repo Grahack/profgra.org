@@ -1,7 +1,6 @@
 ---
 title: Jean-Jacques Goldman - Je te donne
 tags:
-    - -draft
     - musique/chanson
 ---
 

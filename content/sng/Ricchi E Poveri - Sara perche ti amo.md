@@ -1,7 +1,6 @@
 ---
 title: Ricchi E Poveri - Sara perche ti amo
 tags:
-    - -draft
     - musique/chanson
 ---
 

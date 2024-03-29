@@ -1,7 +1,6 @@
 ---
 title: Ministry - Revenge
 tags:
-    - -draft
     - musique/chanson
 ---
 

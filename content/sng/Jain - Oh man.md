@@ -1,7 +1,6 @@
 ---
 title: Jain - Oh man
 tags:
-    - -draft
     - musique/chanson
 ---
 

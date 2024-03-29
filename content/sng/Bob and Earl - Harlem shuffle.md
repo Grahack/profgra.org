@@ -1,7 +1,6 @@
 ---
 title: Bob and Earl - Harlem shuffle
 tags:
-    - -draft
     - musique/chanson
 ---
 

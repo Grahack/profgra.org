@@ -1,7 +1,6 @@
 ---
 title: Black Eyed Peas - Shut up
 tags:
-    - -draft
     - musique/chanson
 ---
 

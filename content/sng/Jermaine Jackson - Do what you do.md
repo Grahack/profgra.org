@@ -1,7 +1,6 @@
 ---
 title: Jermaine Jackson - Do what you do
 tags:
-    - -draft
     - musique/chanson
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: "Laurent Voulzy - Mon premier c'est désir"
 tags:
-    - -draft
     - musique/chanson
 ---
 

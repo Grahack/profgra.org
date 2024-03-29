@@ -1,7 +1,6 @@
 ---
 title: Alan Stivell - Brian Boru
 tags:
-    - -draft
     - musique/chanson
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Claude François - Alex
 tags:
-    - -draft
     - musique/chanson
 ---
 

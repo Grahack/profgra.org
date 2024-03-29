@@ -1,7 +1,6 @@
 ---
 title: Kamini - Marly-Gomont
 tags:
-    - -draft
     - musique/chanson
 ---
 

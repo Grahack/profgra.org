@@ -1,7 +1,6 @@
 ---
 title: Vivien Savage - Le petite lady
 tags:
-    - -draft
     - musique/chanson
 ---
 

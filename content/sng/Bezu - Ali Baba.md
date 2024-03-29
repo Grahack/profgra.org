@@ -1,7 +1,6 @@
 ---
 title: Bezu - Ali Baba
 tags:
-    - -draft
     - musique/chanson
 ---
 

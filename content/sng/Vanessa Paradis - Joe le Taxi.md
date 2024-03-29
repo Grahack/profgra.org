@@ -1,7 +1,6 @@
 ---
 title: Vanessa Paradis - Joe le Taxi
 tags:
-    - -draft
     - musique/chanson
 ---
 

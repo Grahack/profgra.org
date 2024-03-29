@@ -1,7 +1,6 @@
 ---
 title: Kim Wilde - Kids in America
 tags:
-  - -draft
   - musique/chanson
 ---
 

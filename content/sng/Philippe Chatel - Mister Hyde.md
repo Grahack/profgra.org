@@ -1,7 +1,6 @@
 ---
 title: Philippe Chatel - Mister Hyde
 tags:
-    - -draft
     - musique/chanson
 ---
 

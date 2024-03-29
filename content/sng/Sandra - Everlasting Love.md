@@ -1,7 +1,6 @@
 ---
 title: Sandra - Everlasting Love
 tags:
-    - -draft
     - musique/chanson
 ---
 

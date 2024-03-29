@@ -1,7 +1,6 @@
 ---
 title: Charles Trenet - Jolie môme
 tags:
-    - -draft
     - musique/chanson
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Zizi Jeanmaire - Mon truc en plume
 tags:
-    - -draft
     - musique/chanson
 ---
 

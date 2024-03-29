@@ -1,7 +1,6 @@
 ---
 title: Kim - Fiesta
 tags:
-    - -draft
     - musique/chanson
 ---
 

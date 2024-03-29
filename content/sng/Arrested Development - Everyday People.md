@@ -1,7 +1,6 @@
 ---
 title: Arrested Development - Everyday People
 tags:
-    - -draft
     - musique/chanson
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Graziella de Michèle - Pull-over blanc
 tags:
-    - -draft
     - musique/chanson
 ---
 

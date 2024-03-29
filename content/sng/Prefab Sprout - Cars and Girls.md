@@ -1,7 +1,6 @@
 ---
 title: Prefab Sprout - Cars and Girls
 tags:
-    - -draft
     - musique/chanson
 ---
 

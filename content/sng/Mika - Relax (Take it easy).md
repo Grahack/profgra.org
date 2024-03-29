@@ -1,7 +1,6 @@
 ---
 title: Mika - Relax (Take it easy)
 tags:
-    - -draft
     - musique/chanson
 ---
 

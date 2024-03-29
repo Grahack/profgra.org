@@ -1,7 +1,6 @@
 ---
 title: Extreme - There is No God
 tags:
-    - -draft
     - musique/chanson
 ---
 

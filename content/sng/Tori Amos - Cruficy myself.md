@@ -1,7 +1,6 @@
 ---
 title: Tori Amos - Cruficy myself
 tags:
-    - -draft
     - musique/chanson
 ---
 

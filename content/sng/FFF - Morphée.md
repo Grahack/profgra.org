@@ -1,7 +1,6 @@
 ---
 title: FFF - Morphée
 tags:
-    - -draft
     - musique/chanson
 ---
 

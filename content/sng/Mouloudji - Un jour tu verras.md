@@ -1,7 +1,6 @@
 ---
 title: Mouloudji - Un jour tu verras
 tags:
-    - -draft
     - musique/chanson
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: "Michel Fugain - C'est la fête"
 tags:
-    - -draft
     - musique/chanson
 ---
 

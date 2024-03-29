@@ -1,7 +1,6 @@
 ---
 title: Peter Gabriel - Sledge Hammer
 tags:
-    - -draft
     - musique/chanson
 ---
 

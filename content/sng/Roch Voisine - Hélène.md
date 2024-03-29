@@ -1,7 +1,6 @@
 ---
 title: Roch Voisine - Hélène
 tags:
-    - -draft
     - musique/chanson
 ---
 

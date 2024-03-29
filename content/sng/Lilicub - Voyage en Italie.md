@@ -1,7 +1,6 @@
 ---
 title: Lilicub - Voyage en Italie
 tags:
-    - -draft
     - musique/chanson
 ---
 

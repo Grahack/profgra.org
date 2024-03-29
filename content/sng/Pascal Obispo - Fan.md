@@ -1,7 +1,6 @@
 ---
 title: Pascal Obispo - Fan
 tags:
-    - -draft
     - musique/chanson
 ---
 

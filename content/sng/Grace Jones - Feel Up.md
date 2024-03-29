@@ -1,7 +1,6 @@
 ---
 title: Grace Jones - Feel Up
 tags:
-  - -draft
   - musique/chanson
 ---
 

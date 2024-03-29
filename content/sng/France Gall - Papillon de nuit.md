@@ -1,7 +1,6 @@
 ---
 title: France Gall - Papillon de nuit
 tags:
-    - -draft
     - musique/chanson
 ---
 

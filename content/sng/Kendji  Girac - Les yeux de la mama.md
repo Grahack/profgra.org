@@ -1,7 +1,6 @@
 ---
 title: Kendji  Girac - Les yeux de la mama
 tags:
-    - -draft
     - musique/chanson
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: "Live - Lightning Crashes"
 tags:
-    - -draft
     - musique/chanson
 ---
 

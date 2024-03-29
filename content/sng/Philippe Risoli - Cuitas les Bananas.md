@@ -1,7 +1,6 @@
 ---
 title: Philippe Risoli - Cuitas les Bananas
 tags:
-    - -draft
     - musique/chanson
 ---
 

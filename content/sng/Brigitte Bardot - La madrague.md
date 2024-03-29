@@ -1,7 +1,6 @@
 ---
 title: Brigitte Bardot - La madrague
 tags:
-    - -draft
     - musique/chanson
 ---
 

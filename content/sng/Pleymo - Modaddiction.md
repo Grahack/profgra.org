@@ -1,7 +1,6 @@
 ---
 title: Pleymo - Modaddiction
 tags:
-    - -draft
     - musique/chanson
 ---
 

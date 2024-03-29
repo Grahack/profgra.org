@@ -1,7 +1,6 @@
 ---
 title: The White Stripes - Seven Nation Army
 tags:
-    - -draft
     - musique/chanson
 ---
 

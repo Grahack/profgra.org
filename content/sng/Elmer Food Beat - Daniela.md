@@ -1,7 +1,6 @@
 ---
 title: Elmer Food Beat - Daniela
 tags:
-    - -draft
     - musique/chanson
 ---
 

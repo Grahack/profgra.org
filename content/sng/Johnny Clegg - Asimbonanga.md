@@ -1,7 +1,6 @@
 ---
 title: Johnny Clegg - Asimbonanga
 tags:
-    - -draft
     - musique/chanson
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: "Vladimir Cosma - Les mondes engloutis"
 tags:
-    - -draft
     - musique/chanson
 ---
 

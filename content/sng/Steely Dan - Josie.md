@@ -1,7 +1,6 @@
 ---
 title: Steely Dan - Josie
 tags:
-    - -draft
     - musique/chanson
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: "Gilbert Montagné - Sunlights des tropiques"
 tags:
-    - -draft
     - musique/chanson
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Bobby Womack - Across 110th street
 tags:
-  - -draft
   - musique/chanson
 ---
 

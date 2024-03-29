@@ -1,7 +1,6 @@
 ---
 title: Lou Bega - Mambo n°5
 tags:
-    - -draft
     - musique/chanson
 ---
 

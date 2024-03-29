@@ -1,7 +1,6 @@
 ---
 title: "Pink Floyd - The Wall"
 tags:
-    - -draft
     - musique/chanson
 ---
 

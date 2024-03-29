@@ -1,7 +1,6 @@
 ---
 title: Tina Charles - Love to love
 tags:
-    - -draft
     - musique/chanson
 ---
 

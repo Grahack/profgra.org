@@ -1,7 +1,6 @@
 ---
 title: Nino Ferrer - Anarchistes
 tags:
-    - -draft
     - musique/chanson
 ---
 

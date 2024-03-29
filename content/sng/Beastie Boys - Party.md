@@ -1,7 +1,6 @@
 ---
 title: Beastie Boys - Party
 tags:
-    - -draft
     - musique/chanson
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Raphaël - Caravane
 tags:
-    - -draft
     - musique/chanson
 ---
 

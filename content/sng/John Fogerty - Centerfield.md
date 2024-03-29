@@ -1,7 +1,6 @@
 ---
 title: John Fogerty - Centerfield
 tags:
-    - -draft
     - musique/chanson
 ---
 

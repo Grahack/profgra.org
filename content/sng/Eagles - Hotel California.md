@@ -1,7 +1,6 @@
 ---
 title: "Eagles - Hotel California"
 tags:
-    - -draft
     - musique/chanson
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Sade - Sweetest Taboo
 tags:
-    - -draft
     - musique/chanson
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Talking Heads - Psycho killer
 tags:
-    - -draft
     - musique/chanson
 ---
 

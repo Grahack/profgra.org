@@ -1,7 +1,6 @@
 ---
 title: Imagination - Just an illusion
 tags:
-    - -draft
     - musique/chanson
 ---
 

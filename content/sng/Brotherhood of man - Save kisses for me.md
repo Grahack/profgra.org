@@ -1,7 +1,6 @@
 ---
 title: Brotherhood of man - Save kisses for me
 tags:
-    - -draft
     - musique/chanson
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Ridan - Agriculteur
 tags:
-    - -draft
     - musique/chanson
 ---
 

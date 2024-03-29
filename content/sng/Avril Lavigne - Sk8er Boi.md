@@ -1,7 +1,6 @@
 ---
 title: Avril Lavigne - Sk8er Boi
 tags:
-    - -draft
     - musique/chanson
 ---
 

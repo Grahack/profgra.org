@@ -1,7 +1,6 @@
 ---
 title: Soft Cell - Tainted Love
 tags:
-    - -draft
     - musique/chanson
 ---
 

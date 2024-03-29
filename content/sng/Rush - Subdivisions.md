@@ -1,7 +1,6 @@
 ---
 title: Rush - Subdivisions
 tags:
-    - -draft
     - musique/chanson
 ---
 

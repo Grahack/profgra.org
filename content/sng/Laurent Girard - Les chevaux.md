@@ -1,7 +1,6 @@
 ---
 title: Laurent Girard - Les chevaux
 tags:
-    - -draft
     - musique/chanson
 ---
 

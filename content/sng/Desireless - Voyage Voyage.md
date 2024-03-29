@@ -1,7 +1,6 @@
 ---
 title: Desireless - Voyage Voyage
 tags:
-    - -draft
     - musique/chanson
 ---
 

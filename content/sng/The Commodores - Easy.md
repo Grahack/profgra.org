@@ -1,7 +1,6 @@
 ---
 title: The Commodores - Easy
 tags:
-    - -draft
     - musique/chanson
 ---
 

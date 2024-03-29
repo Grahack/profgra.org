@@ -1,7 +1,6 @@
 ---
 title: Talking Heads - Once in a lifetime
 tags:
-    - -draft
     - musique/chanson
 ---
 

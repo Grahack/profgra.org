@@ -1,7 +1,6 @@
 ---
 title: Carlos Santana - Black Magic Woman
 tags:
-    - -draft
     - musique/chanson
 ---
 

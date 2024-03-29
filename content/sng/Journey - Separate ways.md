@@ -1,7 +1,6 @@
 ---
 title: Journey - Separate ways
 tags:
-    - -draft
     - musique/chanson
 ---
 

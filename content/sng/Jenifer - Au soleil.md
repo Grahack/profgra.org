@@ -1,7 +1,6 @@
 ---
 title: Jenifer - Au soleil
 tags:
-    - -draft
     - musique/chanson
 ---
 

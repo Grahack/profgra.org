@@ -1,7 +1,6 @@
 ---
 title: "David Bowie - Let's Dance"
 tags:
-    - -draft
     - musique/chanson
 ---
 

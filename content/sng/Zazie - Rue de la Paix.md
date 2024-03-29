@@ -1,7 +1,6 @@
 ---
 title: Zazie - Rue de la Paix
 tags:
-    - -draft
     - musique/chanson
 ---
 

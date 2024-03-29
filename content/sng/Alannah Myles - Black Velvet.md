@@ -1,7 +1,6 @@
 ---
 title: Alannah Myles - Black Velvet
 tags:
-    - -draft
     - musique/chanson
 ---
 

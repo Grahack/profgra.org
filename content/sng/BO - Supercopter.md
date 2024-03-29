@@ -1,7 +1,6 @@
 ---
 title: BO - Supercopter
 tags:
-  - -draft
   - musique/chanson
 ---
 

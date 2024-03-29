@@ -1,7 +1,6 @@
 ---
 title: Gino Vanelli - Brother to brother
 tags:
-    - -draft
     - musique/chanson
 ---
 

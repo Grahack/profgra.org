@@ -1,7 +1,6 @@
 ---
 title: Modjo - Lady
 tags:
-    - -draft
     - musique/chanson
 ---
 

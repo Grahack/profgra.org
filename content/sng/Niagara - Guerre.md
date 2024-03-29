@@ -1,7 +1,6 @@
 ---
 title: Niagara - Guerre
 tags:
-    - -draft
     - musique/chanson
 ---
 

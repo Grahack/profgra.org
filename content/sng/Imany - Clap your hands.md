@@ -1,7 +1,6 @@
 ---
 title: Imany - Clap your hands
 tags:
-    - -draft
     - musique/chanson
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Arthur Simms - It's only mystery
 tags:
-    - -draft
     - musique/chanson
 ---
 

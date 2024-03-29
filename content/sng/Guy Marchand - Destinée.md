@@ -1,7 +1,6 @@
 ---
 title: Guy Marchand - Destinée
 tags:
-    - -draft
     - musique/chanson
 ---
 

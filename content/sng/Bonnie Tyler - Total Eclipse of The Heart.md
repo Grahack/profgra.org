@@ -1,7 +1,6 @@
 ---
 title: Bonnie Tyler - Total Eclipse of The Heart
 tags:
-    - -draft
     - musique/chanson
 ---
 

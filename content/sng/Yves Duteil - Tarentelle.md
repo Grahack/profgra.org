@@ -1,7 +1,6 @@
 ---
 title: Yves Duteil - Tarentelle
 tags:
-    - -draft
     - musique/chanson
 ---
 

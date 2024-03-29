@@ -1,7 +1,6 @@
 ---
 title: Ben E. King - Stand by me
 tags:
-    - -draft
     - musique/chanson
 ---
 

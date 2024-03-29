@@ -1,7 +1,6 @@
 ---
 title: "Les Innocents - Un homme ordinaire"
 tags:
-    - -draft
     - musique/chanson
 ---
 

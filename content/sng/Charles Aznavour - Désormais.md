@@ -1,7 +1,6 @@
 ---
 title: "Charles Aznavour - Désormais"
 tags:
-    - -draft
     - musique/chanson
 ---
 

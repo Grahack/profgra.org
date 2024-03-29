@@ -1,7 +1,6 @@
 ---
 title: D'Angelo - Sugar
 tags:
-    - -draft
     - musique/chanson
 ---
 

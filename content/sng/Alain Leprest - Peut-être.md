@@ -1,7 +1,6 @@
 ---
 title: Alain Leprest - Peut-être
 tags:
-    - -draft
     - musique/chanson
 ---
 

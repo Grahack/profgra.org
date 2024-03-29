@@ -1,7 +1,6 @@
 ---
 title: INXS - Devil Inside
 tags:
-  - -draft
   - musique/chanson
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Fabienne Thiebault - Les uns contre les autres
 tags:
-    - -draft
     - musique/chanson
 ---
 

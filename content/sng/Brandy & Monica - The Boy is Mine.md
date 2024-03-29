@@ -1,7 +1,6 @@
 ---
 title: Brandy & Monica - The Boy is Mine
 tags:
-    - -draft
     - musique/chanson
 ---
 

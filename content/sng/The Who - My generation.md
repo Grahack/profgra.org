@@ -1,7 +1,6 @@
 ---
 title: The Who - My generation
 tags:
-    - -draft
     - musique/chanson
 ---
 

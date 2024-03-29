@@ -1,7 +1,6 @@
 ---
 title: Journey - Don't stop believing
 tags:
-    - -draft
     - musique/chanson
 ---
 

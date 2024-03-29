@@ -1,7 +1,6 @@
 ---
 title: Jimmy Sommerville - Smalltown Boy
 tags:
-    - -draft
     - musique/chanson
 ---
 

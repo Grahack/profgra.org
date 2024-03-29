@@ -1,7 +1,6 @@
 ---
 title: Christophe - Les mots bleus
 tags:
-    - -draft
     - musique/chanson
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Rose Laurens - Africa
 tags:
-    - -draft
     - musique/chanson
 ---
 

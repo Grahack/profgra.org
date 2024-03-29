@@ -1,7 +1,6 @@
 ---
 title: Images - Démons de Minuit
 tags:
-    - -draft
     - musique/chanson
 ---
 

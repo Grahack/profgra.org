@@ -1,7 +1,6 @@
 ---
 title: "The Beatles - Twist and shout"
 tags:
-    - -draft
     - musique/chanson
 ---
 

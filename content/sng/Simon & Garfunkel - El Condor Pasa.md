@@ -1,7 +1,6 @@
 ---
 title: Simon & Garfunkel - El Condor Pasa
 tags:
-    - -draft
     - musique/chanson
 ---
 

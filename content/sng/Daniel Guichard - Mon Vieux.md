@@ -1,7 +1,6 @@
 ---
 title: Daniel Guichard - Mon Vieux
 tags:
-    - -draft
     - musique/chanson
 ---
 

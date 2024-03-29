@@ -1,7 +1,6 @@
 ---
 title: Blur - Song 2
 tags:
-    - -draft
     - musique/chanson
 ---
 

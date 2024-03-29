@@ -1,7 +1,6 @@
 ---
 title: Maurice Albert - Feelings
 tags:
-    - -draft
     - musique/chanson
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: "Chris Isaak - Blue Hotel"
 tags:
-    - -draft
     - musique/chanson
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Boris - Soirée Disco
 tags:
-    - -draft
     - musique/chanson
 ---
 

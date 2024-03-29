@@ -1,7 +1,6 @@
 ---
 title: Fifty cent - P.I.M.P.
 tags:
-    - -draft
     - musique/chanson
 ---
 

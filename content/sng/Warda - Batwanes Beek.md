@@ -1,7 +1,6 @@
 ---
 title: Warda - Batwanes Beek
 tags:
-    - -draft
     - musique/chanson
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Counting Crows - Mr. Jones
 tags:
-    - -draft
     - musique/chanson
 ---
 

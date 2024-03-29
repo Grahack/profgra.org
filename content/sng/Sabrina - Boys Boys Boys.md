@@ -1,7 +1,6 @@
 ---
 title: Sabrina - Boys Boys Boys
 tags:
-    - -draft
     - musique/chanson
 ---
 

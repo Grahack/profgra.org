@@ -1,7 +1,6 @@
 ---
 title: Nick Kamen - I promised myself
 tags:
-    - -draft
     - musique/chanson
 ---
 

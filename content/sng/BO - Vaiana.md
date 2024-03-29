@@ -1,7 +1,6 @@
 ---
 title: "BO - Vaiana"
 tags:
-    - -draft
     - musique/chanson
 ---
 

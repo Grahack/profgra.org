@@ -1,7 +1,6 @@
 ---
 title: Louis Bertignac - Ces idées là
 tags:
-    - -draft
     - musique/chanson
 ---
 

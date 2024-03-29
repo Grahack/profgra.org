@@ -1,7 +1,6 @@
 ---
 title: "ABBA - Gimme"
 tags:
-    - -draft
     - musique/chanson
 ---
 

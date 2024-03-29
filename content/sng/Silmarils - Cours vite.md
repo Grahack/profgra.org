@@ -1,7 +1,6 @@
 ---
 title: Silmarils - Cours vite
 tags:
-    - -draft
     - musique/chanson
 ---
 

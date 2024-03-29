@@ -1,7 +1,6 @@
 ---
 title: Johnny Cash - Folsom Prison Blues
 tags:
-    - -draft
     - musique/chanson
 ---
 

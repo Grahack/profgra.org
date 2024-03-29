@@ -1,7 +1,6 @@
 ---
 title: The Cardigans - Lovefool
 tags:
-    - -draft
     - musique/chanson
 ---
 

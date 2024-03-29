@@ -1,7 +1,6 @@
 ---
 title: "Olivia Ruiz - La femme chocolat"
 tags:
-    - -draft
     - musique/chanson
 ---
 

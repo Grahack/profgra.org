@@ -1,7 +1,6 @@
 ---
 title: "Europe - Final Countdown"
 tags:
-    - -draft
     - musique/chanson
 ---
 

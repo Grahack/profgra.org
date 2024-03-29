@@ -1,7 +1,6 @@
 ---
 title: Sweet Smoke - Silly Sally
 tags:
-    - -draft
     - musique/chanson
 ---
 

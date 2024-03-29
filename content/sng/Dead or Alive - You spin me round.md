@@ -1,7 +1,6 @@
 ---
 title: Dead or Alive - You spin me round
 tags:
-    - -draft
     - musique/chanson
 ---
 

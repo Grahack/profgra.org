@@ -1,7 +1,6 @@
 ---
 title: Kansas - Dust in the wind
 tags:
-    - -draft
     - musique/chanson
 ---
 

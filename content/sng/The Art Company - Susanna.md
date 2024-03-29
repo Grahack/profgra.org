@@ -1,7 +1,6 @@
 ---
 title: The Art Company - Susanna
 tags:
-    - -draft
     - musique/chanson
 ---
 

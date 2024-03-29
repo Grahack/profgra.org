@@ -1,7 +1,6 @@
 ---
 title: Womack and Womack - Teardrops
 tags:
-    - -draft
     - musique/chanson
 ---
 

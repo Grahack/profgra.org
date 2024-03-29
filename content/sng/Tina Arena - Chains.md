@@ -1,7 +1,6 @@
 ---
 title: Tina Arena - Chains
 tags:
-    - -draft
     - musique/chanson
 ---
 

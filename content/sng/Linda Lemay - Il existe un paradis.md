@@ -1,7 +1,6 @@
 ---
 title: Linda Lemay - Il existe un paradis
 tags:
-    - -draft
     - musique/chanson
 ---
 

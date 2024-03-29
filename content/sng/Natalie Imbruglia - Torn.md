@@ -1,7 +1,6 @@
 ---
 title: Natalie Imbruglia - Torn
 tags:
-    - -draft
     - musique/chanson
 ---
 

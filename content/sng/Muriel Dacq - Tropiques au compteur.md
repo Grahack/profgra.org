@@ -1,7 +1,6 @@
 ---
 title: "Muriel Dacq - Tropiques au compteur"
 tags:
-    - -draft
     - musique/chanson
 ---
 

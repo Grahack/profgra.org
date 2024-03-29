@@ -1,7 +1,6 @@
 ---
 title: "Ben - Soul man"
 tags:
-    - -draft
     - musique/chanson
 ---
 

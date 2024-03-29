@@ -1,7 +1,6 @@
 ---
 title: Bénabar - Le dîner
 tags:
-    - -draft
     - musique/chanson
 ---
 

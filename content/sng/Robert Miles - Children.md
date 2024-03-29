@@ -1,7 +1,6 @@
 ---
 title: Robert Miles - Children
 tags:
-    - -draft
     - musique/chanson
 ---
 

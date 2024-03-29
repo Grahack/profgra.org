@@ -1,7 +1,6 @@
 ---
 title: "Patrick Bruel - Alors regarde"
 tags:
-    - -draft
     - musique/chanson
 ---
 

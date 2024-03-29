@@ -1,7 +1,6 @@
 ---
 title: Smashing Pumpkins - Today
 tags:
-    - -draft
     - musique/chanson
 ---
 

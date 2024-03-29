@@ -1,7 +1,6 @@
 ---
 title: The Fugees - Fugee-la
 tags:
-    - -draft
     - musique/chanson
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Isaac Hayes - Theme from Shaft
 tags:
-    - -draft
     - musique/chanson
 ---
 

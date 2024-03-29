@@ -1,7 +1,6 @@
 ---
 title: Musical Youth - Pass The Dutchie
 tags:
-    - -draft
     - musique/chanson
 ---
 

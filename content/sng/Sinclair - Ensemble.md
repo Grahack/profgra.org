@@ -1,7 +1,6 @@
 ---
 title: Sinclair - Ensemble
 tags:
-    - -draft
     - musique/chanson
 ---
 

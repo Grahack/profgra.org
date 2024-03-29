@@ -1,7 +1,6 @@
 ---
 title: Fool's Garden - Lemon tree
 tags:
-    - -draft
     - musique/chanson
 ---
 

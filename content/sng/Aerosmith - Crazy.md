@@ -1,7 +1,6 @@
 ---
 title: "Aerosmith - Crazy"
 tags:
-    - -draft
     - musique/chanson
 ---
 

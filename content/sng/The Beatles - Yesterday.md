@@ -1,7 +1,6 @@
 ---
 title: "The Beatles - Yesterday"
 tags:
-    - -draft
     - musique/chanson
 ---
 

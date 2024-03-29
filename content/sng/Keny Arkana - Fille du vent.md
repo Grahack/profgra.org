@@ -1,7 +1,6 @@
 ---
 title: Keny Arkana - Fille du vent
 tags:
-    - -draft
     - musique/chanson
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Norah Jones - Don't know Why
 tags:
-    - -draft
     - musique/chanson
 ---
 

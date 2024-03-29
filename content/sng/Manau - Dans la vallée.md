@@ -1,7 +1,6 @@
 ---
 title: Manau - Dans la vallée
 tags:
-    - -draft
     - musique/chanson
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: UFO - Doctor doctor
 tags:
-    - -draft
     - musique/chanson
 ---
 

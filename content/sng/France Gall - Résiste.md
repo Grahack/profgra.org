@@ -1,7 +1,6 @@
 ---
 title: "France Gall - Résiste"
 tags:
-    - -draft
     - musique/chanson
 ---
 

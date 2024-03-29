@@ -1,7 +1,6 @@
 ---
 title: Mano negra - Passé de toi
 tags:
-    - -draft
     - musique/chanson
 ---
 

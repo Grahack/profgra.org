@@ -1,7 +1,6 @@
 ---
 title: Carapicho - Bate forte tambor
 tags:
-    - -draft
     - musique/chanson
 ---
 

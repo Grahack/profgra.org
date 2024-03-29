@@ -1,7 +1,6 @@
 ---
 title: Soundgarden - Fell on black days
 tags:
-    - -draft
     - musique/chanson
 ---
 

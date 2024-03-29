@@ -1,7 +1,6 @@
 ---
 title: Yazz - The only way is up
 tags:
-    - -draft
     - musique/chanson
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Bernard Lavilliers - Noir et blanc
 tags:
-    - -draft
     - musique/chanson
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: "Tradi - Le lion est mort"
 tags:
-    - -draft
     - musique/chanson
 ---
 

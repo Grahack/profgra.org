@@ -1,7 +1,6 @@
 ---
 title: Jeanne Mas - En rouge et Noir
 tags:
-    - -draft
     - musique/chanson
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Calogero - Face à la mer
 tags:
-    - -draft
     - musique/chanson
 ---
 

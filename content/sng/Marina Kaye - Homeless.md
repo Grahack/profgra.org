@@ -1,7 +1,6 @@
 ---
 title: Marina Kaye - Homeless
 tags:
-    - -draft
     - musique/chanson
 ---
 

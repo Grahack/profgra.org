@@ -1,7 +1,6 @@
 ---
 title: Terence Trent D'Arby - Sign your name
 tags:
-    - -draft
     - musique/chanson
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: "Toto Cutugno - Mia Donna"
 tags:
-    - -draft
     - musique/chanson
 ---
 

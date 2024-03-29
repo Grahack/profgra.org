@@ -1,7 +1,6 @@
 ---
 title: "The Beatles - Blackbird"
 tags:
-    - -draft
     - musique/chanson
 ---
 

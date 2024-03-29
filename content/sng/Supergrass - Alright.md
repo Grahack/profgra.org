@@ -1,7 +1,6 @@
 ---
 title: Supergrass - Alright
 tags:
-    - -draft
     - musique/chanson
 ---
 

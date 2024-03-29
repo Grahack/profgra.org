@@ -1,7 +1,6 @@
 ---
 title: Seal - Crazy
 tags:
-    - -draft
     - musique/chanson
 ---
 

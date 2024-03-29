@@ -1,7 +1,6 @@
 ---
 title: Kool & The Gang - Fresh
 tags:
-    - -draft
     - musique/chanson
 ---
 

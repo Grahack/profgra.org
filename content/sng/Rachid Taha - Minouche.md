@@ -1,7 +1,6 @@
 ---
 title: Rachid Taha - Minouche
 tags:
-    - -draft
     - musique/chanson
 ---
 

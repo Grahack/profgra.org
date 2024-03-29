@@ -1,7 +1,6 @@
 ---
 title: "Florent Pagny - N'importe quoi"
 tags:
-    - -draft
     - musique/chanson
 ---
 

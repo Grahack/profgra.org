@@ -1,7 +1,6 @@
 ---
 title: Gilberto Gil - Toda menina baiana
 tags:
-    - -draft
     - musique/chanson
 ---
 

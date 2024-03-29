@@ -1,7 +1,6 @@
 ---
 title: Leonard Cohen - Suzanne
 tags:
-    - -draft
     - musique/chanson
 ---
 

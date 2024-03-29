@@ -1,7 +1,6 @@
 ---
 title: Louane - Jour 1
 tags:
-    - -draft
     - musique/chanson
 ---
 

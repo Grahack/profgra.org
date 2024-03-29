@@ -1,7 +1,6 @@
 ---
 title: Gipsy Kings - Djobi Djoba
 tags:
-    - -draft
     - musique/chanson
 ---
 

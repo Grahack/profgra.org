@@ -1,7 +1,6 @@
 ---
 title: Pink - Sober
 tags:
-    - -draft
     - musique/chanson
 ---
 

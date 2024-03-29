@@ -1,7 +1,6 @@
 ---
 title: Bébé Charli - Kkoqq
 tags:
-    - -draft
     - musique/chanson
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Metallica - Enter Sandman
 tags:
-    - -draft
     - musique/chanson
 ---
 

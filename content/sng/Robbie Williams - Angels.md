@@ -1,7 +1,6 @@
 ---
 title: Robbie Williams - Angels
 tags:
-  - -draft
   - musique/chanson
 ---
 

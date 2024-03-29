@@ -1,7 +1,6 @@
 ---
 title: Kaoma - Lambada
 tags:
-    - -draft
     - musique/chanson
 ---
 

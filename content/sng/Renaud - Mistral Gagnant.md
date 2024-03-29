@@ -1,7 +1,6 @@
 ---
 title: Renaud - Mistral Gagnant
 tags:
-    - -draft
     - musique/chanson
 ---
 

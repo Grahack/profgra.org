@@ -1,7 +1,6 @@
 ---
 title: "Richard Gotainer - Le Sampa"
 tags:
-    - -draft
     - musique/chanson
 ---
 

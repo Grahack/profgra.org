@@ -1,7 +1,6 @@
 ---
 title: Neneh Cherry - Buffalo Stance
 tags:
-  - -draft
   - musique/chanson
 ---
 

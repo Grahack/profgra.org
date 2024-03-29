@@ -1,7 +1,6 @@
 ---
 title: "Jocelyne Béroard - Kolé Séré"
 tags:
-    - -draft
     - musique/chanson
 ---
 

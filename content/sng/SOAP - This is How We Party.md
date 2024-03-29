@@ -1,7 +1,6 @@
 ---
 title: SOAP - This is How We Party
 tags:
-    - -draft
     - musique/chanson
 ---
 

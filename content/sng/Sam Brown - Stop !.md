@@ -1,7 +1,6 @@
 ---
 title: Sam Brown - Stop !
 tags:
-    - -draft
     - musique/chanson
 ---
 

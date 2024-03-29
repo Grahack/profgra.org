@@ -1,7 +1,6 @@
 ---
 title: "The Beatles - Hey Jude"
 tags:
-    - -draft
     - musique/chanson
 ---
 

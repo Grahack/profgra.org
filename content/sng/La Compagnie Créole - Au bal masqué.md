@@ -1,7 +1,6 @@
 ---
 title: "La Compagnie Créole - Au bal masqué"
 tags:
-    - -draft
     - musique/chanson
 ---
 

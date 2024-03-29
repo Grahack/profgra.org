@@ -1,7 +1,6 @@
 ---
 title: Dolly Parton - Jolene
 tags:
-    - -draft
     - musique/chanson
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Bobby Hebb - Sunny
 tags:
-    - -draft
     - musique/chanson
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Justice - Genesis
 tags:
-    - -draft
     - musique/chanson
 ---
 

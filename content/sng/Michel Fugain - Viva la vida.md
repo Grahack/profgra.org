@@ -1,7 +1,6 @@
 ---
 title: "Michel Fugain - Viva la vida"
 tags:
-    - -draft
     - musique/chanson
 ---
 

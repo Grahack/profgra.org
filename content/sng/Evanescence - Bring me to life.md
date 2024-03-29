@@ -1,7 +1,6 @@
 ---
 title: Evanescence - Bring me to life
 tags:
-    - -draft
     - musique/chanson
 ---
 

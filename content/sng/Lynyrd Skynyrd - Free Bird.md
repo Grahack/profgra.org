@@ -1,7 +1,6 @@
 ---
 title: Lynyrd Skynyrd - Free Bird
 tags:
-    - -draft
     - musique/chanson
 ---
 

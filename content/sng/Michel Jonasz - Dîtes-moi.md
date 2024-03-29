@@ -1,7 +1,6 @@
 ---
 title: "Michel Jonasz - Dîtes-moi"
 tags:
-    - -draft
     - musique/chanson
 ---
 

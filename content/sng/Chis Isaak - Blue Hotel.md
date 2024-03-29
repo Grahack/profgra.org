@@ -1,7 +1,6 @@
 ---
 title: "Chis Isaak - Blue Hotel"
 tags:
-    - -draft
     - musique/chanson
 ---
 

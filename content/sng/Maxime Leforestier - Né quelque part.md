@@ -1,7 +1,6 @@
 ---
 title: Maxime Leforestier - Né quelque part
 tags:
-    - -draft
     - musique/chanson
 ---
 

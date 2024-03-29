@@ -1,7 +1,6 @@
 ---
 title: "Eddy Mitchell - La dernière séance"
 tags:
-    - -draft
     - musique/chanson
 ---
 

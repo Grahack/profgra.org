@@ -1,7 +1,6 @@
 ---
 title: Liquido - Narcotic
 tags:
-    - -draft
     - musique/chanson
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: "Tradi - Vive le vent"
 tags:
-    - -draft
     - musique/chanson
 ---
 

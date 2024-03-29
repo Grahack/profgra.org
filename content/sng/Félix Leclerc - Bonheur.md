@@ -1,7 +1,6 @@
 ---
 title: Félix Leclerc - Bonheur
 tags:
-    - -draft
     - musique/chanson
 ---
 

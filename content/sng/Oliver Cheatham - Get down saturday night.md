@@ -1,7 +1,6 @@
 ---
 title: Oliver Cheatham - Cet down machin
 tags:
-    - -draft
     - musique/chanson
 ---
 

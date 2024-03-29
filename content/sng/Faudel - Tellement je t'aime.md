@@ -1,7 +1,6 @@
 ---
 title: Faudel - Tellement je t'aime
 tags:
-    - -draft
     - musique/chanson
 ---
 

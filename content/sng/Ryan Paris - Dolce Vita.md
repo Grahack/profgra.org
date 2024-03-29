@@ -1,7 +1,6 @@
 ---
 title: Ryan Paris - Dolce Vita
 tags:
-    - -draft
     - musique/chanson
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: "Danièle Hazan - Signé Cat's eyes"
 tags:
-    - -draft
     - musique/chanson
 ---
 

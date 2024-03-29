@@ -1,7 +1,6 @@
 ---
 title: "Brian Adams - Everything I do"
 tags:
-    - -draft
     - musique/chanson
 ---
 

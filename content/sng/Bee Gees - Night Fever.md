@@ -1,7 +1,6 @@
 ---
 title: Bee Gees - Night Fever
 tags:
-    - -draft
     - musique/chanson
 ---
 

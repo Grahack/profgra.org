@@ -1,7 +1,6 @@
 ---
 title: Chantal Goya - Un lapin
 tags:
-  - -draft
   - musique/chanson
 ---
 

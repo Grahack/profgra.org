@@ -1,7 +1,6 @@
 ---
 title: Jill Scott - Gimme
 tags:
-    - -draft
     - musique/chanson
 ---
 

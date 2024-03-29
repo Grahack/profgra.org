@@ -1,7 +1,6 @@
 ---
 title: Blues Trottoir - Un soir de pluie
 tags:
-    - -draft
     - musique/chanson
 ---
 

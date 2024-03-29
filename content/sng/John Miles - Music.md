@@ -1,7 +1,6 @@
 ---
 title: John Miles - Music
 tags:
-    - -draft
     - musique/chanson
 ---
 

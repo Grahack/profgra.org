@@ -1,7 +1,6 @@
 ---
 title: Salvatore Adamo - Vous permettez Monsieur
 tags:
-    - -draft
     - musique/chanson
 ---
 

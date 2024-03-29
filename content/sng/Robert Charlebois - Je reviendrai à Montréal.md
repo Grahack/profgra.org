@@ -1,7 +1,6 @@
 ---
 title: Robert Charlebois - Je reviendrai à Montréal
 tags:
-    - -draft
     - musique/chanson
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Imagination - Music and Lights
 tags:
-    - -draft
     - musique/chanson
 ---
 

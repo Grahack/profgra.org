@@ -1,7 +1,6 @@
 ---
 title: Talk talk - Such a shame
 tags:
-    - -draft
     - musique/chanson
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Depeche Mode - Enjoy The Silence
 tags:
-    - -draft
     - musique/chanson
 ---
 

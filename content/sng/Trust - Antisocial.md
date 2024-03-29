@@ -1,7 +1,6 @@
 ---
 title: Trust - Antisocial
 tags:
-    - -draft
     - musique/chanson
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Chris de Burgh - High on emotions
 tags:
-    - -draft
     - musique/chanson
 ---
 

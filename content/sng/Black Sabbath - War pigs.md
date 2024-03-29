@@ -1,7 +1,6 @@
 ---
 title: Black Sabbath - War pigs
 tags:
-    - -draft
     - musique/chanson
 ---
 

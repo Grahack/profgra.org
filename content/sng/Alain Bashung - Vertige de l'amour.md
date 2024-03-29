@@ -1,7 +1,6 @@
 ---
 title: Alain Bashung - Vertige de l'amour
 tags:
-    - -draft
     - musique/chanson
 ---
 

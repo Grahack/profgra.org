@@ -1,7 +1,6 @@
 ---
 title: Status Quo - Army Now
 tags:
-    - -draft
     - musique/chanson
 ---
 

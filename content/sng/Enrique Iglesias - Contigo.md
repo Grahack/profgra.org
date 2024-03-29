@@ -1,7 +1,6 @@
 ---
 title: Enrique Iglesias - Contigo
 tags:
-    - -draft
     - musique/chanson
 ---
 

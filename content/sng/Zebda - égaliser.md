@@ -1,7 +1,6 @@
 ---
 title: Zebda - égaliser
 tags:
-    - -draft
     - musique/chanson
 ---
 

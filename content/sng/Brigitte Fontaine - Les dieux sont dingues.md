@@ -1,7 +1,6 @@
 ---
 title: Brigitte Fontaine - Les dieux sont dingues
 tags:
-  - -draft
   - musique/chanson
 ---
 

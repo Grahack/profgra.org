@@ -1,7 +1,6 @@
 ---
 title: Spice Girls - Say you'll be there
 tags:
-    - -draft
     - musique/chanson
 ---
 

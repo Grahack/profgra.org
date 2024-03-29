@@ -1,7 +1,6 @@
 ---
 title: Colette Magny - Melocoton
 tags:
-  - -draft
   - musique/chanson
 ---
 

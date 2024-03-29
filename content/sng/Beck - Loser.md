@@ -1,7 +1,6 @@
 ---
 title: Beck - Loser
 tags:
-    - -draft
     - musique/chanson
 ---
 

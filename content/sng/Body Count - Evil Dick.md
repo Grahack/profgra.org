@@ -1,7 +1,6 @@
 ---
 title: Body Count - Evil Dick
 tags:
-    - -draft
     - musique/chanson
 ---
 

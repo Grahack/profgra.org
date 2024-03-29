@@ -1,7 +1,6 @@
 ---
 title: Garbage - Empty
 tags:
-    - -draft
     - musique/chanson
 ---
 

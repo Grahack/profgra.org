@@ -1,7 +1,6 @@
 ---
 title: Eric Clapton - Layla
 tags:
-    - -draft
     - musique/chanson
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Esther Philips - What a difference a day makes
 tags:
-    - -draft
     - musique/chanson
 ---
 

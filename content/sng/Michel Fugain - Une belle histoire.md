@@ -1,7 +1,6 @@
 ---
 title: "Michel Fugain - Une belle histoire"
 tags:
-    - -draft
     - musique/chanson
 ---
 

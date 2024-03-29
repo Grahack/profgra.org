@@ -1,7 +1,6 @@
 ---
 title: "Bob Marley - Jammin'"
 tags:
-    - -draft
     - musique/chanson
 ---
 

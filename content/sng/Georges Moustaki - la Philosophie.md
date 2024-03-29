@@ -1,7 +1,6 @@
 ---
 title: Georges Moustaki - la Philosophie
 tags:
-    - -draft
     - musique/chanson
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Captain Sensible - Wot!
 tags:
-    - -draft
     - musique/chanson
 ---
 

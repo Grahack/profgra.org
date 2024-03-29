@@ -1,7 +1,6 @@
 ---
 title: Arcade Fire - No cars go
 tags:
-    - -draft
     - musique/chanson
 ---
 

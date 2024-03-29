@@ -1,7 +1,6 @@
 ---
 title: Hugues Auffray - Santiano
 tags:
-    - -draft
     - musique/chanson
 ---
 

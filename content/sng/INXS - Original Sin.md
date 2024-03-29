@@ -1,7 +1,6 @@
 ---
 title: INXS - Original Sin
 tags:
-    - -draft
     - musique/chanson
 ---
 

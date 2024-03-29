@@ -1,7 +1,6 @@
 ---
 title: Ed Sheeran - Shape of you
 tags:
-    - -draft
     - musique/chanson
 ---
 

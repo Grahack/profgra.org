@@ -1,7 +1,6 @@
 ---
 title: Philippe Katerine - La banane
 tags:
-    - -draft
     - musique/chanson
 ---
 

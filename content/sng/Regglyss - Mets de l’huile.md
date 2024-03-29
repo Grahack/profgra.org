@@ -1,7 +1,6 @@
 ---
 title: Regglyss - Mets de l’huile
 tags:
-    - -draft
     - musique/chanson
 ---
 

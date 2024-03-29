@@ -1,7 +1,6 @@
 ---
 title: Heart - Barracuda
 tags:
-    - -draft
     - musique/chanson
 ---
 

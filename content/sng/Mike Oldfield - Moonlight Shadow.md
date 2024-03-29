@@ -1,7 +1,6 @@
 ---
 title: Mike Oldfield - Moonlight Shadow
 tags:
-    - -draft
     - musique/chanson
 ---
 

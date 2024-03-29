@@ -1,7 +1,6 @@
 ---
 title: Al Corley - Square Rooms
 tags:
-    - -draft
     - musique/chanson
 ---
 

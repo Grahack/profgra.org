@@ -1,7 +1,6 @@
 ---
 title: Carte de Séjour - Zoubida
 tags:
-    - -draft
     - musique/chanson
 ---
 

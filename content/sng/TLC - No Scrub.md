@@ -1,7 +1,6 @@
 ---
 title: TLC - No Scrub
 tags:
-    - -draft
     - musique/chanson
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: "Yannick Noah - Mon eldorado"
 tags:
-    - -draft
     - musique/chanson
 ---
 

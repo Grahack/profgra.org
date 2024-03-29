@@ -1,7 +1,6 @@
 ---
 title: Rihanna - Diamonds
 tags:
-    - -draft
     - musique/chanson
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Les Chaussettes Noires - Daniela
 tags:
-    - -draft
     - musique/chanson
 ---
 

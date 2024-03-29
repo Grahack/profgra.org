@@ -1,7 +1,6 @@
 ---
 title: The Pasadenas - Tribute
 tags:
-    - -draft
     - musique/chanson
 ---
 

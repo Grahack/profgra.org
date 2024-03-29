@@ -1,7 +1,6 @@
 ---
 title: Jean-Pierre Madère - Macumba
 tags:
-    - -draft
     - musique/chanson
 ---
 

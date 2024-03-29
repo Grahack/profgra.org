@@ -1,7 +1,6 @@
 ---
 title: "Soprano - Clown"
 tags:
-    - -draft
     - musique/chanson
 ---
 

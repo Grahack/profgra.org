@@ -1,7 +1,6 @@
 ---
 title: "The Troggs - Wild thing"
 tags:
-    - -draft
     - musique/chanson
 ---
 

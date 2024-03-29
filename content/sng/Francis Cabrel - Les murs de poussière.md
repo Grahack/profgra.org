@@ -1,7 +1,6 @@
 ---
 title: "Francis Cabrel - Les murs de poussière"
 tags:
-    - -draft
     - musique/chanson
 ---
 

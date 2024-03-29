@@ -1,7 +1,6 @@
 ---
 title: "Phil Collins - Two hearts"
 tags:
-    - -draft
     - musique/chanson
 ---
 

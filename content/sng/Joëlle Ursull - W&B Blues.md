@@ -1,7 +1,6 @@
 ---
 title: Joëlle Ursull - W&B Blues
 tags:
-    - -draft
     - musique/chanson
 ---
 

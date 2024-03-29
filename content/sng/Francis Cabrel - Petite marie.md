@@ -1,7 +1,6 @@
 ---
 title: "Francis Cabrel - Petite marie"
 tags:
-    - -draft
     - musique/chanson
 ---
 

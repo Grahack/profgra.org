@@ -1,7 +1,6 @@
 ---
 title: The Carpenters - Close to you
 tags:
-    - -draft
     - musique/chanson
 ---
 

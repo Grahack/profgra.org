@@ -1,7 +1,6 @@
 ---
 title: Charlots - Histoire Merveilleuse
 tags:
-    - -draft
     - musique/chanson
 ---
 

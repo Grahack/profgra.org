@@ -1,7 +1,6 @@
 ---
 title: Kim Wilde - Cambodia
 tags:
-    - -draft
     - musique/chanson
 ---
 

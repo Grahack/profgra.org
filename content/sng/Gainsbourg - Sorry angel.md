@@ -1,7 +1,6 @@
 ---
 title: "Gainsbourg - Sorry angel"
 tags:
-    - -draft
     - musique/chanson
 ---
 

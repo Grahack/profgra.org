@@ -1,7 +1,6 @@
 ---
 title: Baster - Pêcheur
 tags:
-    - -draft
     - musique/chanson
 ---
 

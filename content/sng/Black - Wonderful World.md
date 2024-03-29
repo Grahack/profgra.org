@@ -1,7 +1,6 @@
 ---
 title: Black - Wonderful World
 tags:
-    - -draft
     - musique/chanson
 ---
 

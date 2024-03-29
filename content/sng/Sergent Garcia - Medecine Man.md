@@ -1,7 +1,6 @@
 ---
 title: Sergent Garcia - Medecine Man
 tags:
-    - -draft
     - musique/chanson
 ---
 

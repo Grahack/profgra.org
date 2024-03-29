@@ -1,7 +1,6 @@
 ---
 title: Kraftwerk - Radioactivity
 tags:
-    - -draft
     - musique/chanson
 ---
 

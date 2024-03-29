@@ -1,7 +1,6 @@
 ---
 title: Mary Hopkins - Thoses were a day
 tags:
-    - -draft
     - musique/chanson
 ---
 

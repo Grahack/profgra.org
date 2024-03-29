@@ -1,7 +1,6 @@
 ---
 title: Laura Branigan - Self Control
 tags:
-    - -draft
     - musique/chanson
 ---
 

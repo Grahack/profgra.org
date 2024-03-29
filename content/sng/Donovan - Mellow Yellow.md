@@ -1,7 +1,6 @@
 ---
 title: Donovan - Mellow Yellow
 tags:
-    - -draft
     - musique/chanson
 ---
 

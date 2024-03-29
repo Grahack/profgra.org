@@ -1,7 +1,6 @@
 ---
 title: "Bee Gees - Saturday night fever"
 tags:
-    - -draft
     - musique/chanson
 ---
 

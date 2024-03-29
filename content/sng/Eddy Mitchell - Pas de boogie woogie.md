@@ -1,7 +1,6 @@
 ---
 title: "Eddy Mitchell - Pas de boogie woogie"
 tags:
-    - -draft
     - musique/chanson
 ---
 

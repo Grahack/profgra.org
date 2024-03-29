@@ -1,7 +1,6 @@
 ---
 title: Partenaire particulier - Partenaire particulier
 tags:
-    - -draft
     - musique/chanson
 ---
 

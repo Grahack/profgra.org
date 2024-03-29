@@ -1,7 +1,6 @@
 ---
 title: Guesh Patti - Etienne
 tags:
-    - -draft
     - musique/chanson
 ---
 

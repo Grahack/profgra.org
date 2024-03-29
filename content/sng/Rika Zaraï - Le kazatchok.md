@@ -1,7 +1,6 @@
 ---
 title: Rika Zaraï - Le kazatchok
 tags:
-    - -draft
     - musique/chanson
 ---
 

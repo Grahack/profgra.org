@@ -1,7 +1,6 @@
 ---
 title: "Bernard Minet - Bioman"
 tags:
-    - -draft
     - musique/chanson
 ---
 

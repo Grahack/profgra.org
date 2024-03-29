@@ -1,7 +1,6 @@
 ---
 title: Shalamar - And The beat goes on
 tags:
-    - -draft
     - musique/chanson
 ---
 

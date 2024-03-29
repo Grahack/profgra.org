@@ -1,7 +1,6 @@
 ---
 title: Hanson - MMMBop
 tags:
-    - -draft
     - musique/chanson
 ---
 

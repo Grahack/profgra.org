@@ -1,7 +1,6 @@
 ---
 title: Larusso - Tu m' oublieras
 tags:
-    - -draft
     - musique/chanson
 ---
 

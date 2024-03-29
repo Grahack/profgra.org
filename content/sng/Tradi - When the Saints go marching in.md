@@ -1,7 +1,6 @@
 ---
 title: "Tradi - When the Saints go marching in"
 tags:
-    - -draft
     - musique/chanson
 ---
 

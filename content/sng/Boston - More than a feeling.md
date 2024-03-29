@@ -1,7 +1,6 @@
 ---
 title: Boston - More than a feeling
 tags:
-    - -draft
     - musique/chanson
 ---
 

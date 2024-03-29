@@ -1,7 +1,6 @@
 ---
 title: Weezer - Island in the sun
 tags:
-    - -draft
     - musique/chanson
 ---
 

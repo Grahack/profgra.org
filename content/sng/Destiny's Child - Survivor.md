@@ -1,7 +1,6 @@
 ---
 title: Destiny's Child - Survivor
 tags:
-    - -draft
     - musique/chanson
 ---
 

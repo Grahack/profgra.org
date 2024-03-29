@@ -1,7 +1,6 @@
 ---
 title: The Shadows - Apache
 tags:
-    - -draft
     - musique/chanson
 ---
 

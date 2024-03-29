@@ -1,7 +1,6 @@
 ---
 title: "Michel Polnareff - La poupée qui fait non"
 tags:
-    - -draft
     - musique/chanson
 ---
 

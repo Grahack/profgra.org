@@ -1,7 +1,6 @@
 ---
 title: "Justice - DANCE"
 tags:
-    - -draft
     - musique/chanson
 ---
 

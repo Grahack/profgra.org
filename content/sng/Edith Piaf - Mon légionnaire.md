@@ -1,7 +1,6 @@
 ---
 title: Edith Piaf - Mon légionnaire
 tags:
-    - -draft
     - musique/chanson
 ---
 

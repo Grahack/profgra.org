@@ -1,7 +1,6 @@
 ---
 title: Oldelaf - La tristitude
 tags:
-    - -draft
     - musique/chanson
 ---
 

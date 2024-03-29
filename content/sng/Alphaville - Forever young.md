@@ -1,7 +1,6 @@
 ---
 title: Alphaville - Forever young
 tags:
-    - -draft
     - musique/chanson
 ---
 

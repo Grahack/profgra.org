@@ -1,7 +1,6 @@
 ---
 title: Michel Sardou - J'accuse
 tags:
-    - -draft
     - musique/chanson
 ---
 

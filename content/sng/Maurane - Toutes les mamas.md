@@ -1,7 +1,6 @@
 ---
 title: Maurane - Toutes les mamas
 tags:
-    - -draft
     - musique/chanson
 ---
 

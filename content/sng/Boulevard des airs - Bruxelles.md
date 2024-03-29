@@ -1,7 +1,6 @@
 ---
 title: Boulevard des airs - Bruxelles
 tags:
-    - -draft
     - musique/chanson
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Nicoletta - La Musique
 tags:
-    - -draft
     - musique/chanson
 ---
 

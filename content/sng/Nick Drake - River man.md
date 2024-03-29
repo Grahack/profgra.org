@@ -1,7 +1,6 @@
 ---
 title: Nick Drake - River man
 tags:
-    - -draft
     - musique/chanson
 ---
 

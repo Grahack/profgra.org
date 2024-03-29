@@ -1,7 +1,6 @@
 ---
 title: Alicia Keys - New York
 tags:
-    - -draft
     - musique/chanson
 ---
 

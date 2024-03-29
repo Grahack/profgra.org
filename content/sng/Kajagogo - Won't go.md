@@ -1,7 +1,6 @@
 ---
 title: Kajagogo - Won't go
 tags:
-    - -draft
     - musique/chanson
 ---
 

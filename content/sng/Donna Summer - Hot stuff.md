@@ -1,7 +1,6 @@
 ---
 title: Donna Summer - Hot stuff
 tags:
-    - -draft
     - musique/chanson
 ---
 

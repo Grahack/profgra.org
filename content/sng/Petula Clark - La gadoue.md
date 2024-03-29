@@ -1,7 +1,6 @@
 ---
 title: Petula Clark - La gadoue
 tags:
-  - -draft
   - musique/chanson
 ---
 

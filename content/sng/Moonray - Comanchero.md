@@ -1,7 +1,6 @@
 ---
 title: Moonray - Comanchero
 tags:
-    - -draft
     - musique/chanson
 ---
 

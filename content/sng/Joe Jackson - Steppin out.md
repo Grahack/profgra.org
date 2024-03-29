@@ -1,7 +1,6 @@
 ---
 title: Joe Jackson - Steppin out
 tags:
-    - -draft
     - musique/chanson
 ---
 

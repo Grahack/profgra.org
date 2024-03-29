@@ -1,7 +1,6 @@
 ---
 title: Bénabar - Le vélo
 tags:
-    - -draft
     - musique/chanson
 ---
 

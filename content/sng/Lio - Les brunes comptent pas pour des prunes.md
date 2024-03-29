@@ -1,7 +1,6 @@
 ---
 title: "Lio - Les brunes comptent pas pour des prunes"
 tags:
-    - -draft
     - musique/chanson
 ---
 

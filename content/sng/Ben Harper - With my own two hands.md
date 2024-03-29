@@ -1,7 +1,6 @@
 ---
 title: Ben Harper - With my own two hands
 tags:
-    - -draft
     - musique/chanson
 ---
 

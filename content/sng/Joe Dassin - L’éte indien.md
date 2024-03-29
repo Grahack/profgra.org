@@ -1,7 +1,6 @@
 ---
 title: Joe Dassin - l’éte indien
 tags:
-    - -draft
     - musique/chanson
 ---
 

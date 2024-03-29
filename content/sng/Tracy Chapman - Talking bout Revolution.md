@@ -1,7 +1,6 @@
 ---
 title: Tracy Chapman - Talking bout Revolution
 tags:
-    - -draft
     - musique/chanson
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: "Beach Boys - Kokomo"
 tags:
-    - -draft
     - musique/chanson
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: "Queen - I want to break free"
 tags:
-    - -draft
     - musique/chanson
 ---
 

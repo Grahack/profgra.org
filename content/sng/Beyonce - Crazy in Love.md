@@ -1,7 +1,6 @@
 ---
 title: Beyonce - Crazy in Love
 tags:
-    - -draft
     - musique/chanson
 ---
 

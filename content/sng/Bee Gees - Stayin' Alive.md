@@ -1,7 +1,6 @@
 ---
 title: "Bee Gees - Stayin' Alive"
 tags:
-    - -draft
     - musique/chanson
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: George Michael - Freedom
 tags:
-    - -draft
     - musique/chanson
 ---
 

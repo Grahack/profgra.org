@@ -1,7 +1,6 @@
 ---
 title: The Mamas & The Papas - California Dreaming
 tags:
-    - -draft
     - musique/chanson
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: "Michael Jackson - Man in the mirror"
 tags:
-    - -draft
     - musique/chanson
 ---
 

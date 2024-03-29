@@ -1,7 +1,6 @@
 ---
 title: Billy Idol - Flesh for fantasy
 tags:
-    - -draft
     - musique/chanson
 ---
 

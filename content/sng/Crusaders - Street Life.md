@@ -1,7 +1,6 @@
 ---
 title: Crusaders - Street Life
 tags:
-    - -draft
     - musique/chanson
 ---
 

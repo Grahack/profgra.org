@@ -1,7 +1,6 @@
 ---
 title: "Ray Parker Jr. - Ghostbuster"
 tags:
-    - -draft
     - musique/chanson
 ---
 

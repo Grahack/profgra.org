@@ -1,7 +1,6 @@
 ---
 title: Motorhead - Ace of spades
 tags:
-    - -draft
     - musique/chanson
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Kim Carnes - Bette Davies Eyes
 tags:
-    - -draft
     - musique/chanson
 ---
 

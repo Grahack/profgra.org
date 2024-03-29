@@ -1,7 +1,6 @@
 ---
 title: Rockwell - Somebody's watching me
 tags:
-    - -draft
     - musique/chanson
 ---
 

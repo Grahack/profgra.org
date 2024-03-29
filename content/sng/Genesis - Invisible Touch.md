@@ -1,7 +1,6 @@
 ---
 title: Genesis - Invisible Touch
 tags:
-    - -draft
     - musique/chanson
 ---
 

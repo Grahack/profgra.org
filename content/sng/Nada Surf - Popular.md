@@ -1,7 +1,6 @@
 ---
 title: Nada Surf - Popular
 tags:
-    - -draft
     - musique/chanson
 ---
 

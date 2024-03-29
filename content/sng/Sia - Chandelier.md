@@ -1,7 +1,6 @@
 ---
 title: Sia - Chandelier
 tags:
-    - -draft
     - musique/chanson
 ---
 

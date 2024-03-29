@@ -1,7 +1,6 @@
 ---
 title: The Breeders - Cannonball
 tags:
-    - -draft
     - musique/chanson
 ---
 

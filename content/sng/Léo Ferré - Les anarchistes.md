@@ -1,7 +1,6 @@
 ---
 title: "Léo Ferré - Les anarchistes"
 tags:
-    - -draft
     - musique/chanson
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Stromae - Papa où t'es ?
 tags:
-    - -draft
     - musique/chanson
 ---
 

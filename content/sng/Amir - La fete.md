@@ -1,7 +1,6 @@
 ---
 title: Amir - La fete
 tags:
-    - -draft
     - musique/chanson
 ---
 

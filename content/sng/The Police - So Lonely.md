@@ -1,7 +1,6 @@
 ---
 title: The Police - So Lonely
 tags:
-  - -draft
   - musique/chanson
 ---
 

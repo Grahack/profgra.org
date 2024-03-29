@@ -1,7 +1,6 @@
 ---
 title: L7 - Fuel my fire
 tags:
-    - -draft
     - musique/chanson
 ---
 

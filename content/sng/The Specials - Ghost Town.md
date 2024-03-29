@@ -1,7 +1,6 @@
 ---
 title: The Specials - Ghost Town
 tags:
-    - -draft
     - musique/chanson
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Dio - Holy diver
 tags:
-    - -draft
     - musique/chanson
 ---
 

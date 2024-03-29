@@ -1,7 +1,6 @@
 ---
 title: Toto - Africa
 tags:
-    - -draft
     - musique/chanson
 ---
 

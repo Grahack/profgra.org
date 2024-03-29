@@ -1,7 +1,6 @@
 ---
 title: Pierre Perret - Lili
 tags:
-    - -draft
     - musique/chanson
 ---
 

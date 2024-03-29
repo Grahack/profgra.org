@@ -1,7 +1,6 @@
 ---
 title: Oasis - Wonderwall
 tags:
-    - -draft
     - musique/chanson
 ---
 

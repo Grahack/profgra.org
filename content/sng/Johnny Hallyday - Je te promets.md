@@ -1,7 +1,6 @@
 ---
 title: "Johnny Hallyday - Je te promets"
 tags:
-    - -draft
     - musique/chanson
 ---
 

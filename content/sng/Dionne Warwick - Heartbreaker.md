@@ -1,7 +1,6 @@
 ---
 title: Dionne Warwick - Heartbreaker
 tags:
-    - -draft
     - musique/chanson
 ---
 

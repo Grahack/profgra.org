@@ -1,7 +1,6 @@
 ---
 title: Soul Asylum - Runaway train
 tags:
-    - -draft
     - musique/chanson
 ---
 

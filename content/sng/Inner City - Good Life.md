@@ -1,7 +1,6 @@
 ---
 title: Inner City - Good Life
 tags:
-  - -draft
   - musique/chanson
 ---
 

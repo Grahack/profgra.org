@@ -1,7 +1,6 @@
 ---
 title: Muriel Dacq - Tropique
 tags:
-    - -draft
     - musique/chanson
 ---
 

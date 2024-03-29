@@ -1,7 +1,6 @@
 ---
 title: "Dany Brillant - Suzette"
 tags:
-    - -draft
     - musique/chanson
 ---
 

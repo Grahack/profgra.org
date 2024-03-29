@@ -1,7 +1,6 @@
 ---
 title: "Free - Alright"
 tags:
-    - -draft
     - musique/chanson
 ---
 

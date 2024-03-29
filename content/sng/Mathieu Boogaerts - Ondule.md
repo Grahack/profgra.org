@@ -1,7 +1,6 @@
 ---
 title: Mathieu Boogaerts - Ondule
 tags:
-    - -draft
     - musique/chanson
 ---
 

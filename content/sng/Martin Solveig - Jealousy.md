@@ -1,7 +1,6 @@
 ---
 title: Martin Solveig - Jealousy
 tags:
-    - -draft
     - musique/chanson
 ---
 

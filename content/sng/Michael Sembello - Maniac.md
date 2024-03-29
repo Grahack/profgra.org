@@ -1,7 +1,6 @@
 ---
 title: Michael Sembello - Maniac
 tags:
-    - -draft
     - musique/chanson
 ---
 

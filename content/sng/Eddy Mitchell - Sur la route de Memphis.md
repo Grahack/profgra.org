@@ -1,7 +1,6 @@
 ---
 title: Eddy Mitchell - Route de Memphis
 tags:
-    - -draft
     - musique/chanson
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Estelle - American Boy
 tags:
-    - -draft
     - musique/chanson
 ---
 

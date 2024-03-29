@@ -1,7 +1,6 @@
 ---
 title: Juliette - Aller sans retour
 tags:
-    - -draft
     - musique/chanson
 ---
 

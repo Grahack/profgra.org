@@ -1,7 +1,6 @@
 ---
 title: Axel Bauer - Cargo de Nuit
 tags:
-    - -draft
     - musique/chanson
 ---
 

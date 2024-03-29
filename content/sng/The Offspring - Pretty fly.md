@@ -1,7 +1,6 @@
 ---
 title: The Offspring - Pretty fly
 tags:
-    - -draft
     - musique/chanson
 ---
 

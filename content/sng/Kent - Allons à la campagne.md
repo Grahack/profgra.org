@@ -1,7 +1,6 @@
 ---
 title: Kent - Allons à la campagne
 tags:
-    - -draft
     - musique/chanson
 ---
 

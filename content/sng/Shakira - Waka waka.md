@@ -1,7 +1,6 @@
 ---
 title: Shakira - Waka waka
 tags:
-    - -draft
     - musique/chanson
 ---
 

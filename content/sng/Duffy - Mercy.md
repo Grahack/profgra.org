@@ -1,7 +1,6 @@
 ---
 title: Duffy - Mercy
 tags:
-    - -draft
     - musique/chanson
 ---
 

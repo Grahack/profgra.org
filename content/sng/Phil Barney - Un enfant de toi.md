@@ -1,7 +1,6 @@
 ---
 title: Phil Barney - Un enfant de toi
 tags:
-    - -draft
     - musique/chanson
 ---
 

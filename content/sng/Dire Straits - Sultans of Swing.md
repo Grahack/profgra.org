@@ -1,7 +1,6 @@
 ---
 title: Dire Straits - Sultans of Swing
 tags:
-    - -draft
     - musique/chanson
 ---
 

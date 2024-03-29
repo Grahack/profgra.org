@@ -1,7 +1,6 @@
 ---
 title: Erasure - Sometimes
 tags:
-    - -draft
     - musique/chanson
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Ohio Players - Love Rollercoaster
 tags:
-    - -draft
     - musique/chanson
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: "Serge Gainsbourg - Elisa"
 tags:
-    - -draft
     - musique/chanson
 ---
 

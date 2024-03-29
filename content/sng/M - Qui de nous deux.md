@@ -1,7 +1,6 @@
 ---
 title: M - Qui de nous deux
 tags:
-  - -draft
   - musique/chanson
 ---
 

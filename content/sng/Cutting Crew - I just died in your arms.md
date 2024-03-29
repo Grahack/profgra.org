@@ -1,7 +1,6 @@
 ---
 title: Cutting Crew - I just died in your arms
 tags:
-    - -draft
     - musique/chanson
 ---
 

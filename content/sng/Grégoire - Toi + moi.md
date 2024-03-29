@@ -1,7 +1,6 @@
 ---
 title: Grégoire - Toi + moi
 tags:
-    - -draft
     - musique/chanson
 ---
 

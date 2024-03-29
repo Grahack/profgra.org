@@ -1,7 +1,6 @@
 ---
 title: Outkast - Hey ya
 tags:
-    - -draft
     - musique/chanson
 ---
 

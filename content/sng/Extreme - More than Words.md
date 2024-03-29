@@ -1,7 +1,6 @@
 ---
 title: Extreme - More than Words
 tags:
-    - -draft
     - musique/chanson
 ---
 

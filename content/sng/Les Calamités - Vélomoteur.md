@@ -1,7 +1,6 @@
 ---
 title: Les Calamités - Vélomoteur
 tags:
-    - -draft
     - musique/chanson
 ---
 

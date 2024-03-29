@@ -1,7 +1,6 @@
 ---
 title: The Cranberries - Zombie
 tags:
-    - -draft
     - musique/chanson
 ---
 

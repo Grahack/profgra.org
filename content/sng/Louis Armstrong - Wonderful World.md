@@ -1,7 +1,6 @@
 ---
 title: Louis Armstrong - Wonderful World
 tags:
-    - -draft
     - musique/chanson
 ---
 

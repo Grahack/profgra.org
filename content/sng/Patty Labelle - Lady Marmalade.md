@@ -1,7 +1,6 @@
 ---
 title: Patty Labelle - Lady Marmalade
 tags:
-    - -draft
     - musique/chanson
 ---
 

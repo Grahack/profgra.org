@@ -1,7 +1,6 @@
 ---
 title: Earth Wind & Fire - Fantasy
 tags:
-    - -draft
     - musique/chanson
 ---
 

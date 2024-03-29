@@ -1,7 +1,6 @@
 ---
 title: "Irene Cara - Fame"
 tags:
-    - -draft
     - musique/chanson
 ---
 

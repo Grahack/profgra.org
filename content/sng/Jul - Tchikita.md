@@ -1,7 +1,6 @@
 ---
 title: Jul - Tchikita
 tags:
-    - -draft
     - musique/chanson
 ---
 

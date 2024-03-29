@@ -1,7 +1,6 @@
 ---
 title: Benny Benassi - Satisfaction
 tags:
-    - -draft
     - musique/chanson
 ---
 

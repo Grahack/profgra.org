@@ -1,7 +1,6 @@
 ---
 title: Carte de Séjour - Barbès
 tags:
-    - -draft
     - musique/chanson
 ---
 

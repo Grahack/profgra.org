@@ -1,7 +1,6 @@
 ---
 title: Lorie - Près de moi
 tags:
-    - -draft
     - musique/chanson
 ---
 

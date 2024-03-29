@@ -1,7 +1,6 @@
 ---
 title: Dave - Du côté de chez Swan
 tags:
-    - -draft
     - musique/chanson
 ---
 

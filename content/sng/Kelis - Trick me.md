@@ -1,7 +1,6 @@
 ---
 title: Kelis - Trick me
 tags:
-    - -draft
     - musique/chanson
 ---
 

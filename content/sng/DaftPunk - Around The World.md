@@ -1,7 +1,6 @@
 ---
 title: DaftPunk - Around The World
 tags:
-    - -draft
     - musique/chanson
 ---
 

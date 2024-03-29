@@ -1,7 +1,6 @@
 ---
 title: Star Sailor - Four to the Floor
 tags:
-    - -draft
     - musique/chanson
 ---
 

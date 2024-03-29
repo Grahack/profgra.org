@@ -1,7 +1,6 @@
 ---
 title: Stéphanie de Monaco - Comme un ouragan
 tags:
-    - -draft
     - musique/chanson
 ---
 

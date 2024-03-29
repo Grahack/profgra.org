@@ -1,7 +1,6 @@
 ---
 title: Rydann - l'Agriculteur
 tags:
-    - -draft
     - musique/chanson
 ---
 

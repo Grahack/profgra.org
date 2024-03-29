@@ -1,7 +1,6 @@
 ---
 title: Guy Béart - L’eau vive
 tags:
-    - -draft
     - musique/chanson
 ---
 

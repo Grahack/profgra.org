@@ -1,7 +1,6 @@
 ---
 title: Ray Ventura - Scarlatine
 tags:
-    - -draft
     - musique/chanson
 ---
 

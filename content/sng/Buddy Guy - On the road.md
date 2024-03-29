@@ -1,7 +1,6 @@
 ---
 title: Buddy Guy - On the road
 tags:
-    - -draft
     - musique/chanson
 ---
 

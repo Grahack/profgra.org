@@ -1,7 +1,6 @@
 ---
 title: "Chuck Berry - You never can tell"
 tags:
-    - -draft
     - musique/chanson
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: "Anastacia - I'm outta love"
 tags:
-    - -draft
     - musique/chanson
 ---
 

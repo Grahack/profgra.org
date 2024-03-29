@@ -1,7 +1,6 @@
 ---
 title: The Platters - Only you
 tags:
-    - -draft
     - musique/chanson
 ---
 

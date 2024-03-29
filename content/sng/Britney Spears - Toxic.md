@@ -1,7 +1,6 @@
 ---
 title: Britney Spears - Toxic
 tags:
-    - -draft
     - musique/chanson
 ---
 

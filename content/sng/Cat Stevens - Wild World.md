@@ -1,7 +1,6 @@
 ---
 title: Cat Stevens - Wild World
 tags:
-    - -draft
     - musique/chanson
 ---
 

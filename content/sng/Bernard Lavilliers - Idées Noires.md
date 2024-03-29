@@ -1,7 +1,6 @@
 ---
 title: Bernard Lavilliers - Idées Noires
 tags:
-    - -draft
     - musique/chanson
 ---
 

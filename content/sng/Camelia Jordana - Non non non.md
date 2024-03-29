@@ -1,7 +1,6 @@
 ---
 title: Camelia Jordana - Non non non
 tags:
-    - -draft
     - musique/chanson
 ---
 

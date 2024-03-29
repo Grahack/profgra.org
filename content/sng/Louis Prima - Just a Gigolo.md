@@ -1,7 +1,6 @@
 ---
 title: Louis Prima - Just a Gigolo
 tags:
-    - -draft
     - musique/chanson
 ---
 

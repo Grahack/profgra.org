@@ -1,7 +1,6 @@
 ---
 title: Pixies - Where is my mind
 tags:
-    - -draft
     - musique/chanson
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: "Julien Clerc - La fille aux bas nylon"
 tags:
-    - -draft
     - musique/chanson
 ---
 

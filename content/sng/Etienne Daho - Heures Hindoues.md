@@ -1,7 +1,6 @@
 ---
 title: Etienne Daho - Heures Hindoues
 tags:
-    - -draft
     - musique/chanson
 ---
 

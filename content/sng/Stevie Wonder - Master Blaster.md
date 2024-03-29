@@ -1,7 +1,6 @@
 ---
 title: "Stevie Wonder - Master Blaster"
 tags:
-    - -draft
     - musique/chanson
 ---
 

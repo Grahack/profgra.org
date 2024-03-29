@@ -1,7 +1,6 @@
 ---
 title: Har Mar superstar - Lady, you shot me
 tags:
-    - -draft
     - musique/chanson
 ---
 

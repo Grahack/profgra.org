@@ -1,7 +1,6 @@
 ---
 title: Cher - Strong Enough
 tags:
-    - -draft
     - musique/chanson
 ---
 

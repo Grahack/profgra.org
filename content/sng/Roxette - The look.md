@@ -1,7 +1,6 @@
 ---
 title: Roxette - The look
 tags:
-    - -draft
     - musique/chanson
 ---
 

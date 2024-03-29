@@ -1,7 +1,6 @@
 ---
 title: Mickael Miro - L'horloge tourne
 tags:
-    - -draft
     - musique/chanson
 ---
 

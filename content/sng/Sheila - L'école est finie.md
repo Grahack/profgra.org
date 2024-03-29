@@ -1,7 +1,6 @@
 ---
 title: Sheila - L'école est finie
 tags:
-    - -draft
     - musique/chanson
 ---
 

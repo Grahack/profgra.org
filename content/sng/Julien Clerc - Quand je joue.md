@@ -1,7 +1,6 @@
 ---
 title: Julien Clerc - Quand je joue
 tags:
-    - -draft
     - musique/chanson
 ---
 

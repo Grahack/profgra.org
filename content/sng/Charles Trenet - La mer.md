@@ -1,7 +1,6 @@
 ---
 title: Charles Trenet - La mer
 tags:
-    - -draft
     - musique/chanson
 ---
 

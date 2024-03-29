@@ -1,7 +1,6 @@
 ---
 title: Aretha Franklin - Think
 tags:
-    - -draft
     - musique/chanson
 ---
 

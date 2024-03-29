@@ -1,7 +1,6 @@
 ---
 title: Cypress Hill - Rock superstar
 tags:
-    - -draft
     - musique/chanson
 ---
 

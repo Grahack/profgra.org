@@ -1,7 +1,6 @@
 ---
 title: Alain Chamfort - Manureva
 tags:
-    - -draft
     - musique/chanson
 ---
 

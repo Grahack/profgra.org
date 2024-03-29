@@ -1,7 +1,6 @@
 ---
 title: Whitesnake - Crying in the rain
 tags:
-    - -draft
     - musique/chanson
 ---
 

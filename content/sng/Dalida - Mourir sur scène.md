@@ -1,7 +1,6 @@
 ---
 title: "Dalida - Mourir sur scène"
 tags:
-    - -draft
     - musique/chanson
 ---
 

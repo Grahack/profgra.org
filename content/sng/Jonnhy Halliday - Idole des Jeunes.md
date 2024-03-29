@@ -1,7 +1,6 @@
 ---
 title: Jonnhy Halliday - Idole des Jeunes
 tags:
-    - -draft
     - musique/chanson
 ---
 

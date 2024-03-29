@@ -1,7 +1,6 @@
 ---
 title: Yodelice - Sunday with a flu
 tags:
-    - -draft
     - musique/chanson
 ---
 

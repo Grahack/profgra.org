@@ -1,7 +1,6 @@
 ---
 title: Daran - Olivia
 tags:
-    - -draft
     - musique/chanson
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: "Tradi - Douce nuit"
 tags:
-    - -draft
     - musique/chanson
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Samantha Fox - Touch me
 tags:
-    - -draft
     - musique/chanson
 ---
 

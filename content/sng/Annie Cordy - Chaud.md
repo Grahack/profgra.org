@@ -1,7 +1,6 @@
 ---
 title: Annie Cordy - Chaud
 tags:
-    - -draft
     - musique/chanson
 ---
 

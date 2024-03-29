@@ -1,7 +1,6 @@
 ---
 title: James Blunt - You're beautiful
 tags:
-    - -draft
     - musique/chanson
 ---
 

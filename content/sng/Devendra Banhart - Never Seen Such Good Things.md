@@ -1,7 +1,6 @@
 ---
 title: Devendra Banhart - Never Seen Such Good Things
 tags:
-    - -draft
     - musique/chanson
 ---
 

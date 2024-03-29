@@ -1,7 +1,6 @@
 ---
 title: Jimmy Cliff - Reggae Night
 tags:
-    - -draft
     - musique/chanson
 ---
 

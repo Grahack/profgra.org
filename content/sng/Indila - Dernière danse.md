@@ -1,7 +1,6 @@
 ---
 title: Indila - Dernière danse
 tags:
-    - -draft
     - musique/chanson
 ---
 

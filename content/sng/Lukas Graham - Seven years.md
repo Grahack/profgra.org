@@ -1,7 +1,6 @@
 ---
 title: Lukas Graham - Seven years
 tags:
-    - -draft
     - musique/chanson
 ---
 

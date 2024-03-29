@@ -1,7 +1,6 @@
 ---
 title: La Grande Sophie - Ma première ride
 tags:
-    - -draft
     - musique/chanson
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Fela Kuti - Zombie
 tags:
-    - -draft
     - musique/chanson
 ---
 

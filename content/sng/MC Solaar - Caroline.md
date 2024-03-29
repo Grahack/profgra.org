@@ -1,7 +1,6 @@
 ---
 title: MC Solaar - Caroline
 tags:
-    - -draft
     - musique/chanson
 ---
 

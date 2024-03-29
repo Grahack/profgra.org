@@ -1,7 +1,6 @@
 ---
 title: France Gall - Débranche
 tags:
-  - -draft
   - musique/chanson
 ---
 

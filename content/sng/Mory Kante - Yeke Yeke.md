@@ -1,7 +1,6 @@
 ---
 title: Mory Kante - Yeke Yeke
 tags:
-    - -draft
     - musique/chanson
 ---
 

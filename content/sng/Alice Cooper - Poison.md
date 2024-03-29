@@ -1,7 +1,6 @@
 ---
 title: Alice Cooper - Poison
 tags:
-    - -draft
     - musique/chanson
 ---
 

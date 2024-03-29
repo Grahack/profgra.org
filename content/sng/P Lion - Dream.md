@@ -1,7 +1,6 @@
 ---
 title: P Lion - Dream
 tags:
-    - -draft
     - musique/chanson
 ---
 

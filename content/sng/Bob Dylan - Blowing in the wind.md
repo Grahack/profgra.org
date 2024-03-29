@@ -1,7 +1,6 @@
 ---
 title: Bob Dylan - Blowing in the wind
 tags:
-    - -draft
     - musique/chanson
 ---
 

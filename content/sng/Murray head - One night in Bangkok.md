@@ -1,7 +1,6 @@
 ---
 title: Murray head - One night in Bangkok
 tags:
-    - -draft
     - musique/chanson
 ---
 

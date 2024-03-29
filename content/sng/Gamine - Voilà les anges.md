@@ -1,7 +1,6 @@
 ---
 title: Gamine - Voilà les anges
 tags:
-    - -draft
     - musique/chanson
 ---
 

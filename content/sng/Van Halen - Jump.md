@@ -1,7 +1,6 @@
 ---
 title: "Van Halen - Jump"
 tags:
-    - -draft
     - musique/chanson
 ---
 

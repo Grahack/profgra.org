@@ -1,7 +1,6 @@
 ---
 title: Eddy Grant - Gimme hope Jo'Anna
 tags:
-    - -draft
     - musique/chanson
 ---
 

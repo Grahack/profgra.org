@@ -1,7 +1,6 @@
 ---
 title: Kelly Clarkson - Because of you
 tags:
-    - -draft
     - musique/chanson
 ---
 

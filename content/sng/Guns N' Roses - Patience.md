@@ -1,7 +1,6 @@
 ---
 title: "Guns N' Roses - Patience"
 tags:
-    - -draft
     - musique/chanson
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Benjamin Biolay - Quinze août
 tags:
-    - -draft
     - musique/chanson
 ---
 

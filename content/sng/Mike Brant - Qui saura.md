@@ -1,7 +1,6 @@
 ---
 title: Mike Brant - Qui saura
 tags:
-    - -draft
     - musique/chanson
 ---
 

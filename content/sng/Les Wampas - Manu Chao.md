@@ -1,7 +1,6 @@
 ---
 title: Les Wampas - Manu Chao
 tags:
-    - -draft
     - musique/chanson
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Mel & Kim - Respectable
 tags:
-    - -draft
     - musique/chanson
 ---
 

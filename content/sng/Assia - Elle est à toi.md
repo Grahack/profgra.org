@@ -1,7 +1,6 @@
 ---
 title: Assia - Elle est à toi
 tags:
-    - -draft
     - musique/chanson
 ---
 

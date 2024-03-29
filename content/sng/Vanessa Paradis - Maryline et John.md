@@ -1,7 +1,6 @@
 ---
 title: Vanessa Paradis - Maryline et John
 tags:
-    - -draft
     - musique/chanson
 ---
 

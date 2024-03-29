@@ -1,7 +1,6 @@
 ---
 title: Izia - Sous les pavés
 tags:
-    - -draft
     - musique/chanson
 ---
 

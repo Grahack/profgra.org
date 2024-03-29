@@ -1,7 +1,6 @@
 ---
 title: The Ramones - Teenage Lobotomy
 tags:
-    - -draft
     - musique/chanson
 ---
 

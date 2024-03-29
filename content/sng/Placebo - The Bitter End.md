@@ -1,7 +1,6 @@
 ---
 title: Placebo - The Bitter End
 tags:
-    - -draft
     - musique/chanson
 ---
 

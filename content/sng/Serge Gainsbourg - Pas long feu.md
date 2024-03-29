@@ -1,7 +1,6 @@
 ---
 title: Serge Gainsbourg - Pas long feu
 tags:
-    - -draft
     - musique/chanson
 ---
 

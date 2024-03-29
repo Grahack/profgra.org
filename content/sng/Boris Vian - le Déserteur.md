@@ -1,7 +1,6 @@
 ---
 title: Boris Vian - le Déserteur
 tags:
-    - -draft
     - musique/chanson
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Georges Brassens - Mauvaise Réputation
 tags:
-    - -draft
     - musique/chanson
 ---
 

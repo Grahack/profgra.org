@@ -1,7 +1,6 @@
 ---
 title: Bourvil - C'était bien
 tags:
-    - -draft
     - musique/chanson
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Cake - The Distance
 tags:
-    - -draft
     - musique/chanson
 ---
 

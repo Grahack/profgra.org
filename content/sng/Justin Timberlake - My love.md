@@ -1,7 +1,6 @@
 ---
 title: Justin Timberlake - My love
 tags:
-    - -draft
     - musique/chanson
 ---
 

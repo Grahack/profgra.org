@@ -1,7 +1,6 @@
 ---
 title: Yves Montand - A bicyclette
 tags:
-    - -draft
     - musique/chanson
 ---
 
