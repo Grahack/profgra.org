@@ -1,8 +1,8 @@
 ---
-title: "Exercice"
+title: Exercice
 tags:
-    - -draft
-    - yo
+  - -draft
+  - yo
 ---
 
 
