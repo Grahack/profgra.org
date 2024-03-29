@@ -17,6 +17,7 @@ tags:
   - Sco
 - Aldo Romano
 - Alex Van Halen
+- André Ceccarelli
 - Anika Nilles
   - [Exploring Quintuplets (Drumeo)](https://www.youtube.com/watch?v=C1AtfdNKYug)
 - Antonio Sanchez
