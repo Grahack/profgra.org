@@ -1,7 +1,8 @@
 ---
-title: "Batterie"
+title: Batterie
 tags:
-    - musique/batterie
+  - musique/batterie
+  - portail
 ---
 
 - [[Batteurs]]

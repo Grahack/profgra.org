@@ -1,9 +1,10 @@
 ---
-title: "Théorie musicale"
+title: Théorie musicale
 tags:
-    - -draft
-    - peda
-    - musique
+  - -draft
+  - peda
+  - musique
+  - portail
 ---
 
 Pour l’instant c’est juste une liste vers des concepts. Chaque page liste

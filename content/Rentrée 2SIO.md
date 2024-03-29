@@ -2,7 +2,7 @@
 title: Rentrée 2SIO
 tags:
   - -draft
-  - yo
+  - classe/SIO
 ---
 
 # État des lieux

@@ -2,6 +2,6 @@
 title: Cadence_Im_IVm_V
 tags:
   - -draft
-  - yo
+  - musique/theorie
 ---
 - [[sng/Madness - One step beyond]]

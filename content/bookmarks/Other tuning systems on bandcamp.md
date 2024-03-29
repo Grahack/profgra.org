@@ -1,8 +1,8 @@
 ---
-title: "Other tuning systems on bandcamp"
+title: Other tuning systems on bandcamp
 tags:
-    - -draft
-    - music/theory
+  - -draft
+  - musique/theorie
 ---
 
 [Go](https://daily.bandcamp.com/lists/alternate-tuning-list)

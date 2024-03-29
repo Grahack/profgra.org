@@ -1,7 +1,8 @@
 ---
-title: "Guitare"
+title: Guitare
 tags:
-    - musique/guitare
+  - musique/guitare
+  - portail
 ---
 
 ## Pages connexes

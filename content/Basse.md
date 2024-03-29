@@ -1,8 +1,9 @@
 ---
-title: "Basse"
+title: Basse
 tags:
-    - -todo
-    - musique/basse
+  - -todo
+  - musique/basse
+  - portail
 ---
 
 - [[Bassistes]]
