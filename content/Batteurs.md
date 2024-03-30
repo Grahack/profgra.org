@@ -2,7 +2,7 @@
 title: Batteurs
 tags:
   - -draft
-  - batterie
+  - musique/batterie
 ---
 
 ## A

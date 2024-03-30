@@ -1,8 +1,8 @@
 ---
-title: "Piano"
+title: Piano
 tags:
-    - gammes
-    - clavier
+  - musique/gammes
+  - musique/clavier
 ---
 
 # Doigtés pour les gammes majeures

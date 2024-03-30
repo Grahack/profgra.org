@@ -1,3 +1,3 @@
-#bookmark #jeu #xkcd
+#jeu #xkcd
 
 [Go](https://xkcd.com/832/)

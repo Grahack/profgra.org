@@ -2,8 +2,8 @@
 title: QD 10 boring habits to break
 tags:
   - -draft
-  - drums
   - peda
+  - musique/batterie
 ---
 
 [La video](https://www.youtube.com/watch?v=bRuiULLAQHg)

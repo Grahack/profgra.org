@@ -1,9 +1,9 @@
 ---
-title: "microBit"
+title: microBit
 tags:
-    - -draft
-    - péda
-    - info/hardware
+  - -draft
+  - info/hardware
+  - peda
 ---
 
 Carte de développement ludique et pédagogique simplissime.

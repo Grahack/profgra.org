@@ -2,8 +2,7 @@
 title: Dyyp
 tags:
   - -draft
-  - theorie
-  - musique
+  - musique/theorie
 ---
 
 Dyyp est une modélisation de

@@ -1,3 +1,3 @@
-#bookmark #classe/SIO #info/algo 
+#classe/SIO #info/algo
 
 [Go](http://maths.alwaysdata.net/?id=50)

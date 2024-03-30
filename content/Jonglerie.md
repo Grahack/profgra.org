@@ -1,7 +1,7 @@
 ---
-title: "Jonglerie"
+title: Jonglerie
 tags:
-    - jongle
+  - jonglerie
 ---
 
 - [[Importance de la main faible]]
