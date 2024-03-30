@@ -68,6 +68,7 @@ Les statuts commencent par un tiret:
 Les autres tags sont des sujets, avec utilisation massive des sous-tags
 (le séparateur est le `/`).
 
+* bookmarks (pages au sujet des signets ou marque-pages, dont parfois certaines dans le dossier `bookmarks`)
 * info
 * info/POO
 * info/algo
