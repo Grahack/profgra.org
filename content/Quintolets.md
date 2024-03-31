@@ -16,3 +16,4 @@ coups en jouant `X+O+O-X+O-`. Le premier `-` est sur la croche.
 
 Compter `1234512345` pour commencer, puis `1-2-3&4-5-`.
 
+La première moitié peut être bouclée: `X+oXo`.
