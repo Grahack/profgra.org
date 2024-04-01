@@ -11,7 +11,8 @@ tags:
 
 * Homepage (pour prendre la place de l’utilisateur
   qui arrive sur mon site) avec la page
-  `index.md` ouverte en mode « Vue ».
+  `index.md` ouverte en mode « Vue ».  
+  En fait un signet fait l'affaire.
 * Customizable sidebar (pour la simplifier)
 * ...
 
