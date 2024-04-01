@@ -39,7 +39,7 @@ tags:
 #### Outils informatiques
 
 - [[Éditeurs]]
-- [[vim]] - [[git]] - [[Termux]]
+- [[Shell]] - [[vim]] - [[git]] - [[Termux]]
 - [[Idle]] - [[Python Tutor]]
 
 ## Musique
