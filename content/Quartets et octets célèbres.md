@@ -2,9 +2,9 @@
 title: Quartets et octets célèbres
 tags:
   - -draft
-  - numeration
   - classe/1NSI
   - classe/SIO
+  - maths/numération
 ---
 
 [[pdf/quartets_et_octets_celebres.pdf|Le pdf]]

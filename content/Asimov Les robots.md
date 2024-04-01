@@ -1,8 +1,8 @@
 ---
-title: "Asimov Les robots"
+title: Asimov Les robots
 tags:
-    - livre
-    - robotique
+  - livre
+  - info/robotique
 ---
 
 1. Robbie, nounou

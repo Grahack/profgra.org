@@ -1,9 +1,10 @@
 ---
-title: "Numération"
+title: Numération
 tags:
-    - -draft
-    - classe/SIO
-    - maths
+  - -draft
+  - classe/SIO
+  - -todo
+  - maths/numération
 ---
 
 ## Activité introductive

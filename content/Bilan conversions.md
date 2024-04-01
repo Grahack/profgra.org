@@ -1,12 +1,12 @@
 ---
-title: "Bilan conversions"
+title: Bilan conversions
 tags:
-    - info
-    - NSI
-    - classe/1NSI
-    - classe/TNSI
-    - peda/activite
-    - conversions
+  - info
+  - NSI
+  - classe/1NSI
+  - classe/TNSI
+  - peda/activite
+  - maths/numération
 ---
 
 1. On a 6 conversions possibles entre décimal,
