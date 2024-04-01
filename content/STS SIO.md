@@ -8,7 +8,7 @@ tags:
 Section de Technicien Supérieur en
 Services Informatiques aux Organisations
 
-[Lien WP](https://fr.wikipedia.org/wiki/Brevet_de_technicien_sup%C3%A9rieur_-_Services_informatiques_aux_organisations) - [Référentiel sur le site du Certa](https://www.reseaucerta.org/le-nouveau-bts-sio-2021)
+[Page WP](https://fr.wikipedia.org/wiki/Brevet_de_technicien_sup%C3%A9rieur_-_Services_informatiques_aux_organisations) - [Référentiel sur le site du Certa](https://www.reseaucerta.org/le-nouveau-bts-sio-2021)
 
 ## Progression
 
