@@ -2,7 +2,7 @@
 title: random
 tags:
   - -draft
-  - python
+  - info/lang/python
 ---
 
 ```python

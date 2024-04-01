@@ -2,7 +2,7 @@
 title: Évaluation algo et prog
 tags:
   - -draft
-  - algo
+  - info/algo
 ---
 
 # Tâches

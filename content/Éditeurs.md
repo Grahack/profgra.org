@@ -1,8 +1,8 @@
 ---
 title: Éditeurs
 tags:
-  - info/outils/editeurs
   - portail
+  - info/outil/éditeur
 ---
 
 ## Éditeurs de code ou environnements de programmation

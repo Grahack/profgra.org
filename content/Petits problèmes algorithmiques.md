@@ -2,7 +2,7 @@
 title: Petits problèmes algorithmiques
 tags:
   - -draft
-  - algo
+  - info/algo
 ---
 
 - compteur de 1 à 1000 qui affiche 3, 2, 1, 0 à 997 998 999 1000

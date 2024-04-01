@@ -1,7 +1,7 @@
 ---
-title: "git"
+title: git
 tags:
-    - info/outils
+  - info/outil
 ---
 
 Outil de gestion des versions d’un système de fichiers.

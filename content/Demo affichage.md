@@ -1,7 +1,8 @@
 ---
-title: "Démo affichage"
+title: Démo affichage
 tags:
-    - test
+  - obsidian
+  - test
 ---
 
 ## Titre y

@@ -1,7 +1,7 @@
 ---
-title: "vim"
+title: vim
 tags:
-    - info/outils/editeurs
+  - info/outil/éditeur
 ---
 
 ```

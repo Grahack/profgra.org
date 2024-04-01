@@ -1,9 +1,9 @@
 ---
-title: "Brython"
+title: Brython
 tags:
-    - -draft
-    - info
-    - outil
+  - -draft
+  - info/lang/python
+  - info/web
 ---
 
 Brython est une implémentation de [[Python]] en [[JavaScript]]. Elle permet :

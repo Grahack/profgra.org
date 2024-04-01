@@ -1,4 +1,4 @@
-#peda #outil #info/lang/python 
+#peda #outil #info/lang/python #info/web
 
 # Pyodide-mkdocs
 

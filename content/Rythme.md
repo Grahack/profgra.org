@@ -1,7 +1,8 @@
 ---
-title: "Rythme"
+title: Rythme
 tags:
-    - musique/rythme
+  - musique/rythme
+  - portail
 ---
 
 ## Notation GRA
