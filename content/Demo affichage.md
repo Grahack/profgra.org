@@ -40,7 +40,7 @@ efe edB | dBA ABd | efe edB | gdB ABd |
 efe edB | d2d def | gfe edB |1 dBA ABd :|2 dBA AFD |]
 </pre>
 
-Lien interne : [[Demo affichage#Titre y]]
+Lien interne : [[Demo affichage#Titre y|clic!]]
 
 ## LaTeX
 
