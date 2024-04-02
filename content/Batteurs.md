@@ -104,6 +104,8 @@ tags:
   - [Compil](https://youtu.be/utt0zCe4RUY)
 - Dana Hawkins
   - [Podcast 8020](https://www.youtube.com/watch?v=GT7JBQK0OyE)
+- Danny Carey
+  - [Beato itw](https://youtu.be/0ErsWJw28XU)
 - Dave DiCenso
   - [Compil](https://www.youtube.com/watch?v=6CwdPi0Uyss)
 - Dave Early
@@ -259,6 +261,7 @@ tags:
 - Lars Ulrich
 - Lenny White
   - [WP](https://en.wikipedia.org/wiki/Lenny_White)
+  - [Astral Pirates](https://youtu.be/qQNATz_Pj5w)
 - Louis Cole
 
 ## M
