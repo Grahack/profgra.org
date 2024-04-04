@@ -980,7 +980,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - [[sng/Shakira - Waka waka]]
 - [[sng/Shalamar - And The beat goes on]]
 - [[sng/Shalamar - Night to Remember]]
-- [[sng/Shania Twain - That don't Impress me]]
+- [[sng/Shania Twain - That don't Impress me much]]
 - [[sng/Sheila - L'école est finie]]
 - [[sng/Sheryl Crow - All I wanna do]]
 - Shirley Bassey - ?
