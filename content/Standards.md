@@ -4,6 +4,8 @@ tags:
     - musique/standard
 ---
 
+## Apprentissage
+
 Entre parenthèses, la dispo des docs papier en Ut-B♭-basse, avec :
 - S pour « score » (thème et accords) ;
 - R pour réduction (grille seule au format A5) ;
@@ -47,3 +49,7 @@ Sinon (ou autre):
 1. Tune up
 1. Vent du Sud (à mettre ailleurs)
 1. Whisper not
+
+## Compositeurs
+
+- [[Thelonious Monk]]
