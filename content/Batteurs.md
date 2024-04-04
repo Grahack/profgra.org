@@ -56,6 +56,8 @@ tags:
   - [WP](https://en.wikipedia.org/wiki/Billy_Cobham)
 - Billy Kilson
   - Prime Directive
+- Brad Wilk
+  - Rage against the machine
 - Brian Blade
 - Brian Tichy
   - [5 Must-Know John Bonham Drum Licks](https://www.youtube.com/watch?v=1aEz6B7wRfA)
