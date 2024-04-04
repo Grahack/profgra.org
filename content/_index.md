@@ -50,7 +50,7 @@ tags:
   [[Kapzik]] - [[Dyyp]]
 - [[LDQED|Le Défi quasi exhaustif et démagogique]] - [[Standards]]
 - [[Meshuggah]] - [[Pattashuggah]]
-- [[Guitare solo]] - [[Destruction]] - [[Les Carreleurs Américains]]
+- [[Guitare solo]] - [[Destruction]]
 - [[My EPM]]
 
 ## Outils
