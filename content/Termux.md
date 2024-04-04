@@ -4,13 +4,14 @@ tags:
     - -draft
     - info
 ---
+Appli Android qui fournit un terminal et un gestionnaire de paquets pour pouvoir disposer de nos commandes [[Shell]] préférées.
 
-## Purpose
+## Intérêt
 
-I mainly use Termux on Android for:
+Je l'utilise principalement pour:
 
-- easier [[Backups]],
-- sync of my [[Obsidian]] git repository.
+- des [[Backups]] plus commodes avec [[rsync]],
+- la synchro et la public de mon coffre [[Obsidian]] qui est dans un dépôt [[git]].
 
 ## Basic install
 
