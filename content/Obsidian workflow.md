@@ -122,6 +122,7 @@ Il y a des conventions pour le nommage des fichiers.
   * TNSI.md classe/TNSI
   * STS_SIO.md classe/SIO (oui on mélange les deux niveaux)
 * les leçons de youtubers: leurs initiales préfixent le nom du fichier
+  * DF  Darryn Farrugia
   * JD  Jazz Duets
   * JK  Jason Klubnak
   * JPB JP Bouvet
