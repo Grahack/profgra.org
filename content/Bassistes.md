@@ -58,9 +58,9 @@
 ## M
 
 - Marc Johnson
-    - [Bill Evans Trio Nardis 1978](https://www.youtube.com/watch?v=hETmWOrKcRE)
+  - [Bill Evans Trio Nardis 1978](https://www.youtube.com/watch?v=hETmWOrKcRE)
 - Maurice Gibb
-    - Bee Gees
+  - Bee Gees
 - Michael Henderson
   -  [WP](https://en.m.wikipedia.org/wiki/Michael_Henderson)
 - Michel Alibo
