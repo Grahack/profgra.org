@@ -59,6 +59,10 @@
 
 - Marc Johnson
   - [Bill Evans Trio Nardis 1978](https://www.youtube.com/watch?v=hETmWOrKcRE)
+- Matt Johnson
+  - keyboard of Jamiroquai but knows a bit about bass
+  - [Funky Moog Bass](https://www.youtube.com/watch?v=B3zyIcRKQjM)
+  - [How to play left hand bass](https://www.youtube.com/watch?v=gL017qe6Oqs)
 - Maurice Gibb
   - Bee Gees
 - Michael Henderson
