@@ -43,6 +43,7 @@ eval "$(ssh-agent -s)"  # ?
 
 ssh -T git@github.com  # OK, add to known_hosts
 
+git clone git@github.com:Grahack/dotfiles.git
 git clone git@github.com:Grahack/profgra.org.git .
 ```
 
