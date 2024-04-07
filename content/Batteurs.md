@@ -108,6 +108,7 @@ tags:
   - [Podcast 8020](https://www.youtube.com/watch?v=GT7JBQK0OyE)
 - Danny Carey
   - [Beato itw](https://youtu.be/0ErsWJw28XU)
+  - [drum cam from 2002](https://www.youtube.com/watch?v=D5dh50LBtnc)
 - Dave DiCenso
   - [Compil](https://www.youtube.com/watch?v=6CwdPi0Uyss)
 - Dave Early
