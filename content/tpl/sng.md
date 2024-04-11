@@ -1,7 +1,6 @@
 ---
 title: "{{title}}"
 tags:
-    - -draft
     - musique/chanson
 ---
 
