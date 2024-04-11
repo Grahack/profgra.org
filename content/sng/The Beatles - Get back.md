@@ -1,7 +1,7 @@
 ---
-title: "The Beatles - Get back"
+title: The Beatles - Get back
 tags:
-    - musique/chanson
+  - musique/chanson
 ---
 
 Page créée automatiquement, mais vide.

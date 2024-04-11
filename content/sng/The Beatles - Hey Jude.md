@@ -1,7 +1,7 @@
 ---
-title: "The Beatles - Hey Jude"
+title: The Beatles - Hey Jude
 tags:
-    - musique/chanson
+  - musique/chanson
 ---
 
 Page créée automatiquement, mais vide.

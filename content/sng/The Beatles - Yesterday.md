@@ -1,7 +1,7 @@
 ---
-title: "The Beatles - Yesterday"
+title: The Beatles - Yesterday
 tags:
-    - musique/chanson
+  - musique/chanson
 ---
 
 Page créée automatiquement, mais vide.

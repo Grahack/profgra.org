@@ -1,7 +1,7 @@
 ---
-title: "The Beatles - Twist and shout"
+title: The Beatles - Twist and shout
 tags:
-    - musique/chanson
+  - musique/chanson
 ---
 
 Page créée automatiquement, mais vide.

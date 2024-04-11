@@ -1,7 +1,7 @@
 ---
-title: "The Beatles - Blackbird"
+title: The Beatles - Blackbird
 tags:
-    - musique/chanson
+  - musique/chanson
 ---
 
 Page créée automatiquement, mais vide.
