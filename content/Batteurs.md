@@ -309,6 +309,9 @@ tags:
   - [Un solo](https://www.youtube.com/watch?v=y-Qx8u-VYuA)
 - Nate Wood
   - Kneebody
+  - [fOUR - Rabbit](https://www.youtube.com/watch?v=eQCMbbkEAEI)
+  - [fOUR - Addendum](https://www.youtube.com/watch?v=8hIHnSBTHsg)
+  - Il a quand même remplacé le bassiste de son groupe tout en restant à la batterie !
 - Neil Peart
   - Rush
 - Nick D’Virgilio
