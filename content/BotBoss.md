@@ -12,6 +12,11 @@ BotBoss est le patron des robots. Il joue du synthé-basse avec son bras gauche,
 
 - Xavier Tribolet sur un morceau de techno à la fin d'un concert de Clarika (fin 2007 début 2008?)
 - Josh Dion, Nate Wood (deux [[Batteurs]] jouant du clavier en même temps que de la batterie)
+  - [Josh Dion - Vision Complete (2015)](https://www.youtube.com/watch?v=Bwpx3_kovLA)
+  - [Josh Dion - Vision Complete (2016)](https://www.youtube.com/watch?v=4fcZNg5Kw1A)
+  - [Josh Dion - Further up on the road](https://www.youtube.com/watch?v=yaPKnSz9gu0)
+  - [fOUR - Rabbit](https://www.youtube.com/watch?v=eQCMbbkEAEI)
+  - [fOUR - Addendum](https://www.youtube.com/watch?v=8hIHnSBTHsg)
 - 25 septembre 2023 au lycée, une démo que j’ai eu à faire tout seul, merci COVID19
 
 ## Idées
