@@ -48,3 +48,20 @@ Tract Gallimard numéro 49
   - elle élisait pour moitié des linguistes ?
   - on créait un véritable collège des francophones ?
   - on proposait une introduction à la lexicographie ?
+
+# 5. Le français n’a pas une orthographe parfaite
+
+- Idées reçues
+  - Les francophones écrivent de plus en plus mal
+  - L’orthographe, c’est la langue
+  - La réforme, c’est « l’émeute des vivants contre les morts »
+- L’orthographe n’est pas la langue
+- L’orthographe française n’est pas toujours logique ni étymologique
+- Les jeunes n’écrivent pas de plus en plus mal…
+- …mais la maîtrise de l’orthographe régresse
+- Il faut moins de dictées
+- Réformer l’orthographe est un nivellement par le haut
+- Et si ?
+  - on revoyait la place de l’orthographe en tant qu’outil de sélection ?
+    - on appliquait 1990 ?
+    - on autorisait les correcteurs en examen ? (comme la calto)
