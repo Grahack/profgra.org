@@ -41,7 +41,7 @@
 
 - James Genus
 - Jean-Marc Jafet
-	- [Basse haut de gamme](https://www.youtube.com/watch?v=GY9yrStBmJQ)
+  - [Basse haut de gamme](https://www.youtube.com/watch?v=GY9yrStBmJQ)
 - John Paul Jones
   - [[https://www.guitarworld.com/features/the-10-most-famous-bass-guitars-of-led-zeppelins-john-paul-jones|his basses @guitarworld]]
 - Julian Crampton
