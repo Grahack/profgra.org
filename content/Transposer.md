@@ -15,7 +15,7 @@ Idées de phrases à transposer.
 - Here's to you
 - On est là 
 - Inspecteur Gadget
-- Rencontre du 3e type
+- Rencontre du 3e type, Big Ben
 - Take a chance
 - Starwars 5551... 5 4328... 5 4328... 5 4342...
 
@@ -42,3 +42,7 @@ Idées de phrases à transposer.
 ## Mixolydien
 
 - Funky Town
+
+## Autres
+
+- Thordendal
