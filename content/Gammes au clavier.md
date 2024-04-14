@@ -24,6 +24,15 @@ B    4321 4321 car 4te et 8ve sur blanche, et pas de pouce sur F#
 *   321 car 4te sur noire
 **  4321 car 4te sur blanche, 321 car 8ve sur noire
 ```
+
+```plain
+                 F#
+G__A__B_C__D__E_/ \G
+
+       Bb
+F__G__A/ \__C__D__E_F
+```
+
 # Doigtés pour les gammes mineures
 
 Aéolien et dorien : mêmes doigtés, sauf pour Bbm.
