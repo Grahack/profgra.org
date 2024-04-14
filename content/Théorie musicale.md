@@ -10,6 +10,8 @@ tags:
 Pour l’instant c’est juste une liste vers des concepts. Chaque page liste
 des morceaux de musique qui utilise ledit concept.
 
+La théorie, c'est bien, mais il ne faut pas en abuser. Plutôt qu'une source de *prescriptions*, il faut la voir comme un outil pour produire des *descriptions*.
+
 - [[Gammes majeures et MMTS]]
 
 ## Cadences
