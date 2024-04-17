@@ -12,6 +12,9 @@ des morceaux de musique qui utilise ledit concept.
 
 La théorie, c'est bien, mais il ne faut pas en abuser. Plutôt qu'une source de *prescriptions*, il faut la voir comme un outil pour produire des *descriptions*.
 
+## Articles
+
+- [La dièse ou Si bémol](https://profgra.org/lycee/blog.2021-05-27.La_diese_ou_si_bemol.html)
 - [[Gammes majeures et MMTS]]
 
 ## Cadences
