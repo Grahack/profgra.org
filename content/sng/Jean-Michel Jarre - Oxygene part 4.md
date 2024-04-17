@@ -4,4 +4,4 @@ tags:
     - musique/chanson
 ---
 
-Page créée automatiquement, mais vide.
+[Page Wikipedia](https://fr.wikipedia.org/wiki/Oxyg%C3%A8ne_Part_IV)
