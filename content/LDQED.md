@@ -517,8 +517,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - [[sng/Jeanne Mas - En rouge et Noir]]
 - [[sng/Jeanne Mas - Toute première fois]]
 - Jeff Buckley - ?
-- White Rabbit
-- Jefferson Airplane - ?
+- [[sng/Jefferson Airplane - White Rabbit]]
 - [[sng/Jenifer - Au soleil]]
 - [[sng/Jermaine Jackson - Do what you do]]
 - [[sng/Jerry Lee Lewis - Great balls of fire]]
