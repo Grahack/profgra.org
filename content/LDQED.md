@@ -767,6 +767,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - [[sng/Nelly Furtado - Say it right]]
 - [[sng/Nena - 99 Luftballons]]
 - [[sng/Neneh Cherry - Buffalo Stance]]
+- [[sng/New Order - Blue Monday]]
 - [[sng/Niagara - Guerre]]
 - Nick Cave - ?
 - [[sng/Nick Drake - River man]]
