@@ -52,6 +52,8 @@ tags:
   - King Crimson
      -  [Waiting Man (live)](https://www.youtube.com/watch?v=QTUgaThmZj8)
 - Bill Stewart
+- Bill Ward
+  - Black Sabbath
 - Billy Cobham
   - [WP](https://en.wikipedia.org/wiki/Billy_Cobham)
 - Billy Kilson
@@ -244,6 +246,7 @@ tags:
   - [Further up on the road](https://www.youtube.com/watch?v=yaPKnSz9gu0)
 - Josh Freese
   - [WP](https://fr.wikipedia.org/wiki/Josh_Freese)
+  - [Beato itw](https://www.youtube.com/watch?v=jyKjADpkDLs) (April 2024)
 - JP Bouvet
 - Julien Sérié
 
@@ -401,6 +404,8 @@ tags:
 - Thomas Pridgen
 - Tim Alexander
   - Primus
+  - A Perfect Circle
+  - [WP](https://en.wikipedia.org/wiki/Tim_Alexander)
 - Todd Sucherman
   - [Rope from Foo Fighters (first listen)](https://www.youtube.com/watch?v=0ZrmrlTtd3s)
 - Tommy Lee

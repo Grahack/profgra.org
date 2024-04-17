@@ -48,6 +48,12 @@
   - [[https://www.guitarworld.com/features/the-10-most-famous-bass-guitars-of-led-zeppelins-john-paul-jones|his basses @guitarworld]]
 - Julian Crampton
 
+## K
+
+- Kim Deal
+  - [WP](https://en.wikipedia.org/wiki/Kim_Deal)
+  - Pixies
+  - The Breeders
 ## L
 
 - Les Claypool
@@ -87,6 +93,10 @@
 
 - Pat Badger
   - Extreme
+- Paz Lenchantin
+  - [WP](https://en.wikipedia.org/wiki/Paz_Lenchantin)
+  - A Perfect Circle
+  - Pixies
 - Percy Heath
   - [PdBass story](https://www.youtube.com/watch?v=P-zFxabARsc)
 
