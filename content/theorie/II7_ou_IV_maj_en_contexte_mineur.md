@@ -61,6 +61,7 @@ title: "II7 ou IV maj en contexte mineur"
 - [[sng/The Beatles - Help]]
 - [[sng/The Beatles - While my guitar gently weeps]]
 - [[sng/The Beatles - Yesterday]]
+- [[sng/The Eagles - Lyin' Eyes]]
 - [[sng/The Rolling Stones - Paint it black]]
 - [[sng/The Supremes - Can't hurry love]]
 - [[sng/Thierry Hazard - Le jerk]]

@@ -34,6 +34,7 @@ Celte, mixo, western
 - [[sng/Steppenwolf - Born to be wild]]
 - [[sng/Lynyrd Skynyrd - Sweet home Alabama]]
 - [[sng/The Beatles - Get back]]
+- [[The Beatles - Hey Jude]]
 - [[sng/The Romantics - What I like about you]]
 - [[sng/Vanessa Paradis - Dans le mot je t'aime]]
 
