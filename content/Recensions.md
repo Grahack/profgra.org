@@ -37,3 +37,4 @@ tags:
 - [[Le français va très bien, merci]]
 - [[Mathematica]]
 - [[ENIAC in action]]
+- [[Vaideology]]
