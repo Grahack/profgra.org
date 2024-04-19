@@ -10,6 +10,7 @@ title: "Premier renversement"
 - [[sng/Europe - Final Countdown]]
 - [[sng/Gérard Blanc - Une autre histoire]]
 - [[sng/Gold - Capitaine abandonné]]
+- [[sng/Guns N' Roses - Patience]]
 - [[sng/Jeanne Mas - Toute première fois]]
 - [[sng/Jean-Jacques Goldman - Il changeait la vie]]
 - [[sng/Jean-Jacques Goldman - J'irai au bout de mes rêves]]
