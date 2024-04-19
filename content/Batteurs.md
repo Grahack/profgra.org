@@ -410,6 +410,8 @@ tags:
   - [Rope from Foo Fighters (first listen)](https://www.youtube.com/watch?v=0ZrmrlTtd3s)
 - Tommy Lee
 - Tommy Igoe
+- Tony Allen
+  - [Doc on the Off Beat channel](https://www.youtube.com/watch?v=9RDfvRIYBrc)
 - Tony Royster Jr.
   - [Crazy metronome practice with the TD-30](https://www.youtube.com/watch?v=Yh8PATuI_NU)
 - Tony Williams
