@@ -135,6 +135,7 @@ Il y a des conventions pour le nommage des fichiers.
   * QD  Quincy Davis
   * RC  Ross Campbell
   * RB  Rich Brown
+  - ST  Stephen Taylor ([YT channel](https://www.youtube.com/@StephenTaylorDrums))
   * SVS Sir Valor Sax
   * WK  Wayne Krantz
   * ZG  Zack Grooves
