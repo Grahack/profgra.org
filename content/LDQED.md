@@ -874,7 +874,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - [[sng/Police - So Lonely]]
 - [[sng/Porcupine Tree - Arriving]]
 - [[sng/Prefab Sprout - Cars and Girls]]
-- [[sng/Presidents of The USA - Lump]]
+- [[sng/Presidents of The USA - Peaches]]
 - Pricess Erika - ?
 - [[sng/Primus - John The Fisherman]]
 - Prince - ?
@@ -1090,7 +1090,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - [[sng/The Pretenders - I go to sleep]]
 - [[sng/The Ramones - Teenage Lobotomy]]
 - [[sng/The Rasmus - In The shadows]]
-- [[The Rembrants - Friends]]
+- [[sng/The Rembrants - Just the way it is, baby]]
 - [[sng/The Rolling Stones - Honky Tonk Woman]]
 - [[sng/The Ronnettes - Be my baby]]
 - The Roots - ?
