@@ -15,6 +15,7 @@ title: "IVm"
 - [[sng/Gilbert Montagné - Sunlights des tropiques]]
 - [[sng/Harold Melvin and the Blue Notes - If you don't know me by now]]
 - [[sng/Joe Dassin - Le petit pain au chocolat]]
+- [[sng/Juliette Armanet - Flamme]]
 - [[sng/Justice - DANCE]]
 - [[sng/Mike Brant - C'est comme ça que je t'aime]]
 - [[sng/Nino Ferrer - Le Sud]]
