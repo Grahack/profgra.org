@@ -42,6 +42,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - [[sng/Alannah Myles - Black Velvet]]
 - [[sng/Aldebert - Pour louper l'école]]
 - Alex Beaupain - ?
+- Alexis HK - ?
 - [[sng/Alice Cooper - Poison]]
 - Alice Dona - ?
 - Alice in Chains - ?
