@@ -909,6 +909,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - Refused - ?
 - [[sng/Regglyss - Mets de l’huile]]
 - [[sng/Régine - Les p'tits papiers]]
+- [[sng/Regrets - J'veux pas rentrer chez moi seule]]
 - [[sng/Renan Luce - Les voisines]]
 - [[sng/Renaud - Mistral Gagnant]]
 - [[sng/Renaud - vent soufflera]]
