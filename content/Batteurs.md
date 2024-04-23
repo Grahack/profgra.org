@@ -184,6 +184,8 @@ tags:
 
 ## G
 
+- Gary Husband
+  - [WP](https://en.wikipedia.org/wiki/Gary_Husband)
 - Gary Novak
 - Gavin Harrison
 - Gene Krupa
