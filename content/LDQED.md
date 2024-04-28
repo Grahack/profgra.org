@@ -38,7 +38,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - [[sng/Alain Souchon - 10 ans]]
 - [[sng/Alain Schneider - Mes p'tits légumes]]
 - [[sng/Alan Stivell - Brian Boru]]
-- Alanis Morissette - ?
+- [[sng/Alanis Morissette - You oughta know]]
 - [[sng/Alannah Myles - Black Velvet]]
 - [[sng/Aldebert - Pour louper l'école]]
 - Alex Beaupain - ?
