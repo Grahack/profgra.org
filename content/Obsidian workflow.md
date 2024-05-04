@@ -123,6 +123,7 @@ Il y a des conventions pour le nommage des fichiers.
   * STS_SIO.md classe/SIO (oui on mélange les deux niveaux)
 * les leçons de youtubers: leurs initiales préfixent le nom du fichier
   * DF  Darryn Farrugia
+  * EK  Espen Kraft
   * JD  Jazz Duets
   * JK  Jason Klubnak
   * JPB JP Bouvet
@@ -131,6 +132,8 @@ Il y a des conventions pour le nommage des fichiers.
   * NGD Stephen Clark (Non Glamorous Drummer)
   * NS  Nate Smith (80/20 drummer)
   * OS  Open Studio
+  * OWS Our Worship Sound
+  * PNT Pianote
   * PT  Paul Thompson
   * QD  Quincy Davis
   * RC  Ross Campbell
