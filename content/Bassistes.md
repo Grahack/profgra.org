@@ -8,6 +8,9 @@
 
 - Chris Squire
   - Yes
+- Colin Greenwood
+  - Radiohead
+  - [WP](https://fr.wikipedia.org/wiki/Colin_Greenwood)
 
 ## D
 
@@ -110,6 +113,9 @@
 
 - Simon Grove
     - Plini, Intervals
+- Steve di Giorgio
+  - [WP](https://en.wikipedia.org/wiki/Steve_Di_Giorgio)
+  - fretless à trois cordes
 
 ## T
 

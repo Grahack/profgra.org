@@ -219,6 +219,11 @@ tags:
 - Jack Dejohnette
 - James Gadson
   - [Snare ep.3](https://www.youtube.com/watch?v=bNHrOuYhsA0)
+- Jamie Oldaker
+  - Cocaine (Clapton's version)
+- Jay Lane
+  - [WP](https://fr.wikipedia.org/wiki/Jay_Lane)
+  - [Demo Primus](https://www.youtube.com/watch?v=vZyLCq6vY9g) (1988)
 - Jay Weinberg
 - JD Beck
 - Jeff Porcaro
@@ -230,6 +235,7 @@ tags:
   - [Stomp chez PD bass](https://youtu.be/F7el0I5BQtw)
 - Jim Riley
   - [Creating beats (Drumeo)](https://www.youtube.com/watch?v=de4mTYcA59g))
+  - [80/20 podcast](https://www.youtube.com/watch?v=4QNTYNhzqIE) (oct 2023)
 - Jim Grandcamp
 - Jim Keltner
 - Joe Morello
@@ -365,6 +371,8 @@ tags:
 - Ringo Starr
 - Rob Brown
 - Robert Sput Searight
+- Roger Taylor
+  - [WP](https://fr.wikipedia.org/wiki/Roger_Taylor)
 - Roy Haynes
 
 ## S
