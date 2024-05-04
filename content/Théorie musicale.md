@@ -7,8 +7,8 @@ tags:
   - portail
 ---
 
-Pour l’instant c’est juste une liste vers des concepts. Chaque page liste
-des morceaux de musique qui utilise ledit concept.
+Pour l’instant c’est juste une liste vers des concepts ou des ouvrages.
+Chaque page liste des morceaux de musique qui utilise ledit concept.
 
 La théorie, c'est bien, mais il ne faut pas en abuser. Plutôt qu'une source de *prescriptions*, il faut la voir comme un outil pour produire des *descriptions*.
 
@@ -16,6 +16,10 @@ La théorie, c'est bien, mais il ne faut pas en abuser. Plutôt qu'une source de
 
 - [La dièse ou Si bémol](https://profgra.org/lycee/blog.2021-05-27.La_diese_ou_si_bemol.html)
 - [[Gammes majeures et MMTS]]
+
+## Ouvrages
+
+- [[Vaideology]]
 
 ## Cadences
 
