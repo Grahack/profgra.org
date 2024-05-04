@@ -16,3 +16,5 @@ tags:
 2. Fonctions
 3. Encodage
 4. ...
+
+[Terminus - le jeu](http://luffah.xyz/bidules/Terminus/)
