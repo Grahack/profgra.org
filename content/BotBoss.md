@@ -53,3 +53,14 @@ ch info | ch humain | émission vers| recept. depuis
 - `Fluid (alt)` souvent un son de piano, orgue, cordes, depuis le [[Keystation]] main droite
 - `Fluid (LK)` souvent un son de basse depuis le [[Launchkey]] main gauche
 - `Fluid (dr)` le canal percussions habituel
+
+## Morceaux
+
+- Chameleon
+- I can't help it
+- All Blues, Footprints
+- Bossa Nova
+
+## Autres Videos intéressantes
+
+- [[OS Why and how to practice bass lines]]
