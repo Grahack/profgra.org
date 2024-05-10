@@ -23,6 +23,7 @@ Celte, mixo, western
 - [[sng/Kool and the Gang - Celebration]]
 - [[sng/Led Zeppelin - All my love]] (Bridge)
 - [[sng/Lenny Kravitz - Are you gonna go my way]] (pont)
+- [[sng/Lynyrd Skynyrd - Sweet home Alabama]]
 - [[sng/Michel Polnareff - La poupée qui fait non]]
 - [[sng/Midnight Oil - Beds are burning]]
 - [[sng/Niagara - Je dois m'en aller]]
@@ -32,10 +33,10 @@ Celte, mixo, western
 - [[sng/Ray Parker Jr. - Ghostbuster]]
 - [[sng/Richard Gotainer - Le Sampa]]
 - [[sng/Steppenwolf - Born to be wild]]
-- [[sng/Lynyrd Skynyrd - Sweet home Alabama]]
 - [[sng/The Beatles - Get back]]
-- [[The Beatles - Hey Jude]]
+- [[sng/The Beatles - Hey Jude]]
 - [[sng/The Romantics - What I like about you]]
+- [[sng/Van Halen - Panama]]
 - [[sng/Vanessa Paradis - Dans le mot je t'aime]]
 
 ## ?

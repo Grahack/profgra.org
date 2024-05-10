@@ -13,6 +13,7 @@ title: "VI7"
 - [[sng/Dalida - Mourir sur scène]]
 - [[sng/Dany Brillant - Suzette]]
 - [[sng/F.R. David - Words]] (mais pas 7)
+- [[sng/France Gall - Viens je t'emmène]]
 - [[sng/George Moustaki - La philosophie]]
 - [[sng/Gérard Blanc - Une autre histoire]] pas 7
 - [[sng/Il était une fois - J'ai encore rêvé d'elle]]
