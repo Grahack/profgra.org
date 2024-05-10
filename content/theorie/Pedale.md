@@ -4,6 +4,7 @@ title: "Pédale"
 
 - [[sng/BO - Summer nights]]
 - [[sng/Brian Adams - Everything I do]]
+- [[sng/DeBarge - Rhythm of the night]]
 - [[sng/France Gall - Débranche]]
 - [[sng/Gold - Plus près des étoiles]]
 - [[sng/INXS - Devil Inside]]
