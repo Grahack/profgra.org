@@ -247,6 +247,9 @@ tags:
 - John Densmore
   - The Doors
 - Jojo Meyer
+- Jon Theodore
+  - [WP](https://fr.wikipedia.org/wiki/Jon_Theodore)
+  - The Mars Volta
 - Jonathan Moffett
 - Josh Dion
   - [Vision Complete (2015)](https://www.youtube.com/watch?v=Bwpx3_kovLA)
@@ -412,6 +415,7 @@ tags:
 - Thomas Haake
 - Thomas Lang
 - Thomas Pridgen
+  - [Off Beat video](https://youtu.be/kSu6PkXPc0g)
 - Tim Alexander
   - Primus
   - A Perfect Circle
