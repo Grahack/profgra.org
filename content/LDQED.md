@@ -526,6 +526,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - [[sng/Jermaine Jackson - Do what you do]]
 - [[sng/Jerry Lee Lewis - Great balls of fire]]
 - [[sng/Jessie J - Mama knows best]]
+- [[sng/Jet - Are you gonna be my girl]]
 - [[sng/Jil Caplan - Tout ce qui nous sépare]]
 - [[sng/Jill Scott - Gimme]]
 - [[sng/Jimi Hendrix - Castles made of sand]]
