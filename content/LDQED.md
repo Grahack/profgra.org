@@ -71,6 +71,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - [[sng/Art of Noise - Moment in love]]
 - [[sng/Arthur H - L'amoureux]]
 - [[sng/Arthur Simms - It's only mystery]]
+- [[sng/Asia - Heat of the moment]]
 - Assassin - ?
 - [[sng/Assia - Elle est à toi]]
 - [[sng/At The Drive In - One armed scissors]]
