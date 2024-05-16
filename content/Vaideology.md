@@ -184,4 +184,94 @@ Diagram of G blues scale (strange to me…):
 
 Play *music* instead of practicing them up and down. « Communicating with other musicians, exploring your emotions in audio form, creating, exploring and investigating in a connected way is all of much greater value in the long run. »
 
-p22
+### Exploring the neck
+
+Mixing two scales, especially G blues and Bb (*relatives*)  + diagram + another diagram with the «in-between notes».
+
+#11 is a «flavorful passing tone»
+
+Patterns must take a back seat to your inner musical intention.
+
+### Make every note work, somehow
+
+AKA «passing tones», can be used to inter-connect ideas. Also try chromatics (think «target note at the end of a phrase»). *Cadence* «wrong» notes to strong notes like the tonic, P5 (and P4 but maybe not on major chords???)…
+
+You have to create an opening to the melodies inside of you.
+
+## Key signatures and the circle of 5ths
+
+- Quick description. *Diatonic* basically means «within the scale you are working in».
+- At the top is the key of C major, noalteration, only the white keys on the piano.
+- Sharps for the keys clockwise with a table (until enharmonic), and flats counter-clockwise.
+
+### Relative major and minor keys
+
+- Share the same notes but have different tonics and tonalities.
+- Tonic of relative minor is at M6, and tonic of relative major is at m3.
+- The circle is an instant visual of the related elements.
+- Other mysteries revealed later!
+- Learn it cold (moi: bof)
+
+## Notes on manuscript
+
+- staff, staves, G-clef or treble clef, ledger lines, middle C, C4 (or C3 for some Yamaha gear), F-clef or bass clef, grand staff
+- other clefs: bass clef 15mb, 8vb, bass clef, 2×baritone clef, tenor, alto, mezzosoprano, soprano, french violin, treble clef, treble clef 8va, 15ma, percussion clef (different number of lines)
+
+## Transposing intruments
+
+The guitar sounds an octave lower, like the bass and double bass. Other instruments may transpose by other intervals. Steve gives two lists of instruments.
+
+## Musical notes
+
+- diagram with a keyboard and the grand staff
+- Steve advocates for not using mnemonics (see [Gammes-majeures-et-MMTS])
+- exercises to improve reading
+
+## Chords (academic study)
+
+- two or more notes: a *chord*
+- two-note chord: a *double stop*
+- three-note chords: a *triad*
+- more notes: *extended chord*
+
+Diagrams showing variations of the tab of a D chord.
+
+Before discussing, Steve's advice is to first learn some open chords on the guitar, then barre chords and then more odder fingerings and tension notes (see online).
+
+## Chord (experiential study)
+
+- Every chord has a story to it, a personality… Try to live inside the emotional atmosphere of the chord.
+- Grab a fellow guitar player and tell a story, or name it… when one plays the chord.
+- Start your own chord library
+
+## Chord spelling (academic study)
+
+- Chords get their names from the scale degrees (relative to the root) that are contained within the chord.
+- Chord naming is a mess.
+
+### Chord Spelling Library
+
+- if «major» is in the name then it must contain a M3
+- if «minor» is in the name then it must contain a m3
+- if there is a 7th in a minor chord then it will be a m7 (unless otherwise stated)
+
+Other rules:
+
+- sus chords, usually the 4th replaces the 3rd but sometimes the 2nd: no 3rd!
+- G2: the 2 sometimes stands for a 9th.
+- dominant 7th usually means major 3rd in the chord.
+- the *tritone* gives the dominant seventh chords their flavor.
+- tensions theoretically add like this: 1-3-5-7-9-11-13 but:
+  - it's very common to not include a 3rd in a chord if it has an 11th (because of the b9th)
+  - also for a 13th chord to not have a 5th, 9th or 11th (context helps to know the other scale degrees)
+  - ...
+
+Big table of more than 40 lines.
+
+Final note: voicing is important.
+
+## Chord spelling (advanced study)
+
+- Close voicing: four-way close voicing are difficult on the guitar.
+- Open voicing: many more than close voicing.
+- Chord inversions (example with Cmaj7 and its three inversions): close-voice inversions are difficult on the guitar.
