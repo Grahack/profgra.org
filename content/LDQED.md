@@ -522,10 +522,10 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - Jeff Buckley - ?
 - [[sng/Jefferson Airplane - White Rabbit]]
 - [[sng/Jenifer - Au soleil]]
+- Jennifer Lopez - ?
 - [[sng/Jermaine Jackson - Do what you do]]
 - [[sng/Jerry Lee Lewis - Great balls of fire]]
 - [[sng/Jessie J - Mama knows best]]
-- Jennifer Lopez - ?
 - [[sng/Jil Caplan - Tout ce qui nous sépare]]
 - [[sng/Jill Scott - Gimme]]
 - [[sng/Jimi Hendrix - Castles made of sand]]
