@@ -6,6 +6,8 @@ tags:
   - musique/guitare
 ---
 
+2017
+
 ## Introduction
 
 Steve essaie de répondre à la question « A-t-on besoin de connaître la théorie (musicale) pour être un bon musicien ? ». Je résume paragraphe par paragraphe.
@@ -275,3 +277,211 @@ Final note: voicing is important.
 - Close voicing: four-way close voicing are difficult on the guitar.
 - Open voicing: many more than close voicing.
 - Chord inversions (example with Cmaj7 and its three inversions): close-voice inversions are difficult on the guitar.
+- Drop voicings: a good solution for guitar players (2, 3, 4, 23, 24, 34, 14)
+- «Reverse drop voicings» where you raise the note.
+- From a particular voicing raise each note to the next voicing in the chord (or drop).
+
+Unlocks the neck. And there is a little paragraph again on experiential studies.
+
+## Writing music
+
+Read/write opens a type of creativity, and it's beautiful!
+
+A table with rhythm values from double whole to 64th.
+
+Read rhythm, it will improve your inner drummer.
+
+## Polyrhythms
+
+AKA *cross-rhythms* or *tuplets*.
+
+## Polyrhythms (advanced)
+
+Nested tuplets (with a Zappa transcription), terminology (from 2 to 24), examples (some crazy ones) and exercises (you can group tridecatuplets like 5+5+3).
+
+They'll improve fluidity in your playing.
+
+## Time signatures
+
+- top: how many beats in one measure (no indication of grouping)
+- bottom: the note value of one beat
+- simple meter: can be divided by two without having dotted notes as the pulse
+- compound: the contrary
+- duple, triple and quadruple meter: refers to the number of pulses
+
+Meter chart (TODO)
+
+### Complex (odd) time signatures
+
+Other names: asymmetric, irregular, unusual, do not fit duple, triple or quadruple.
+
+## Time signatures (advanced)
+
+## Composite meter
+
+- 4:8 + 3:8, or (4+3):8 aids for writing and reading (beaming)
+
+### Poly-meter or poly-metric
+
+Two or more time signatures going against each other at the same time. Example with 4 lines (2:4, 3:4, 4:4 and 5:4).
+
+## Guitar tablature
+
+Nothing very interesting.
+
+## Composing
+
+### Tempo
+
+### Tempo alterations
+
+### Tempo and metric modulations
+
+With a notation for *metric modulations*.
+
+### Repetition signs
+
+- in a bar with *slashes*
+- or with *signs* (like colons)
+- *D.S.* or *dal segno* means *from the sign* means « Return to the earlier spot marked with a fancy slashed S
+- *D.S. al Coda* means « Return to the fancy S to *To Coda* then jump to the Coda section (the slashed O) at the end of the music.
+
+### Articulations
+
+### Dynamics
+
+### Crescendo and decrescendo
+
+### Octave signs
+
+## Guitar harmonics
+
+Nothing very interesting here, just notation. Il faillotte aussi un peu vers Jeff Beck et Zakk Wylde.
+
+## Reading guitar rhythm
+
+Advice: listen to cultural music that you may not normally listen to.
+
+## Rhythm (experiental study)
+
+- « apply discipline » < « passion »
+- master the basics (you know you have mastered when it feels natural: feeling of simplicity, ease, non-thinking doing, elegance, otherworldly bliss while performing, and total freedom)
+- thinking about what you are doing, then *being* what you are doing (examples: driving a car, riding a bicycle, tying you shoes, cooking, reading and writing, and *sex*)
+- to get there: continuous repetition over and over and over and over while attention focused, and making it sound like music
+- keep a picture of what you want it to sound like
+- even when the impossible got natural and easy you can make it even better
+- the « Ultra Zone », you already have it, you just have to find it, if it resonates with the audience they'll go there with you
+  - state of mind that is open, clear, in the moment
+  - listening deeply to everything going on around and responding instantly with inspired things
+  - all technique, theory and academics are in your peripheral and not at the forefront
+  - so locked in the groove
+  - music flowing from the fingers in a « graceful magic on tip toes »
+  - no thoughts or doubts, just pure awareness, ease, deep relaxation, non resistance, precision, lucidity and flexibility
+
+## The groove
+
+- Learn how to feel the rhythm deeply. Try syncing with the drummer not just time-wise but « psycho-metrically ».
+- relax (body but mind also: « RELAX AND BREATHE! »), be still inside and listen deeply
+
+## Chord scales (academics)
+
+- *chord scales* : diatonic chords built on aparticular scale degree
+- string of triads with stacked 3rds of the C major scale
+- roman numerals, uppercase or lowercase
+- tells what chords work in a key
+- in C major the ii chord is minor because D major has a sharp F (two sharps) so F nat is the minor 3rd
+- four notes for seventh chords
+
+## Chord substitutions
+
+- Most songs are not based on the rigidity of a diatonic chord scale
+- *chord substitution*: using one chord in the place of another, often-related, should have some harmonic quality and degree of function in common, often differ by one or two notes
+- examples: I by iii or vi, but there are also subdominant or dominant substitutes
+
+## Modes (academic)
+
+- scales that are derived by starting on any particular note within a scale but staying with the key of that scale
+- 7 modes from the major scale
+- another way to look: their scale degrees + chord scale (table)
+
+# Modal progressions
+
+- CM7 - Em11 - FM7 - G11
+- Dm7 - Am7 - Dm7 - CM7 - Dm7 - Em7 - FM7 - G7 (light minor flavor, sunset scale against a dark blue sky but not too dark)
+- Em7 - FM7#11 - Em7 - Am9 - Em7 - FM7#11 - G - F/C (cool desert landscape in Egypt, try writing your own progression)
+- try writing your own (from now on)
+- this scale is the tonality you perhaps hear most in pop and country music
+- « pure minor » or « natural minor », this one creates the dark, brooding tonality that is found in rock and other dramatic music
+- not a very common tonality, sort of Phrygian's ugly twin or a minor scale that grew up in a really rough neighborhood
+
+### Additional chord tensions
+
+- you could technically apply any note in the scale (these notes or their octaves)
+- you have to find what sound good for the situation and also find the best voicings
+
+## Other scales
+
+- plethora of scales within music, any string of notes can be considered a scale
+- all based in the key of C
+
+### Harmonic minor scale
+
+- Description
+- Modes, described with notes raised, except Loc dim b4
+- Try to write progressions
+
+### Melodic minor scale
+
+- Asc. vs desc.
+- Very cool sound
+- Modes
+  - ionian b3 - dor nat 7
+  - phrygian nat 6
+  - lydian #5
+  - lydian b7 (dominant)
+  - mixo b6 - aeol dominant
+  - loc nat 2
+  - loc b4 - super locrian
+
+Attention, selon Tagg il ne faut pas abuser du caractère « dominant ».
+
+Experiment ideas for the remainder of the scales:
+
+- write them on the staff in every key
+- learn them in at least one position
+- write their modes and name them
+- build four-note chord scales
+- build several new chords on the guitar
+- create progressions
+- record and then solo over
+
+### Diminished scale
+
+Two diminished scales (fully diminished and dominant diminished, or half diminished). And some other considerations that I don't find interesting.
+
+### Altered scale
+
+- desc
+- you can create scales based on anything from 2 to 12 notes
+- imagine all the combinations
+- and that's not including getting into microtone pitch
+- other ones:
+  - arabian1 2 3 4 b5 b6 b7
+  - gypsy minor, byzantine, double harmonic 1b2 3 4 5 b6 7
+  - hungarian 1 b3 3 #4 5 6 b7
+  - persian 1 b2 3 4 b5 b6 7
+  - neapolitan minor 1 b2 b3 4 5 b6 7
+  - enigmatic 1 b2 3 #4 #5 #6 7
+  - lydian diminished 1 2 b3 #4 5 6 7
+- hexatonic
+  - hawaiian 1 2 b3 5 6 7
+  - whole tone 1 2 3 #4 #5 b7
+- pentatonic
+  - balinese 1 b2 b3 5 b6
+  - japanese 1 b2 4 5 b6
+
+## In closing
+
+- far from being comprehensive
+- enough to chew for a while
+- ...
