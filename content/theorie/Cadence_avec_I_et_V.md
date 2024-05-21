@@ -7,6 +7,7 @@ tags:
 - [[sng/Chuck Berry - You never can tell]]
 - [[sng/J.J. Lionel - La danse des canards]]
 - [[sng/James Crawford - Iko Iko]]
+- [[sng/Tradi - Sirtaki]]
 
 ## ?
 
