@@ -45,6 +45,7 @@ tags:
 - Barriemore Barlow
   - Jethro Tull (2e vague)
 - Benny Greb
+  - [80/20 itw](https://www.youtube.com/watch?v=4yZqDmkzEGE)
 - Bernard Purdie
   - [WP](https://fr.wikipedia.org/wiki/Bernard_Purdie)
 - Bill Bruford
@@ -54,6 +55,7 @@ tags:
 - Bill Stewart
 - Bill Ward
   - Black Sabbath
+  - [The genius of](https://www.youtube.com/watch?v=kkL05mggaCM) on Drumeo
 - Billy Cobham
   - [WP](https://en.wikipedia.org/wiki/Billy_Cobham)
 - Billy Kilson
@@ -406,6 +408,8 @@ tags:
 
 ## T
 
+- TaRon Lockett
+  - [itw 80/20](https://www.youtube.com/watch?v=q7Zn0bKDT8g)
 - Taylor Gordon - The Pocket Queen
 - Taylor Hawkins
   - Foo Fighters
