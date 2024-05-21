@@ -47,8 +47,8 @@ tags:
 - [[Guitare]] - [[Basse]] - [[Batterie]] -
   [[Trompette]] - [[Trombone]] - [[Clavier]] - [[BotBoss]]
 - [[Théorie musicale]] - [[Progression]] - [[Rythme]] - [[Gammes]] -
-  [[Kapzik]] - [[Dyyp]]
   [[Improvisation musicale]]
+- [[Kapzik]] - [[Dyyp]] - [[Marcharme]]
 - [[LDQED|Le Défi quasi exhaustif et démagogique]] - [[Standards]]
 - [[Meshuggah]] - [[Pattashuggah]]
 - [[Guitare solo]] - [[Destruction]]
