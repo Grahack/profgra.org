@@ -2,6 +2,7 @@
 title: "Pédale"
 ---
 
+- [[sng/Aerosmith - Dream On]]
 - [[sng/BO - Summer nights]]
 - [[sng/Brian Adams - Everything I do]]
 - [[sng/DeBarge - Rhythm of the night]]

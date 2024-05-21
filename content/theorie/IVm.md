@@ -13,6 +13,7 @@ title: "IVm"
 - [[sng/Dexys Midnight Runners - Come on Eileen]]
 - [[sng/Frankie Valli and the Four Seasons - Can't take my eyes off of you]]
 - [[sng/Gilbert Montagné - Sunlights des tropiques]]
+- [[sng/Green day - Dilemma]]
 - [[sng/Harold Melvin and the Blue Notes - If you don't know me by now]]
 - [[sng/Joe Dassin - Le petit pain au chocolat]]
 - [[sng/Juliette Armanet - Flamme]]

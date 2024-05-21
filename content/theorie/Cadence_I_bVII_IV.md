@@ -38,6 +38,7 @@ Celte, mixo, western
 - [[sng/The Romantics - What I like about you]]
 - [[sng/Van Halen - Panama]]
 - [[sng/Vanessa Paradis - Dans le mot je t'aime]]
+- [[sng/ZZ Top - Gimme all your lovin']]
 
 ## ?
 
