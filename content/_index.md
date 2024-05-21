@@ -26,7 +26,7 @@ tags:
 - [[Défis NSI]]
 - [[1NSI]] - [[TNSI]] - [Annales NSI sur pixees.fr](https://pixees.fr/informatiquelycee/term/suj_bac/index.html)
 - [[Algorithmique]]
-- [[Machine de Turing]] - [[OrdiPapier]] - [[microBit]]
+- [[Machine de Turing]] - [[OrdiPapier]] - [[microBit]] - [[Elementario]]
 - [[Culture informatique]]
 
 #### Langages
