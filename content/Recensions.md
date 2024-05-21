@@ -38,3 +38,4 @@ tags:
 - [[Mathematica]]
 - [[ENIAC in action]]
 - [[Vaideology]]
+- [[Bebop to the boolean boogie]]

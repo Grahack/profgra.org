@@ -1,0 +1,189 @@
+---
+title: Bebop to the boolean boogie
+tags:
+  - livre
+  - info
+---
+
+## Section 1 - Fundamental Concepts
+
+- Chapter 1 Analog versus Digital 1
+- Chapter 2 Atoms, Molecules, and Crystals 5
+- Chapter 3 Conductors and insulators; Voltage, Current, Resistance,
+  Capacitance, and inductance 11
+  - Voltage, Current and Resistance 12
+  - Capacitance 14
+  - Inductance 17
+  - Unit Qualifiers 20
+- Chapter 4 Semiconductors: Diodes and Transistors 23
+  - Diodes 24
+  - Bipolar Junction Transistors 25
+  - Metal-Oxide Semiconductor Field-Effect Transistors 26
+  - The Transistor as a Switch 27
+  - Gallium Arsenide Semiconductors 28
+- Chapter 5 Primitive Logic Functions 31
+  - BUF and NOT Functions 33
+  - AND, OR, and XOR Functions 34
+  - NAND, NOR, and XNOR Functions 34
+  - Functions versus Gates 37
+- Chapter 6 Using Transistors to Build Primitive Logic Functions 39
+  - NOT and BUF Gates 40
+  - NAND and AND Gates 41
+  - NOR and OR Gates 43
+  - XNOR and XOR Gates 44
+  - Pass-Transistor Logic 45
+- Chapter 7 Alternative Numbering Systems 47
+  - Decimal (Base-10) 47
+  - Duo-Decimal (Base-12) 49
+  - Sexagesimal (Base-60) 51
+  - The Concepts of Zero and Negative Numbers 52
+  - Vigesimal (Base-20) 53
+  - Quinary (Base Five) 54
+  - Binary (Base-2) 55
+  - Octal (base-8) and hexadecimal (Base-16) 57
+  - Representing Numbers Using Powers 59
+  - Tertiary Logic 61
+- Chapter 8 Binary Arithmetic 63
+  - Unsigned Binary Numbers 63
+  - Binary Addition 64
+  - Binary Subtraction 64
+  - Signed Binary Numbers 69
+  - Binary Multiplication 73
+- Chapter 9 Boolean Algebra 75
+  - combining a single Variable with Logic 0 or Logic 1 78
+  - The idempotent Rules 79
+  - The Complementary Rules 79
+  - The Involution Rule 80
+  - The Commutative Rules 80
+  - The Associative Rules 81
+  - Precedence of Operators 82
+  - The First Distributive Rule 83
+  - The Second Distributive Rule 84
+  - The Simplification Rules 85
+  - DeMorgan Transformations 87
+  - Minterms and Maxterms 89
+  - Sum-of-Products and Product-of-Sums 89
+  - Canonical Forms 91
+- Chapter 10 Karnaugh Maps 93
+  - Minimization Using Karnaugh Maps 94
+  - Grouping Minterms 96
+  - Incompletely Specified Functions 99
+  - Populating Maps Using 0s versus 1s
+- Chapter 11 Using Primitive Logic Functions To Build More Complex Functions 101
+  - Scalar versus Vector Notation 101
+  - Equality Comparators 102
+  - Multiplexers 103
+  - Decoders 105
+  - Tri-State Functions 106
+  - Combinational versus Sequential Functions 108 
+  - RS Latches 108
+  - D-Type Latches 114
+  - D-Type Flip-flops 116
+  - JK and T Flip-flops 118
+  - Shift Registers 119
+  - Counters 121
+  - Brick by Brick 123
+- Chapter 12 State Diagrams, State Tables, and State Machines 125
+  - State Diagrams 126
+  - State Tables 127
+  - State Machines 128
+  - State Assignment 128
+  - Don’t Care States, Unused States, and Latch-Up Conditions 132
+Chapter 13 Analog-to-Digital and  Digital-to-Analog 135
+  - Analog-to-Digital 135
+  - Digital-to-Analog 136
+
+## Section 2 Components & Processes
+
+- Chapter 14 Integrated Circuits (ICs) 139
+  - The Fabrication Process 139
+  - The Packaging Process 146
+  - Integrated Circuits versus Discrete Components 148
+  - Technology Considerations 149
+- Chapter 15 Memory ICs 153
+  - Underlying RAM and ROM Architectures 153
+  - Increasing Width and Depth 160
+  - Alternative Technologies 162
+- Chapter 16 Programmable ICs 165
+  - Programmable Logic Arrays (PLAs) 170
+  - Programmable Array Logic (PAL) 170
+  - Programmable Read-Only Memories (PROMs) 17!
+  - Additional Programmable Options 171
+  - Programming PLDs 175
+  - Reprogrammable PLDs 176
+  - Complex PLDs (CPLDs) 180
+  - Field-Programmable Gate Arrays (FPGAs) 180
+  - PLD Applications 18!
+- Chapter 17 Application-Specific Integrated Circuits (ASICs) 183
+  - Gate Array Devices 183
+  - Standard Cell Devices 187
+  - Full Custom Devices 189
+  - Input/Output Cells and Pads 190
+  - Applications and Technology Considerations 191
+  - ASICs, CSICs, or ASSPs? 192
+- Chapter 18 Circuit Boards (PWBs and DWBs) 193
+  - Subtractive Processes 194
+  - Additive Processes 197
+  - Single-sided Boards 198
+  - Lead Through-Hole (LTH) 201
+  - Surface Mount Technology (SMT) 203
+  - Double-sided Boards 205
+  - Holes versus Vias 207
+  - Multilayer Boards 209
+  - Discrete Wire Technology 213
+  - Backplanes and Motherboards 223
+  - Conductive Ink Technology 224
+  - Chip-On-Board (COB) 225
+  - Flexible Printed Circuits (FPCs) 226
+- Chapter 19 Hybrids 229
+  - Hybrid Substrates 230
+  - The Thick-Film Process 231
+  - The Thin-Film Process 236
+  - The Assembly Process 238
+  - The Packaging Process 243
+- Chapter 20 Multichip Modules (MCMs) 245
+  - Categorization by Substrate 246
+  - Why Use Multichip Modules? 247
+  - Cofired Ceramics 249
+  - Low-fired Cofired Ceramics 252
+  - Assembly and Packaging 253
+  - Equivalent Integrated Circuits 257
+  - Technology Considerations 259
+- Chapter 21 Alternative and Future Technologies 261
+  - Reconfigurable Hardware and Interconnect 261
+  - Three-Dimensional Molded Interconnect 273
+  - Optical Interconnect 275
+  - Optical Memories 284
+  - Protein Switches and Memories 286
+  - Electromagnetic Transistor Fabrication 287
+  - Heterojunction Transistors 288
+  - Diamond Substrates 291
+  - Chip-On-Chip (COC) 294
+  - Conductive Adhesives 297
+  - Superconductors 297
+  - Nano-technology 300
+  - Summary 306
+- Appendix A Assertion-Level Logic 307
+- Appendix B Positive Logic versus Negative Logic 311
+  - Physical to Abstract Mapping (NMOS Logic) 312
+  - Physical to Abstract Mapping (PMOS Logic) 314
+  - Physical to Intermediate to Abstract Mapping 315
+- Appendix C Reed-Müller Logic 319
+- Appendix D Gray Codes 325
+- Appendix E A Reed-Miiller Extraction Utility 331
+  - How to Become Famous 346
+- Appendix F Linear Feedback Shift Registers (LFSRs) 351
+  - Seeding an LFSR 354
+  - FIFO Applications 354
+  - Modifying LFSRs to Sequence 2^n Values 357
+  - Accessing the Previous Value 358
+  - Encryption and Decryption Applications 359
+  - Cyclic Redundancy Check Applications 359
+  - Data Compression Applications 361
+  - Built-in Self-Test Applications 363
+  - Pseudo-Random Number Applications 365
+- Appendix G Pass-Transistor Logic 369
+- Appendix H No-Holds-Barred Seafood Gumbo 373
+- Abbreviations and Acronyms 377 Glossary 381
+- Dramatis Personae 415
+- Index 417
