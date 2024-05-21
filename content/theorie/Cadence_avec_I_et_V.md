@@ -1,5 +1,7 @@
 ---
-title: "Cadences avec I et V"
+title: Cadence avec I et V
+tags:
+  - musique/theorie
 ---
 
 - [[sng/Chuck Berry - You never can tell]]
