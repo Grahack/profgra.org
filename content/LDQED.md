@@ -27,6 +27,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - [[sng/Ace of Base - All that she wants]]
 - Adele - ?
 - Aerosmith - ?
+- [[sng/Afrika Bambaataa - Planet Rock]]
 - Agnès Obel - ?
 - [[sng/Al Corley - Square Rooms]]
 - [[sng/Alain Barrière - Elle était si jolie]]
@@ -1032,6 +1033,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - [[sng/Styx - Renegade]]
 - [[sng/Sublime - What I got]]
 - Suicidal Tendencies - ?
+- Sum 41 - ?
 - Superbus - ?
 - [[sng/Supergrass - Alright]]
 - [[sng/Supertramp - The logical song]]
@@ -1057,6 +1059,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - [[sng/Terence Trent D'Arby - Sign your name]]
 - [[sng/Teri Moïse - Les poêmes de Michelle]]
 - [[sng/Tété - À la faveur de l'automne]]
+- Tesla - ?
 - Texas - ?
 - [[sng/The Alan Parsons project - Eye in The sky]]
 - [[sng/The Animals - Dont let me be misunderstood]]
@@ -1206,6 +1209,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - [[sng/Zouk Machine - Maldon']]
 - [[sng/Zizi Jeanmaire - Mon truc en plume]]
 - Zoufris Maracas - ?
+- [[sng/ZZ Top - Gimme all your lovin']]
 
 ## Auteurs inconnus
 
