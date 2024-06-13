@@ -59,7 +59,7 @@ ch info | ch humain | émission vers| recept. depuis
 - Good Times
 - Chameleon
 - I can't help it
-- All Blues, Footprints
+- All Blues, Footprints, Stolen Moments, Afro Blue
 - Bossa Nova
 - [[sng/Brecker Brothers - African Skies]]
 
