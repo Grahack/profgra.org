@@ -36,6 +36,7 @@ tags:
 - [[À la conquête de Kiber]]
 - [[Le français va très bien, merci]]
 - [[Mathematica]]
+- [[First Nations 101]]
 - [[ENIAC in action]]
 - [[Vaideology]]
 - [[Bebop to the boolean boogie]]
