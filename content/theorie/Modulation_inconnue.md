@@ -7,5 +7,6 @@ title: "Modulation inconnue"
 - [[sng/Gilbert Montagné - On va s'aimer]]
 - [[sng/Joe Dassin - Et si tu n'existais pas]]
 - [[sng/Kim Wilde - Kids in America]]
+- [[sng/Mister Big - To be with you]]
 - [[sng/The Police - So Lonely]]
 - [[sng/The Who - My generation]]
