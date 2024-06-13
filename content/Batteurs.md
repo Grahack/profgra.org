@@ -195,8 +195,13 @@ tags:
 - Gene Krupa
 - Gergo Borlai
 - Gil Sharone
-- Ginger Baker
+- Ginger Baker (Kofi's father)
   - Cream
+- Gordy Knudtson
+  - Steve Miller Band
+  - [80/20 itw](https://youtu.be/TFEahgyDQ_8)
+    - groove continuum
+    - extremes are where things are tested the most
 - Gregg Bissonette
 - Gregory C. Coleman
   - [WP](https://en.wikipedia.org/wiki/Gregory_C._Coleman)
@@ -234,6 +239,8 @@ tags:
 - Jeff Tain Watts
 - Jeremy Colson
   - Vai
+- Joey Baron
+  - [WP](https://en.wikipedia.org/wiki/Joey_Baron)
 - John JR Robinson
   - [Rock with you](https://www.youtube.com/watch?v=YgjQmA9tI_Y)
   - [Stomp chez PD bass](https://youtu.be/F7el0I5BQtw)
@@ -314,6 +321,7 @@ tags:
   - [The genius of](https://www.youtube.com/watch?v=yzVx2DzNMF0) on Drumeo
 - Mike Portnoy
 - Mitch Mitchell
+  - [The genius of](https://youtu.be/yzVx2DzNMF0) at Drumeo
 - Morgan Agren
 - Morgan Berthet
   - [WP](https://fr.wikipedia.org/wiki/Morgan_Berthet)

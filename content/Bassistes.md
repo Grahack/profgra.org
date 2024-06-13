@@ -95,6 +95,8 @@ tags:
   - [How to play left hand bass](https://www.youtube.com/watch?v=gL017qe6Oqs)
 - Maurice Gibb
   - Bee Gees
+- Michael Anthony
+  - [WP](https://en.wikipedia.org/wiki/Michael_Anthony_(musician))
 - Michael Henderson
   -  [WP](https://en.m.wikipedia.org/wiki/Michael_Henderson)
 - Michel Alibo
@@ -114,6 +116,11 @@ tags:
   - [Site officiel](https://nickcampbelldestroys.com/)
   - [Interview SBL](https://www.youtube.com/watch?v=NzH_lXTdI6g)
   - [Darling Dear](https://www.youtube.com/watch?v=Wz5iE7ZheeE)
+
+## O
+
+- Oscar Pettiford
+  - [WP](https://fr.wikipedia.org/wiki/Oscar_Pettiford)
 
 ## P
 
@@ -147,6 +154,7 @@ tags:
 - TM Stevens
   - [Disco's last great bass line](https://www.youtube.com/watch?v=gi7K1QO_zhM)
 - Tony Levin
+  - [itw Produce like a pro](https://youtu.be/moh8AzPWNvw)
 
 ## V
 
