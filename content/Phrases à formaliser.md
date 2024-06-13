@@ -14,3 +14,4 @@ tags:
   d'en mettre nulle part.
 - Je me cache sous mon bureau car les bons employés sont difficiles à trouver.
 - J’ai déjà dit à Machin de faire le contraire.
+- Personne ne dit plus rien.
