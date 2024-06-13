@@ -67,6 +67,7 @@ title: "II7 ou IV maj en contexte mineur"
 - [[sng/Thierry Hazard - Le jerk]]
 - [[sng/Toto Cutugno - Mia Donna]]
 - [[sng/Tradi - Hymne des États-Unis]]
+- [[sng/U2 - Atomic City]]
 - [[sng/U2 - One]]
 - [[sng/Yves Duteil - Le petit pont de bois]]
 - [[sng/Zouk Machine - Maldon']]
