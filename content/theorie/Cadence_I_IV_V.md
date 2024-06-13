@@ -7,6 +7,7 @@ title: "Cadence I IV V"
 - [[sng/Bob Dylan - Knocking on heavens door]]
 - [[sng/Cat Stevens - Like a rolling stone]]
 - [[sng/Diana Coupland - Underneath the mango tree]]
+- [[sng/Dire Straits - Walk of life]]
 - [[sng/Florent Pagny - N'importe quoi]]
 - [[sng/George Harrison - Got My Mind Set on You]]
 - [[sng/Jean-Jacques Goldman - J'irai au bout de mes rêves]]
