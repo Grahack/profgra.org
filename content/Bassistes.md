@@ -35,6 +35,8 @@
 
 ## G
 
+- Gene Simmons
+  - Kiss
 - George Porter Jr.
   - The Meters
   - [Funk isn't...](https://www.ultimate-guitar.com/news/general_music_news/syncopation_is_history_funk_isnt_the_same_anymore_bass_legend_george_porter_jr_says.html)
@@ -89,6 +91,9 @@
 - Mick Karn
   - Japan
   - [PD's video](https://youtu.be/jFyZMd6Axoc)
+- Mike Kroeger
+  - [WP](https://fr.wikipedia.org/wiki/Mike_Kroeger)
+  - Nickelback
 - Moto Fukushima
 
 ## N
@@ -97,6 +102,7 @@
 - Nick Campbell
   - [Site officiel](https://nickcampbelldestroys.com/)
   - [Interview SBL](https://www.youtube.com/watch?v=NzH_lXTdI6g)
+  - [Darling Dear](https://www.youtube.com/watch?v=Wz5iE7ZheeE)
 
 ## P
 
@@ -125,6 +131,9 @@
 
 ## T
 
+- Thundercat
+  - [WP](https://en.wikipedia.org/wiki/Thundercat_(musician))
+  - [Off Beat video](https://www.youtube.com/watch?v=r4ErgLcTJIU)
 - TM Stevens
   - [Disco's last great bass line](https://www.youtube.com/watch?v=gi7K1QO_zhM)
 - Tony Levin

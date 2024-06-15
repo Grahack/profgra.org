@@ -34,6 +34,7 @@ tags:
 - Art Blakey
   - [WP](https://fr.wikipedia.org/wiki/Art_Blakey)
 - Arthur Hnatek
+  - [itw 80/20](https://www.youtube.com/watch?v=IW7vT3y1tfg)
   - Tigran
 - Ash Soan
   - [2019-2020 compil](https://www.youtube.com/watch?v=CHlswgEqow0)
@@ -307,6 +308,9 @@ tags:
   - [about working with Herbie](https://www.youtube.com/watch?v=1mkxNPYoTWs)
 - Mike Mangini
 - Mike Mitchell
+  - The Jimi Hendrix Experience
+  - Ramatam
+  - [The genius of](https://www.youtube.com/watch?v=yzVx2DzNMF0) on Drumeo
 - Mike Portnoy
 - Mitch Mitchell
 - Morgan Agren
