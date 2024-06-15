@@ -4,4 +4,5 @@ tags:
     - musique/chanson
 ---
 
-Page créée automatiquement, mais vide.
+- [YT](https://www.youtube.com/watch?v=P5ZJui3aPoQ)
+- [WP](https://en.wikipedia.org/wiki/Carry_On_Wayward_Son)

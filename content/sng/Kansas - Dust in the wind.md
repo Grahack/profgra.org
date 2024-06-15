@@ -4,4 +4,5 @@ tags:
     - musique/chanson
 ---
 
-Page créée automatiquement, mais vide.
+- [WP](https://fr.wikipedia.org/wiki/Dust_in_the_Wind)
+- [YT](https://www.youtube.com/watch?v=tH2w6Oxx0kQ)
