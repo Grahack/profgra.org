@@ -9,4 +9,5 @@ title: "bVI"
 - [[sng/Michael Jackson - You are not alone]]
 - [[sng/Michel Polnareff - Love me, please love me]]
 - [[sng/Stevie Wonder - I just called to say I love you]]
+- [[sng/The Beatles - Lady Madonna]]
 - [[sng/The Police - Every breath you take]]

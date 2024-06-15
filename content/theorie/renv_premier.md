@@ -23,6 +23,7 @@ title: "Premier renversement"
 - [[sng/Patrick Bruel - Alors regarde]]
 - [[sng/Patrick Bruel - Je te le dis quand même]]
 - [[sng/Phil Collins - One more night]]
+- [[sng/Stone Temple Pilots - Creep]]
 - [[sng/Tears for fears - Seeds of love]]
 - [[sng/USA for Africa - We are the world]]
 - [[sng/Irene Cara - What a feeling]]

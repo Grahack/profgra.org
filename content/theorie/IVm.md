@@ -28,6 +28,7 @@ title: "IVm"
 - [[sng/The Alan Parsons Project - Eye in the sky]]
 - [[sng/The Beatles - Blackbird]]
 - [[sng/The Beatles - She came in through the bathroom window]]
+- [[Thin Lizzy - The boys are back in town]]
 - [[sng/Vanessa Paradis - Ces mots simples]]
 
 ## ?
