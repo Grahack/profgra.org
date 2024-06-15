@@ -168,6 +168,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - Boys to Men - ?
 - Boyzone - ?
 - [[sng/Brandy & Monica - The Boy is Mine]]
+- [[sng/Break Machine - Street Dance]]
 - [[sng/Brenda Lee - Always on my mind]]
 - [[sng/Brian Adams - Everything I Do]]
 - Brian Eno - ?
@@ -219,7 +220,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - [[sng/Charles Trenet - Jolie môme]]
 - [[sng/Charlie Winston - Like a hobo]]
 - [[sng/Charlots - Histoire Merveilleuse]]
-- Cheap Trick - ?
+- [[sng/Cheap Trick - Surrender]]
 - Cheb Mami - ?
 - [[sng/Cher - Strong Enough]]
 - [[sng/Cheryl Lynn - Got to be real]]
@@ -430,6 +431,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - [[sng/Gloria Estefan - Conga]]
 - [[sng/Gloria Lasso - Histoire d'un amour]]
 - [[sng/Gnarls Barkley - Crazy]]
+- [[sng/Golden Earring - Radar Love]]
 - [[sng/Gotye - Somebody I used to know]]
 - [[sng/Grace Jones - Feel Up]]
 - [[sng/Grand Jojo - Chef un petit verre on a soif]]
@@ -572,7 +574,6 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 
 - [[sng/Kajagogo - Won't go]]
 - [[sng/Kamini - Marly-Gomont]]
-- [[sng/Kansas - Dust in the wind]]
 - [[sng/Kansas - Carry on Wayward Son]]
 - [[sng/Kaoma - Lambada]]
 - [[sng/Karine Costa - Ce rêve bleu (Aladdin)]]
@@ -777,6 +778,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - [[sng/Nick Drake - River man]]
 - [[sng/Nick Kamen - I promised myself]]
 - [[sng/Nick Kershaw - The Riddle]]
+- [[sng/Nickelback - Rockstar]]
 - Nicki Minaj - ?
 - [[sng/Nicolas Peyrac - So far away from L.A.]]
 - [[sng/Nicole Croisille - Une femme avec toi]]
@@ -893,7 +895,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 ### Q
 
 - [[sng/Queen - We are the champions]]
-- Queens of the stone age - ?
+- [[sng/Queens of the stone age - No one knows]]
 
 ### R
 
@@ -1027,6 +1029,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - Stevie Wonder - ?
 - Sting - ?
 - Stone & Charden - ?
+- [[sng/Stone Temple Pilots - Creep]]
 - [[sng/Stretch - Why did you do it]]
 - [[Stromae - Papa où t'es]]
 - [[sng/Sttellla - Les Tartines]]
@@ -1069,6 +1072,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - [[sng/The Beach Boys - I get Around]]
 - The Beatles - ?
 - [[sng/The Belle Stars - Sign Of The Times]]
+- The Black Crowes - ?
 - [[sng/The Breeders - Cannonball]]
 - [[sng/The Cardigans - Lovefool]]
 - [[sng/The Carpenters - Close to you]]
@@ -1118,6 +1122,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - The Yardbirds - ?
 - [[sng/Thierry Hazard - Le jerk]]
 - [[sng/Thierry Pastor - Le coup de folie]]
+- [[sng/Thin Lizzy - The boys are back in town]]
 - Thomas Fersen - ?
 - Tiken Jah Fakoli - ?
 - Tim Buckley - ?
