@@ -50,7 +50,7 @@ $$A=\emptyset$$
 
 ### Ensembles
 
-$\emptyset$
+$\emptyset$, $\mathbb R$
 
 ### Logique
 
