@@ -61,7 +61,7 @@ ch info | ch humain | émission vers| recept. depuis
 - I can't help it
 - All Blues, Footprints
 - Bossa Nova
-- African Skies
+- [[sng/Brecker Brothers - African Skies]]
 
 ## Autres Videos intéressantes
 

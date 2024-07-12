@@ -359,6 +359,7 @@ tags:
 - Phil Rudd
   - AC/DC
 - Philip "Fish" Fisher
+  - Fishbone
 - Philly Joe Jones
   - [Bill Evans Trio 1978 Nardis](https://www.youtube.com/watch?v=hETmWOrKcRE)
 - Poogie Bell
