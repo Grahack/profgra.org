@@ -62,6 +62,8 @@ tags:
   - [Basse haut de gamme](https://www.youtube.com/watch?v=GY9yrStBmJQ)
 - Jeff Berlin
   - [itw chez Beato](https://www.youtube.com/watch?v=MReU0doapdQ) (mai 2017)
+- John Deacon
+  - Queen
 - John Paul Jones
   - [[https://www.guitarworld.com/features/the-10-most-famous-bass-guitars-of-led-zeppelins-john-paul-jones|his basses @guitarworld]]
 - Julian Crampton
@@ -125,8 +127,6 @@ tags:
 ## R
 
 - Remy Chaudagne
-- John Deacon
-  - Queen
 
 ## S
 
