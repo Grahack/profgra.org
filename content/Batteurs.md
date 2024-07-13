@@ -81,7 +81,7 @@ tags:
 - Chad Wackerman
   - [WP](https://en.wikipedia.org/wiki/Chad_Wackerman)
 - Charlie Benante
-  -  Anthrax
+  - Anthrax
   - Pantera
 - Chip Ritter
   - [Juggling guy on Drumeo](https://www.youtube.com/watch?v=cEQ-_jaTD3s)
