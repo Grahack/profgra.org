@@ -9,6 +9,7 @@ Celte, mixo, western
 ## Liste
 
 - [[sng/Arnold Turboust - Adélaïde]]
+- [[sng/Creedence Clearwater Revival - Born on the Bayou]]
 - [[sng/David Bowie - Heroes]]
 - [[sng/De Palmas - Sur la route]]
 - [[sng/Étienne Daho - Tombé pour la France]]
@@ -22,6 +23,7 @@ Celte, mixo, western
 - [[sng/Kenny Loggins - Footloose]]
 - [[sng/Kool and the Gang - Celebration]]
 - [[sng/Led Zeppelin - All my love]] (Bridge)
+- [[sng/Led Zeppelin - Your time is gonna come]]
 - [[sng/Lenny Kravitz - Are you gonna go my way]] (pont)
 - [[sng/Lynyrd Skynyrd - Sweet home Alabama]]
 - [[sng/Michel Polnareff - La poupée qui fait non]]
