@@ -80,8 +80,9 @@ tags:
 - Chad Smith
 - Chad Wackerman
   - [WP](https://en.wikipedia.org/wiki/Chad_Wackerman)
-- Charly Benante
+- Charlie Benante
   -  Anthrax
+  - Pantera
 - Chip Ritter
   - [Juggling guy on Drumeo](https://www.youtube.com/watch?v=cEQ-_jaTD3s)
 - Chris Coleman
@@ -106,6 +107,8 @@ tags:
 ## D
 
 - Dafnis Prieto
+- Damien Schmitt
+  - NPLP
 - Dan Searle
   - Architects
 - Dan Weiss
@@ -168,6 +171,9 @@ tags:
 - Derrick Mckenzie
 - Dorothea Taylor
   - [Profil Drummer Zone](https://drummerszone.com/artists/dorothea-taylor/15320/profile/)
+- Doug Clifford
+  - Creedence Clearwater Revival
+  - [WP](https://fr.wikipedia.org/wiki/Doug_Clifford)
 
 ## E
 
@@ -241,6 +247,10 @@ tags:
   - Vai
 - Joey Baron
   - [WP](https://en.wikipedia.org/wiki/Joey_Baron)
+- Joey Castillo
+  - QOTSA
+- Joey Kramer
+  - Aerosmith
 - John JR Robinson
   - [Rock with you](https://www.youtube.com/watch?v=YgjQmA9tI_Y)
   - [Stomp chez PD bass](https://youtu.be/F7el0I5BQtw)
@@ -286,7 +296,9 @@ tags:
 ## L
 
 - Larnell Lewis
+  - [Ses soli](https://youtu.be/tdddBjS46w8) sur [[sng/Snarky Puppy - What about me]]
 - Lars Ulrich
+  - Metallica
 - Lenny White
   - [WP](https://en.wikipedia.org/wiki/Lenny_White)
   - [20min itw](https://www.youtube.com/watch?v=3bCX3uzpWBo)
@@ -366,10 +378,16 @@ tags:
 - Peter Erskine
 - Phil Rudd
   - AC/DC
+- Philo Tsoungui
+  - The Mars Volta
+  - [Limelight heard for the first time](https://youtu.be/80lys4YdafM)
 - Philip "Fish" Fisher
   - Fishbone
 - Philly Joe Jones
   - [Bill Evans Trio 1978 Nardis](https://www.youtube.com/watch?v=hETmWOrKcRE)
+- Pierre Lucbert
+  - NPLP
+  - [Human Nature 2023](https://youtu.be/fmKyAGj4lcQ)
 - Poogie Bell
   - [WP](https://en.wikipedia.org/wiki/Poogie_Bell)
 
@@ -440,11 +458,15 @@ tags:
   - [WP](https://en.wikipedia.org/wiki/Tim_Alexander)
 - Todd Sucherman
   - [Rope from Foo Fighters (first listen)](https://www.youtube.com/watch?v=0ZrmrlTtd3s)
+- Tommy Alridge
+  - Whitesnake
+  - [Drumeo 73yo](https://youtu.be/Mzvu8ZmQhVg)
 - Tommy Lee
 - Tommy Igoe
 - Tony Allen
   - [Doc on the Off Beat channel](https://www.youtube.com/watch?v=9RDfvRIYBrc)
 - Tony Royster Jr.
+  - [Son solo à 12 ans](https://youtu.be/fEOzyfRw9zo)
   - [Crazy metronome practice with the TD-30](https://www.youtube.com/watch?v=Yh8PATuI_NU)
 - Tony Williams
   - par Mike Clark
