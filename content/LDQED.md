@@ -404,6 +404,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - [[sng/Franz Ferdinand - Singing in the car]]
 - Freak Power - ?
 - Frédéric François - ?
+- [[sng/Fugees - Fugee-la]]?
 
 ### G
 
@@ -1091,7 +1092,6 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - The Dø - ?
 - The Doobie Brothers - ?
 - [[sng/The Doors - Light my fire]]
-- [[sng/The Fugees - Fugee-la]]
 - The Gladiators - ?
 - [[sng/The Hives - Hate to say I told you so]]
 - [[sng/The Kinks - you really got me]]
