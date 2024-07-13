@@ -90,7 +90,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - [[sng/B-52's - Love Shack]]
 - [[sng/Backstreet Boys - We've got it goin'on]]
 - Bad Brains - ?
-- Bad Religion - ?
+- [[sng/Bad Religion - Sorrow]]
 - [[sng/Barbara - l'aigle noir (mai)]]
 - [[sng/Barry Manilow - Could it be magic]]
 - [[sng/Barry White - Let the music play]]
@@ -1184,7 +1184,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 
 - [[sng/Warda - Batwanes Beek]]
 - [[sng/Warren G - Regulate]]
-- Was not was - ?
+- [[sng/Was not was - Walk the dinosaur]]
 - [[sng/Weezer - Island in the sun]]
 - [[sng/Wet Wet Wet - Sweet little mystery]]
 - [[sng/Wham - Wake me Up]]
