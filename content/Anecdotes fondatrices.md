@@ -37,6 +37,9 @@ Mi grave sorti à la trompette en regardant par la fenêtre et en pensant à aut
 
 JV1010 dec 2000
 
+## MIDI merge
+
+BlaW
 ## Impression au dos d’une facture
 
 Bla
