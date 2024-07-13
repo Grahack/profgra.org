@@ -39,7 +39,8 @@ JV1010 dec 2000
 
 ## MIDI merge
 
-BlaW
+J’ai cru que du câble allait suffire, mais il fallait un peu d’électronique.
+
 ## Impression au dos d’une facture
 
 Bla
