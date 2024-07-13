@@ -956,7 +956,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - [[sng/Roxette - Listen to your heart]]
 - Roxy Music - ?
 - [[sng/Rozlin Clarke - Are you ready Eddy]]
-- [[sng/Rush - Subdivisions]]
+- [[sng/Rush - Limelight]]
 - [[sng/Ryan Paris - Dolce Vita]]
 - [[sng/Rydann - l'Agriculteur]]
 
@@ -973,12 +973,13 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - [[sng/Salvatore Adamo - Vous permettez Monsieur]]
 - [[sng/Sam Brown - Stop !]]
 - Sam Cooke - ?
--  I'm not the only one
+-  I'm not the only one???
 - Sam Smith - ?
 - [[sng/Samantha Fox - Touch me]]
 - San Severino - ?
 - [[sng/Sandra - Everlasting Love]]
 - Sash! - ?
+- [[sng/Screamin' Jay Hawkings - I put a spell on you]]
 - [[sng/Seal - Crazy]]
 - [[sng/Secret Service - Flash in the night]]
 - [[sng/Serge Gainsbourg - Pas long feu]]
@@ -1032,6 +1033,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - Sting - ?
 - Stone & Charden - ?
 - [[sng/Stone Temple Pilots - Creep]]
+- [[sng/Stray Cats - Stray Cat Strut]]
 - [[sng/Stretch - Why did you do it]]
 - [[Stromae - Papa où t'es]]
 - [[sng/Sttellla - Les Tartines]]
