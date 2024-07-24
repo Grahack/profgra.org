@@ -1,8 +1,9 @@
 ---
 title: "OrdiPapier"
 tags:
-    - info/archi
-    - info/algo
+  - info/archi
+  - info/algo
+  - classe/1NSI
 ---
 
-Processeur théorique pour débutants.
+Processeur théorique pour débutants. Remplacé avantageusement par [[BB-Proc]].
