@@ -118,7 +118,10 @@ tags:
 - Danny Carey
   - [Beato itw](https://youtu.be/0ErsWJw28XU)
   - [drum cam from 2002](https://www.youtube.com/watch?v=D5dh50LBtnc)
+- Danny Heifetz
+  - [WP](https://en.wikipedia.org/wiki/Danny_Heifetz)
 - Dave DiCenso
+  - Drumeo lesson: [Demystifying Rudiments & Applications](https://www.youtube.com/watch?v=pfytko0fPQo)
   - [Compil](https://www.youtube.com/watch?v=6CwdPi0Uyss)
 - Dave Early
   - Sade
