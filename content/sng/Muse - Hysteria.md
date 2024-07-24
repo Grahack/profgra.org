@@ -1,7 +1,7 @@
 ---
-title: Niagara - Guerre
+title: Muse - Hysteria
 tags:
-    - musique/chanson
+  - musique/chanson
 ---
 
 Page créée automatiquement, mais vide.

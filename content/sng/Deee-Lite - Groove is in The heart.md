@@ -4,4 +4,5 @@ tags:
     - musique/chanson
 ---
 
-Page créée automatiquement, mais vide.
+- [Deee-Lite sur WP](https://en.wikipedia.org/wiki/Deee-Lite)
+- [La chanson sur WP](https://en.wikipedia.org/wiki/Groove_Is_in_the_Heart)

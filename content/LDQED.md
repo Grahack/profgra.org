@@ -17,14 +17,14 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 
 ### Chiffres
 
-- [[sng/4 non Blondes - What's going on]]
+- [[sng/4 non Blondes - What's up]]
 
 ### A
 
 - [[sng/À cause des garçons - À cause des garçons]]
-- A Perfect Circle - ?
+- [[sng/A Perfect Circle - Judith]]
 - [[sng/A-HA - Take on me]]
-- [[sng/ABBA - Gimme]]
+- [[sng/ABBA - Gimme Gimme Gimme]]
 - [[sng/AC-DC - Highway to Hell]]
 - [[sng/Ace of Base - All that she wants]]
 - Adele - ?
@@ -625,7 +625,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - Led Zeppelin - ?
 - Lee Scratch Perry - ?
 - [[sng/Lene Marlin - Where I'm headed]]
-- Lenny Kravitz - ?
+- [[sng/Lenny Kravitz - Are you gonna go my way]]
 - [[sng/Léo Ferré - Les anarchistes]]
 - [[sng/Leonard Cohen - Suzanne]]
 - [[sng/Leopold Nord - C'est L'amour]]
@@ -732,7 +732,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - [[sng/Michèle Torr - Emmène moi danser ce soir]]
 - [[sng/Mickael Miro - L'horloge tourne]]
 - [[sng/Mickey 3D - Respire]]
-- Midnight Oil - ?
+- [[sng/Midnight Oil - Beds are burning]]
 - [[sng/Mika - Relax (Take it easy)]]
 - [[sng/Mike Brant - Qui saura]]
 - [[sng/Mike Oldfield - Moonlight Shadow]]
@@ -754,7 +754,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - Muddy Waters - ?
 - [[sng/Muriel Dacq - Tropique]]
 - [[sng/Murray head - One night in Bangkok]]
-- Muse - ?
+- [[sng/Muse - Hysteria]]
 - [[sng/Musical Youth - Pass The Dutchie]]
 - [[sng/Mylène Farmer - Pourvu qu'elles soient douces]]
 
@@ -776,7 +776,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - [[sng/Nena - 99 Luftballons]]
 - [[sng/Neneh Cherry - Buffalo Stance]]
 - [[sng/New Order - Blue Monday]]
-- [[sng/Niagara - Guerre]]
+- [[sng/Niagara - J'ai vu]]
 - Nick Cave - ?
 - [[sng/Nick Drake - River man]]
 - [[sng/Nick Kamen - I promised myself]]
@@ -791,7 +791,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - [[sng/Nina Simone - My baby don't care]]
 - [[sng/Nine Inch Nails - Wish]]
 - [[sng/Nino Ferrer - Le Sud]]
-- Nirvana - ?
+- [[sng/Nirvana - Smells like teen spirit]]
 - [[sng/No Doubt - Don't Speak]]
 - [[sng/No One is Innocent - La Peau]]
 - No Se - ?
@@ -980,6 +980,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - San Severino - ?
 - [[sng/Sandra - Everlasting Love]]
 - Sash! - ?
+- [[sng/Scorpions - Still loving you]]
 - [[sng/Screamin' Jay Hawkings - I put a spell on you]]
 - [[sng/Seal - Crazy]]
 - [[sng/Secret Service - Flash in the night]]
@@ -1083,6 +1084,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - [[sng/The Carpenters - Close to you]]
 - [[sng/The Christians - If I could find words]]
 - The Clarks - ?
+- [[sng/The Clash - Should I stay or should I go]]
 - [[sng/The Commodores - Easy]]
 - The Communards - ?
 - [[sng/The Cranberries - Zombie]]
@@ -1102,6 +1104,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - [[sng/The Pasadenas - Tribute]]
 - [[sng/The Pogues - Dirty old town]]
 - [[sng/The Platters - Only you]]
+- [[sng/The Pointer Sisters - So excited]]
 - [[sng/The Pretenders - I go to sleep]]
 - [[sng/The Ramones - Teenage Lobotomy]]
 - [[sng/The Rasmus - In The shadows]]
@@ -1151,6 +1154,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - [[sng/Trust - Antisocial]]
 - Tri Yann - ?
 - [[sng/The Troggs - Wild thing]]
+- [[sng/The Weather Girls - It's raining men]]
 - [[sng/Tryo - Hymne de nos campagnes]]
 - Tunde Olaniran - ?
 - [[sng/Twisted Sisters - I wanna rock]]

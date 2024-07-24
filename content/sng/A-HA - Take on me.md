@@ -4,4 +4,5 @@ tags:
     - musique/chanson
 ---
 
-Page créée automatiquement, mais vide.
+- [YT](https://www.youtube.com/watch?v=djV11Xbc914)
+- Bm dorien
