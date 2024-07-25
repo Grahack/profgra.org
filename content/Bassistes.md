@@ -27,6 +27,7 @@ tags:
 
 ## D
 
+- Darryl Jones
 - David Hungate
     - Toto
     - …
@@ -67,7 +68,7 @@ tags:
 - John Norwood Fisher
   - Fishbone
 - John Paul Jones
-  - [[https://www.guitarworld.com/features/the-10-most-famous-bass-guitars-of-led-zeppelins-john-paul-jones|his basses @guitarworld]]
+  - [his basses@guitarworld](https://www.guitarworld.com/features/the-10-most-famous-bass-guitars-of-led-zeppelins-john-paul-jones)
 - Julian Crampton
 
 ## K
@@ -145,6 +146,7 @@ tags:
 - Steve di Giorgio
   - [WP](https://en.wikipedia.org/wiki/Steve_Di_Giorgio)
   - fretless à trois cordes
+- Sting
 
 ## T
 
@@ -155,6 +157,8 @@ tags:
   - [Disco's last great bass line](https://www.youtube.com/watch?v=gi7K1QO_zhM)
 - Tony Levin
   - [itw Produce like a pro](https://youtu.be/moh8AzPWNvw)
+- Trevor Dunn
+  - [WP](https://en.wikipedia.org/wiki/Trevor_Dunn)
 
 ## V
 

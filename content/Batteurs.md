@@ -54,6 +54,9 @@ tags:
   - Yes
   - King Crimson
      -  [Waiting Man (live)](https://www.youtube.com/watch?v=QTUgaThmZj8)
+  - Genesis
+  - U.K.
+   - [The genius of](https://youtu.be/guW-ApBbpOU) on Drumeo
 - Bill Stewart
 - Bill Ward
   - Black Sabbath
@@ -62,6 +65,8 @@ tags:
   - [WP](https://en.wikipedia.org/wiki/Billy_Cobham)
 - Billy Kilson
   - Prime Directive
+- Blake Richardson
+  - Between the buried and me
 - Brad Wilk
   - Rage against the machine
 - Brian Blade
@@ -293,6 +298,8 @@ tags:
   - [Jerry was a race car driver](https://www.youtube.com/watch?v=RB9sFi-BmhM)
 - Keith Carlock
 - Keith Moon
+- Kenny Aronoff
+  - [Beato itw](https://youtu.be/TqqwkvSCg5k)
 - Kofi Baker
 - Krishou
 
