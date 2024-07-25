@@ -1104,7 +1104,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - [[sng/The Pasadenas - Tribute]]
 - [[sng/The Pogues - Dirty old town]]
 - [[sng/The Platters - Only you]]
-- [[sng/The Pointer Sisters - So excited]]
+- [[sng/The Pointer Sisters - I'm so excited]]
 - [[sng/The Pretenders - I go to sleep]]
 - [[sng/The Ramones - Teenage Lobotomy]]
 - [[sng/The Rasmus - In The shadows]]
