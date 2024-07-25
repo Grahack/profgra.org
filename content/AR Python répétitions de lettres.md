@@ -2,7 +2,7 @@
 title: Répétitions de lettres avec Python
 tags:
   - info/lang/python
-  - peda
+  - peda/actrapide
 ---
 
 1. fonction qui indique si la lettre "a" est répétée (à la suite) dans un
