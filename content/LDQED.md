@@ -343,6 +343,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - [[sng/Elmer Food Beat - Daniela]]
 - [[sng/Elsa - T'en vas pas]]
 - [[sng/Elton John - I'm still standing]]
+- Elvis Costello - ?
 - Elvis Presley - ?
 - Emerson, Lake and Palmer - ?
 - Émilie Simon - ?
@@ -432,6 +433,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - [[sng/Gino Vanelli - Brother to brother]]
 - [[sng/Gipsy Kings - Djobi Djoba]]
 - [[sng/Gloria Estefan - Conga]]
+- [[sng/Gloria Gaynor - I will survive]]
 - [[sng/Gloria Lasso - Histoire d'un amour]]
 - [[sng/Gnarls Barkley - Crazy]]
 - [[sng/Golden Earring - Radar Love]]
