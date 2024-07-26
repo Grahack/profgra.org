@@ -9,7 +9,7 @@ tags:
 
 - [[Souplesses]]
 
-## Doigtés
+## Doigtés OXO
 
 ```
 O
