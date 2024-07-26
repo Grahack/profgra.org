@@ -54,3 +54,37 @@ X  3
 X  2 = 6  (pos 7)
 X  1
 ```
+
+## Approches
+
+### Par en dessous
+
+```plain
+      G    Ab   A    Bb   B    C    Db   D    Eb   E    F    Gb
+ I   TTT (T__  __T)
+     T_T (TTT  T__)
+     
+ V   _TT  T_T  TTT  _TT  T_T  TTT  TTT  TTT  TTT  TTT  TTT  TTT
+     __T  _TT  T_T  TTT  _TT  T_T  TTT  TTT  TTT  TTT  TTT  TTT
+                                                 
+III  T_T  TTT  __T  _TT  T_T  TTT  TTT  TTT  TTT  TTT  TTT  TTT
+     _TT  T_T  TTT  __T  _TT  T_T  TTT  TTT  TTT  TTT  TTT  TTT
+                                                 
+ I   TTT  T__  __T  _TT  T_T  TTT  TTT  TTT  TTT  TTT  TTT  TTT
+     T_T  TTT  T__  __T  _TT  T_T  TTT  TTT  TTT  TTT  TTT  TTT
+                                                 
+ V   _T_  T__  __T  _TT  T_T  TTT  TTT  TTT  TTT  TTT  TTT  TTT
+     ___  _T_  T__  __T  _TT  T_T  TTT  TTT  TTT  TTT  TTT  TTT
+                                                 
+III  T_T  TTT  ___  _T_  T__  __T  TTT  TTT  TTT  TTT  TTT  TTT
+     _TT  T_T  TTT  ___  _T_  T__  TTT  TTT  TTT  TTT  TTT  TTT
+                                                 
+ I   _T_  T__  __T  _TT  T_T  TTT  TTT  TTT  TTT  TTT  TTT  TTT
+     ___  _T_  T__  __T  _TT  T_T  TTT  TTT  TTT  TTT  TTT  TTT
+                                                 
+ V                            _T_  TTT  TTT  TTT  TTT  TTT  TTT
+                              ___  TTT  TTT  TTT  TTT  TTT  TTT
+
+III                                          TTT  TTT  TTT  TTT
+                                             TTT  TTT  TTT  TTT
+```
