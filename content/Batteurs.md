@@ -170,6 +170,11 @@ tags:
        - Renegade transcription
 - Dave Lombardo
   - Slayer
+- Dave McClain
+  - [WP](https://en.wikipedia.org/wiki/Dave_McClain_%28musician%29)
+  - [DrumTalk video](https://www.youtube.com/watch?v=6Fkm7u1dhQc)
+  - Machine Head
+  - Sacred Reich
 - Dave Weckl
 - David «Pick» Withers
   - Sultans of Swing
