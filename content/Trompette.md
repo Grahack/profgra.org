@@ -63,28 +63,28 @@ X  1
       G    Ab   A    Bb   B    C    Db   D    Eb   E    F    Gb
  I   TTT (T__  __T)
      T_T (TTT  T__)
-     
- V   _TT  T_T  TTT  _TT  T_T  TTT  TTT  TTT  TTT  TTT  TTT  TTT
-     __T  _TT  T_T  TTT  _TT  T_T  TTT  TTT  TTT  TTT  TTT  TTT
-                                                 
-III  T_T  TTT  __T  _TT  T_T  TTT  TTT  TTT  TTT  TTT  TTT  TTT
-     _TT  T_T  TTT  __T  _TT  T_T  TTT  TTT  TTT  TTT  TTT  TTT
-                                                 
- I   TTT  T__  __T  _TT  T_T  TTT  TTT  TTT  TTT  TTT  TTT  TTT
-     T_T  TTT  T__  __T  _TT  T_T  TTT  TTT  TTT  TTT  TTT  TTT
-                                                 
- V   _T_  T__  __T  _TT  T_T  TTT  TTT  TTT  TTT  TTT  TTT  TTT
-     ___  _T_  T__  __T  _TT  T_T  TTT  TTT  TTT  TTT  TTT  TTT
-                                                 
-III  T_T  TTT  ___  _T_  T__  __T  TTT  TTT  TTT  TTT  TTT  TTT
-     _TT  T_T  TTT  ___  _T_  T__  TTT  TTT  TTT  TTT  TTT  TTT
-                                                 
- I   _T_  T__  __T  _TT  T_T  TTT  TTT  TTT  TTT  TTT  TTT  TTT
-     ___  _T_  T__  __T  _TT  T_T  TTT  TTT  TTT  TTT  TTT  TTT
-                                                 
- V                            _T_  TTT  TTT  TTT  TTT  TTT  TTT
-                              ___  TTT  TTT  TTT  TTT  TTT  TTT
 
-III                                          TTT  TTT  TTT  TTT
-                                             TTT  TTT  TTT  TTT
+ V   _TT  T_T  TTT  _TT  T_T  TTT (T__  __T)
+     __T  _TT  T_T  TTT  _TT  T_T (TTT  T__)
+
+III  T_T  TTT  __T  _TT  T_T  TTT  _TT  T_T  TTT (T__  __T)
+     _TT  T_T  TTT  __T  _TT  T_T  TTT  _TT  T_T (TTT  T__)
+
+ I   TTT  T__  __T  _TT  T_T  TTT  __T  _TT  T_T  TTT  _TT  T_T
+     T_T  TTT  T__  __T  _TT  T_T  TTT  __T  _TT  T_T  TTT  _TT
+
+ V   _T_  T__  __T  _TT  T_T  TTT  T__  __T  _TT  T_T  TTT  __T
+     ___  _T_  T__  __T  _TT  T_T  TTT  T__  __T  _TT  T_T  TTT
+
+III  T_T  TTT  ___  _T_  T__  __T  _TT  T_T  TTT  T__  __T  _TT
+     _TT  T_T  TTT  ___  _T_  T__  __T  _TT  T_T  TTT  T__  __T
+
+ I   _T_  T__  __T  _TT  T_T  TTT  ___  _T_  T__  __T  _TT  T_T
+     ___  _T_  T__  __T  _TT  T_T  TTT  ___  _T_  T__  __T  _TT
+
+ V                            _T_  T__  __T  _TT  T_T  TTT  ___
+                              ___  _T_  T__  __T  _TT  T_T  TTT
+
+III                                          _T_  T__  __T  _TT
+                                             ___  _T_  T__  __T
 ```
