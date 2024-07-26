@@ -9,6 +9,20 @@ tags:
 
 - [[Souplesses]]
 
+## Doigtés T_T
+
+```plain
+pos | chro | notation
+----+------+---------
+ 1  |   0  |   TTT
+ 2  |   1  |   T_T
+ 3  |   2  |   _TT
+ 4  |   3  |   __T
+ 5  |   4  |   T__
+ 6  |   5  |   _T_
+ 7  |   6  |   ___
+```
+
 ## Doigtés OXO
 
 ```
