@@ -7,6 +7,7 @@ tags:
 ## Pages
 
 - [[shell/for]]
+- [[shell/scp]]
 - [[shell/sed]]
 
 ## Commandes diverses
