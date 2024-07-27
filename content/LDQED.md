@@ -142,8 +142,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - Blankass - ?
 - Blink 182 - ?
 - Block Party - ?
-- [[sng/Blondie - Call Me]]
-- [[sng/Blondie - Heart of Glass = reprise]]
+- [[sng/Blondie - Call me]]
 - [[sng/Blues Trottoir - Un soir de pluie]]
 - [[sng/Blur - Girls & Boys]]
 - [[sng/Blur - Song 2]]
