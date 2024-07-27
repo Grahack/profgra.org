@@ -652,7 +652,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - [[sng/License IV - Viens boire un ptit coup à la maison]]
 - Lilly Allen - ?
 - [[sng/Lilicub - Voyage en Italie]]
-- Limp Biskit - ?
+- [[sng/Limp Bizkit - Break stuff]]
 - [[sng/Linda Lemay - Il existe un paradis]]
 - [[sng/Link Wray - Rumble]]
 - Linkin Park - ?
