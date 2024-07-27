@@ -37,8 +37,9 @@ tags:
 - [[Tcl-Tk]] - [[Haskell]] - [[Lisp]] - [[PicoLisp]] - [[MicroAlg]]
 - [[Clojure et ClojureScript]]
 
-#### Outils informatiques
+#### Hardware et outils informatiques
 
+- [[Raspberry_Pi]] - [[ESP32]]
 - [[Éditeurs]]
 - [[Shell]] - [[vim]] - [[git]] - [[Termux]]
 - [[Idle]] - [[Python Tutor]]
