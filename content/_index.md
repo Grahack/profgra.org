@@ -10,6 +10,7 @@ tags:
 - Journaux :
   [2023-2024](http://github.com/grahack/2023-2024) -
   [2022-2023](http://github.com/grahack/2022-2023)
+- [[e-lyco|Souhaits pour e-lyco]]
 
 ### Maths
 
