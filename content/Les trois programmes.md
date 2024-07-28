@@ -7,6 +7,8 @@ tags:
   - exercice
 ---
 
+## Lecture de programmes
+
 Voici trois « programmes » qui travaillent sur la même liste. Le but de l’exercice est de comprendre ce qu’ils font.
 
 1. Après lecture du code, pouvez-vous dire ce que fait chacun des trois programmes ? Si oui, donnez un titre à chacun.
@@ -43,3 +45,13 @@ while i < 10:
     i = i + 1
 print(R)
 ```
+
+## Écriture de programmes
+
+1. Savoir réécrire ces programmes à partir d’un fichier vierge.
+1. Comment modifier ces programmes pour qu’ils puissent travailler sur des listes de taille quelconque ?
+1. Écrire les trois fonctions qui correspondent à ces trois « programmes ».
+
+## Variations
+
+- [[Variations sur le max]]
