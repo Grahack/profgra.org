@@ -16,7 +16,7 @@ tags:
 
 - [[STS SIO]]
 - [DMEPC sur reseau-canope.fr](https://www.reseau-canope.fr/notice/des-maths-ensemble-et-pour-chacun-2nde.html)
-- [[Club des expressions]]
+- Le [[Club des expressions]]
 - [[Défis maths]]
 
 ### Informatique
