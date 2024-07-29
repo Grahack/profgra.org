@@ -52,7 +52,8 @@ tags:
 - [[Théorie musicale]] - [[Progression]] - [[Rythme]] - [[Gammes]] -
   [[Improvisation musicale]]
 - [[Kapzik]] - [[Dyyp]] - [[Marcharme]]
-- [[LDQED|Le Défi quasi exhaustif et démagogique]] - [[Standards]]
+- [[LDQED|Le Défi quasi exhaustif et démagogique]] - [[Standards]] -
+  [[Musiques de pub]]
 - [[Meshuggah]] - [[Pattashuggah]]
 - [[Guitare solo]] - [[Destruction]]
 - [[My EPM]]
