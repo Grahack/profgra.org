@@ -95,7 +95,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - [[sng/Barry Manilow - Could it be magic]]
 - [[sng/Barry White - Let the music play]]
 - [[sng/Baster - Pêcheur]]
-- BB King - ?
+- [[sng/BB King - Night Life]]
 - [[sng/Beastie Boys - Party]]
 - [[sng/Beck - Loser]]
 - [[sng/Bee Gees - Stayin' Alive]]
