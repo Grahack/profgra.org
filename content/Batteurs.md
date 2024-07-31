@@ -81,6 +81,8 @@ tags:
 
 - Carl Palmer
   - Emerson, Lake & Palmer
+- Carlos Vega
+  - [Remembering](https://www.youtube.com/watch?v=kGAPdPhnPw4)
 - Carter Mc Lean
 - Chad Smith
 - Chad Wackerman
@@ -242,7 +244,7 @@ tags:
 - Igor Cavalera
   - Sepultura
 - Isac Jamba
-  -  [This is Brazilian Samba Jazz By Isac Jamba](https://www.youtube.com/watch?v=A_iZBeGx5qU)
+  - [This is Brazilian Samba Jazz By Isac Jamba](https://www.youtube.com/watch?v=A_iZBeGx5qU)
   - [itw 80/20](https://www.youtube.com/watch?v=bsw490A3EZ8)
 
 ## J
@@ -442,6 +444,12 @@ tags:
 - Simon Phillips
 - Simon Schröder
   - [La reprise de Phantoms](https://www.youtube.com/watch?v=kGAPdPhnPw4)
+- Simon Wright
+  - [WP](https://fr.wikipedia.org/wiki/Simon_Wright)
+  - [Vic Firth Spotlight](https://www.youtube.com/watch?v=avENVjRWV1E)
+  - [Starlicks](https://www.youtube.com/watch?v=U4FkUXnlZM4) (un peu bourrin les échauffements…)
+  - AC/DC
+  - Dio
 - Sonny Emory
 - Stanley Randolph
   - Stevie Wonder
@@ -500,6 +508,7 @@ tags:
 - Vinnie Paul
   - [Drumeo: The Genius of Vinnie Paul](https://www.youtube.com/watch?v=ikaJz1GBBFw)
 - Virgil Donati
+  - [Obsessive Rhythmes](https://www.youtube.com/watch?v=zMc1bgHkSfI) on YT
 
 ## Y
 

@@ -63,6 +63,8 @@ tags:
   - [Basse haut de gamme](https://www.youtube.com/watch?v=GY9yrStBmJQ)
 - Jeff Berlin
   - [itw chez Beato](https://www.youtube.com/watch?v=MReU0doapdQ) (mai 2017)
+- John Davis
+  - Nerve
 - John Deacon
   - Queen
 - John Norwood Fisher
