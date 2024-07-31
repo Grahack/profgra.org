@@ -7,4 +7,5 @@ tags:
 * [[Comment utiliser Python]]
 * [[Pour quoi utiliser Python]]
 * [[Vocabulaire minimal en Python]]
+- [[Defauts_Python]]
 * [[range]]
