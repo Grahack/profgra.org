@@ -56,7 +56,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - [[sng/Amel Bent - Ma Philosophie]]
 - [[sng/Alphaville - Forever young]]
 - [[sng/Amir - La fete]]
-- [[sng/Amy Winehouse - No no no]]
+- [[sng/Amy Winehouse - Rehab]]
 - [[sng/Anais - Mon cœur mon amour]]
 - [[sng/Anastacia - I'm outta love]]
 - Ani Difranco - ?
