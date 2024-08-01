@@ -8,6 +8,10 @@ tags:
 
 ## A
 
+- Anton Davidyants
+  - [blues solo](https://www.youtube.com/watch?v=uwvq126ECfs)
+- Anthony Crawford
+  - [WP](https://en.wikipedia.org/wiki/Anthony_Crawford_(bassist))
 - Armand Sabal-Lecco
   - [WP](https://en.wikipedia.org/wiki/Armand_Sabal-Lecco)
   - [[sng/Brecker Brothers - African Skies]]
@@ -16,6 +20,8 @@ tags:
 
 - Bakithi Kumalo
   - Paul Simon's You can call me Al
+- Bunny Brunel
+  - [fretless lesson](https://www.youtube.com/watch?v=xYIUkhuIIw4)
 
 ## C
 
@@ -32,6 +38,8 @@ tags:
     - Toto
     - …
 - Dominique Di Piazza
+- Doug Shreeve
+  - [Ataraxia bass solo](https://www.youtube.com/watch?v=Vzg0pMSOohY)
 
 ## E
 
@@ -72,6 +80,9 @@ tags:
 - John Paul Jones
   - [his basses@guitarworld](https://www.guitarworld.com/features/the-10-most-famous-bass-guitars-of-led-zeppelins-john-paul-jones)
 - Julian Crampton
+- Junior Braguinha
+  - [Impressions solo](https://www.youtube.com/watch?v=1uVWIIHRcRA)
+  
 
 ## K
 
@@ -92,6 +103,8 @@ tags:
 
 - Marc Johnson
   - [Bill Evans Trio Nardis 1978](https://www.youtube.com/watch?v=hETmWOrKcRE)
+- Marcelo Pérez Schneider
+  - [solo](https://www.youtube.com/watch?v=LNcvBC_x_is)
 - Matt Johnson
   - keyboard of Jamiroquai but knows a bit about bass
   - [Funky Moog Bass](https://www.youtube.com/watch?v=B3zyIcRKQjM)
@@ -157,6 +170,10 @@ tags:
   - [Off Beat video](https://www.youtube.com/watch?v=r4ErgLcTJIU)
 - TM Stevens
   - [Disco's last great bass line](https://www.youtube.com/watch?v=gi7K1QO_zhM)
+- Tom Kennedy
+  - [WP](https://fr.wikipedia.org/wiki/Tom_Kennedy_(musicien))
+- Tom Hamilton
+  - Aerosmith
 - Tony Levin
   - [itw Produce like a pro](https://youtu.be/moh8AzPWNvw)
 - Trevor Dunn
