@@ -28,7 +28,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - [[sng/AC-DC - Highway to Hell]]
 - [[sng/Ace of Base - All that she wants]]
 - Adele - ?
-- Aerosmith - ?
+- [[sng/Aerosmith - Sweet Emotion]]
 - [[sng/Afrika Bambaataa - Planet Rock]]
 - Agnès Obel - ?
 - [[sng/Al Corley - Square Rooms]]
@@ -692,6 +692,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - [[sng/Marcel Amont - Il a le maillot jaune]]
 - [[sng/Mariah Carey - Always be my baby]]
 - Marianne Faithful - ?
+- [[sng/Mary J.Blige - Family Affair]]
 - [[sng/Marie Laforêt - Vendanges de l'Amour]]
 - [[sng/Marie Myriam - L'oiseau et l'enfant]]
 - [[sng/Marie-Paul Belle - Parisienne]]

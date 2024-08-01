@@ -4,4 +4,4 @@ tags:
     - musique/chanson
 ---
 
-Page créée automatiquement, mais vide.
+- [YT](https://www.youtube.com/watch?v=D136hOqYF28)
