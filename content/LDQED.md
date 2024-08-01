@@ -698,6 +698,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - [[sng/Marie-Paul Belle - Parisienne]]
 - [[sng/Marina Kaye - Homeless]]
 - [[sng/Maroon 5 - This love]]
+- [[sng/Martha and the Vandellas - Dancing in the street]]
 - [[sng/Martin Circus - Je m'éclate au Sénégal]]
 - [[sng/Martin Solveig - Jealousy]]
 - [[sng/Marvin Gay - What's going on]]
@@ -708,7 +709,6 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - [[sng/Matmatah - les moutons]]
 - [[sng/Matt Bianco - Get Out Of Your Lazy Bed]]
 - [[sng/Maurane - Toutes les mamas]]
-- [[sng/Martha and the Vandellas - Dancing in the street]]
 - [[sng/Maurice Albert - Feelings]]
 - Maurice Chevalier - ?
 - [[sng/Maxime Leforestier - Né quelque part]]
