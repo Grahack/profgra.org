@@ -53,8 +53,8 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - [[sng/Alizée - Lolita]]
 - All Saints - ?
 - [[sng/Alliance Ethnik - Respect]]
-- [[sng/Amel Bent - Ma Philosophie]]
 - [[sng/Alphaville - Forever young]]
+- [[sng/Amel Bent - Ma Philosophie]]
 - [[sng/Amir - La fete]]
 - [[sng/Amy Winehouse - Rehab]]
 - [[sng/Anais - Mon cœur mon amour]]
