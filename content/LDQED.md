@@ -55,15 +55,18 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - [[sng/Alliance Ethnik - Respect]]
 - [[sng/Alphaville - Forever young]]
 - [[sng/Amel Bent - Ma Philosophie]]
+- [[sng/America - A Horse With No Name]]
 - [[sng/Amir - La fete]]
 - [[sng/Amy Winehouse - Rehab]]
 - [[sng/Anais - Mon cœur mon amour]]
 - [[sng/Anastacia - I'm outta love]]
+- [[sng/Angèle - Ta Reine]]
+- Angélique Kidjo - ?
 - Ani Difranco - ?
 - Anis - ?
 - [[sng/Anne Sylvestre - Dans la vie en vrai]]
-- [[sng/Annie Cordy - Chaud]]
-- [[sng/Antoine - Les élucubrations]]
+- [[Annie Cordy - Cho Ka Ka O]]
+- [[Antoine - Les élucubrations d'Antoine]]
 - [[sng/Arcade Fire - No cars go]]
 - [[sng/Aretha Franklin - Think]]
 - Ariana Grande - ?
