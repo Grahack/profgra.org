@@ -168,7 +168,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - [[sng/Boule Noire - Aimer d'amour]]
 - [[sng/Boulevard des airs - Bruxelles]]
 - [[sng/Bourvil - C'était bien]]
-- Boy George - ?
+- Boy George (voir Culture Club)
 - Boys to Men - ?
 - Boyzone - ?
 - [[sng/Brandy & Monica - The Boy is Mine]]
