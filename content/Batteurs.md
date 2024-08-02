@@ -15,6 +15,7 @@ tags:
   - Deftones
 - Adam Deitch
   - [Modern Drummer 2010](https://www.youtube.com/watch?v=7KyWfk192uE)
+  - [Quartet @Blue Nile](https://www.youtube.com/watch?v=sRUS3POECSk) (May 2023)
   - Sco
 - Aldo Romano
 - Alex Van Halen
@@ -30,6 +31,7 @@ tags:
 - Ari Hoenig
   - [Podcast 8020](https://youtu.be/L1Ud9Z9FZHE)
 - Aric Improta
+  - [Meinl Cymbals - Night Verses - "Plague Dancer"](https://www.youtube.com/watch?v=fwhHSfC_TGU)
 - Aron Mellergård
   - Dirty Loops
 - Art Blakey
@@ -382,6 +384,9 @@ tags:
 
 ## O
 
+- Ofri Nehemya
+  - [ofrinehemyamusic.com](https://www.ofrinehemyamusic.com/)
+  - [itw 80/20](https://www.youtube.com/watch?v=As448Cg22VQ)
 - Omar Hakim
 
 ## P
@@ -522,9 +527,11 @@ tags:
   - [Zildjian Underground](https://www.youtube.com/watch?v=ZvbbWDoODEI)
     (déjà plus audible)
 - Zach Hill
-  - [Face Tat](https://www.youtube.com/watch?v=hGi9SOFX5rc)
-    (avec un guitariste)
+  - [Face Tat](https://www.youtube.com/watch?v=hGi9SOFX5rc) (avec un guitariste)
   - [Practicing Feb 2011](https://www.youtube.com/watch?v=IsY0hT8kAHI)
+- Zack Grooves
+  - [Time Machine @Meinl](https://www.youtube.com/watch?v=DXo9jRENv5I)
+  - [Arrival @Meinl](https://www.youtube.com/watch?v=umBudz2eq70)
 - Zig
   - [WP](https://en.wikipedia.org/wiki/Ziggy_Modeliste)
 - Zoltan Chaney
