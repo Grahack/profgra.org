@@ -186,6 +186,8 @@ tags:
 - Dennis Chambers
   - [Live from a pad](https://youtu.be/oXvW63Xo9z0)
 - Derrick Mckenzie
+- Donald Tardy
+  - [Drumtalk 67](https://www.youtube.com/watch?v=mVEKU03ZJy8)
 - Dorothea Taylor
   - [Profil Drummer Zone](https://drummerszone.com/artists/dorothea-taylor/15320/profile/)
 - Doug Clifford
