@@ -70,3 +70,11 @@ $$\frac{a}{b} ÷ c = \frac{a}{b} × \frac{1}{c} = \frac{a}{bc}$$
 ### Priorités
 
 Il faut garder en tête que c’est une division, mais il faut dessiner les barres aux bons endroits pour les fractions à étage (aussi s’il n’y a pas plusieurs étages).
+
+D’une part $\frac{\frac{2}{2}}{2} = \frac{1}{2}$ et d’autre part
+$\frac{2}{\frac{2}{2}} = \frac{2}{1} = 2$.
+
+### Compatibilités
+
+$\frac{AB}{C} = A × \frac{B}{C}$
+
