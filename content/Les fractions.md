@@ -66,3 +66,7 @@ La division n’est que la multiplication par l’inverse !
 $$\frac{a}{b} ÷ \frac{c}{d} = \frac{a}{b} × \frac{d}{c} = \frac{ad}{bc}$$
 $$a ÷ \frac{b}{c} = \frac{a}{1} × \frac{c}{b} = \frac{ac}{b}$$
 $$\frac{a}{b} ÷ c = \frac{a}{b} × \frac{1}{c} = \frac{a}{bc}$$
+
+### Priorités
+
+Il faut garder en tête que c’est une division, mais il faut dessiner les barres aux bons endroits pour les fractions à étage (aussi s’il n’y a pas plusieurs étages).
