@@ -150,3 +150,13 @@ Groupés par hauteur de note
 434 333 333 433 343 34|4 343 334 334
 ```
 
+### Eulogy
+
+<pre>
+X:6
+T:Kick & HH
+M:4/4
+L:1/16
+|: [Fe]Fee zeeF e[Fe]Fe ezee | F[Fe]ez eez[Fe] eF[Fe]e zeez |
+|  [Fe][Fe]ze eze[Fe] z[Fe][Fe]z eeze | [Fe]Fee zeeF e[Fe]Fe ezee  :|
+</pre>
