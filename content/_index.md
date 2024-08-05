@@ -18,7 +18,7 @@ tags:
 - [DMEPC sur reseau-canope.fr](https://www.reseau-canope.fr/notice/des-maths-ensemble-et-pour-chacun-2nde.html)
 - Le [[Club des expressions]]
 - [[Défis maths]]
-- [[Les fractions]]
+- [[Les fractions]] - [[Les racines]]
 
 ### Informatique
 
