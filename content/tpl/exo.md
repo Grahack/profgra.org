@@ -2,7 +2,7 @@
 title: Exercice
 tags:
   - -draft
-  - yo
+  - exercice
 ---
 
 
