@@ -8,10 +8,12 @@ tags:
 
 ## A
 
+- Abe Laboriel
 - Anton Davidyants
   - [blues solo](https://www.youtube.com/watch?v=uwvq126ECfs)
 - Anthony Crawford
   - [WP](https://en.wikipedia.org/wiki/Anthony_Crawford_(bassist))
+- Anthony Jackson
 - Armand Sabal-Lecco
   - [WP](https://en.wikipedia.org/wiki/Armand_Sabal-Lecco)
   - [[sng/Brecker Brothers - African Skies]]
@@ -63,6 +65,11 @@ tags:
 
 - Herbie Flowers
   - Lou Reed’s  “Walk on the Wild Side”
+
+## I
+
+- Ida Nielsen
+  - Prince
 
 ## J
 
@@ -120,6 +127,8 @@ tags:
 - Mick Karn
   - Japan
   - [PD's video](https://youtu.be/jFyZMd6Axoc)
+- Mike Kerr
+  - Royal Blood
 - Mike Kroeger
   - [WP](https://fr.wikipedia.org/wiki/Mike_Kroeger)
   - Nickelback
