@@ -204,6 +204,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - [[sng/Carlos Santana - Black Magic Woman]]
 - [[sng/Caroline Loeb - C'est la ouate]]
 - [[sng/Carlos - Je préfère manger à la cantine]]
+- [[sng/Carlos Santana - Black Magic Woman]]
 - [[sng/Carmel - Sally]]
 - Carole Laure - ?
 - [[sng/Carte de Séjour - Zoubida]]
@@ -719,6 +720,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - [[sng/MC Solaar - Caroline]]
 - [[sng/Meat Loaf - I'd do anything for love]]
 - [[sng/Mecano - Une femme avec une femme]]
+- [[sng/Megadeth - Symphony of destruction]]
 - [[sng/Mel & Kim - Respectable]]
 - Men at work - ?
 - Menelik - ?
@@ -1099,8 +1101,10 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - The Dø - ?
 - The Doobie Brothers - ?
 - [[sng/The Doors - Light my fire]]
+- [[sng/The Fugees - Fugee-la]]
 - The Gladiators - ?
 - [[sng/The Hives - Hate to say I told you so]]
+- [[sng/The Human League - Don't you want me]]
 - [[sng/The Kinks - you really got me]]
 - [[sng/The Knack - My Sharona]]
 - [[sng/The Korgis - Everybody's got to learn sometime]]

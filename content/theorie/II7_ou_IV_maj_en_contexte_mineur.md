@@ -44,6 +44,7 @@ title: "II7 ou IV maj en contexte mineur"
 - [[sng/Mike Brant - Laisse moi t'aimer]]
 - [[sng/Nino Ferrer - Le Sud]]
 - [[sng/Paul McCartney and Michael Jackson - Say say say]]
+- [[sng/Percy Sledge - When a man loves a woman]]
 - [[sng/Pink Floyd - The Wall]]
 - [[sng/Queen - I want to break free]] (bridge)
 - [[sng/Roger Glover - Love is all]]

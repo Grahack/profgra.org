@@ -4,6 +4,7 @@ title: "Modulation un ton"
 
 - [[sng/Blondie - Call me]]
 - [[sng/Céline Dion - Pour que tu m'aimes encore]]
+- [[sng/Dexys Midnight Runners - Come on Eileen]]
 - [[sng/Jean-Jacques Goldman - Comme toi]]
 - [[sng/Jean-Jacques Goldman - Tu es de ma famille]]
 - [[sng/Johnny Hallyday - J'oublierai ton nom]]
