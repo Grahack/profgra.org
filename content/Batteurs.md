@@ -15,6 +15,10 @@ Et batteuses...
     d’après
 - Abe Cunningham
   - Deftones
+- Abe Laboriel Jr
+  - Paul McCartney
+  - Sting
+  - Johnny
 - Adam Deitch
   - [Modern Drummer 2010](https://www.youtube.com/watch?v=7KyWfk192uE)
   - [Quartet @Blue Nile](https://www.youtube.com/watch?v=sRUS3POECSk) (May 2023)
@@ -50,6 +54,8 @@ Et batteuses...
     - Leprous
 - Barriemore Barlow
   - Jethro Tull (2e vague)
+- Ben Thatcher
+  - Royal Blood
 - Benny Greb
   - [80/20 itw](https://www.youtube.com/watch?v=4yZqDmkzEGE)
 - Bernard Purdie
@@ -71,6 +77,8 @@ Et batteuses...
   - Prime Directive
 - Blake Richardson
   - Between the buried and me
+- Bob Henrit
+  - The Kinks
 - Brad Wilk
   - Rage against the machine
 - Brian Blade
@@ -112,6 +120,9 @@ Et batteuses...
 - Cindy Blackman Santana
   - Lenny Kravitz
   - [Solo @Drumeo Fest 2020](https://www.youtube.com/watch?v=JGgiN1YNoQ4)
+- Clem Burke
+  - Eurythmics
+  - Blondie
 - Clyde Stubblefield
   - [WP](https://fr.wikipedia.org/wiki/Clyde_Stubblefield)
 
@@ -139,6 +150,7 @@ Et batteuses...
 - Dave Elitch
   - le champion de la posture
   - [Site pro](https://daveelitch.com/)
+- Dave Grohl
 - Dave King
   - [Compil 2019-2020](https://www.youtube.com/watch?v=CrhYfkCk-sg)
   - Rationale Funk ([YT channel](https://www.youtube.com/@RATIONALFUNKwithDaveKing))
@@ -207,6 +219,9 @@ Et batteuses...
   - par Mike Clark
     - [part 1](https://www.youtube.com/watch?v=HC8tP48B5Sw)
     - [part 2](https://www.youtube.com/watch?v=0TQ3rtnc7_Y)
+- Emily Dolan Davies
+   - Brian Ferry
+   - The Darkness
 - Eric Moore
 
 ## F
@@ -267,8 +282,11 @@ Et batteuses...
 - JD Beck
 - Jeff Porcaro
 - Jeff Tain Watts
+- Jess Bowen
+  - [hears RATM](https://youtu.be/gSX7D-dJRBo)
 - Jeremy Colson
   - Vai
+- Jim Keltner
 - Joey Baron
   - [WP](https://en.wikipedia.org/wiki/Joey_Baron)
 - Joey Castillo
@@ -278,6 +296,8 @@ Et batteuses...
 - John JR Robinson
   - [Rock with you](https://www.youtube.com/watch?v=YgjQmA9tI_Y)
   - [Stomp chez PD bass](https://youtu.be/F7el0I5BQtw)
+- John Otto
+  - Limp Biskit
 - Jim Riley
   - [Creating beats (Drumeo)](https://www.youtube.com/watch?v=de4mTYcA59g))
   - [80/20 podcast](https://www.youtube.com/watch?v=4QNTYNhzqIE) (oct 2023)
@@ -329,6 +349,8 @@ Et batteuses...
   - [WP](https://en.wikipedia.org/wiki/Lenny_White)
   - [20min itw](https://www.youtube.com/watch?v=3bCX3uzpWBo)
   - [Astral Pirates](https://youtu.be/qQNATz_Pj5w)
+- Lionel Hampton
+  - [WP](https://fr.wikipedia.org/wiki/Lionel_Hampton)
 - Louis Cole
 
 ## M
@@ -345,6 +367,7 @@ Et batteuses...
   - [Podcast 8020](https://youtu.be/Oi2g1pZeVG8)
 - Matt Sorum
   - Guns'n'Roses
+- Max Roach
 - Michael Bland
   - Prince
 - Michael Shrieve
@@ -385,6 +408,12 @@ Et batteuses...
   - [WP](https://en.wikipedia.org/wiki/Nick_D%27Virgilio)
 - Nick Mason
   - Pink Floyd
+- Nick "Topper" Headon
+  - The Clash
+  - [WP](https://en.wikipedia.org/wiki/Topper_Headon)
+- Nicko McBrain
+  - Iron Maiden
+  - [WP](https://fr.wikipedia.org/wiki/Nicko_McBrain)
 
 ## O
 
@@ -443,6 +472,12 @@ Et batteuses...
 
 ## S
 
+- Samantha Maloney
+  - Eagles of Death Metal
+  - Hole
+  - sub pour Tommy Lee
+- Sandy Nelson
+  - [WP](https://fr.wikipedia.org/wiki/Sandy_Nelson)
 - Sean Rickman
   - S.Coleman and the 5 elts
 - Sebastian Lanser
@@ -463,9 +498,12 @@ Et batteuses...
 - Stanley Randolph
   - Stevie Wonder
 - Stanton Moore
+- Stephen Perkins
+  - Jane's Addiction
 - Steve Gadd
 - Steve Jordan
   - [Compil](https://www.youtube.com/watch?v=ijddYOEeJeA)
+  - [The groove is here](https://youtu.be/Z418sTfNc0o)
 - Steve Smith
 - Steven Adler
   - Guns'n'Roses - Appetite
@@ -497,6 +535,8 @@ Et batteuses...
   - Whitesnake
   - [Drumeo 73yo](https://youtu.be/Mzvu8ZmQhVg)
 - Tommy Lee
+  - Mötley Crüe
+  - la cage qui tourne
 - Tommy Igoe
 - Tony Allen
   - [Doc on the Off Beat channel](https://www.youtube.com/watch?v=9RDfvRIYBrc)
