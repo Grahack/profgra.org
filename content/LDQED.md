@@ -695,7 +695,6 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - [[sng/Marcel Amont - Il a le maillot jaune]]
 - [[sng/Mariah Carey - Always be my baby]]
 - Marianne Faithful - ?
-- [[sng/Mary J.Blige - Family Affair]]
 - [[sng/Marie Laforêt - Vendanges de l'Amour]]
 - [[sng/Marie Myriam - L'oiseau et l'enfant]]
 - [[sng/Marie-Paul Belle - Parisienne]]
@@ -706,6 +705,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - [[sng/Martin Solveig - Jealousy]]
 - [[sng/Marvin Gay - What's going on]]
 - [[sng/Mary Hopkins - Thoses were a day]]
+- [[sng/Mary J.Blige - Family Affair]]
 - [[sng/Marylin Monroe - I want to be loved by you]]
 - [[sng/Mathieu Boogaerts - Ondule]]
 - [[sng/Matmatah - Lambé an dro]]
