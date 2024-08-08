@@ -1,5 +1,5 @@
 ---
-title: Beastie Boys - Party
+title: Beastie Boys - Fight for your right
 tags:
     - musique/chanson
 ---
