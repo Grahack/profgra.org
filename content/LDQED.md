@@ -408,7 +408,6 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - [[sng/Franz Ferdinand - Singing in the car]]
 - Freak Power - ?
 - Frédéric François - ?
-- [[sng/Fugees - Fugee-la]]?
 
 ### G
 
