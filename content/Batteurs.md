@@ -367,6 +367,7 @@ Et batteuses...
   - [Podcast 8020](https://youtu.be/Oi2g1pZeVG8)
 - Matt Sorum
   - Guns'n'Roses
+  - [Drum Licks & Tricks 98](https://www.youtube.com/watch?v=9p1IohAeDm4)
 - Max Roach
 - Michael Bland
   - Prince
