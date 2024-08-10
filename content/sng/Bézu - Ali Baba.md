@@ -1,5 +1,5 @@
 ---
-title: Bezu - A la queue leu leu
+title: Bézu - Ali Baba
 tags:
     - musique/chanson
 ---
