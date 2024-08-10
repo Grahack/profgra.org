@@ -4,4 +4,4 @@ tags:
     - musique/chanson
 ---
 
-Page créée automatiquement, mais vide.
+- [La chanson sur WP](https://fr.wikipedia.org/wiki/Poison_(chanson))
