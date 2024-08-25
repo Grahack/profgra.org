@@ -325,6 +325,8 @@ Et batteuses...
   - [Beato itw](https://www.youtube.com/watch?v=jyKjADpkDLs) (April 2024)
 - JP Bouvet
 - Julien Sérié
+- Justin Tyson
+  - [Best drum solo ever](https://www.youtube.com/watch?v=NEQ3lVi0gbQ)
 
 ## K
 

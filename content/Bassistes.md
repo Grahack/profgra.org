@@ -86,6 +86,8 @@ tags:
   - Fishbone
 - John Paul Jones
   - [his basses@guitarworld](https://www.guitarworld.com/features/the-10-most-famous-bass-guitars-of-led-zeppelins-john-paul-jones)
+- Jon Stockman
+  - Karnivool
 - Julian Crampton
 - Junior Braguinha
   - [Impressions solo](https://www.youtube.com/watch?v=1uVWIIHRcRA)
