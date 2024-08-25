@@ -1,5 +1,7 @@
 Juste un mémo pour la maison, même si on peut retrouver les machines connectées à la Freebox depuis l’appli.
 
+- tel
+  - chauchau 192.168.0.91
 - surf
   - chauchau 192.168.0.56
   - bouillon 102.168.1.35
