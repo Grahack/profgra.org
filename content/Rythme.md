@@ -160,3 +160,36 @@ L:1/16
 |: [Fe]Fee zeeF e[Fe]Fe ezee | F[Fe]ez eez[Fe] eF[Fe]e zeez |
 |  [Fe][Fe]ze eze[Fe] z[Fe][Fe]z eeze | [Fe]Fee zeeF e[Fe]Fe ezee  :|
 </pre>
+
+### Achilles'last stand
+
+Une équivalence diabolique dans [[sng/Led Zeppelin - Achilles last stand|cette chanson]].
+
+<pre>
+X:7
+T:Achille, rythme «normal»
+M:4/4
+Q:1/4=150
+L:1/8
+K:Em
+|: e3f3g2- | ga3g2f2 :|
+</pre>
+
+J’’ai choisi 100 pour le nouveau BPM pour respecter l’équivalence, mais sur le disque c’est plus lent.
+
+<pre>
+X:8
+T:Achille, pendant les soli de guitare
+M:5/4
+Q:1/4=100
+L:1/16
+K:Em
+|: (3eeee2 (3eeee2 (3eeee2 (3eeee2 e2e2 :|
+</pre>
+
+On peut taper :
+
+```plain
+X-+-+- X-+-+- X-+-+- X-+-+- X-+- X-+-   pour le premier
+XOXO+- XOXO+- XOXO+- XOXO+- X-+ O+-     pour le second
+```
