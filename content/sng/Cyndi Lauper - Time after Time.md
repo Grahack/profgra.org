@@ -4,4 +4,6 @@ tags:
     - musique/chanson
 ---
 
-Page créée automatiquement, mais vide.
+- [Cyndi Lauper sur WP](https://fr.wikipedia.org/wiki/Cyndi_Lauper)
+- [La chanson sur WP](https://fr.wikipedia.org/wiki/Time_After_Time_(chanson_de_Cyndi_Lauper))
+- [La chanson sur YT](https://www.youtube.com/watch?v=VdQY7BusJNU)
