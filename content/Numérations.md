@@ -60,7 +60,7 @@ et la multiplication.
 
 On dispose de 8 bits. On sait qu'on peut coder 256
 valeurs, comment peut-on s'organiser pour coder
-des nombres entiers négatif, zéro, et des nombres
+des nombres entiers négatifs, zéro, et des nombres
 positifs?
 
 ### Plénière de régulation 
