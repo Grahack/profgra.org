@@ -43,20 +43,20 @@ Dépôts git (termux, github, ordi perso)
 
 ### Extensions
 
-- gif
-- ods
-- odt
-- pdf
-- py
-- exception : img pour les .jpg et .png
+- `gif`
+- `ods`
+- `odt` (avec le pdf généré)
+- `pdf` (seulement si je n’ai pas la version modifiable)
+- `py`, `shell` (langages)
+- exception : `img` pour les `.jpg`. et `.png`, `vid` pour les videos
 
 ### Autres sous-dossiers
 
-- bookmarks (marque pages)
-- sng (chansons)
-- std (standards)
-- theorie (des exemples pour chaque élément de théorie musicale)
-- tpl (templates Obsidian)
+- `bookmarks` (marque pages)
+- `sng` (chansons)
+- `std` (standards)
+- `theorie` (des exemples pour chaque élément de théorie musicale)
+- `tpl` (templates Obsidian)
 
 ## Tags
 
