@@ -153,6 +153,8 @@ tags:
 
 - Pat Badger
   - Extreme
+- Paul Denman
+  - Sade
 - Paz Lenchantin
   - [WP](https://en.wikipedia.org/wiki/Paz_Lenchantin)
   - A Perfect Circle
