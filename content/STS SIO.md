@@ -14,7 +14,7 @@ Services Informatiques aux Organisations
 
 En première année, nous attaquons:
 
-1. [[Présentations SIO]] et
+0. [[Message de rentrée SIO]] et
   [[Le dernier carré]] ou [[Le jeu des allumettes]]
 1. [[Numérations]]
 2. [[Logique des propositions]]
