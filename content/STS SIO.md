@@ -16,7 +16,7 @@ En première année, nous attaquons:
 
 1. [[Présentations SIO]] et
   [[Le dernier carré]] ou [[Le jeu des allumettes]]
-1. [[Numération]]
+1. [[Numérations]]
 2. [[Logique des propositions]]
 3. [[Arithmétique]] et [[Logique des prédicats]]
 4. [[Matrices]]
