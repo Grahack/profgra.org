@@ -3,6 +3,7 @@ title: Numération
 tags:
   - -draft
   - classe/SIO
+  - peda/exercice
   - -todo
   - maths/numération
 ---
