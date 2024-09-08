@@ -64,3 +64,24 @@ Retenir :
  - une fonction peut admettre aucun argument, ou un seul, ou plusieurs, ou même un nombre variable d’arguments (comme print) 
 - le caractère = réalise une *affectation* d’une valeur à une *variable*
 - la première affectation sur une variable est appelée *initialisation*
+
+## Exercice
+
+Il y a 6 types de conversion à connaître, et voici les fonctions Python correspondantes :
+
+```plain
+             D
+           ^/ \^
+int(?, 2) //   \\
+         //     \\ int(?, 16)
+        // bin   \\
+       //     hex \\
+      /v           v\
+     B ============= H
+```
+
+Notez bien que `bin` et `hex` attendent un `int` et que `int` attend une `str`.
+
+Le premier programme effectuait la conversion de D à B, écrivez les 5 programmes restants.
+
+Finir à la maison et tester avec une installation de [[Python]].
