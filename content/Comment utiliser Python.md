@@ -19,7 +19,7 @@ Dans le cas contraire vous aurez installé:
 ### Python et IDLE
 
 L’éditeur IDLE est installé avec la plupart
-des distributions, même minimales de Python.
+des distributions, même minimales, de Python.
 Il est simple, sobre et efficace.
 Au démarrage vous tombez dans la console interactive.
 Je vous invite à ouvrir une fenêtre pour un nouveau
