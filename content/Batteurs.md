@@ -293,6 +293,8 @@ Et batteuses...
   - QOTSA
 - Joey Kramer
   - Aerosmith
+- John Dolmayan
+  - System of a down
 - John JR Robinson
   - [Rock with you](https://www.youtube.com/watch?v=YgjQmA9tI_Y)
   - [Stomp chez PD bass](https://youtu.be/F7el0I5BQtw)
