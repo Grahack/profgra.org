@@ -13,6 +13,7 @@ tags:
     - algorithmes et langages (programmation, algorithmique, structures), noté AL
     - données et machines (encodage, architecture et matériel, réseau), noté DM
   - je vais surtout distribuer des A5
+- Clef USB (à archiver sur le réseau du lycée)
 - travail par quinzaine
   - sur AL et DM plus ou moins en même temps
   - une évaluation tous les 15 jours

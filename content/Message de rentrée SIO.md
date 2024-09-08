@@ -9,6 +9,7 @@ tags:
 - cahier, de n’importe quel format
   - deux parties, cours et exercices
   - je vais surtout distribuer des A5
+- clef USB (à archiver sur le réseau du lycée)
 - travail à la maison
   - au moins 20min entre séances (revoir le cours et commencer tous les exercices)
   - au moins poser une question si blocage sur un exercice
