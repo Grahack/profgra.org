@@ -16,10 +16,9 @@ tags:
 - AL
   - [[Robot lumineux]]
   - [[Trois programmes et Momie]]
-  - booléens et opérateurs
+  - Types en Python, appels de fonctions prédéfinies et opérateurs
 - DM
-  - Compter en binaire (apprendre en autonomie)
-  - Hexadécimal
+  - [[Binaire et hexadécimal]]
   - Quantité d’information
   - Complément à 2
 
