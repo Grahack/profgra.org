@@ -8,7 +8,7 @@ Celte, mixo, western
 
 ## Liste
 
-- [[sng/Arnold Turboust - Adélaïde]]
+- [[sng/Arnold Turboust & Zabou - Adélaïde]]
 - [[sng/Creedence Clearwater Revival - Born on the Bayou]]
 - [[sng/David Bowie - Heroes]]
 - [[sng/De Palmas - Sur la route]]
