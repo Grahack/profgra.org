@@ -29,9 +29,13 @@ tags:
 
 - Chris Squire
   - Yes
+⁻ Chuck Rainey
+  - [WP](https://en.wikipedia.org/wiki/Chuck_Rainey)
 - Colin Greenwood
   - Radiohead
   - [WP](https://fr.wikipedia.org/wiki/Colin_Greenwood)
+- Curt Smith
+  - Tears for fears
 
 ## D
 
@@ -181,6 +185,8 @@ tags:
 - Thundercat
   - [WP](https://en.wikipedia.org/wiki/Thundercat_(musician))
   - [Off Beat video](https://www.youtube.com/watch?v=r4ErgLcTJIU)
+- Tina Weymouth
+  - Talking Heads
 - TM Stevens
   - [Disco's last great bass line](https://www.youtube.com/watch?v=gi7K1QO_zhM)
 - Tom Kennedy

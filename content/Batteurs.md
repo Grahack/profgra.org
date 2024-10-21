@@ -92,6 +92,7 @@ Et batteuses...
 ## C
 
 - Carl Palmer
+  - [Page WP](https://en.wikipedia.org/wiki/Carl_Palmer)
   - Emerson, Lake & Palmer
 - Carlos Vega
   - [Remembering](https://www.youtube.com/watch?v=kGAPdPhnPw4)
