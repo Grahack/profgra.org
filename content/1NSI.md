@@ -33,7 +33,7 @@ On insiste sur les fonctions lors des travaux sur l’encodage (nombres entiers,
   - [[Algorithmes de tri]] (intro seulement), spécifications
 #### Q3
 
-- AL [[Problèmes avec des listes]] (parcours séquentiels), bibliothèques?
+- AL [[Premiers problèmes sur les listes]] (parcours séquentiels), bibliothèques?
 - DM Flottants, encodage de texte
 
 ### P2 Automne
