@@ -12,19 +12,43 @@ Services Informatiques aux Organisations
 
 ## Progression
 
-En première année, nous attaquons:
+En première année, nous voyons tout le programme sauf :
 
-0. [[Message de rentrée SIO]] et [[Premier TP SIO]] ou [[Premier cours SIO]]
-  Pour les très rapides : [[Le jeu des allumettes]] ou [[Le dernier carré]].
-1. [[Numérations]]
-2. [[Logique des propositions]]
 3. [[Arithmétique]] et [[Logique des prédicats]]
+- [[Tableaux de Karnaugh]]
+- [[Ensembles, relations, applications]] (TODO)
+- [[Ordonnancement SIO]] (TODO)
+
+Nous attaquons « de front » des concepts mathématiques et des concepts algorithmiques, concepts qui se marient bien et favorisent mutuellement leur compréhension.
+
+Pour les très rapides il y a toujours [[Le jeu des allumettes]] ou [[Le dernier carré]].
+
+### Hexadécimal et binaire + qques bases d’algo
+
+- [[Message de rentrée SIO]]
+- [[Premier TP SIO]] ou [[Premier cours SIO]]
+
+Le premier TP fait découvrir :
+- exécution séquentielle
+- variables et affectation
+- appels de fonctions prédéfinies (`print`, `bin`, `hex`, `input`, `int`)
+
+Le premier cours fait découvrir :
+- l’hexadécimal et le binaire
+- conversions de binaire et hexadécimal à l’écriture en base 10
+
+Reste en TP (algo) et en cours (maths) à apprendre à faire les autres conversions. Les rapides peuvent poser des opérations.
+
+### Logique des propositions + bool, def, if et assert
+
+- Cours en maths sur les propositions et les opérations logiques NON, ET, OU et EQUIV (ainsi que quelques tautologies)
+- En TP, implémentation des fonctions logiques.
+    - [[py/implem_logique_modele.py]]
+    - [[py/implem_logique_correc.py]]
+
+
 4. [[Matrices]]
 5. [[Graphes]]
 
-On voit tout le programme des deux années
-sauf:
 
-- [[Tableaux de Karnaugh]]
-- [[Ordonnancement SIO]]
 
