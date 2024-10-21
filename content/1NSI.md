@@ -20,7 +20,7 @@ tags:
 - DM
   - [[Binaire et hexadécimal]]
   - Quantité d’information
-  - Complément à 2
+  - [[Complément_à_deux]]
 
 On insiste sur les fonctions lors des travaux sur l’encodage (nombres entiers, nombres entiers relatifs).
 
