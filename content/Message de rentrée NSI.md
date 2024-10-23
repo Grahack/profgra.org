@@ -8,7 +8,7 @@ tags:
 
 ## Message de rentrée en NSI
 
-- cahier, de n’importe quel format
+- cahier, de n’importe quel format (les terminales peuvent garder celui de première)
   - deux parties, chaque partie contiendra du cours et des exercices :
     - algorithmes et langages (programmation, algorithmique, structures), noté AL
     - données et machines (encodage, architecture et matériel, réseau), noté DM
