@@ -1,7 +1,7 @@
 ---
 title: Relations
 tags:
-  - classes/SIO
+  - classe/SIO
   - maths
 ---
 
