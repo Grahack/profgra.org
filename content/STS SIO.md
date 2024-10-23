@@ -14,7 +14,6 @@ Services Informatiques aux Organisations
 
 En première année, nous voyons tout le programme sauf :
 
-3. [[Arithmétique]] et [[Logique des prédicats]]
 - [[Tableaux de Karnaugh]]
 - [[Ensembles, relations, applications]] (TODO)
 - [[Ordonnancement SIO]] (TODO)
@@ -45,6 +44,16 @@ Reste en TP (algo) et en cours (maths) à apprendre à faire les autres conversi
 - En TP, implémentation des fonctions logiques.
     - [[py/implem_logique_modele.py]]
     - [[py/implem_logique_correc.py]]
+- Cours en maths sur l’implication, puis TP pour finir le premier TP et attaquer l’implication.
+
+### Logique des prédicats + listes et while
+
+[[Phrases à formaliser]]
+
+et arithmétique?
+3. Arithmétique (divisibilité, pgcd…) et Logique des prédicats
+  ...est un multiple de n s'IL EXISTE...
+  ...POUR TOUT couple de multiples de n, leur somme...
 
 
 4. [[Matrices]]
