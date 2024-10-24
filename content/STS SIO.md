@@ -40,23 +40,28 @@ Reste en TP (algo) et en cours (maths) à apprendre à faire les autres conversi
 
 [[odt/premieres_conversions.odt|exos en odt]]  - [[odt/premieres_conversions.pdf|exos en pdf]]
 
-### Logique des propositions + bool, def, if et assert
+### Logique des propositions et leur implémentation en Python
 
 - Cours en maths sur les propositions et les opérations logiques NON, ET, OU et EQUIV (ainsi que quelques tautologies)
 - En TP, implémentation des fonctions logiques.
     - [[py/implem_logique_modele.py]]
     - [[py/implem_logique_correc.py]]
+    - booléens, opérateurs et opérateurs logiques, `def`, `if` et `assert`
 - Cours en maths sur l’implication, puis TP pour finir le premier TP et attaquer l’implication.
 
 ### Logique des prédicats + listes et while
 
-[[Phrases à formaliser]]
+- En maths, présentation de $\forall$ et $\exists$ ([[odt/predicats_cours.odt| cours en odt]]).
+- TP avec les listes et `while` ([[odt/predicats_TP.odt| TP en odt]])
 
-et arithmétique?
-3. Arithmétique (divisibilité, pgcd…) et Logique des prédicats
-  ...est un multiple de n s'IL EXISTE...
-  ...POUR TOUT couple de multiples de n, leur somme...
+- [[Phrases à formaliser]]
 
+et arithmétique? (divisibilité, pgcd…)
+
+-  ...est un multiple de n s'IL EXISTE...
+-  ...POUR TOUT couple de multiples de n, leur somme...
+
+## Le reste
 
 4. [[Matrices]]
 5. [[Graphes]]
