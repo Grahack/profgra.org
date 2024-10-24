@@ -9,7 +9,7 @@ tags:
 
 Aller à l’adresse [lightbot.lu](https://www.lightbot.lu/), couper le son (bouton « haut-parleur »), cliquer sur « Start Game », choisir le niveau zéro, glisser les rectangles « Instructions » dans le « Program » juste en dessous, puis tester avec le bouton « Run » en bas de la fenêtre. Le robot doit allumer les tuiles bleues.
 
-Voir le [[robot_lumineux.odt|.odt]].
+Voir le [[robot_lumineux.odt|.odt]] ou le [[robot_lumineux.pdf|.pdf]].
 
 ## Plénière de régulation
 
