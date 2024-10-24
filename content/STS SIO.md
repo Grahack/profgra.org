@@ -38,6 +38,8 @@ Le premier cours fait découvrir :
 
 Reste en TP (algo) et en cours (maths) à apprendre à faire les autres conversions. Les rapides peuvent poser des opérations.
 
+[[odt/premieres_conversions.odt|exos en odt]]  - [[odt/premieres_conversions.pdf|exos en pdf]]
+
 ### Logique des propositions + bool, def, if et assert
 
 - Cours en maths sur les propositions et les opérations logiques NON, ET, OU et EQUIV (ainsi que quelques tautologies)
