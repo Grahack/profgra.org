@@ -48,7 +48,7 @@ tags:
 ## Musique
 
 - [[Guitare]] - [[Basse]] - [[Batterie]] -
-  [[Trompette]] - [[Trombone]] - [[Clavier]] - [[BotBoss]]
+  [[Trompette]] - [[Trombone]] - [[Clavier]] - [[BotBoss]] - [[Boites]]
 - [[Théorie musicale]] - [[Progression]] - [[Rythme]] - [[Gammes]] -
   [[Improvisation musicale]]
 - [[Kapzik]] - [[Dyyp]] - [[Marcharme]]
