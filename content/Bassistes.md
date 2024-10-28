@@ -57,11 +57,16 @@ tags:
 
 ## G
 
+- Gary Willis
+  - [itw écrite de 2004](http://www.cliffengel.com/interviews/gary_willis/)
 - Gene Simmons
   - Kiss
 - George Porter Jr.
   - The Meters
   - [Funk isn't...](https://www.ultimate-guitar.com/news/general_music_news/syncopation_is_history_funk_isnt_the_same_anymore_bass_legend_george_porter_jr_says.html)
+- Georges Décimus
+  - [WP](https://fr.m.wikipedia.org/wiki/Georges_D%C3%A9cimus)
+  - Kassav
 - Guy Pratt
     - Like a prayer
 
@@ -179,6 +184,8 @@ tags:
   - [WP](https://en.wikipedia.org/wiki/Steve_Di_Giorgio)
   - fretless à trois cordes
 - Sting
+- Stuart Zender
+  - [SBL genius of](https://youtu.be/JZ2V6Qz4ehc)
 
 ## T
 

@@ -407,6 +407,7 @@ Et batteuses...
   - Kneebody
   - [fOUR - Rabbit](https://www.youtube.com/watch?v=eQCMbbkEAEI)
   - [fOUR - Addendum](https://www.youtube.com/watch?v=8hIHnSBTHsg)
+  - [fOUR - It's enough](https://youtu.be/spo85lUYls0)
   - Il a quand même remplacé le bassiste de son groupe tout en restant à la batterie !
 - Neil Peart
   - Rush
@@ -420,6 +421,8 @@ Et batteuses...
 - Nicko McBrain
   - Iron Maiden
   - [WP](https://fr.wikipedia.org/wiki/Nicko_McBrain)
+- Nicolas Viccaro
+  - [itw Blabla Bag 2024](https://youtu.be/j3B201Ad75Y)
 
 ## O
 
@@ -431,6 +434,7 @@ Et batteuses...
 ## P
 
 - Paco Sery
+  - [itw Blabla Bag 2024](https://youtu.be/U9l44teOOr8)
 - Pascal Thielen
   - [Art of Drumming](https://artofdrumming.com/)
 - Pat Petrillo
@@ -501,6 +505,8 @@ Et batteuses...
   - AC/DC
   - Dio
 - Sonny Emory
+- Stan Bicknell
+  - [leçon Drumeo](https://youtu.be/6IfVRa2xxwE)
 - Stanley Randolph
   - Stevie Wonder
 - Stanton Moore
