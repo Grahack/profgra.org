@@ -9,5 +9,7 @@ title: "VII7"
 - [[sng/Michel Fugain - Chante la vie, chante]]
 - [[sng/Michel Fugain - C'est la fête]]
 - [[sng/Michel Polnareff - Lettre à France]]
+- [[sng/Scorpions - Still loving you]]
 - [[sng/The Pointer Sisters - I'm so excited]]
 - [[sng/Thierry Hazard - Le jerk]]
+
