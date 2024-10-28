@@ -45,8 +45,8 @@ ch info | ch humain | émission vers| recept. depuis
    9    |    10     |  Fluid (dr)  | batt elec, LK ou alt
   15    |    16     |     DAW**    |      DAW2
 ```
--  `DAW1` le [[Launchkey]] envoie des infos (pads)
--  `DAW2` le [[Launchkey]] envoie des infos (pots)
+- `DAW1` le [[Launchkey]] envoie des infos (pads)
+- `DAW2` le [[Launchkey]] envoie des infos (pots)
 - `DAW*` LEDs statiques pour le [[Launchkey]]
 - `DAW**` LEDs clignotantes pour le [[Launchkey]] et passage en mode DAW
 - `NTS` [[NTS|le petit synthé tout mignon]]
