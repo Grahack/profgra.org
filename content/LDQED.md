@@ -1183,6 +1183,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - [[sng/Vanessa Paradis - Joe le Taxi]]
 - [[sng/Vanessa Paradis - Maryline et John]]
 - [[sng/Vangelis - La petite fille de la mer]]
+- Vanilla Fudge - ?
 - [[sng/Vaya Con Dios - Just a Friend]]
 - [[sng/Véronique Sanson - Rien que de l'eau]]
 - [[sng/Vianney - Je m'en vais]]
