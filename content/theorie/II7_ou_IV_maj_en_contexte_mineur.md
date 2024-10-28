@@ -16,7 +16,7 @@ title: "II7 ou IV maj en contexte mineur"
 - [[sng/Blondie - Heart of glass]]
 - [[sng/Bob Marley - Jammin']]
 - [[sng/Boney M. - Rasputin]]
-- [[sng/Chis Isaak - Blue Hotel]]
+- [[sng/Chris Isaak - Blue Hotel]]
 - [[sng/Demis Roussos - Rain and tears]]
 - [[sng/Eagles - Hotel California]]
 - [[sng/Eddy Mitchell - Pas de boogie woogie]]
