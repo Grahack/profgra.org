@@ -1135,6 +1135,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - [[sng/The White Stripes - Seven Nation Army]]
 - [[sng/The Who - My generation]]
 - The Yardbirds - ?
+- [[sng/Thelma Houston - Don't leave me this way]]
 - [[sng/Thierry Hazard - Le jerk]]
 - [[sng/Thierry Pastor - Le coup de folie]]
 - [[sng/Thin Lizzy - The boys are back in town]]
