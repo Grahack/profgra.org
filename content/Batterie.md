@@ -9,6 +9,7 @@ tags:
 - [[Rudiments]]
 - [[Importance de la main faible]]
 - [[Trois dans quatre]] et [[Deux dans trois]]
+- [[RhythmBot]]
 
 ## Leçons sur YouTube
 
