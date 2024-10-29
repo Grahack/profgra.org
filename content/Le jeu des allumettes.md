@@ -33,5 +33,4 @@ Debrief en plénière.
 1. ...
 1. Proposer de jouer contre l'ordinateur.
 
-Pour les rapides: programmer
-[[Le jeu du plus ou moins]].
+Pour les rapides: programmer [[Le jeu du plus ou moins]].
