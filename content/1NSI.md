@@ -19,7 +19,7 @@ tags:
   - Types en Python, appels de fonctions prédéfinies et opérateurs
 - DM
   - [[Binaire et hexadécimal]]
-  - Quantité d’information
+  - [[Quantité d’information]]
   - [[Complément_à_deux]]
 
 On insiste sur les fonctions lors des travaux sur l’encodage (nombres entiers, nombres entiers relatifs).
