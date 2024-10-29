@@ -16,7 +16,7 @@ tags:
 - AL
   - Remise au travail avec les [[Premiers problèmes sur les listes]]
 - DM
-  - Remise au travail avec les [[Exercices de conversion]] (pour les rapides, écrire les algorithmes puis les programmer)
+  - Remise au travail avec les [[Exercices de conversion]] et les [[Exercices avec complément à deux]] (pour les rapides, écrire les algorithmes puis les programmer)
 
 #### Q2
 
