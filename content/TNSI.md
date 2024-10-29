@@ -22,6 +22,9 @@ tags:
 
 - AL
 - DM
+  - Bases de données :
+    - tuples ([[odt/session_tuples.odt|odt]], [[odt/session_tuples.pdf|pdf]])
+    - intro aux BDD ([[odt/cours_intro_bdd.odt|odt]], [[odt/cours_intro_bdd.pdf|pdf]])
 
 #### Q3
 
