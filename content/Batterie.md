@@ -5,7 +5,7 @@ tags:
   - portail
 ---
 
-- [[Batteurs]]
+- [[Batteurs]] - [[Drum_Compilations|compiles videos]]
 - [[Rudiments]]
 - [[Importance de la main faible]]
 - [[Trois dans quatre]] et [[Deux dans trois]]
