@@ -20,7 +20,8 @@ En première année, nous voyons tout le programme sauf :
 
 Nous attaquons « de front » des concepts mathématiques et des concepts algorithmiques, concepts qui se marient bien et favorisent mutuellement leur compréhension.
 
-Pour les très rapides il y a toujours [[Le jeu des allumettes]] ou [[Le dernier carré]].
+Pour les très rapides il y a toujours [[Le jeu des allumettes]],
+[[Le jeu du plus ou moins]] ou [[Le dernier carré]].
 
 ### Hexadécimal et binaire + qques bases d’algo
 
