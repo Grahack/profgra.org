@@ -34,6 +34,7 @@ Une fois que tous les élèves ont résolu la question 2b de la Momie, on fait 
   - opérateurs (`+`, `-`, `*`, `**`, `/`, `//`, `%`, `>`, `<`, `>=`, `<=`, `==`, `!=`, `and`, `or`, `not`)
   - appels de fonctions prédéfinies, définitions et tests de fonctions (concept de « appelable »)
   - `if`, `else`, `elif`, `while`
+  - import de modules ou d’une partie d’un module
   - `for` n’est pas interdit mais déconseillé pour ceux qui ne connaissent pas
 - Un programme est conçu et écrit par des humains. Il peut avoir des failles,
   voulues ou non !
