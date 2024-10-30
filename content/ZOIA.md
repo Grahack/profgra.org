@@ -19,13 +19,21 @@ tags:
 ### Loopers
 
 - [OctaTrack style](https://patchstorage.com/octatrack-style-live-record/)
+- [Andre's looper](https://patchstorage.com/andres-looper/)
 
 ### Seqs or drum machines
 
+- [OKEE](https://patchstorage.com/zoiaokee-song-mode/) (2 parts and 3 tracks)
 - [Labyrinthine](https://patchstorage.com/labyrinthine/)
 - [DlW drums](https://patchstorage.com/dlw-drums-a-drum-machine/)
 - [Drum Sequence](https://patchstorage.com/drum-sequence/)
 - [Hugo](https://patchstorage.com/hugo-a-time-based-melody-machine/) (a time-based melody machine)
+- [Impetus](https://patchstorage.com/impetus/) (djent style)
+- [Program8](https://patchstorage.com/program8-a-simple-but-immediate-sequencer-for-cv-and-midi/)
+- [Malignment](https://patchstorage.com/malignment/) (two experimental polymetric sequencers for exploring rhythmic oddities and minimalistic patterns)
+- [Z-drum](https://patchstorage.com/z-drum-drum-synth-sequencer/) (drum machine + micro timing)
+- [Autocell](https://patchstorage.com/autocell/)
+- [Euclidian time](https://patchstorage.com/euclidean-time-a-3-track-euclidean-pattern-generator/)
 
 ### Synths
 
