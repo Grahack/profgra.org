@@ -33,6 +33,8 @@ Le premier TP fait découvrir :
 - variables et affectation
 - appels de fonctions prédéfinies (`print`, `bin`, `hex`, `input`, `int`)
 
+Voici un document bilan ([[odt/bin_hexa_avec_python.odt|odt]] et [[odt/bin_hexa_avec_python.pdf|pdf]]).
+
 Le premier cours fait découvrir :
 - l’hexadécimal et le binaire
 - conversions de binaire et hexadécimal à l’écriture en base 10
