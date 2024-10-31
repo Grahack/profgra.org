@@ -5,7 +5,7 @@ tags:
   - NSI
 ---
 
-Voir le [[premier_tableau_bin_hexa.odt|doc élève]].
+Voir le doc élève en [[odt/premier_tableau_bin_hexa.odt|odt]] ou en [[odt/premier_tableau_bin_hexa.pdf|pdf]].
 
 Il y a 6 types de conversion à connaître :
 
