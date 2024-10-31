@@ -17,6 +17,7 @@ tags:
   - Remise au travail avec les [[Premiers problèmes sur les listes]]
 - DM
   - Remise au travail avec les [[Exercices de conversion]] et les [[Exercices avec complément à deux]] (pour les rapides, écrire les algorithmes puis les programmer)
+  - Révisions dictionnaires ([[odt/revisions_dictionnaires.odt|odt]] et [[odt/revisions_dictionnaires.pdf|pdf]])
 
 #### Q2
 
