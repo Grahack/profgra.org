@@ -63,6 +63,7 @@ ch info | ch humain | émission vers| recept. depuis
 - Bossa Nova
 - [[sng/Brecker Brothers - African Skies]]
 - The Police - Message in a bottle
+- [[sng/Kool & The Gang - Fresh]]
 
 ## Autres Videos intéressantes
 
