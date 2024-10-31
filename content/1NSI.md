@@ -22,7 +22,7 @@ tags:
   - [[Quantité d’information]]
   - [[Complément_à_deux]]
 
-On insiste sur les fonctions lors des travaux sur l’encodage (nombres entiers, nombres entiers relatifs).
+Après [[AR Travail sur une liste et utilité des fonctions|cette activité rapide]] vantant les mérites des fonctions, on insiste sur leur utilisation lors des travaux sur l’encodage (nombres entiers, nombres entiers relatifs).
 
 #### Q2
 
