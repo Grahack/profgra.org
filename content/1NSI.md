@@ -28,13 +28,14 @@ Après [[AR Travail sur une liste et utilité des fonctions|cette activité rapi
 
 - DM
   - listes
-  - [[BB-Proc]]
 - AL
   - [[Algorithmes de tri]] (intro seulement), spécifications
 #### Q3
 
 - AL [[Premiers problèmes sur les listes]] (parcours séquentiels), bibliothèques?
-- DM Flottants, encodage de texte
+- DM
+  - Flottants, encodage de texte
+  - [[BB-Proc]]
 
 ### P2 Automne
 
