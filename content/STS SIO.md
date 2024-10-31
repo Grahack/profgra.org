@@ -39,7 +39,7 @@ Le premier cours fait découvrir :
 
 Reste en TP (algo) et en cours (maths) à apprendre à faire les autres conversions. Les rapides peuvent poser des opérations.
 
-[[odt/premieres_conversions.odt|exos en odt]]  - [[odt/premieres_conversions.pdf|exos en pdf]]
+[[odt/premieres_conversions.odt|exos en odt]]  - [[odt/premieres_conversions.pdf|exos en pdf]] ([[odt/premieres_conversions_correc.odt|correc en odt]]  - [[odt/premieres_conversions_correc.pdf|correc en pdf]])
 
 ### Logique des propositions et leur implémentation en Python
 

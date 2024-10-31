@@ -4,7 +4,7 @@ tags:
   - maths/numération
 ---
 
-Voir le [[premieres_conversions.odt|odt]] ou le [[premieres_conversions.pdf|pdf]].
+Voir le [[premieres_conversions.odt|odt]] ou le [[premieres_conversions.pdf|pdf]] ainsi que la correction ([[odt/premieres_conversions_correc.odt|en odt]]  - [[odt/premieres_conversions_correc.pdf|en pdf]]).
 
 ## Convertir de binaire à décimal les nombres suivants
 
