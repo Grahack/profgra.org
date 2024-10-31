@@ -11,6 +11,10 @@ tags:
 * [[Guitare solo]]
 * [[Effets]]
 
+## Vidéos
+
+- [[CW Guitar Masterclass]]
+
 ## Positions issues de GM
 
 ```
