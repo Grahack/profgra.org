@@ -5,6 +5,7 @@ tags:
     - logique
 ---
 
+- Personne n’a rien fait.
 - Personne ne coche aucune case.
 - "Quelqu'un ne parle pas" versus "personne ne parle"
 - bla mais bli: et
