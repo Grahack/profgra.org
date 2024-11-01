@@ -26,6 +26,10 @@ tags:
   - Bases de données :
     - tuples ([[odt/session_tuples.odt|odt]], [[odt/session_tuples.pdf|pdf]])
     - intro aux BDD ([[odt/cours_intro_bdd.odt|odt]], [[odt/cours_intro_bdd.pdf|pdf]])
+    - fichiers `.py` :
+      [[py/tri_dico_session.py|session]] -
+      [[py/tri_dicos.py|énoncé]] -
+      [[py/tri_dicos_correc.py|correction]]
 
 #### Q3
 
