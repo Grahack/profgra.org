@@ -16,7 +16,8 @@ tags:
 - AL
   - [[Robot lumineux]]
   - [[Trois programmes et Momie]]
-  - Types en Python, appels de fonctions prédéfinies et opérateurs
+  - Types en Python, appels de fonctions prédéfinies et opérateurs  
+  (voir le [[odt/premieres_fonctions_python.odt|odt]] et le [[odt/premieres_fonctions_python.pdf|pdf]])
 - DM
   - [[Binaire et hexadécimal]] puis utilisation de Python pour vérifier (voir un document bilan en [[odt/bin_hexa_avec_python.odt|odt]] et en [[odt/bin_hexa_avec_python.pdf|pdf]])
   - [[Quantité d’information]]
