@@ -85,3 +85,5 @@ Notez bien que `bin` et `hex` attendent un `int` et que `int` attend une `str`.
 Le premier programme effectuait la conversion de D à B, écrivez les 5 programmes restants.
 
 Finir à la maison et tester avec une installation de [[Python]].
+
+La correction en [[odt/correc_programmes_conversions.odt|odt]] et en [[odt/correc_programmes_conversions.pdf|pdf]].
