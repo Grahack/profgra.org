@@ -54,8 +54,8 @@ Reste en TP (algo) et en cours (maths) à apprendre à faire les autres conversi
 
 ### Logique des prédicats + listes et while
 
-- En maths, présentation de $\forall$ et $\exists$ ([[odt/predicats_cours.odt|cours en odt]]).
-- TP avec les listes et `while` ([[odt/predicats_TP.odt| TP en odt]])
+- En maths, présentation de $\forall$ et $\exists$ ([[odt/predicats_cours.odt|cours en odt]] et [[odt/predicats_cours.pdf|en pdf]]).
+- TP avec les listes et `while` ([[odt/predicats_TP.odt|TP en odt]] et [[odt/predicats_TP.pdf|en pdf]]).
 
 - [[Phrases à formaliser]]
 
