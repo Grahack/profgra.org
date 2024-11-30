@@ -1065,6 +1065,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - [[sng/Talk talk - Such a shame]]
 - [[sng/Talking Heads - Once in a lifetime]]
 - [[sng/Talking Heads - Psycho killer]]
+- [[sng/Tarkan - Simarik]]
 - [[sng/Taxi Girl - Cherchez le garçon]]
 - [[sng/Taylor Swift - Shake it off]]
 - [[sng/Tears for Fears - Everybody wants to rule the world]]
