@@ -356,6 +356,8 @@ Et batteuses...
   - [Astral Pirates](https://youtu.be/qQNATz_Pj5w)
 - Lionel Hampton
   - [WP](https://fr.wikipedia.org/wiki/Lionel_Hampton)
+- Loic Pontieux
+  - [itw Blabla Bag 2024](https://youtu.be/-2SFUbQJSC0)
 - Louis Cole
 
 ## M
