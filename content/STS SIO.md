@@ -64,6 +64,13 @@ et arithmétique? (divisibilité, pgcd…)
 -  ...est un multiple de n s'IL EXISTE...
 -  ...POUR TOUT couple de multiples de n, leur somme...
 
+### Arithmétique
+
+Présentée sous forme de TP Python :
+- TP arithmétique ([[odt/TP_arith_1SIO.odt|odt]] - [[odt/TP_arith_1SIO.pdf|pdf]])
+- TP arithmétique suite ([[odt/TP_arith_1SIO_suite.odt|odt]] - [[odt/TP_arith_1SIO_suite.pdf|pdf]])
+- TP arithmétique suite de la suite ([[odt/TP_arith_1SIO_suite_de_la_suite.odt|odt]] - [[odt/TP_arith_1SIO_suite_de_la_suite.pdf|pdf]])
+
 ## Le reste
 
 4. [[Matrices]]
