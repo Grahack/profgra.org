@@ -66,10 +66,12 @@ et arithmétique? (divisibilité, pgcd…)
 
 ### Arithmétique
 
-Présentée sous forme de TP Python :
+Présentée sous forme de cours entrelacés de TP Python :
+- cours arithmétique ([[odt/arith_cours_exos.odt|odt]] - [[odt/arith_cours_exos.pdf|pdf]])
 - TP arithmétique ([[odt/TP_arith_1SIO.odt|odt]] - [[odt/TP_arith_1SIO.pdf|pdf]])
 - TP arithmétique suite ([[odt/TP_arith_1SIO_suite.odt|odt]] - [[odt/TP_arith_1SIO_suite.pdf|pdf]])
 - TP arithmétique suite de la suite ([[odt/TP_arith_1SIO_suite_de_la_suite.odt|odt]] - [[odt/TP_arith_1SIO_suite_de_la_suite.pdf|pdf]])
+- cours arithmétique suite ([[odt/arith_cours_exos_suite.odt|odt]] - [[odt/arith_cours_exos_suite.pdf|pdf]])
 
 ## Le reste
 
