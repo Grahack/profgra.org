@@ -7,6 +7,8 @@ tags:
   - classe/1NSI
 ---
 
+Voir le doc à distribuer ([[odt/BB-proc.odt|odt]] - [[odt/BB-proc.pdf|pdf]]) et les tableaux vierges ([[odt/BB-proc_tableaux_vierges.odt|odt]] - [[odt/BB-proc_tableaux_vierges.pdf|pdf]]).
+
 ## Présentation sur un premier exemple
 
 Après avoir vu :
