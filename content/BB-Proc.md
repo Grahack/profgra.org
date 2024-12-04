@@ -21,8 +21,8 @@ Après avoir vu :
 1. lecture de la valeur dans le registre PC (pour Program Counter), qui vaut `00` à l’initialisation ;
 2. chargement de l’instruction située à l’adresse PC depuis la mémoire vive (RAM) dans le registre CI (pour Current Instruction) ;
 3. « décodage » de l’instruction, ici ProkPap décode les trois quartets de l’instruction, notés I, J et K : I indique le type d’opération à effectuer et le couple JK représente souvent un emplacement dans la RAM (voir le tableau ci-dessous) ;
-4. exécution de cette instruction ;
-5. si l’instruction ne résulte pas par un saut, ajouter 1 à PC.
+4. exécution de cette instruction (ne pas passer à l’étape 5 s’il faut s’arrêter !) ;
+5. si l’instruction ne résulte pas par un saut ou un arrêt, ajouter 1 à PC.
 
 Plus simplement :
 
@@ -49,7 +49,7 @@ J \ K |  0  |  1  |  2  | ...
 - Combien y a-t-il d’emplacements dans la RAM ?
 - Quelle est la taille de la mémoire en octets ?
 
-Voici une représentation des registres. Chacun peut stocker 12 bits, sauf PC qui en stocke 8 et O qui en stocke un seul.
+Voici une représentation des registres. Chacun peut stocker 12 bits, sauf `O` qui en stocke un seul  et `PC` qui en stocke 8.
 
 ```plain
 num | nom |   description          | valeur
@@ -59,14 +59,10 @@ num | nom |   description          | valeur
  2  |  B  | idem                   | ???
  3  |  O  | dépassement (overflow) |   ?
  4  |  PC | Program Counter        |  00
- 5  |  CI | Current Instruction    | ???
+ 5  |  CI | Current Instruction    | ??? (notés IJK)
 ```
 
-Exécutons le premier programme !
-
-- Combien vaut PC ? `00`.
-- À l’adresse `00` (J=0 et K=0) on trouve l’instruction `A00` que l’on charge dans CI.
-- On a pour cette instruction I=A, J=0 et K=0, et d’après le tableau ci-dessous (dans la dernière ligne) il faut arrêter le programme.
+Les trois quartets de `CI` sont notés `IJK`, le `I` correspondant à une des instructions du tableau ci-dessous (chercher dans la colonne `I`) et le `J` et le `K` servant souvent à désigner une adresse dans la RAM (ligne `J` et colonne `K`).
 
 ```plain
  I | ASM |  Action ( -> signifie «est copié dans» )
@@ -74,8 +70,8 @@ Exécutons le premier programme !
  0 |  LD | @JK -> R (la valeur à l’adresse JK dans la RAM est copiée dans R)
  1 | STO | R -> @JK (la valeur dans R est copiée à l’adresse JK dans la RAM)
  2 | MOV | Reg J -> Reg K (le registre num J est copiée dans le reg num K)
- 3 | ADD | A+B -> R (somme des registres A et B copiée dans R)
- 4 | SUB | A-B -> R (idem avec différence)
+ 3 | ADD | A+B -> R (somme des registres A et B copiée dans R, voir note (1))
+ 4 | SUB | A-B -> R (idem avec différence, voir note (2))
  5 | JMP | JK -> PC (la valeur JK est copiée dans PC, c’est un saut)
  6 | JPZ | Si R=0 alors JK -> PC (si la condition est vraie, on saute)
  7 | JPO | Si O=1 alors JK -> PC (idem)
@@ -86,6 +82,14 @@ Exécutons le premier programme !
 (1) si la somme A+B dépasse la capacité de R, le registre O vaut 1, 0 sinon
 (2) si la différence A-B est négative, le registre O vaut 1, 0 sinon
 ```
+
+`LD` pour « load », `STO` pour « store », `MOV` pour « move », `ADD` et `SUB` pour addition et soustraction, `JMP` ou `JP?` pour « jump », `IN` et `OUT` pour « entrée » et « sortie » et `END` pour « fin » (ou arrêt).
+
+Exécutons le premier programme !
+
+- Combien vaut PC ? `00`.
+- À l’adresse `00` (J=0 et K=0) on trouve l’instruction `A00` que l’on charge dans CI.
+- On a pour cette instruction I=A, J=0 et K=0, et d’après le tableau ci-dessous (dans la dernière ligne) il faut arrêter le programme.
 
 > [!note]
 > - Un registre est un type de mémoire rapide et « proche » du processeur.
@@ -110,14 +114,15 @@ bits ---+|              |+=== 8 bits
              A    B   O
 ```
 
-À vous d’écrire votre premier programme : afficher zéro et s’arrêter.
+À vous d’écrire vos premiers programme :
+ - afficher zéro et s’arrêter,
+ - afficher « HELLO » et s’arrêter,
+ - demander une valeur à l’utilisateur et afficher cette valeur plus un.
 
 ## Deuxième exemple
 
-user + 1
-
 > [!note]
-> Liste de tous les MV :
+> Liste de tous les `MOV` :
 > - 201 : R -> A
 > - 202 : R -> B
 > - 210 : A -> R
@@ -125,12 +130,20 @@ user + 1
 > - 220 : B -> R
 > - 221 : B -> A
 
-## Troisième exemple
+Exécutez ce programme :
 
-affichage du max de deux valeurs
+```plain
+010 201 011 202 400 612 A00 ... ...
+042 013 900 A00 ... ... ... ... ...
+```
+
+Idem en remplaçant 042 et 013 par 036 et 036.
+
+Quel est le rôle de ce programme ?
 
 ## Exercices
 
+- Afficher la plus grande de deux valeurs dans la RAM.
 - Compte à rebours de la valeur à l’adresse `FF` jusqu’à zéro.
 
 ## TODO
@@ -143,9 +156,10 @@ V2, processeur de plus haut niveau, avec :
 - Boutons
 - PWS
 - ALU
+
 ## Origine et remerciements
 
-ProkPap est le digne successeur d'[[OrdiPapier]], qui avait quelques défauts. ProkPap a des entrées et sorties plus simples et utilise de l’hexadécimal.
+BB-Proc est le digne successeur d'[[OrdiPapier]], qui avait quelques défauts. BB-Proc a des entrées et sorties plus simples et utilise de l’hexadécimal.
 
 Merci à Bordeaux (Philippe?), stagiaire et formation NSI.
 
