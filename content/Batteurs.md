@@ -91,6 +91,9 @@ Et batteuses...
 
 ## C
 
+- Camellia Kies
+  - [chaine YT](https://www.youtube.com/@camiloops.official)
+  - [itw 80/20 2024](https://www.youtube.com/watch?v=Y947XHkotLk)
 - Carl Palmer
   - [Page WP](https://en.wikipedia.org/wiki/Carl_Palmer)
   - Emerson, Lake & Palmer
