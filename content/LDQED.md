@@ -322,6 +322,7 @@ Originellement appelé "le défi du lac du Salagou", le but est de connaître
 - [[sng/Donna Lewis - I love you always forever]]
 - [[sng/Donna Summer - Hot stuff]]
 - [[sng/Donovan - Mellow Yellow]]
+- [[sng/Dua Lipa - Don't start now]]
 - [[sng/Duffy - Mercy]]
 - Duke Ellington - ?
 - [[sng/Duran Duran - Final Countdown]]
