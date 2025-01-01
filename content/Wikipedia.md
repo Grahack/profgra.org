@@ -13,4 +13,8 @@ de la rediffuser. Gérée en wiki dans le site web wikipedia.org grâce au
 logiciel MediaWiki, elle permet à tous les internautes d'écrire et de modifier
 des articles, ce qui lui vaut d'être qualifiée d'« encyclopédie
 participative ». En quelques années, elle est devenue la plus importante
-encyclopédie disponible dans le monde et la plus consultée.               
+encyclopédie disponible dans le monde et la plus consultée.
+
+## Mes pages préférées
+
+- [Paf le chien](https://fr.wikipedia.org/wiki/Paf_le_chien)
