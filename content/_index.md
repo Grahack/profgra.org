@@ -71,5 +71,5 @@ tags:
 - [[Anecdotes fondatrices]]
 - [[Jonglerie]] - [[Frussu]]
 - [[Jeu de go]] - [[Jeux]]
-- [[Recettes]]
+- [[Recettes]] - [[USA_states]]
 - [[Demo affichage]]
