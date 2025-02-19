@@ -11,6 +11,7 @@ BotBoss est le patron des robots. Il joue du synthé-basse avec son bras gauche,
 ## Inception
 
 - Xavier Tribolet sur un morceau de techno à la fin d'un concert de Clarika (fin 2007 début 2008?)
+- [Rai Thistlethwayte - Til the lights come on](https://www.youtube.com/watch?v=1yUkqXyPXTQ)
 - Josh Dion, Nate Wood (deux [[Batteurs]] jouant du clavier en même temps que de la batterie)
   - [Josh Dion - Vision Complete (2015)](https://www.youtube.com/watch?v=Bwpx3_kovLA)
   - [Josh Dion - Vision Complete (2016)](https://www.youtube.com/watch?v=4fcZNg5Kw1A)
