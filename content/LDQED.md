@@ -1127,7 +1127,7 @@ Originellement appelé « le défi du lac du Salagou », le but est de connaî
 - [[sng/The Specials - Ghost Town]]
 - The Stone Roses - ?
 - The Stooges - ?
-- The Strokes - ?
+- [[sng/The Strokes - Someday]]
 - [[sng/The Supermen lovers - Starlight]]
 - [[sng/The Supremes - Baby love]]
 - [[sng/The Temptations - My girl]]
