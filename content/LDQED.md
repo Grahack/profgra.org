@@ -122,7 +122,6 @@ Originellement appelé « le défi du lac du Salagou », le but est de connaî
 - Beverley Knight - ?
 - [[sng/Beverly Craven - Promise me]]
 - [[sng/Beyonce - Crazy in Love]]
-- [[sng/Bézu - Ali Baba]]
 - [[sng/Bézu - À la queue leu leu]]
 - [[sng/Bibi - Tout doucement]]
 - [[sng/Big Soul - Le brio]]
