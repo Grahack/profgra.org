@@ -319,6 +319,7 @@ Et batteuses...
 - Jon Theodore
   - [WP](https://fr.wikipedia.org/wiki/Jon_Theodore)
   - The Mars Volta
+  - Queen of the Stone Age depuis 2013
 - Jonathan Moffett
 - Jonathan Mover
 - Josh Dion
