@@ -291,19 +291,6 @@ Et batteuses...
 - Jeremy Colson
   - Vai
 - Jim Keltner
-- Joey Baron
-  - [WP](https://en.wikipedia.org/wiki/Joey_Baron)
-- Joey Castillo
-  - QOTSA
-- Joey Kramer
-  - Aerosmith
-- John Dolmayan
-  - System of a down
-- John JR Robinson
-  - [Rock with you](https://www.youtube.com/watch?v=YgjQmA9tI_Y)
-  - [Stomp chez PD bass](https://youtu.be/F7el0I5BQtw)
-- John Otto
-  - Limp Biskit
 - Jim Riley
   - [Creating beats (Drumeo)](https://www.youtube.com/watch?v=de4mTYcA59g))
   - [80/20 podcast](https://www.youtube.com/watch?v=4QNTYNhzqIE) (oct 2023)
@@ -312,16 +299,28 @@ Et batteuses...
 - Joe Morello
   - Dave Brubeck
 - Joey Baron
+  - [WP](https://en.wikipedia.org/wiki/Joey_Baron)
+- Joey Castillo
+  - QOTSA
 - Joey Jordison
-- Jonathan Mover
+- Joey Kramer
+  - Aerosmith
 - John Bonham
 - John Densmore
   - The Doors
-- Jojo Meyer
+- John Dolmayan
+  - System of a down
+- John JR Robinson
+  - [Rock with you](https://www.youtube.com/watch?v=YgjQmA9tI_Y)
+  - [Stomp chez PD bass](https://youtu.be/F7el0I5BQtw)
+- John Otto
+  - Limp Biskit- Jojo Meyer
+- Jojo Mayer
 - Jon Theodore
   - [WP](https://fr.wikipedia.org/wiki/Jon_Theodore)
   - The Mars Volta
 - Jonathan Moffett
+- Jonathan Mover
 - Josh Dion
   - [Vision Complete (2015)](https://www.youtube.com/watch?v=Bwpx3_kovLA)
   - [Vision Complete (2016)](https://www.youtube.com/watch?v=4fcZNg5Kw1A)
