@@ -129,6 +129,8 @@ Et batteuses...
   - Blondie
 - Clyde Stubblefield
   - [WP](https://fr.wikipedia.org/wiki/Clyde_Stubblefield)
+- Cozy Powell
+  - [WP](https://en.wikipedia.org/wiki/Cozy_Powell)
 
 ## D
 
@@ -144,6 +146,7 @@ Et batteuses...
 - Danny Carey
   - [Beato itw](https://youtu.be/0ErsWJw28XU)
   - [drum cam from 2002](https://www.youtube.com/watch?v=D5dh50LBtnc)
+  - [slomo fill](https://m.youtube.com/shorts/fGkIsJ1qGrE)
 - Danny Heifetz
   - [WP](https://en.wikipedia.org/wiki/Danny_Heifetz)
 - Dave DiCenso
@@ -322,6 +325,8 @@ Et batteuses...
   - Queen of the Stone Age depuis 2013
 - Jonathan Moffett
 - Jonathan Mover
+- José Pasillas
+  - Incubus
 - Josh Dion
   - [Vision Complete (2015)](https://www.youtube.com/watch?v=Bwpx3_kovLA)
   - [Vision Complete (2016)](https://www.youtube.com/watch?v=4fcZNg5Kw1A)
@@ -540,6 +545,7 @@ Et batteuses...
   - Dire Straits
 - Thomas Haake
 - Thomas Lang
+  - [Stick trick](https://www.youtube.com/shorts/od36YgC-fTI)
 - Thomas Pridgen
   - [Off Beat video](https://youtu.be/kSu6PkXPc0g)
 - Tim Alexander
