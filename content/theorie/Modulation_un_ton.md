@@ -8,6 +8,7 @@ title: "Modulation un ton"
 - [[sng/Jean-Jacques Goldman - Comme toi]]
 - [[sng/Jean-Jacques Goldman - Tu es de ma famille]]
 - [[sng/Johnny Hallyday - J'oublierai ton nom]]
+- [[sng/Liane Foly - On a tous le droit]]
 - [[sng/Mathmatah - Viens faire]]
 - [[sng/Michael Jackson - Heal the world]]
 - [[sng/Michael Jackson - You are not alone]]
