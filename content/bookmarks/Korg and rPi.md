@@ -1,7 +1,7 @@
 ---
 title: Korg and rPi
 tags:
-  - music/synth
+  - musique/synth
   - info/rpi
 ---
 
