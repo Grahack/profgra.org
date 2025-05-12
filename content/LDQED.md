@@ -794,7 +794,7 @@ Originellement appelé « le défi du lac du Salagou », le but est de connaî
 - [[sng/Nicole McCloud - Don't you want my love]]
 - [[sng/Nicoletta - La Musique]]
 - Nina Morato - ?
-- [[sng/Nina Simone - My baby don't care]]
+- [[sng/Nina Simone - My baby just cares for me]]
 - [[sng/Nine Inch Nails - Wish]]
 - [[sng/Nino Ferrer - Le Sud]]
 - [[sng/Nirvana - Smells like teen spirit]]

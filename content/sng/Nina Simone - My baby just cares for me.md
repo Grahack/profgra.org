@@ -1,5 +1,5 @@
 ---
-title: Nina Simone - My baby don't care
+title: "Nina Simone - My baby just cares for me"
 tags:
     - musique/chanson
 ---
