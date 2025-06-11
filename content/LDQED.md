@@ -389,7 +389,7 @@ Originellement appelé « le défi du lac du Salagou », le but est de connaî
 - Fishbone - ?
 - Fletwood Mac - ?
 - [[sng/Florent Pagny - Liberté de penser]]
-- [[sng/Fool's Garden - Lemon tree]]
+- [[sng/Fools Garden - Lemon tree]]
 - [[sng/Foo Fighters - My hero]]
 - [[sng/Foreigner - Juke box hero]]
 - [[sng/FR David - Words]]
