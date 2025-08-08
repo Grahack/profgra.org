@@ -54,6 +54,9 @@ tags:
 ## F
 
 - Flea
+- Francis Darizcuren
+  - [Page WP](https://fr.wikipedia.org/wiki/Francis_Darizcuren)
+  - Alexandrie Alexandra
 
 ## G
 
@@ -67,6 +70,9 @@ tags:
 - Georges Décimus
   - [WP](https://fr.m.wikipedia.org/wiki/Georges_D%C3%A9cimus)
   - Kassav
+- Guy Delacroix
+  - [page WP](https://fr.wikipedia.org/wiki/Guy_Delacroix)
+  - Stress! (album de Benoît Widemann)
 - Guy Pratt
     - Like a prayer
 
