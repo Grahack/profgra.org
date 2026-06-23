@@ -10,6 +10,7 @@ BotBoss est le patron des robots. Il joue du synthé-basse avec son bras gauche,
 
 ## Inception
 
+- Charlie Hunter ([WP](https://fr.wikipedia.org/wiki/Charlie_Hunter) - [site officiel](https://www.charliehunter.com/))
 - Xavier Tribolet sur un morceau de techno à la fin d'un concert de Clarika (fin 2007 début 2008?)
 - [Rai Thistlethwayte - Til the lights come on](https://www.youtube.com/watch?v=1yUkqXyPXTQ)
 - Josh Dion, Nate Wood (deux [[Batteurs]] jouant du clavier en même temps que de la batterie)
@@ -19,6 +20,10 @@ BotBoss est le patron des robots. Il joue du synthé-basse avec son bras gauche,
   - [fOUR - Rabbit](https://www.youtube.com/watch?v=eQCMbbkEAEI)
   - [fOUR - Addendum](https://www.youtube.com/watch?v=8hIHnSBTHsg)
 - 25 septembre 2023 au lycée, une démo que j’ai eu à faire tout seul, merci COVID19
+
+A posteriori, je découvre d'autres artistes:
+
+- [Melissa Acchiardi](https://melissa-acchiardi.net)
 
 ## Idées
 
