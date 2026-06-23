@@ -13,6 +13,8 @@ Et batteuses...
 - Aaron Spears
   - [Ce plan ici à 13'00"](https://youtu.be/0zH2TqPgx7Q?t=777) et celui
     d’après
+- Aaron Comess
+  - [PASIC 2018](https://www.youtube.com/watch?v=DR6tkq-X2jY)
 - Abe Cunningham
   - Deftones
 - Abe Laboriel Jr
@@ -255,6 +257,8 @@ Et batteuses...
 - Gregory C. Coleman
   - [WP](https://en.wikipedia.org/wiki/Gregory_C._Coleman)
   - Amen break
+- Gregory Hutchinson
+  - Walk the dog
 - Greyson Nekrutman
   - Suicidal Tendencies
 
@@ -498,6 +502,8 @@ Et batteuses...
   - sub pour Tommy Lee
 - Sandy Nelson
   - [WP](https://fr.wikipedia.org/wiki/Sandy_Nelson)
+- Sean Reinert
+  - [DrumTalk Tribute](https://www.youtube.com/watch?v=iKJdCM-ngGE)
 - Sean Rickman
   - S.Coleman and the 5 elts
 - Sebastian Lanser
