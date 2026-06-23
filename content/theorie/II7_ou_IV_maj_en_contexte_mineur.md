@@ -18,6 +18,7 @@ title: "II7 ou IV maj en contexte mineur"
 - [[sng/Bob Marley - Jammin']]
 - [[sng/Boney M. - Rasputin]]
 - [[sng/Chris Isaak - Blue Hotel]]
+- [[sng/Daniel Balavoine - Je ne suis pas un héros]]
 - [[sng/Demis Roussos - Rain and tears]]
 - [[sng/Eagles - Hotel California]]
 - [[sng/Eddy Mitchell - Pas de boogie woogie]]

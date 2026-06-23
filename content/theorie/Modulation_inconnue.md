@@ -8,6 +8,7 @@ title: "Modulation inconnue"
 - [[sng/Gilbert Montagné - On va s'aimer]]
 - [[sng/Jean-Jacques Goldman - Puisque tu pars]]
 - [[sng/Joe Dassin - Et si tu n'existais pas]]
+- [[sng/Julien Clerc - La fille aux bas nylon]]
 - [[sng/Kim Wilde - Kids in America]]
 - [[sng/Michel Sardou - Chanteur de jazz]]
 - [[sng/Mister Big - To be with you]]

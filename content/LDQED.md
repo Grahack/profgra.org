@@ -237,6 +237,7 @@ Originellement appelé « le défi du lac du Salagou », le but est de connaî
 - [[sng/Christina Aguilera - Genie In The Bottle]]
 - [[sng/Christophe - Les mots bleus]]
 - [[sng/Christophe Mahé - Il est où le bonheur]]
+- [[sng/Christophe Willem - Double Je]]
 - [[sng/Christopher Cross - Ride like The Wind]]
 - [[sng/Chuck Berry - C'est la vie]]
 - [[sng/Cindy Sander - Papillon de lumière]]

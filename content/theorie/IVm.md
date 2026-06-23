@@ -21,6 +21,7 @@ title: "IVm"
 - [[sng/Mike Brant - C'est comme ça que je t'aime]]
 - [[sng/Nino Ferrer - Le Sud]]
 - [[sng/Panic at the disco - High hopes]]
+- [[Queen - Bohemian Rhapsody]]
 - [[sng/Radiohead - Creep]]
 - [[sng/Rod Stewart - If you think I'm sexy]]
 - [[sng/Serge Gainsbourg - Elisa]]
