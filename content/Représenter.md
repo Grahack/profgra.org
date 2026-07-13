@@ -26,8 +26,10 @@ tags:
 
 - speech amphi
     - 14 noms, syndiqués à différents syndicats, ou non syndiqués
+    - rôle: écouter collègue, faire remonter problèmes...
+    - se faire accompagner, si possible par un représentant
     - liste officieuse, mais vraies infos officielles plutôt sur canal officiel
-    - se faire accompagner
+    - Gasparelli
 
 ### Nouvelle équipe
 
