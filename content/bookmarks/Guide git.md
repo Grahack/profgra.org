@@ -1,7 +1,7 @@
 ---
 title: Guide git
 tags:
-    - git
+    - info/git
     - peda
 ---
 

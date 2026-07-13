@@ -2,7 +2,7 @@
 title: Untitled
 tags:
   - -draft
-  - drums
+  - musique/batterie
 ---
 
 [The video](https://www.youtube.com/watch?v=Vvok46IUFNc)

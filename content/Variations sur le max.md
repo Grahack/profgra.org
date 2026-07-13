@@ -2,7 +2,7 @@
 title: Variations sur l’algorithme du maximum
 tags:
   - peda
-  - info/algorithmique
+  - info/algo
   - 1NSI
 ---
 
