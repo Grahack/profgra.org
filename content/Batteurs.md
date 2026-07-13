@@ -380,6 +380,8 @@ Et batteuses...
   - Sonor solo
 - Mario Duplantier
 - Mark Guiliana
+  - [WP](https://fr.wikipedia.org/wiki/Mark_Guiliana)
+  - [ITW Trevor Lawrence Jr.](https://www.youtube.com/watch?v=95LfJK7TYz8)
 - Matt Cameron
 - Matt Halpern
   - Periphery

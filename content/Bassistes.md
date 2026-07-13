@@ -57,6 +57,9 @@ tags:
 - Francis Darizcuren
   - [Page WP](https://fr.wikipedia.org/wiki/Francis_Darizcuren)
   - Alexandrie Alexandra
+- Frank Bello
+  - Anthrax
+  - [WP](https://en.wikipedia.org/wiki/Frank_Bello)
 
 ## G
 
