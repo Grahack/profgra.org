@@ -108,6 +108,11 @@ Et batteuses...
 - Charlie Benante
   - Anthrax
   - Pantera
+- Charlie Watts
+  - [WP](https://en.wikipedia.org/wiki/Charlie_Watts)
+- Ches Smith
+  - [WP](https://en.wikipedia.org/wiki/Ches_Smith)
+  - [Secret Chiefs 3](https://en.wikipedia.org/wiki/Secret_Chiefs_3)
 - Chip Ritter
   - [Juggling guy on Drumeo](https://www.youtube.com/watch?v=cEQ-_jaTD3s)
 - Chris Coleman
@@ -236,6 +241,9 @@ Et batteuses...
 ## F
 
 - Franck Agulhon
+- Frank Zummo
+  - [WP](https://en.wikipedia.org/wiki/Frank_Zummo)
+  - [Drumeo: DEP for the first time](https://www.youtube.com/watch?v=K3DJRKLiwJI)
 
 ## G
 
@@ -455,6 +463,9 @@ Et batteuses...
   - [Art of Drumming](https://artofdrumming.com/)
 - Pat Petrillo
 - Paul Motian
+- Pete Sandoval
+  - Morbid Angel
+  - [WP](https://en.wikipedia.org/wiki/Pete_Sandoval)
 - Peter DePoe
   - [WP](https://en.wikipedia.org/wiki/Peter_DePoe)
   - Redbone (band)
