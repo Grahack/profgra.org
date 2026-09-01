@@ -46,6 +46,8 @@ tags:
 - Dominique Di Piazza
 - Doug Shreeve
   - [Ataraxia bass solo](https://www.youtube.com/watch?v=Vzg0pMSOohY)
+- Dusty Hill
+  - [WP](https://en.wikipedia.org/wiki/Dusty_Hill)
 
 ## E
 

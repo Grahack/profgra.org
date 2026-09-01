@@ -244,6 +244,9 @@ Et batteuses...
 - Frank Zummo
   - [WP](https://en.wikipedia.org/wiki/Frank_Zummo)
   - [Drumeo: DEP for the first time](https://www.youtube.com/watch?v=K3DJRKLiwJI)
+- Frank Beard
+  - [WP](https://en.wikipedia.org/wiki/Frank_Beard_%28drummer%29)
+  - ZZ Top
 
 ## G
 
