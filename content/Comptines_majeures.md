@@ -19,6 +19,7 @@ TODO créer des sng
 - Dans la forêt lointaine 56
 - Frère Jacques 56 (longue)
 - Il est né le divin enfant 54
+- Il était un petit navire 55 puis 26
 - J’ai du bon tabac 15
 - Jeanneton 55
 - Joyeux anniversaire 55
