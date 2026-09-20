@@ -394,6 +394,11 @@ Et batteuses...
 - Mario Duplantier
 - Mark Guiliana
   - [WP](https://fr.wikipedia.org/wiki/Mark_Guiliana)
+  - Drumeo lesson: [Exploring Your Creativity On The Drums](https://www.youtube.com/watch?v=5A0fw7-HKYE)
+    - dynamics, rate, orchestration, phrasing (where in time you play)
+    - what am I able to play that would fit < what the music needs and I play it
+    - send a theme through the tools
+    - we want te predetermine the least amount of stuff
   - [ITW Trevor Lawrence Jr.](https://www.youtube.com/watch?v=95LfJK7TYz8)
 - Matt Cameron
 - Matt Halpern
