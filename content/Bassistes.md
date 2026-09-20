@@ -159,6 +159,9 @@ tags:
 ## N
 
 - Nate Watts
+  - Stevie Wonder
+- Neil Jason
+  - [Some Skunk Funk live 1980](https://www.youtube.com/watch?v=vKyJou39Kks)
 - Nick Campbell
   - [Site officiel](https://nickcampbelldestroys.com/)
   - [Interview SBL](https://www.youtube.com/watch?v=NzH_lXTdI6g)

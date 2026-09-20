@@ -200,6 +200,8 @@ Et batteuses...
          de bien calmer tout le monde. » « Something you know so well you can
          bust out at anytime and impress somebody. »
        - Renegade transcription
+    - [28](https://youtu.be/EfMcfWx2buU)
+      - "Don't feel competitive with Mark Guiliana"
 - Dave Lombardo
   - Slayer
 - Dave McClain
@@ -503,6 +505,8 @@ Et batteuses...
   - [Jungle planante](https://www.youtube.com/watch?v=cEJteCKPWIs)
   - [Nova](https://www.youtube.com/watch?v=QkzveuZ8LVk)
   - [Displacement Essentials](https://www.youtube.com/watch?v=Av0pGLkHUbM)
+- Richie Morales
+  - [Some Skunk Funk live 1980](https://www.youtube.com/watch?v=vKyJou39Kks)
 - Ringo Starr
 - Rob Brown
 - Robert Sput Searight
